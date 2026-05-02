@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Problem Horse Specialists Near Me — HorseTrainer.ai Directory</title>
+  <meta name="description" content="Find verified problem horse specialists near you. Trainers who handle bucking, rearing, bolting, barn sour, and dangerous behavioral issues. Matched by state, experience, and specialty.">
+  <link rel="canonical" href="https://horsetrainer.ai/find-a-trainer/problem-horse-specialists/">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"Problem Horse Specialists","url":"https://horsetrainer.ai/find-a-trainer/problem-horse-specialists/"}</script>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+</head>
+<body>
+<nav class="nav"><div class="container"><div class="nav-inner">
+  <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
+  <div class="nav-links"><a href="/find-a-trainer/" class="nav-link active">Find a Trainer</a><a href="/videos/" class="nav-link">Videos</a><a href="/groundwork/" class="nav-link">Groundwork</a><a href="/problem-horse/" class="nav-link">Problem Horse</a></div>
+  <div style="display:flex;align-items:center;gap:.75rem;"><button class="btn btn-primary btn-sm nav-cta" data-open-intake>Get Assessment</button><button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button></div>
+</div></div></nav>
+<div class="nav-drawer" id="nav-drawer"><a href="/" class="nav-link">🏠 Home</a><a href="/find-a-trainer/" class="nav-link active">🤠 Find a Trainer</a><a href="/problem-horse/" class="nav-link">⚠️ Problem Horse</a></div>
+
+<section class="page-header" style="background:radial-gradient(ellipse 60% 50% at 20% 50%,rgba(192,40,10,0.07) 0%,transparent 60%);">
+  <div class="container">
+    <div class="breadcrumb"><a href="/">Home</a><span class="breadcrumb-sep">›</span><a href="/find-a-trainer/">Find a Trainer</a><span class="breadcrumb-sep">›</span><span>Problem Horse Specialists</span></div>
+    <div class="risk-banner risk-red" style="margin-bottom:1.5rem;">
+      <span class="risk-icon">🚨</span>
+      <div><strong>If Your Horse Is Actively Dangerous — Stop Riding Now</strong>
+      <p>A horse that rears, bolts, or shows dangerous behavior requires professional intervention before you ride again. These specialists handle exactly these situations.</p></div>
+    </div>
+    <h1>Problem Horse Specialists</h1>
+    <p class="lead">Trainers who specifically handle behavioral problems — bucking, rearing, bolting, barn sour, and more. Every specialist in our directory has been evaluated on their experience level and whether they accept dangerous horse cases.</p>
+  </div>
+</section>
+
+<section class="section-sm" style="padding-top:0;"><div class="container">
+
+  <!-- What they handle -->
+  <div class="section-label">What Problem Horse Specialists Handle</div>
+  <div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:2.5rem;">
+    <span class="badge badge-red">Rearing</span>
+    <span class="badge badge-red">Bolting</span>
+    <span class="badge badge-yellow">Bucking</span>
+    <span class="badge badge-yellow">Barn / Buddy Sour</span>
+    <span class="badge badge-yellow">Spooky / Unpredictable</span>
+    <span class="badge badge-yellow">No Whoa</span>
+    <span class="badge badge-yellow">Head Tossing</span>
+    <span class="badge badge-muted">Won't Load</span>
+    <span class="badge badge-muted">Hard to Catch</span>
+    <span class="badge badge-muted">Cinchy / Girthy</span>
+    <span class="badge badge-muted">Biting / Kicking</span>
+    <span class="badge badge-muted">Resistance to Tack</span>
+  </div>
+
+  <!-- Filter -->
+  <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:1.25rem;margin-bottom:2rem;">
+    <div class="form-row">
+      <div class="form-group" style="margin:0;">
+        <label class="form-label">Filter by State</label>
+        <select id="state-filter">
+          <option value="">All States</option>
+          <option value="AZ">Arizona</option><option value="TX">Texas</option>
+          <option value="CA">California</option><option value="CO">Colorado</option>
+          <option value="NM">New Mexico</option><option value="OK">Oklahoma</option>
+          <option value="FL">Florida</option><option value="KY">Kentucky</option>
+          <option value="TN">Tennessee</option><option value="NC">North Carolina</option>
+        </select>
+      </div>
+      <div class="form-group" style="margin:0;">
+        <label class="form-label">Specific Problem</label>
+        <select id="problem-filter">
+          <option value="">Any Problem</option>
+          <option value="rearing">Rearing</option>
+          <option value="bucking">Bucking</option>
+          <option value="bolting">Bolting</option>
+          <option value="barn_sour">Barn / Buddy Sour</option>
+          <option value="spooky">Spooky</option>
+        </select>
+      </div>
+      <div style="display:flex;align-items:flex-end;">
+        <button class="btn btn-primary btn-full" onclick="filterTrainers()">Filter Results</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Trainer cards -->
+  <div id="specialist-list" style="display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));"></div>
+
+  <!-- Get matched CTA -->
+  <div style="margin-top:3rem;padding:2rem;background:var(--bg-card);border:1px solid var(--border-light);border-radius:var(--radius-xl);display:grid;gap:1.5rem;">
+    <div>
+      <h3 style="font-size:1.2rem;color:var(--cream);margin-bottom:.5rem;">Not Sure Which Specialist Is Right?</h3>
+      <p style="font-size:.9rem;color:var(--muted);margin-bottom:1.25rem;">Answer 7 questions about your horse and situation. Our match-maker will score specialists and return your best matches first — filtered by your specific problem, danger level, and location.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:1rem;">
+        <button class="btn btn-primary" data-open-intake>🎯 Run the Match-Maker →</button>
+        <a href="/find-a-trainer/" class="btn btn-outline">All Trainer Categories</a>
+      </div>
+    </div>
+    <div class="risk-banner risk-yellow">
+      <span class="risk-icon">📖</span>
+      <div><strong>Learn More About Your Horse's Problem First</strong>
+      <p>Our problem horse knowledge base explains the causes, risk levels, and what to expect when working with a specialist. Reading before you call makes the conversation much more productive.</p>
+      <a href="/problem-horse/" style="color:var(--gold);font-weight:600;font-size:.875rem;">Browse Problem Horse Topics →</a></div>
+    </div>
+  </div>
+</div></section>
+
+<footer class="footer"><div class="container"><div class="footer-bottom"><div class="footer-copy">© 2026 HorseTrainer.ai — Educational purposes only. Always consult a professional for dangerous behaviors.</div><a href="/find-a-trainer/" style="font-size:.875rem;color:var(--muted);">← All Trainer Categories</a></div></div></footer>
+
+<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true"><div class="modal" id="intake-modal"><button class="modal-close" id="intake-close" aria-label="Close">✕</button><div class="intake-progress"><div class="intake-progress-bar"><div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div></div><div class="intake-step-label" id="step-label">Step 1 of 7</div></div><div id="intake-body"><div class="intake-step active" id="step-1"><div class="intake-q">Discipline?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="discipline" data-opt="problem_horse"><span class="opt-icon">⚠️</span>Problem Horse</button><button class="opt-btn" data-field="discipline" data-opt="reining"><span class="opt-icon">🏆</span>Reining</button><button class="opt-btn" data-field="discipline" data-opt="barrel_racing"><span class="opt-icon">🏁</span>Barrel Racing</button><button class="opt-btn" data-field="discipline" data-opt="groundwork"><span class="opt-icon">🔄</span>Groundwork</button><button class="opt-btn" data-field="discipline" data-opt="trail"><span class="opt-icon">🌲</span>Trail</button><button class="opt-btn" data-field="discipline" data-opt="dressage"><span class="opt-icon">🎖</span>Dressage</button></div></div><div class="intake-step" id="step-2"><div class="intake-q">Horse age?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years</button><button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years</button><button class="opt-btn" data-field="horse_age" data-opt="13_plus">13+ years</button><button class="opt-btn" data-field="horse_age" data-opt="unknown">Unknown</button></div></div><div class="intake-step" id="step-3"><div class="intake-q">Situation?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Behavior problem — need a specialist</button><button class="opt-btn" data-field="training_situation" data-opt="rehab">Rehab / restart</button></div></div><div class="intake-step" id="step-4"><div class="intake-q">What problems?</div><div class="option-grid cols-3"><button class="opt-btn" data-field="problems" data-opt="rearing" data-multi="true">⬆️ Rearing</button><button class="opt-btn" data-field="problems" data-opt="bucking" data-multi="true">🤸 Bucking</button><button class="opt-btn" data-field="problems" data-opt="bolting" data-multi="true">💨 Bolting</button><button class="opt-btn" data-field="problems" data-opt="barn_sour" data-multi="true">🏚️ Barn Sour</button><button class="opt-btn" data-field="problems" data-opt="spooky" data-multi="true">👻 Spooky</button><button class="opt-btn" data-field="problems" data-opt="no_stop" data-multi="true">🛑 No Whoa</button></div></div><div class="intake-step" id="step-5"><div class="intake-q">Danger rating?</div><input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="3"><div class="danger-labels"><span>1 — Safe</span><span>5 — Dangerous</span></div><div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);">3/5 — Moderate</div></div><div class="intake-step" id="step-6"><div class="intake-q">Your experience?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="rider_level" data-opt="beginner">Beginner</button><button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate</button><button class="opt-btn" data-field="rider_level" data-opt="advanced">Experienced</button><button class="opt-btn" data-field="rider_level" data-opt="professional">Professional</button></div></div><div class="intake-step" id="step-7"><div class="intake-q">Location?</div><div class="form-row"><div class="form-group" style="margin:0;"><label class="form-label">State</label><select data-bind="state"><option value="">Select...</option><option>AZ</option><option>TX</option><option>CA</option><option>CO</option><option>NM</option><option>OK</option><option>Other</option></select></div><div class="form-group" style="margin:0;"><label class="form-label">ZIP</label><input type="text" data-bind="zip" placeholder="85001"></div></div></div></div><div id="ai-result" class="hidden"><div id="ai-loading" class="ai-loading hidden"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Analyzing...</div><div id="ai-content" class="hidden"></div></div><div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div></div></div>
+
+<script src="/js/app.js"></script>
+<script>
+async function filterTrainers() {
+  const state = document.getElementById('state-filter')?.value;
+  const problem = document.getElementById('problem-filter')?.value;
+  const container = document.getElementById('specialist-list');
+  if (!container) return;
+  container.innerHTML = '<div class="ai-loading"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Finding specialists...</div>';
+  try {
+    const all = await loadTrainers({ state });
+    const specialists = all
+      .filter(t => t.specialties?.includes('problem_horse') || t.horse_problems?.length > 0)
+      .filter(t => !problem || t.horse_problems?.includes(problem))
+      .sort((a,b) => (b.vip_score||0) - (a.vip_score||0));
+    renderTrainerCards(specialists.length ? specialists : getDemoTrainers(), container);
+  } catch(e) {
+    renderTrainerCards(getDemoTrainers(), container);
+  }
+}
+document.addEventListener('DOMContentLoaded', filterTrainers);
+</script>
+</body></html>

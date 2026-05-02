@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horsetrainer.ai/sitemap.xml
+
+# Block admin areas if added later
+Disallow: /admin/
+Disallow: /api/

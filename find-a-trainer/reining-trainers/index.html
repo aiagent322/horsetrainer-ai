@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find a Reining Trainer Near Me — NRHA Reining Trainers | HorseTrainer.ai</title>
+  <meta name="description" content="Find verified NRHA-affiliated reining trainers near you. Matched by location, level, and specialty.">
+  <link rel="canonical" href="https://horsetrainer.ai/find-a-trainer/reining-trainers/">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+</head>
+<body>
+<nav class="nav"><div class="container"><div class="nav-inner">
+  <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
+  <div class="nav-links"><a href="/find-a-trainer/" class="nav-link active">Find a Trainer</a><a href="/videos/" class="nav-link">Videos</a><a href="/groundwork/" class="nav-link">Groundwork</a><a href="/problem-horse/" class="nav-link">Problem Horse</a></div>
+  <div style="display:flex;align-items:center;gap:.75rem;"><button class="btn btn-primary btn-sm nav-cta" data-open-intake>Get Assessment</button><button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button></div>
+</div></div></nav>
+<div class="nav-drawer" id="nav-drawer"><a href="/" class="nav-link">🏠 Home</a><a href="/find-a-trainer/" class="nav-link">🤠 Find a Trainer</a></div>
+<section class="page-header"><div class="container">
+  <div class="breadcrumb"><a href="/">Home</a><span class="breadcrumb-sep">›</span><a href="/find-a-trainer/">Find a Trainer</a><span class="breadcrumb-sep">›</span><span>Find a Reining Trainer</span></div>
+  <span class="badge badge-gold" style="margin-bottom:1rem;">🏆 Reining</span>
+  <h1>Find a Reining Trainer</h1>
+  <p class="lead">Whether you're starting a reining prospect or preparing for NRHA competition, these trainers specialize in stops, spins, lead changes, and all the maneuvers that make reining the sport it is.</p>
+</div></section>
+<section class="section-sm" style="padding-top:0;"><div class="container">
+  <div id="trainer-list" style="display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));margin-bottom:2rem;"></div>
+  <div style="padding:1.5rem;background:var(--bg-card);border:1px solid var(--border-light);border-radius:var(--radius-xl);">
+    <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.5rem;">Get Scored Matches</h3>
+    <p style="font-size:.875rem;color:var(--muted);margin-bottom:1rem;">Answer 7 questions and our match-maker will score and rank your best trainer options.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:.75rem;"><button class="btn btn-primary" data-open-intake>Run Match-Maker →</button><a href="/find-a-trainer/" class="btn btn-outline">All Categories</a></div>
+  </div>
+</div></section>
+<footer class="footer"><div class="container"><div class="footer-bottom"><div class="footer-copy">© 2026 HorseTrainer.ai</div><a href="/find-a-trainer/" style="font-size:.875rem;color:var(--muted);">← All Trainer Categories</a></div></div></footer>
+<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true"><div class="modal" id="intake-modal"><button class="modal-close" id="intake-close" aria-label="Close">✕</button><div class="intake-progress"><div class="intake-progress-bar"><div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div></div><div class="intake-step-label" id="step-label">Step 1 of 7</div></div><div id="intake-body"><div class="intake-step active" id="step-1"><div class="intake-q">Discipline?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="discipline" data-opt="reining"><span class="opt-icon">🐎</span>Find a Reining Trainer</button><button class="opt-btn" data-field="discipline" data-opt="groundwork"><span class="opt-icon">🔄</span>Groundwork</button><button class="opt-btn" data-field="discipline" data-opt="problem_horse"><span class="opt-icon">⚠️</span>Problem Horse</button></div></div><div class="intake-step" id="step-2"><div class="intake-q">Horse age?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="horse_age" data-opt="2_3">2–3 years</button><button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years</button><button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years</button><button class="opt-btn" data-field="horse_age" data-opt="unknown">Unknown</button></div></div><div class="intake-step" id="step-3"><div class="intake-q">Situation?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="training_situation" data-opt="general">General training</button><button class="opt-btn" data-field="training_situation" data-opt="improving_competition">Competition prep</button><button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Behavior problem</button></div></div><div class="intake-step" id="step-4"><div class="intake-q">Problems?</div><div class="option-grid cols-3"><button class="opt-btn" data-field="problems" data-opt="bucking" data-multi="true">🤸 Bucking</button><button class="opt-btn" data-field="problems" data-opt="spooky" data-multi="true">👻 Spooky</button><button class="opt-btn" data-field="problems" data-opt="none" data-multi="false">✅ None</button></div></div><div class="intake-step" id="step-5"><div class="intake-q">Danger?</div><input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="2"><div class="danger-labels"><span>1</span><span>5</span></div><div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);">2/5</div></div><div class="intake-step" id="step-6"><div class="intake-q">Experience?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="rider_level" data-opt="beginner">Beginner</button><button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate</button><button class="opt-btn" data-field="rider_level" data-opt="advanced">Experienced</button></div></div><div class="intake-step" id="step-7"><div class="intake-q">Location?</div><div class="form-row"><div class="form-group" style="margin:0;"><label class="form-label">State</label><select data-bind="state"><option value="">Select...</option><option>AZ</option><option>TX</option><option>CA</option><option>CO</option><option>NM</option><option>OK</option><option>Other</option></select></div><div class="form-group" style="margin:0;"><label class="form-label">ZIP</label><input type="text" data-bind="zip" placeholder="85001"></div></div></div></div><div id="ai-result" class="hidden"><div id="ai-loading" class="ai-loading hidden"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Analyzing...</div><div id="ai-content" class="hidden"></div></div><div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div></div></div>
+<script src="/js/app.js"></script>
+<script>
+const DISC_FILTER = 'reining';
+document.addEventListener('DOMContentLoaded', async () => {
+  const container = document.getElementById('trainer-list');
+  try {
+    const all = await loadTrainers();
+    const filtered = all.filter(t => t.disciplines?.includes(DISC_FILTER) || t.specialties?.includes(DISC_FILTER));
+    renderTrainerCards(filtered.length ? filtered : getDemoTrainers(), container);
+  } catch(e) { renderTrainerCards(getDemoTrainers(), container); }
+});
+</script>
+</body></html>

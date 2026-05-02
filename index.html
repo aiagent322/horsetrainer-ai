@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HorseTrainer.ai — The Most Complete Horse Training Resource</title>
+  <meta name="description" content="Tell us about your horse and get a personalized training plan. AI-guided horse training assistant, 1,000+ training topics, VIP trainer directory for every discipline.">
+  <meta name="keywords" content="horse trainer, horse training, reining, barrel racing, colt starting, problem horse, dressage, horse training guide">
+  <link rel="canonical" href="https://horsetrainer.ai/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://horsetrainer.ai/">
+  <meta property="og:title" content="HorseTrainer.ai — The Most Complete Horse Training Resource">
+  <meta property="og:description" content="Tell us about your horse and get a personalized training plan. AI-guided guidance for every discipline.">
+  <meta property="og:image" content="https://horsetrainer.ai/og-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "HorseTrainer.ai",
+    "url": "https://horsetrainer.ai",
+    "description": "AI-guided horse training assistant, knowledge base, and trainer directory for every discipline.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://horsetrainer.ai/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+</head>
+<body>
+
+<!-- ── NAVIGATION ─────────────────────────────────────────── -->
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <div class="container">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
+
+      <div class="nav-links" role="list">
+        <a href="/find-a-trainer/" class="nav-link" role="listitem">Find a Trainer</a>
+        <a href="/videos/" class="nav-link" role="listitem">Videos</a>
+        <a href="/groundwork/" class="nav-link" role="listitem">Groundwork</a>
+        <a href="/problem-horse/" class="nav-link" role="listitem">Problem Horse</a>
+        <a href="/colt-starting/" class="nav-link" role="listitem">Colt Starting</a>
+      </div>
+
+      <div style="display:flex;align-items:center;gap:0.75rem;">
+        <a href="/find-a-trainer/" class="btn btn-primary btn-sm nav-cta">Find a Trainer</a>
+        <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<!-- Mobile Drawer -->
+<div class="nav-drawer" id="nav-drawer" role="dialog" aria-label="Mobile navigation">
+  <a href="/find-a-trainer/" class="nav-link">🤠 Find a Trainer</a>
+  <a href="/videos/" class="nav-link">🎬 Training Videos</a>
+  <a href="/groundwork/" class="nav-link">🔄 Groundwork</a>
+  <a href="/colt-starting/" class="nav-link">🐴 Colt Starting</a>
+  <a href="/problem-horse/" class="nav-link">⚠️ Problem Horse</a>
+  <a href="/reining/" class="nav-link">🏆 Reining</a>
+  <a href="/barrel-racing/" class="nav-link">🏁 Barrel Racing</a>
+  <a href="/dressage/" class="nav-link">🎖 Dressage</a>
+  <a href="/trail/" class="nav-link">🌲 Trail</a>
+  <a href="/mustang/" class="nav-link">🦄 Mustang</a>
+  <div style="margin-top:1.5rem;">
+    <a href="/find-a-trainer/" class="btn btn-primary btn-full">Find a Trainer →</a>
+  </div>
+</div>
+
+<!-- ── HERO ───────────────────────────────────────────────── -->
+<section class="hero" aria-label="Hero">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="hero-lines" aria-hidden="true"></div>
+
+  <!-- Horse silhouette SVG -->
+  <svg class="hero-horse" viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path fill="var(--cream)" d="M480,320 C490,290 495,260 488,240 C482,222 468,210 455,205 C448,202 440,203 435,200 C425,195 420,182 415,172 C408,158 398,148 385,142 C375,138 365,140 358,145 C350,150 345,160 340,168 C334,177 326,183 316,185 C308,187 300,185 293,180 C285,174 280,165 272,158 C262,150 248,145 235,148 C220,152 210,165 206,180 C202,192 204,206 200,218 C196,230 186,240 178,250 C168,262 162,276 162,292 C162,310 170,328 180,340 C188,350 198,356 205,365 C212,374 215,385 218,396 C222,410 225,425 232,437 C240,450 252,458 265,462 C278,466 293,462 305,456 C318,450 328,440 338,432 C350,422 363,415 378,412 C393,409 408,412 420,418 C432,424 441,434 448,444 C455,454 460,466 468,472 C476,478 487,480 496,476 C508,470 515,456 518,443 C521,430 518,415 515,402 C512,388 508,375 507,362 C506,348 508,334 480,320 Z M350,175 C348,168 344,162 340,158 C345,152 353,148 360,148 C368,148 374,153 378,160 C382,167 382,176 378,182 C374,178 366,176 358,176 C356,176 352,176 350,175 Z M290,182 C286,176 288,168 292,163 C296,157 304,154 312,156 C316,157 320,160 322,164 C318,169 315,176 314,183 C308,184 299,184 290,182 Z"/>
+  </svg>
+
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-eyebrow">AI-Guided Horse Training</div>
+      <h1>Tell us about <em>your horse.</em><br>We'll tell you what to do next.</h1>
+      <p class="hero-subtitle">
+        The most complete horse training resource on the internet. Personalized guidance for every discipline, problem, and training stage — backed by structured knowledge and a VIP trainer network.
+      </p>
+
+      <div class="hero-actions">
+        <button class="btn btn-primary btn-lg" data-open-intake aria-haspopup="dialog">
+          🐎 Start With My Horse
+        </button>
+        <a href="/find-a-trainer/" class="btn btn-outline btn-lg">
+          Find a Trainer →
+        </a>
+      </div>
+
+      <div class="hero-stats" role="list" aria-label="Platform statistics">
+        <div role="listitem">
+          <div class="hero-stat-num">1,000+</div>
+          <div class="hero-stat-label">Training Topics</div>
+        </div>
+        <div role="listitem">
+          <div class="hero-stat-num">20+</div>
+          <div class="hero-stat-label">Disciplines</div>
+        </div>
+        <div role="listitem">
+          <div class="hero-stat-num">All 50</div>
+          <div class="hero-stat-label">States Covered</div>
+        </div>
+        <div role="listitem">
+          <div class="hero-stat-num">Free</div>
+          <div class="hero-stat-label">To Use</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── ENTRY PATHS ─────────────────────────────────────────── -->
+<section class="section-sm" aria-label="How to get started">
+  <div class="container">
+    <div class="section-label">Where do you want to start?</div>
+
+    <div class="entry-paths">
+      <div class="entry-card card-link" data-open-intake role="button" tabindex="0" aria-label="Start with your horse">
+        <div class="entry-card-icon">🐎</div>
+        <h3>Tell Us About Your Horse</h3>
+        <p>Answer 7 quick questions and get a personalized training pathway, risk assessment, and trainer recommendation — tailored to your specific situation.</p>
+        <div class="entry-card-link">Get My Training Plan <span class="arrow">→</span></div>
+      </div>
+
+      <div class="entry-card card-link" onclick="document.getElementById('disciplines').scrollIntoView({behavior:'smooth'})" role="button" tabindex="0" aria-label="Browse training topics">
+        <div class="entry-card-icon">📚</div>
+        <h3>Browse Training Topics</h3>
+        <p>Choose a discipline, training problem, or horse stage to explore our structured knowledge base of 1,000+ articles and guides.</p>
+        <div class="entry-card-link">Browse All Topics <span class="arrow">→</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider" style="margin:0;">
+
+<!-- ── DISCIPLINES ─────────────────────────────────────────── -->
+<section class="section" id="disciplines" aria-label="Browse by discipline">
+  <div class="container">
+    <div class="section-label">Browse by Discipline</div>
+    <h2 style="font-size:clamp(1.6rem,3vw,2.4rem);color:var(--white);margin-bottom:0.5rem;">Western &amp; English, All Levels</h2>
+    <p style="color:var(--muted);margin-bottom:2rem;max-width:520px;">From reining to dressage, colt starting to problem horses — find training guidance for every discipline and situation.</p>
+
+    <!-- Western -->
+    <div class="section-label" style="margin-top:0;">Western</div>
+    <div class="discipline-grid fade-up" style="margin-bottom:2rem;">
+      <a href="/reining/" class="disc-card" data-open-intake data-discipline="reining">
+        <span class="disc-card-icon">🏆</span>
+        <span class="disc-card-name">Reining</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/barrel-racing/" class="disc-card">
+        <span class="disc-card-icon">🏁</span>
+        <span class="disc-card-name">Barrel Racing</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/colt-starting/" class="disc-card">
+        <span class="disc-card-icon">🐴</span>
+        <span class="disc-card-name">Colt Starting</span>
+        <span class="disc-card-cat">Foundation</span>
+      </a>
+      <a href="/groundwork/" class="disc-card">
+        <span class="disc-card-icon">🔄</span>
+        <span class="disc-card-name">Groundwork</span>
+        <span class="disc-card-cat">Foundation</span>
+      </a>
+      <a href="/problem-horse/" class="disc-card">
+        <span class="disc-card-icon">⚠️</span>
+        <span class="disc-card-name">Problem Horse</span>
+        <span class="disc-card-cat">Behavioral</span>
+      </a>
+      <a href="/trail/" class="disc-card">
+        <span class="disc-card-icon">🌲</span>
+        <span class="disc-card-name">Trail</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/mustang/" class="disc-card">
+        <span class="disc-card-icon">🦄</span>
+        <span class="disc-card-name">Mustang</span>
+        <span class="disc-card-cat">Wild Horse</span>
+      </a>
+      <a href="/cutting/" class="disc-card">
+        <span class="disc-card-icon">🐄</span>
+        <span class="disc-card-name">Cutting</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/working-cow-horse/" class="disc-card">
+        <span class="disc-card-icon">🤠</span>
+        <span class="disc-card-name">Working Cow</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/ranch-riding/" class="disc-card">
+        <span class="disc-card-icon">🌵</span>
+        <span class="disc-card-name">Ranch Riding</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/western-pleasure/" class="disc-card">
+        <span class="disc-card-icon">🎀</span>
+        <span class="disc-card-name">Western Pleasure</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+      <a href="/roping/" class="disc-card">
+        <span class="disc-card-icon">🪢</span>
+        <span class="disc-card-name">Roping</span>
+        <span class="disc-card-cat">Western</span>
+      </a>
+    </div>
+
+    <!-- English -->
+    <div class="section-label">English</div>
+    <div class="discipline-grid fade-up">
+      <a href="/dressage/" class="disc-card">
+        <span class="disc-card-icon">🎖</span>
+        <span class="disc-card-name">Dressage</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+      <a href="/hunter-jumper/" class="disc-card">
+        <span class="disc-card-icon">🏇</span>
+        <span class="disc-card-name">Hunter / Jumper</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+      <a href="/eventing/" class="disc-card">
+        <span class="disc-card-icon">🌟</span>
+        <span class="disc-card-name">Eventing</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+      <a href="/equitation/" class="disc-card">
+        <span class="disc-card-icon">🥇</span>
+        <span class="disc-card-name">Equitation</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+      <a href="/driving/" class="disc-card">
+        <span class="disc-card-icon">🛞</span>
+        <span class="disc-card-name">Driving</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+      <a href="/polo/" class="disc-card">
+        <span class="disc-card-icon">🥍</span>
+        <span class="disc-card-name">Polo</span>
+        <span class="disc-card-cat">English</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ── FEATURED TOPICS ─────────────────────────────────────── -->
+<section class="section-sm" aria-label="Featured training topics">
+  <div class="container">
+    <div class="section-label">Featured Topics</div>
+    <h2 style="font-size:clamp(1.5rem,2.5vw,2rem);color:var(--white);margin-bottom:2rem;">Most-Read Training Guides</h2>
+
+    <div class="grid-3" style="grid-template-columns:repeat(auto-fill,minmax(280px,1fr));">
+      <a href="/problem-horse/rearing/" class="topic-card fade-up">
+        <div class="topic-card-icon">🚨</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">Horse That Rears — Causes & What To Do</div>
+          <div class="topic-card-desc">Safety protocols, causes, and why this requires a professional. Do not attempt alone.</div>
+        </div>
+      </a>
+      <a href="/groundwork/trailer-loading-step-by-step/" class="topic-card fade-up">
+        <div class="topic-card-icon">🚐</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">Trailer Loading Step by Step</div>
+          <div class="topic-card-desc">A systematic pressure-and-release method that works for even the most resistant horses.</div>
+        </div>
+      </a>
+      <a href="/colt-starting/first-60-days-under-saddle/" class="topic-card fade-up">
+        <div class="topic-card-icon">🐴</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">First 60 Days Under Saddle</div>
+          <div class="topic-card-desc">What to expect and how to build a solid foundation in your colt's first two months of training.</div>
+        </div>
+      </a>
+      <a href="/reining/teaching-the-sliding-stop/" class="topic-card fade-up">
+        <div class="topic-card-icon">🏆</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">Teaching the Sliding Stop</div>
+          <div class="topic-card-desc">Building the stop from walk to lope — the right progression for a correct, safe slide.</div>
+        </div>
+      </a>
+      <a href="/problem-horse/barn-sour-horse/" class="topic-card fade-up">
+        <div class="topic-card-icon">🏚️</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">Barn Sour Horse — Fixes That Work</div>
+          <div class="topic-card-desc">Why horses become barn sour and a systematic approach to breaking the pattern for good.</div>
+        </div>
+      </a>
+      <a href="/tack/saddle-fit-guide/" class="topic-card fade-up">
+        <div class="topic-card-icon">🪑</div>
+        <div class="topic-card-content">
+          <div class="topic-card-title">Saddle Fit Guide</div>
+          <div class="topic-card-desc">Poor saddle fit causes more behavioral problems than almost anything else. Know the signs.</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ── FIND A TRAINER CTA ──────────────────────────────────── -->
+<section class="section-sm" aria-label="Find a trainer">
+  <div class="container">
+    <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-xl);padding:clamp(1.5rem,4vw,3rem);display:grid;gap:2rem;align-items:center;" class="fade-up">
+      <div style="display:grid;gap:1.5rem;" class="finder-inner">
+        <div>
+          <div class="section-label">Trainer Match-Maker</div>
+          <h2 style="font-size:clamp(1.5rem,3vw,2.4rem);color:var(--white);margin-bottom:0.75rem;">Find the Right Trainer<br>for Your Specific Situation</h2>
+          <p style="color:var(--muted);max-width:480px;margin-bottom:1.5rem;">Our match-maker scores trainers across discipline, horse problem, location, rider level, and budget. VIP trainers are verified equine professionals.</p>
+          <div style="display:flex;flex-wrap:wrap;gap:1rem;">
+            <a href="/find-a-trainer/" class="btn btn-primary btn-lg">Match Me to a Trainer →</a>
+            <a href="/find-a-trainer/" class="btn btn-outline">Browse All Trainers</a>
+          </div>
+        </div>
+        <div style="display:grid;gap:0.75rem;">
+          <div style="display:flex;align-items:center;gap:0.75rem;padding:0.875rem;background:var(--surface);border-radius:var(--radius-md);border:1px solid var(--border);">
+            <span style="font-size:1.25rem;">🤠</span>
+            <div>
+              <div style="font-size:0.85rem;font-weight:600;color:var(--cream);">Problem Horse Specialists</div>
+              <div style="font-size:0.78rem;color:var(--muted);">Experienced with dangerous behaviors</div>
+            </div>
+            <a href="/find-a-trainer/problem-horse-specialists/" class="btn btn-ghost btn-sm" style="margin-left:auto;">→</a>
+          </div>
+          <div style="display:flex;align-items:center;gap:0.75rem;padding:0.875rem;background:var(--surface);border-radius:var(--radius-md);border:1px solid var(--border);">
+            <span style="font-size:1.25rem;">🐴</span>
+            <div>
+              <div style="font-size:0.85rem;font-weight:600;color:var(--cream);">Colt Starters</div>
+              <div style="font-size:0.78rem;color:var(--muted);">Starting colts the right way</div>
+            </div>
+            <a href="/find-a-trainer/colt-starters/" class="btn btn-ghost btn-sm" style="margin-left:auto;">→</a>
+          </div>
+          <div style="display:flex;align-items:center;gap:0.75rem;padding:0.875rem;background:var(--surface);border-radius:var(--radius-md);border:1px solid var(--border);">
+            <span style="font-size:1.25rem;">🖥</span>
+            <div>
+              <div style="font-size:0.85rem;font-weight:600;color:var(--cream);">Online Coaches</div>
+              <div style="font-size:0.78rem;color:var(--muted);">Video review & virtual lessons</div>
+            </div>
+            <a href="/find-a-trainer/online-trainers/" class="btn btn-ghost btn-sm" style="margin-left:auto;">→</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+@media (min-width: 768px) {
+  .finder-inner { grid-template-columns: 1fr 1fr !important; }
+}
+</style>
+
+<hr class="divider">
+
+<!-- ── VIDEO SECTION ───────────────────────────────────────── -->
+<section class="section-sm" aria-label="Training videos">
+  <div class="container">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;margin-bottom:2rem;">
+      <div>
+        <div class="section-label">Video Library</div>
+        <h2 style="font-size:clamp(1.5rem,2.5vw,2rem);color:var(--white);">Curated Training Videos</h2>
+      </div>
+      <a href="/videos/" class="btn btn-outline">View All Videos →</a>
+    </div>
+
+    <div class="grid-4 fade-up">
+      <div class="video-card">
+        <div class="video-thumb" style="background:#111;display:flex;align-items:center;justify-content:center;">
+          <div style="text-align:center;padding:1rem;">
+            <div style="font-size:2rem;margin-bottom:0.5rem;">🎬</div>
+            <div style="font-size:0.8rem;color:var(--muted);">Groundwork Fundamentals</div>
+          </div>
+          <div class="video-play-overlay">
+            <div class="video-play-btn">▶</div>
+          </div>
+        </div>
+        <div class="video-info">
+          <div class="video-title">Round Pen Fundamentals: Join-Up &amp; Directional Control</div>
+          <div class="video-meta"><span class="badge badge-muted">Groundwork</span> <span>28 min</span></div>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" style="background:#111;display:flex;align-items:center;justify-content:center;">
+          <div style="text-align:center;padding:1rem;">
+            <div style="font-size:2rem;margin-bottom:0.5rem;">🎬</div>
+            <div style="font-size:0.8rem;color:var(--muted);">Colt Starting</div>
+          </div>
+          <div class="video-play-overlay">
+            <div class="video-play-btn">▶</div>
+          </div>
+        </div>
+        <div class="video-info">
+          <div class="video-title">First Ride Preparation: Sacking Out &amp; Saddle Introduction</div>
+          <div class="video-meta"><span class="badge badge-muted">Colt Starting</span> <span>35 min</span></div>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" style="background:#111;display:flex;align-items:center;justify-content:center;">
+          <div style="text-align:center;padding:1rem;">
+            <div style="font-size:2rem;margin-bottom:0.5rem;">🎬</div>
+            <div style="font-size:0.8rem;color:var(--muted);">Reining</div>
+          </div>
+          <div class="video-play-overlay">
+            <div class="video-play-btn">▶</div>
+          </div>
+        </div>
+        <div class="video-info">
+          <div class="video-title">Building the Stop: Walk to Lope Progression</div>
+          <div class="video-meta"><span class="badge badge-muted">Reining</span> <span>42 min</span></div>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" style="background:#111;display:flex;align-items:center;justify-content:center;">
+          <div style="text-align:center;padding:1rem;">
+            <div style="font-size:2rem;margin-bottom:0.5rem;">🎬</div>
+            <div style="font-size:0.8rem;color:var(--muted);">Problem Horse</div>
+          </div>
+          <div class="video-play-overlay">
+            <div class="video-play-btn">▶</div>
+          </div>
+        </div>
+        <div class="video-info">
+          <div class="video-title">Desensitizing the Spooky Horse: Systematic Approach</div>
+          <div class="video-meta"><span class="badge badge-muted">Problem Horse</span> <span>31 min</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ── TRUST SECTION ───────────────────────────────────────── -->
+<section class="section-sm fade-up" aria-label="Trust indicators">
+  <div class="container text-center">
+    <div class="section-label" style="justify-content:center;">Why HorseTrainer.ai</div>
+    <h2 style="font-size:clamp(1.5rem,3vw,2.4rem);color:var(--white);margin-bottom:3rem;">Built for Serious Horse People</h2>
+    <div class="grid-4" style="text-align:left;">
+      <div class="card">
+        <div style="font-size:1.75rem;margin-bottom:0.875rem;">🎯</div>
+        <h3 style="font-size:1rem;font-weight:700;color:var(--cream);margin-bottom:0.4rem;">Discipline-Specific</h3>
+        <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;">Every page is built for a specific discipline, problem, and horse stage. No generic advice.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.75rem;margin-bottom:0.875rem;">🛡️</div>
+        <h3 style="font-size:1rem;font-weight:700;color:var(--cream);margin-bottom:0.4rem;">Safety First</h3>
+        <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;">Built-in risk escalation. Dangerous situations get professional referrals — not training steps.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.75rem;margin-bottom:0.875rem;">🤖</div>
+        <h3 style="font-size:1rem;font-weight:700;color:var(--cream);margin-bottom:0.4rem;">AI-Guided</h3>
+        <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;">Tell us about your horse. Get a personalized training pathway, not a generic answer.</p>
+      </div>
+      <div class="card">
+        <div style="font-size:1.75rem;margin-bottom:0.875rem;">🤠</div>
+        <h3 style="font-size:1rem;font-weight:700;color:var(--cream);margin-bottom:0.4rem;">Real Trainers</h3>
+        <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;">VIP trainer directory with scored match-maker logic. Verified professionals, not random listings.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ─────────────────────────────────────────────── -->
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="nav-logo">Horse<span style="color:var(--gold);">Trainer</span>.ai</div>
+        <p>The most complete horse training resource on the internet. AI-guided guidance for every discipline, problem, and training stage.</p>
+        <p style="margin-top:0.75rem;font-size:0.78rem;color:var(--muted);">A Bridle &amp; Bit Magazine property.<br>Est. 2026 · Arizona</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Disciplines</h4>
+        <a href="/reining/">Reining</a>
+        <a href="/barrel-racing/">Barrel Racing</a>
+        <a href="/colt-starting/">Colt Starting</a>
+        <a href="/groundwork/">Groundwork</a>
+        <a href="/problem-horse/">Problem Horse</a>
+        <a href="/dressage/">Dressage</a>
+        <a href="/trail/">Trail</a>
+        <a href="/mustang/">Mustang</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Trainers</h4>
+        <a href="/find-a-trainer/">Find a Trainer</a>
+        <a href="/find-a-trainer/colt-starters/">Colt Starters</a>
+        <a href="/find-a-trainer/problem-horse-specialists/">Problem Horse</a>
+        <a href="/find-a-trainer/reining-trainers/">Reining Trainers</a>
+        <a href="/find-a-trainer/online-trainers/">Online Coaches</a>
+        <a href="/list-your-training/">List Your Training</a>
+      </div>
+
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <a href="/videos/">Training Videos</a>
+        <a href="/tack/">Tack &amp; Equipment</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/glossary/">Horse Training Glossary</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div class="footer-copy">© 2026 HorseTrainer.ai · A Bridle &amp; Bit Magazine property. Educational purposes only. Always consult a professional trainer, veterinarian, or farrier for your specific situation.</div>
+      <div style="display:flex;gap:1.25rem;flex-wrap:wrap;">
+        <a href="/privacy/" style="font-size:0.8rem;color:var(--muted);">Privacy</a>
+        <a href="/terms/" style="font-size:0.8rem;color:var(--muted);">Terms</a>
+        <a href="/disclaimer/" style="font-size:0.8rem;color:var(--muted);">Disclaimer</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ── INTAKE MODAL ────────────────────────────────────────── -->
+<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true" aria-label="Horse Training Assessment">
+  <div class="modal" id="intake-modal">
+    <button class="modal-close" id="intake-close" aria-label="Close">✕</button>
+
+    <!-- Progress -->
+    <div class="intake-progress">
+      <div class="intake-progress-bar">
+        <div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div>
+      </div>
+      <div class="intake-step-label" id="step-label">Step 1 of 7</div>
+    </div>
+
+    <!-- Body -->
+    <div id="intake-body">
+
+      <!-- STEP 1: Discipline -->
+      <div class="intake-step active" id="step-1">
+        <div class="intake-q">What discipline or situation best describes you?</div>
+        <div class="intake-hint">Choose the closest match — you can get more specific later.</div>
+        <div class="option-grid cols-3">
+          <button class="opt-btn" data-field="discipline" data-opt="reining"><span class="opt-icon">🏆</span>Reining</button>
+          <button class="opt-btn" data-field="discipline" data-opt="barrel_racing"><span class="opt-icon">🏁</span>Barrel Racing</button>
+          <button class="opt-btn" data-field="discipline" data-opt="colt_starting"><span class="opt-icon">🐴</span>Colt Starting</button>
+          <button class="opt-btn" data-field="discipline" data-opt="groundwork"><span class="opt-icon">🔄</span>Groundwork</button>
+          <button class="opt-btn" data-field="discipline" data-opt="problem_horse"><span class="opt-icon">⚠️</span>Problem Horse</button>
+          <button class="opt-btn" data-field="discipline" data-opt="trail"><span class="opt-icon">🌲</span>Trail</button>
+          <button class="opt-btn" data-field="discipline" data-opt="cutting"><span class="opt-icon">🐄</span>Cutting</button>
+          <button class="opt-btn" data-field="discipline" data-opt="working_cow"><span class="opt-icon">🤠</span>Working Cow</button>
+          <button class="opt-btn" data-field="discipline" data-opt="ranch"><span class="opt-icon">🌵</span>Ranch</button>
+          <button class="opt-btn" data-field="discipline" data-opt="dressage"><span class="opt-icon">🎖</span>Dressage</button>
+          <button class="opt-btn" data-field="discipline" data-opt="hunter_jumper"><span class="opt-icon">🏇</span>Hunter/Jumper</button>
+          <button class="opt-btn" data-field="discipline" data-opt="mustang"><span class="opt-icon">🦄</span>Mustang</button>
+        </div>
+      </div>
+
+      <!-- STEP 2: Horse age -->
+      <div class="intake-step" id="step-2">
+        <div class="intake-q">How old is your horse?</div>
+        <div class="intake-hint">Age affects what training approaches are appropriate.</div>
+        <div class="option-grid cols-1">
+          <button class="opt-btn" data-field="horse_age" data-opt="under_2">Under 2 years old — Weanling / Yearling</button>
+          <button class="opt-btn" data-field="horse_age" data-opt="2_3">2–3 years old — Starting age</button>
+          <button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years old — Young / developing</button>
+          <button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years old — Prime / seasoned</button>
+          <button class="opt-btn" data-field="horse_age" data-opt="13_plus">13+ years old — Senior horse</button>
+          <button class="opt-btn" data-field="horse_age" data-opt="unknown">Unknown / Rescue</button>
+        </div>
+      </div>
+
+      <!-- STEP 3: Situation -->
+      <div class="intake-step" id="step-3">
+        <div class="intake-q">What's the primary training situation?</div>
+        <div class="intake-hint">Pick the one that best describes what you're working on.</div>
+        <div class="option-grid cols-1">
+          <button class="opt-btn" data-field="training_situation" data-opt="starting_young">Starting a young horse from scratch</button>
+          <button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Horse has a specific behavior problem</button>
+          <button class="opt-btn" data-field="training_situation" data-opt="improving_competition">Improving for competition / shows</button>
+          <button class="opt-btn" data-field="training_situation" data-opt="trail_safe">Trail safe / confidence building</button>
+          <button class="opt-btn" data-field="training_situation" data-opt="rehab">Restarting after injury or layoff</button>
+          <button class="opt-btn" data-field="training_situation" data-opt="general">General training advancement</button>
+        </div>
+      </div>
+
+      <!-- STEP 4: Problems (multi-select) -->
+      <div class="intake-step" id="step-4">
+        <div class="intake-q">Any behavior problems? Select all that apply.</div>
+        <div class="intake-hint">Select everything relevant. None? Leave blank and click Next.</div>
+        <div class="option-grid cols-3">
+          <button class="opt-btn" data-field="problems" data-opt="bucking" data-multi="true">🤸 Bucking</button>
+          <button class="opt-btn" data-field="problems" data-opt="rearing" data-multi="true">⬆️ Rearing</button>
+          <button class="opt-btn" data-field="problems" data-opt="bolting" data-multi="true">💨 Bolting</button>
+          <button class="opt-btn" data-field="problems" data-opt="barn_sour" data-multi="true">🏚️ Barn Sour</button>
+          <button class="opt-btn" data-field="problems" data-opt="spooky" data-multi="true">👻 Spooky</button>
+          <button class="opt-btn" data-field="problems" data-opt="wont_load" data-multi="true">🚐 Won't Load</button>
+          <button class="opt-btn" data-field="problems" data-opt="cinchy" data-multi="true">🤕 Cinchy</button>
+          <button class="opt-btn" data-field="problems" data-opt="head_tossing" data-multi="true">🙅 Head Tossing</button>
+          <button class="opt-btn" data-field="problems" data-opt="hard_to_catch" data-multi="true">🏃 Hard to Catch</button>
+          <button class="opt-btn" data-field="problems" data-opt="biting" data-multi="true">😤 Biting</button>
+          <button class="opt-btn" data-field="problems" data-opt="no_stop" data-multi="true">🛑 No Whoa</button>
+          <button class="opt-btn" data-field="problems" data-opt="none" data-multi="false">✅ No Problems</button>
+        </div>
+      </div>
+
+      <!-- STEP 5: Danger rating -->
+      <div class="intake-step" id="step-5">
+        <div class="intake-q">How dangerous is this horse right now?</div>
+        <div class="intake-hint">Be honest — this determines whether we can provide training steps or must refer you to a professional.</div>
+        <input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="2" step="1">
+        <div class="danger-labels">
+          <span>1 — Safe</span>
+          <span>3 — Moderate</span>
+          <span>5 — Dangerous</span>
+        </div>
+        <div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);font-size:1rem;">2/5 — Mild issue</div>
+        <div class="risk-banner risk-yellow" style="margin-top:1.25rem;">
+          <span class="risk-icon">ℹ️</span>
+          <p>Rating 4–5 will automatically flag your situation as requiring a professional trainer. Your safety matters more than any training tip.</p>
+        </div>
+      </div>
+
+      <!-- STEP 6: Rider level -->
+      <div class="intake-step" id="step-6">
+        <div class="intake-q">How experienced are you as a rider or handler?</div>
+        <div class="intake-hint">This helps us match you to the right trainer skill level and appropriate guidance.</div>
+        <div class="option-grid cols-1">
+          <button class="opt-btn" data-field="rider_level" data-opt="complete_beginner">Complete beginner — new to horses</button>
+          <button class="opt-btn" data-field="rider_level" data-opt="beginner">Beginner — riding 1–2 years</button>
+          <button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate — 3–5 years, solid basics</button>
+          <button class="opt-btn" data-field="rider_level" data-opt="advanced">Experienced amateur — 5+ years</button>
+          <button class="opt-btn" data-field="rider_level" data-opt="professional">Professional / trainer</button>
+        </div>
+      </div>
+
+      <!-- STEP 7: Location -->
+      <div class="intake-step" id="step-7">
+        <div class="intake-q">Where are you located?</div>
+        <div class="intake-hint">Used to match you with nearby trainers. We won't store or share this.</div>
+        <div class="form-row" style="margin-bottom:1rem;">
+          <div class="form-group" style="margin:0;">
+            <label class="form-label">State</label>
+            <select data-bind="state">
+              <option value="">Select state...</option>
+              <option>AZ</option><option>TX</option><option>CA</option><option>CO</option>
+              <option>NM</option><option>OK</option><option>NV</option><option>UT</option>
+              <option>FL</option><option>GA</option><option>NC</option><option>TN</option>
+              <option>KY</option><option>OH</option><option>IN</option><option>IL</option>
+              <option>MO</option><option>KS</option><option>NE</option><option>SD</option>
+              <option>ND</option><option>MT</option><option>ID</option><option>OR</option>
+              <option>WA</option><option>WY</option><option>AR</option><option>LA</option>
+              <option>MS</option><option>AL</option><option>SC</option><option>VA</option>
+              <option>WV</option><option>PA</option><option>NY</option><option>MA</option>
+              <option>CT</option><option>NH</option><option>VT</option><option>ME</option>
+              <option>RI</option><option>NJ</option><option>DE</option><option>MD</option>
+              <option>MI</option><option>WI</option><option>MN</option><option>IA</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div class="form-group" style="margin:0;">
+            <label class="form-label">ZIP Code</label>
+            <input type="text" data-bind="zip" placeholder="85001" inputmode="numeric" maxlength="5">
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Travel radius for a trainer</label>
+          <select data-bind="travel_radius">
+            <option value="25">Within 25 miles</option>
+            <option value="50" selected>Within 50 miles</option>
+            <option value="100">Within 100 miles</option>
+            <option value="200">Within 200 miles</option>
+            <option value="any">Any distance</option>
+            <option value="online">Online coaching only</option>
+          </select>
+        </div>
+      </div>
+
+    </div><!-- /intake-body -->
+
+    <!-- AI Result (hidden until submit) -->
+    <div id="ai-result" class="hidden">
+      <div id="ai-loading" class="ai-loading hidden">
+        <div class="ai-loading-dots"><span></span><span></span><span></span></div>
+        Analyzing your situation...
+      </div>
+      <div id="ai-content" class="hidden"></div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="intake-nav" id="intake-body-nav">
+      <button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button>
+      <button class="btn btn-primary" id="intake-next">Next →</button>
+    </div>
+  </div>
+</div>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

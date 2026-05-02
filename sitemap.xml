@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core pages -->
+  <url><loc>https://horsetrainer.ai/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Discipline hubs -->
+  <url><loc>https://horsetrainer.ai/reining/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/barrel-racing/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/trail/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/mustang/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/dressage/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/hunter-jumper/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/cutting/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/working-cow-horse/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/ranch-riding/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/western-pleasure/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/roping/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/eventing/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/equitation/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/driving/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/polo/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+
+  <!-- Trainer category pages -->
+  <url><loc>https://horsetrainer.ai/find-a-trainer/colt-starters/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/problem-horse-specialists/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/reining-trainers/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/barrel-racing-trainers/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/dressage-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/mustang-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/online-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/youth-coaches/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/rehab-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/cutting-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/trail-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/ranch-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/groundwork-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/cow-horse-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/find-a-trainer/hunter-jumper-trainers/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Problem horse pages -->
+  <url><loc>https://horsetrainer.ai/problem-horse/rearing/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/bucking/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/bolting/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/barn-sour-horse/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/buddy-sour-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/spooky-horse-desensitizing/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/horse-that-wont-load/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/cinchy-girthy-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/horse-that-bites/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/head-tossing-causes-and-fixes/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/no-whoa-runaway-horse/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/hard-to-catch-in-pasture/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/problem-horse/rushing-through-gates/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Groundwork pages -->
+  <url><loc>https://horsetrainer.ai/groundwork/halter-breaking-a-foal/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/teaching-a-horse-to-lead/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/yielding-hindquarters/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/yielding-forequarters/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/backing-on-the-ground/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/desensitizing-to-tarps-and-bags/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/round-pen-fundamentals/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/lunging-basics/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/trailer-loading-step-by-step/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/long-lining-introduction/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/first-saddling-colt-starting/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/liberty-work-introduction/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/catching-a-hard-to-catch-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/groundwork/teaching-a-horse-to-stand-tied/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Reining pages -->
+  <url><loc>https://horsetrainer.ai/reining/teaching-the-sliding-stop/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/developing-lead-changes/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/spinning-fundamentals/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/rollbacks-step-by-step/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/reining-circles-large-and-small/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/bit-selection-for-reining/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/backup-on-a-reining-horse/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/reining/nrha-competition-guide/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Colt starting pages -->
+  <url><loc>https://horsetrainer.ai/colt-starting/when-to-start-a-young-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/first-ride-preparation/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/first-60-days-under-saddle/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/introducing-the-bit/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/building-a-forward-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/developing-the-stop/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/starting-a-mustang/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/colt-starting/starting-an-off-track-thoroughbred/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Barrel racing pages -->
+  <url><loc>https://horsetrainer.ai/barrel-racing/pattern-fundamentals/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/barrel-racing/barrel-horse-fitness-program/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/barrel-racing/rating-barrels-pocket-and-turn/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/barrel-racing/starting-a-young-barrel-horse/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Trail pages -->
+  <url><loc>https://horsetrainer.ai/trail/building-a-bombproof-trail-horse/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/trail/crossing-water-on-horseback/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/trail/trail-obstacles-training/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/trail/desensitizing-for-trail/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Mustang pages -->
+  <url><loc>https://horsetrainer.ai/mustang/adopting-a-blm-mustang/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/mustang/first-30-days-with-a-mustang/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/mustang/mustang-halter-training/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/mustang/mustang-gentling-techniques/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Dressage pages -->
+  <url><loc>https://horsetrainer.ai/dressage/training-scale-explained/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/dressage/leg-yield-fundamentals/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/dressage/developing-collection/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Tack pages -->
+  <url><loc>https://horsetrainer.ai/tack/saddle-fit-guide/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://horsetrainer.ai/tack/bit-selection-western/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://horsetrainer.ai/tack/bit-selection-english/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/tack/how-to-fit-a-bridle/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/tack/tie-downs-and-martingales-when-and-why/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/tack/protective-boots-for-horses/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Video pages -->
+  <url><loc>https://horsetrainer.ai/videos/reining/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/groundwork/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/colt-starting/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/barrel-racing/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/problem-horse/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/dressage/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/trail/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/videos/mustang/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+
+  <!-- Static pages -->
+  <url><loc>https://horsetrainer.ai/about/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://horsetrainer.ai/contact/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://horsetrainer.ai/list-your-training/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/faq/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://horsetrainer.ai/glossary/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+</urlset>

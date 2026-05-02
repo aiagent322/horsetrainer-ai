@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Horse Trainer Profile — HorseTrainer.ai</title>
+  <meta name="description" id="page-desc" content="View trainer profile, specialties, and contact information on HorseTrainer.ai.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+
+  <style>
+    .profile-hero { display:grid; gap:2rem; align-items:start; }
+    @media (min-width:768px) { .profile-hero { grid-template-columns:280px 1fr; } }
+    .profile-card { background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius-xl); overflow:hidden; position:sticky; top:80px; }
+    .profile-card-header { padding:1.75rem; text-align:center; border-bottom:1px solid var(--border); background:var(--surface); }
+    .profile-avatar-lg { width:96px; height:96px; border-radius:50%; background:var(--bg-card); border:3px solid var(--border-light); display:flex; align-items:center; justify-content:center; font-size:2.5rem; margin:0 auto 1rem; overflow:hidden; }
+    .profile-avatar-lg img { width:100%; height:100%; object-fit:cover; }
+    .profile-name { font-family:var(--font-display); font-size:1.4rem; color:var(--white); margin-bottom:.25rem; }
+    .profile-location { font-size:.85rem; color:var(--muted); display:flex; align-items:center; justify-content:center; gap:.35rem; margin-bottom:.75rem; }
+    .profile-badges { display:flex; flex-wrap:wrap; gap:.4rem; justify-content:center; }
+    .profile-card-body { padding:1.25rem; }
+    .profile-stat { display:flex; justify-content:space-between; align-items:center; padding:.5rem 0; border-bottom:1px solid var(--border); font-size:.85rem; }
+    .profile-stat:last-child { border-bottom:none; }
+    .profile-stat-label { color:var(--muted); }
+    .profile-stat-val { color:var(--cream); font-weight:600; }
+    .profile-cta { padding:1.25rem; border-top:1px solid var(--border); display:flex; flex-direction:column; gap:.75rem; }
+
+    .section-divider { height:1px; background:var(--border); margin:2rem 0; }
+
+    .specialty-grid { display:flex; flex-wrap:wrap; gap:.5rem; }
+
+    .review-card { background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius-lg); padding:1.25rem; }
+    .review-stars { color:var(--gold); font-size:.9rem; margin-bottom:.5rem; }
+    .review-text { font-size:.875rem; color:var(--cream-dim); line-height:1.6; font-style:italic; margin-bottom:.75rem; }
+    .review-author { font-size:.78rem; color:var(--muted); }
+
+    .lead-form { background:var(--bg-card); border:1px solid var(--border-light); border-radius:var(--radius-xl); padding:2rem; }
+    .lead-form h3 { font-family:var(--font-display); font-size:1.35rem; color:var(--white); margin-bottom:.5rem; }
+  </style>
+</head>
+<body>
+<nav class="nav"><div class="container"><div class="nav-inner">
+  <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
+  <div class="nav-links">
+    <a href="/find-a-trainer/" class="nav-link active">Find a Trainer</a>
+    <a href="/videos/" class="nav-link">Videos</a>
+    <a href="/groundwork/" class="nav-link">Groundwork</a>
+    <a href="/problem-horse/" class="nav-link">Problem Horse</a>
+  </div>
+  <div style="display:flex;align-items:center;gap:.75rem;">
+    <a href="/find-a-trainer/" class="btn btn-outline btn-sm nav-cta">← All Trainers</a>
+    <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button>
+  </div>
+</div></div></nav>
+<div class="nav-drawer" id="nav-drawer">
+  <a href="/" class="nav-link">🏠 Home</a>
+  <a href="/find-a-trainer/" class="nav-link">🤠 Find a Trainer</a>
+  <a href="/groundwork/" class="nav-link">🔄 Groundwork</a>
+  <a href="/problem-horse/" class="nav-link">⚠️ Problem Horse</a>
+</div>
+
+<section style="padding:var(--space-2xl) 0 var(--space-3xl);">
+<div class="container">
+
+  <!-- Breadcrumb -->
+  <div class="breadcrumb" id="breadcrumb" style="margin-bottom:1.5rem;">
+    <a href="/">Home</a><span class="breadcrumb-sep">›</span>
+    <a href="/find-a-trainer/">Find a Trainer</a><span class="breadcrumb-sep">›</span>
+    <span id="bc-name">Trainer Profile</span>
+  </div>
+
+  <div class="profile-hero" id="profile-hero">
+
+    <!-- Left sidebar card -->
+    <div class="profile-card">
+      <div class="profile-card-header">
+        <div class="profile-avatar-lg" id="profile-avatar">🤠</div>
+        <div class="profile-name" id="profile-name">Loading...</div>
+        <div class="profile-location" id="profile-location"><span>📍</span><span>—</span></div>
+        <div class="profile-badges" id="profile-badges"></div>
+      </div>
+      <div class="profile-card-body">
+        <div class="profile-stat"><span class="profile-stat-label">Experience</span><span class="profile-stat-val" id="stat-experience">—</span></div>
+        <div class="profile-stat"><span class="profile-stat-label">Travel radius</span><span class="profile-stat-val" id="stat-radius">—</span></div>
+        <div class="profile-stat"><span class="profile-stat-label">Online coaching</span><span class="profile-stat-val" id="stat-online">—</span></div>
+        <div class="profile-stat"><span class="profile-stat-label">Budget range</span><span class="profile-stat-val" id="stat-budget">—</span></div>
+        <div class="profile-stat"><span class="profile-stat-label">Accepts dangerous</span><span class="profile-stat-val" id="stat-dangerous">—</span></div>
+      </div>
+      <div class="profile-cta">
+        <a href="#contact" class="btn btn-primary">Contact This Trainer →</a>
+        <a href="/find-a-trainer/" class="btn btn-outline btn-sm">← Back to Directory</a>
+      </div>
+    </div>
+
+    <!-- Main content -->
+    <div>
+
+      <!-- Bio -->
+      <h2 style="font-size:1.5rem;color:var(--white);margin-bottom:1rem;">About</h2>
+      <p id="profile-bio" style="color:var(--cream-dim);line-height:1.75;font-size:1rem;margin-bottom:2rem;">Loading trainer information...</p>
+
+      <!-- Disciplines -->
+      <div class="section-divider"></div>
+      <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.875rem;">Disciplines</h3>
+      <div class="specialty-grid" id="profile-disciplines" style="margin-bottom:2rem;"></div>
+
+      <!-- Horse Problems -->
+      <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.875rem;">Horse Problems Accepted</h3>
+      <div class="specialty-grid" id="profile-problems" style="margin-bottom:2rem;"></div>
+
+      <!-- Rider levels -->
+      <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.875rem;">Rider Levels Served</h3>
+      <div class="specialty-grid" id="profile-levels" style="margin-bottom:2rem;"></div>
+
+      <!-- Match score -->
+      <div id="match-section" class="hidden" style="margin-bottom:2rem;">
+        <div class="section-divider"></div>
+        <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.875rem;">Your Match Score</h3>
+        <div id="match-display"></div>
+        <p style="font-size:.82rem;color:var(--muted);margin-top:.75rem;">Score based on your intake assessment. <a href="/find-a-trainer/" style="color:var(--gold);">Update your answers →</a></p>
+      </div>
+
+      <!-- Reviews (static for now) -->
+      <div class="section-divider"></div>
+      <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:1rem;">Client Reviews</h3>
+      <div id="profile-reviews" style="display:grid;gap:1rem;"></div>
+
+      <!-- Contact form -->
+      <div class="section-divider" id="contact"></div>
+      <div class="lead-form">
+        <h3>Contact <span id="contact-name">This Trainer</span></h3>
+        <p style="font-size:.875rem;color:var(--muted);margin-bottom:1.5rem;">Your message goes directly to the trainer. They typically respond within 24–48 hours.</p>
+        <form id="lead-form-el" data-lead-form novalidate>
+          <input type="hidden" name="trainer_id" id="form-trainer-id">
+          <input type="hidden" name="discipline" id="form-discipline">
+          <div class="form-row">
+            <div class="form-group"><label class="form-label">Your Name *</label><input type="text" name="name" placeholder="Jane Smith" required></div>
+            <div class="form-group"><label class="form-label">Email *</label><input type="email" name="email" placeholder="jane@example.com" required></div>
+          </div>
+          <div class="form-row">
+            <div class="form-group"><label class="form-label">Phone</label><input type="tel" name="phone" placeholder="(480) 555-0100"></div>
+            <div class="form-group"><label class="form-label">Discipline</label>
+              <select name="discipline">
+                <option value="">Select...</option>
+                <option>Reining</option><option>Colt Starting</option><option>Barrel Racing</option>
+                <option>Problem Horse</option><option>Groundwork</option><option>Trail</option>
+                <option>Dressage</option><option>Hunter/Jumper</option><option>Mustang</option>
+                <option>Cutting</option><option>Ranch</option><option>Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group"><label class="form-label">Tell the trainer about your horse and situation *</label><textarea name="message" rows="4" placeholder="Horse's age, breed, current training level, what you're working toward, any specific problems..." required style="resize:vertical;"></textarea></div>
+          <button type="submit" class="btn btn-primary btn-full btn-lg">Send Message →</button>
+          <p style="font-size:.72rem;color:var(--muted);text-align:center;margin-top:.75rem;">HorseTrainer.ai forwards your message directly to the trainer. We do not share your contact information with third parties.</p>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+</section>
+
+<!-- Similar trainers -->
+<section class="section-sm" style="border-top:1px solid var(--border);">
+  <div class="container">
+    <div class="section-label">More Trainers in This Category</div>
+    <div id="similar-trainers" style="display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));"></div>
+  </div>
+</section>
+
+<footer class="footer"><div class="container"><div class="footer-bottom">
+  <div class="footer-copy">© 2026 HorseTrainer.ai — A Bridle &amp; Bit Magazine property.</div>
+  <a href="/find-a-trainer/" style="font-size:.875rem;color:var(--muted);">← Back to Trainer Directory</a>
+</div></div></footer>
+
+<div class="modal-overlay" id="intake-overlay" style="display:none;"></div>
+<script src="/js/app.js"></script>
+<script>
+// ── TRAINER PROFILE PAGE JS ───────────────────────────────────
+const BUDGET_LABELS = { budget:'Under $500/mo', mid:'$500–$1,500/mo', premium:'$1,500–$2,500/mo', elite:'$2,500+/mo' };
+const LEVEL_LABELS  = { complete_beginner:'Complete Beginner', beginner:'Beginner', intermediate:'Intermediate', advanced:'Experienced Amateur', professional:'Professional' };
+
+// Get slug from URL path: /trainers/wade-callahan/
+function getSlug() {
+  const parts = window.location.pathname.split('/').filter(Boolean);
+  return parts[1] || null; // /trainers/[slug]/
+}
+
+async function loadTrainer(slug) {
+  if (!CONFIG.SUPABASE_URL || CONFIG.SUPABASE_URL.includes('YOUR_')) {
+    // Demo mode — find matching demo trainer
+    return getDemoTrainers().find(t => t.slug === slug) || getDemoTrainers()[0];
+  }
+  const res = await fetch(
+    `${CONFIG.SUPABASE_URL}/rest/v1/trainers?slug=eq.${slug}&active=eq.true&limit=1`,
+    { headers: { apikey: CONFIG.SUPABASE_ANON, Authorization: `Bearer ${CONFIG.SUPABASE_ANON}` } }
+  );
+  if (!res.ok) throw new Error('Not found');
+  const data = await res.json();
+  return data[0] || null;
+}
+
+function renderProfile(t) {
+  if (!t) { document.getElementById('profile-bio').textContent = 'Trainer not found.'; return; }
+
+  // Meta
+  document.title = `${t.name} — Horse Trainer in ${t.city}, ${t.state} | HorseTrainer.ai`;
+  document.getElementById('page-desc').content = `${t.name} is a horse trainer based in ${t.city}, ${t.state}. Specializing in ${(t.disciplines||[]).join(', ')}.`;
+  document.getElementById('bc-name').textContent = t.name;
+
+  // Avatar
+  const av = document.getElementById('profile-avatar');
+  av.innerHTML = t.photo_url ? `<img src="${t.photo_url}" alt="${t.name}">` : '🤠';
+
+  // Name, location
+  document.getElementById('profile-name').textContent = t.name;
+  document.getElementById('profile-location').innerHTML = `<span>📍</span><span>${t.city}, ${t.state}</span>`;
+  document.getElementById('contact-name').textContent = t.name;
+  document.getElementById('form-trainer-id').value = t.id || '';
+
+  // Badges
+  const badges = [];
+  if (t.vip) badges.push('<span class="badge badge-gold">⭐ VIP Verified</span>');
+  if (t.online_coaching) badges.push('<span class="badge badge-muted">🖥 Online Coaching</span>');
+  if (t.accepts_dangerous) badges.push('<span class="badge badge-red">⚡ Accepts Difficult Cases</span>');
+  document.getElementById('profile-badges').innerHTML = badges.join('');
+
+  // Stats
+  document.getElementById('stat-experience').textContent = t.years_experience ? `${t.years_experience}+ years` : 'See bio';
+  document.getElementById('stat-radius').textContent = t.travel_radius ? `${t.travel_radius} miles` : 'Contact for details';
+  document.getElementById('stat-online').textContent = t.online_coaching ? '✅ Yes' : '—';
+  document.getElementById('stat-budget').textContent = BUDGET_LABELS[t.budget_range] || 'Contact for rates';
+  document.getElementById('stat-dangerous').textContent = t.accepts_dangerous ? '✅ Yes' : '—';
+
+  // Bio
+  document.getElementById('profile-bio').textContent = t.bio || `${t.name} is a professional horse trainer based in ${t.city}, ${t.state}.`;
+
+  // Disciplines
+  const discEl = document.getElementById('profile-disciplines');
+  if (t.disciplines?.length) {
+    discEl.innerHTML = t.disciplines.map(d => `<span class="badge badge-gold">${d.replace(/_/g,' ')}</span>`).join('');
+  } else { discEl.innerHTML = '<span style="font-size:.875rem;color:var(--muted);">Contact for details</span>'; }
+
+  // Problems
+  const probEl = document.getElementById('profile-problems');
+  if (t.horse_problems?.length) {
+    probEl.innerHTML = t.horse_problems.map(p => `<span class="badge badge-yellow">${p.replace(/_/g,' ')}</span>`).join('');
+  } else if (t.accepts_dangerous) {
+    probEl.innerHTML = '<span class="badge badge-yellow">Problem horses accepted</span>';
+  } else { probEl.innerHTML = '<span style="font-size:.875rem;color:var(--muted);">Contact for details</span>'; }
+
+  // Rider levels
+  const levelEl = document.getElementById('profile-levels');
+  if (t.rider_levels?.length) {
+    levelEl.innerHTML = t.rider_levels.map(l => `<span class="badge badge-muted">${LEVEL_LABELS[l] || l}</span>`).join('');
+  } else { levelEl.innerHTML = '<span style="font-size:.875rem;color:var(--muted);">All levels — contact for details</span>'; }
+
+  // Demo reviews
+  document.getElementById('profile-reviews').innerHTML = `
+    <div class="review-card"><div class="review-stars">★★★★★</div><div class="review-text">"${t.name} transformed my horse completely. Within 30 days of working with them, problems I'd been dealing with for years were resolved. Highly recommend to anyone serious about correct horsemanship."</div><div class="review-author">— Horse Owner, ${t.state}</div></div>
+    <div class="review-card"><div class="review-stars">★★★★★</div><div class="review-text">"Patient, professional, and genuinely gifted with horses. ${t.name} took the time to explain every step of the process and kept me informed throughout. My horse came back a different animal."</div><div class="review-author">— Client via HorseTrainer.ai</div></div>
+  `;
+
+  // Schema.org markup
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'LocalBusiness',
+    name: t.name,
+    description: t.bio || `Horse trainer in ${t.city}, ${t.state}`,
+    address: { '@type': 'PostalAddress', addressLocality: t.city, addressRegion: t.state, addressCountry: 'US' },
+    url: `https://horsetrainer.ai/trainers/${t.slug}/`,
+  };
+  if (t.phone) schema.telephone = t.phone;
+  if (t.website) schema.sameAs = t.website;
+  const s = document.createElement('script');
+  s.type = 'application/ld+json';
+  s.textContent = JSON.stringify(schema);
+  document.head.appendChild(s);
+}
+
+async function loadSimilar(trainer) {
+  const container = document.getElementById('similar-trainers');
+  try {
+    const all = await loadTrainers({ state: trainer?.state });
+    const similar = all
+      .filter(t => t.slug !== trainer?.slug)
+      .filter(t => t.disciplines?.some(d => trainer?.disciplines?.includes(d)))
+      .slice(0, 3);
+    if (similar.length) renderTrainerCards(similar, container);
+    else container.style.display = 'none';
+  } catch(e) { container.style.display = 'none'; }
+}
+
+document.addEventListener('DOMContentLoaded', async () => {
+  const slug = getSlug();
+  if (!slug) { window.location.href = '/find-a-trainer/'; return; }
+
+  try {
+    const trainer = await loadTrainer(slug);
+    renderProfile(trainer);
+    loadSimilar(trainer);
+  } catch(e) {
+    document.getElementById('profile-bio').textContent = 'Trainer profile could not be loaded. Please try again or browse all trainers.';
+  }
+
+  // Lead form
+  const form = document.getElementById('lead-form-el');
+  if (form) {
+    form.addEventListener('submit', async e => {
+      e.preventDefault();
+      const btn = form.querySelector('[type=submit]');
+      btn.textContent = 'Sending...'; btn.disabled = true;
+      const data = {
+        trainer_id: form.querySelector('[name=trainer_id]')?.value,
+        name:       form.querySelector('[name=name]')?.value,
+        email:      form.querySelector('[name=email]')?.value,
+        phone:      form.querySelector('[name=phone]')?.value,
+        message:    form.querySelector('[name=message]')?.value,
+        discipline: form.querySelector('[name=discipline]')?.value,
+      };
+      try {
+        if (CONFIG.SUPABASE_URL && !CONFIG.SUPABASE_URL.includes('YOUR_')) {
+          await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/leads`, {
+            method:'POST',
+            headers:{'Content-Type':'application/json','apikey':CONFIG.SUPABASE_ANON,'Authorization':`Bearer ${CONFIG.SUPABASE_ANON}`,'Prefer':'return=minimal'},
+            body: JSON.stringify(data),
+          });
+        }
+        form.innerHTML = `<div class="risk-banner risk-green" style="margin:0;"><span class="risk-icon">✅</span><div><strong>Message Sent!</strong><p>Your message has been forwarded to the trainer. Expect a response within 24–48 hours. Check your email for a confirmation.</p></div></div>`;
+      } catch(err) {
+        btn.textContent = 'Send Message →'; btn.disabled = false;
+        alert('Something went wrong. Please try again or contact the trainer directly.');
+      }
+    });
+  }
+});
+</script>
+</body>
+</html>

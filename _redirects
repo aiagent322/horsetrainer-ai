@@ -1,0 +1,22 @@
+# HorseTrainer.ai — Cloudflare Pages Redirects
+
+# Trainer category shorthands
+/trainers/colt-starters/         /find-a-trainer/colt-starters/         301
+/trainers/problem-horse/         /find-a-trainer/problem-horse-specialists/ 301
+/trainers/reining/               /find-a-trainer/reining-trainers/       301
+/trainers/barrel-racing/         /find-a-trainer/barrel-racing-trainers/ 301
+/trainers/dressage/              /find-a-trainer/dressage-trainers/      301
+/trainers/online/                /find-a-trainer/online-trainers/        301
+
+# Common misspellings / alternate URLs
+/horse-trainer/                  /find-a-trainer/                        301
+/horse-training/                 /                                        301
+/training/                       /                                        301
+/barrel/                         /barrel-racing/                         301
+/colt/                           /colt-starting/                         301
+/problems/                       /problem-horse/                         301
+/ground-work/                    /groundwork/                            301
+/groundwork                      /groundwork/                            301
+/reining                         /reining/                               301
+/dressage                        /dressage/                              301
+/mustangs/                       /mustang/                               301

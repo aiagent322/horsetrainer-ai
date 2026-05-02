@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find a Horse Trainer — HorseTrainer.ai Trainer Match-Maker</title>
+  <meta name="description" content="Find the right horse trainer for your discipline, problem, location, and budget. Our match-maker scores trainers across 12 factors to find your best fit.">
+  <link rel="canonical" href="https://horsetrainer.ai/find-a-trainer/">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Horse Trainer Directory",
+    "description": "Find verified horse trainers by discipline, location, and specialty.",
+    "url": "https://horsetrainer.ai/find-a-trainer/"
+  }
+  </script>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="container">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
+      <div class="nav-links">
+        <a href="/find-a-trainer/" class="nav-link active">Find a Trainer</a>
+        <a href="/videos/" class="nav-link">Videos</a>
+        <a href="/groundwork/" class="nav-link">Groundwork</a>
+        <a href="/problem-horse/" class="nav-link">Problem Horse</a>
+        <a href="/colt-starting/" class="nav-link">Colt Starting</a>
+      </div>
+      <div style="display:flex;align-items:center;gap:0.75rem;">
+        <button class="btn btn-primary btn-sm nav-cta" data-open-intake>Start Assessment</button>
+        <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="nav-drawer" id="nav-drawer">
+  <a href="/" class="nav-link">🏠 Home</a>
+  <a href="/find-a-trainer/" class="nav-link active">🤠 Find a Trainer</a>
+  <a href="/videos/" class="nav-link">🎬 Videos</a>
+  <a href="/groundwork/" class="nav-link">🔄 Groundwork</a>
+  <a href="/problem-horse/" class="nav-link">⚠️ Problem Horse</a>
+</div>
+
+<!-- Header -->
+<section class="page-header" style="background:radial-gradient(ellipse 80% 60% at 30% 50%,rgba(200,134,10,0.07) 0%,transparent 60%);">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span class="breadcrumb-sep">›</span>
+      <span>Find a Trainer</span>
+    </div>
+    <h1>Find the Right Horse Trainer</h1>
+    <p class="lead">Answer a few questions and our match-maker will score trainers across discipline, horse problem, location, rider level, and budget — returning your best matches first.</p>
+  </div>
+</section>
+
+<!-- Category Quick-Links -->
+<section class="section-sm" style="padding-top:0;">
+  <div class="container">
+    <div class="section-label">Browse by Category</div>
+    <div style="display:flex;flex-wrap:wrap;gap:0.625rem;margin-bottom:2.5rem;">
+      <a href="/find-a-trainer/colt-starters/" class="btn btn-outline btn-sm">🐴 Colt Starters</a>
+      <a href="/find-a-trainer/problem-horse-specialists/" class="btn btn-outline btn-sm">⚠️ Problem Horse</a>
+      <a href="/find-a-trainer/reining-trainers/" class="btn btn-outline btn-sm">🏆 Reining</a>
+      <a href="/find-a-trainer/barrel-racing-trainers/" class="btn btn-outline btn-sm">🏁 Barrel Racing</a>
+      <a href="/find-a-trainer/dressage-trainers/" class="btn btn-outline btn-sm">🎖 Dressage</a>
+      <a href="/find-a-trainer/mustang-trainers/" class="btn btn-outline btn-sm">🦄 Mustang</a>
+      <a href="/find-a-trainer/online-trainers/" class="btn btn-outline btn-sm">🖥 Online Coaches</a>
+      <a href="/find-a-trainer/youth-coaches/" class="btn btn-outline btn-sm">👶 Youth Coaches</a>
+      <a href="/find-a-trainer/rehab-trainers/" class="btn btn-outline btn-sm">💊 Rehab / Restart</a>
+    </div>
+
+    <!-- Match-Maker Form -->
+    <div style="display:grid;gap:2rem;" class="matcher-layout">
+      <div>
+        <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-xl);padding:2rem;">
+          <div class="section-label">Trainer Match-Maker</div>
+          <h2 style="font-size:1.5rem;color:var(--white);margin-bottom:0.5rem;">Tell Us What You Need</h2>
+          <p style="font-size:0.875rem;color:var(--muted);margin-bottom:1.75rem;">Fill in as much or as little as you know. More detail = better matches.</p>
+
+          <form id="match-form" novalidate>
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="m-discipline">Discipline</label>
+                <select name="discipline" id="m-discipline">
+                  <option value="">Any discipline</option>
+                  <option value="reining">Reining</option>
+                  <option value="cutting">Cutting</option>
+                  <option value="working_cow">Working Cow Horse</option>
+                  <option value="barrel_racing">Barrel Racing</option>
+                  <option value="roping">Roping</option>
+                  <option value="ranch">Ranch Riding</option>
+                  <option value="trail">Trail / Desensitizing</option>
+                  <option value="western_pleasure">Western Pleasure</option>
+                  <option value="colt_starting">Colt Starting</option>
+                  <option value="groundwork">Groundwork Only</option>
+                  <option value="mustang">Mustang / Wild Horse</option>
+                  <option value="problem_horse">Problem Horse</option>
+                  <option value="dressage">Dressage</option>
+                  <option value="hunter_jumper">Hunter / Jumper</option>
+                  <option value="eventing">Eventing</option>
+                  <option value="equitation">Equitation</option>
+                  <option value="driving">Driving</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="m-situation">Training Situation</label>
+                <select name="situation" id="m-situation">
+                  <option value="">Any situation</option>
+                  <option value="starting_young">Starting a young horse</option>
+                  <option value="behavior_problem">Horse has a behavior problem</option>
+                  <option value="improving_competition">Improving for competition</option>
+                  <option value="trail_safe">Trail safe / confidence</option>
+                  <option value="rehab">Rehab / restart</option>
+                  <option value="general">General training</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Behavior Problems (check all that apply)</label>
+              <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.5rem;margin-top:0.5rem;">
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="bucking" style="width:auto;"> Bucking</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="rearing" style="width:auto;"> Rearing</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="bolting" style="width:auto;"> Bolting</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="barn_sour" style="width:auto;"> Barn / Buddy Sour</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="spooky" style="width:auto;"> Spooky</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="wont_load" style="width:auto;"> Won't Load</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="cinchy" style="width:auto;"> Cinchy / Girthy</label>
+                <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--cream-dim);cursor:pointer;"><input type="checkbox" name="problems" value="no_stop" style="width:auto;"> No Whoa</label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label class="form-label" for="m-danger">Danger Level: <span id="danger-display" style="color:var(--gold);">2 / 5</span></label>
+              <input type="range" name="danger" id="m-danger" min="1" max="5" value="2" class="danger-slider"
+                     oninput="document.getElementById('danger-display').textContent = this.value + ' / 5'">
+              <div class="danger-labels"><span>1 — Safe</span><span>3 — Moderate</span><span>5 — Dangerous</span></div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="m-rider">Your Experience Level</label>
+                <select name="rider_level" id="m-rider">
+                  <option value="">Any level</option>
+                  <option value="complete_beginner">Complete Beginner</option>
+                  <option value="beginner">Beginner (1–2 yrs)</option>
+                  <option value="intermediate">Intermediate (3–5 yrs)</option>
+                  <option value="advanced">Experienced Amateur</option>
+                  <option value="professional">Professional / Trainer</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="m-state">State</label>
+                <select name="state" id="m-state">
+                  <option value="">Any state</option>
+                  <option>AZ</option><option>TX</option><option>CA</option><option>CO</option>
+                  <option>NM</option><option>OK</option><option>NV</option><option>UT</option>
+                  <option>FL</option><option>GA</option><option>NC</option><option>TN</option>
+                  <option>KY</option><option>OH</option><option>MT</option><option>WY</option>
+                  <option>ID</option><option>OR</option><option>WA</option><option>Other</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="m-budget">Monthly Budget</label>
+                <select name="budget" id="m-budget">
+                  <option value="">Any budget</option>
+                  <option value="budget">Under $500/mo</option>
+                  <option value="mid">$500–$1,500/mo</option>
+                  <option value="premium">$1,500–$2,500/mo</option>
+                  <option value="elite">$2,500+/mo</option>
+                </select>
+              </div>
+              <div class="form-group" style="display:flex;align-items:flex-end;padding-bottom:0.25rem;">
+                <label style="display:flex;align-items:center;gap:0.75rem;cursor:pointer;font-size:0.875rem;color:var(--cream-dim);">
+                  <input type="checkbox" name="online_ok" style="width:auto;accent-color:var(--gold);">
+                  Open to online coaching / video review
+                </label>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-full btn-lg" style="margin-top:0.5rem;">
+              🎯 Find My Best Trainer Matches →
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <!-- Sidebar info -->
+      <div>
+        <div class="sidebar-card" style="margin-bottom:1rem;">
+          <div class="sidebar-title">How Matching Works</div>
+          <div style="display:flex;flex-direction:column;gap:0.875rem;margin-top:0.75rem;">
+            <div style="display:flex;gap:0.75rem;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">🎯</span>
+              <div>
+                <div style="font-size:0.85rem;font-weight:600;color:var(--cream);margin-bottom:2px;">Scored Matching</div>
+                <div style="font-size:0.78rem;color:var(--muted);">Trainers are scored on 8 factors: discipline, problem, location, rider level, budget, VIP status, and more.</div>
+              </div>
+            </div>
+            <div style="display:flex;gap:0.75rem;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">🛡️</span>
+              <div>
+                <div style="font-size:0.85rem;font-weight:600;color:var(--cream);margin-bottom:2px;">Safety Filtered</div>
+                <div style="font-size:0.78rem;color:var(--muted);">Dangerous horse situations (4–5 rating) only match to trainers who specifically handle dangerous horses.</div>
+              </div>
+            </div>
+            <div style="display:flex;gap:0.75rem;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">⭐</span>
+              <div>
+                <div style="font-size:0.85rem;font-weight:600;color:var(--cream);margin-bottom:2px;">VIP Verified</div>
+                <div style="font-size:0.78rem;color:var(--muted);">VIP trainers are reviewed and scored by our team. Featured trainers appear at the top of results.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sidebar-card">
+          <div class="sidebar-title">🚨 Emergency Situation?</div>
+          <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;margin-bottom:1rem;">If your horse is actively dangerous — rearing, striking, severely bolting — do not ride. Contact a problem horse specialist immediately.</p>
+          <a href="/find-a-trainer/problem-horse-specialists/" class="btn btn-danger btn-full">Find Problem Horse Specialists →</a>
+        </div>
+
+        <div class="sidebar-card" style="margin-top:1rem;">
+          <div class="sidebar-title">List Your Training</div>
+          <p style="font-size:0.85rem;color:var(--muted);line-height:1.55;margin-bottom:1rem;">Are you a horse trainer? Get listed in our directory and start receiving qualified leads.</p>
+          <a href="/list-your-training/" class="btn btn-outline btn-full">Get Listed →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+@media (min-width: 900px) {
+  .matcher-layout { grid-template-columns: 2fr 1fr !important; }
+}
+</style>
+
+<!-- Results Section -->
+<section class="section-sm" id="results-section" style="padding-top:0;">
+  <div class="container">
+    <div id="match-results" style="display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));"></div>
+  </div>
+</section>
+
+<!-- All Trainers (Demo) -->
+<section class="section-sm">
+  <div class="container">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;margin-bottom:2rem;">
+      <div>
+        <div class="section-label">All Trainers</div>
+        <h2 style="font-size:1.5rem;color:var(--white);">Browse the Full Directory</h2>
+      </div>
+    </div>
+    <div id="all-trainers" style="display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom">
+      <div class="footer-copy">© 2026 HorseTrainer.ai — A Bridle &amp; Bit Magazine property. Educational purposes only.</div>
+      <a href="/" style="font-size:0.875rem;color:var(--muted);">← Back to Home</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/js/app.js"></script>
+<script>
+// Load demo trainers on page load
+document.addEventListener('DOMContentLoaded', async () => {
+  const container = document.getElementById('all-trainers');
+  try {
+    const trainers = await loadTrainers();
+    renderTrainerCards(trainers, container);
+  } catch(e) {
+    renderTrainerCards(getDemoTrainers(), container);
+  }
+});
+</script>
+</body>
+</html>
