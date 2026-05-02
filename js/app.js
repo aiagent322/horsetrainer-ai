@@ -9,8 +9,8 @@
 const CONFIG = {
   // Replace with your deployed Cloudflare Worker URL
   WORKER_URL: 'https://horse-trainer-proxy.bridleandbit.workers.dev',
-  SUPABASE_URL: 'https://YOUR_PROJECT.supabase.co',
-  SUPABASE_ANON: 'YOUR_ANON_KEY',
+  SUPABASE_URL: 'https://ptuuuishzwwgmaexneul.supabase.co',
+  SUPABASE_ANON: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB0dXV1aXNoend3Z21hZXhuZXVsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc2ODQ4NTAsImV4cCI6MjA5MzI2MDg1MH0.y55GTkYHdfzh1P9Gv4AFoox7ahC_Y9Pr4gqsyF-da3c',
 };
 
 // ── INTAKE STATE ─────────────────────────────────────────────
