@@ -982,10 +982,7 @@ function trainerCardHTML(t) {
   const phone = t.phone ? `<a href="tel:${t.phone.replace(/\D/g,'')}" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">📞 Call</a>` : '';
   const email = t.email ? `<a href="mailto:${t.email}" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">✉ Email</a>` : '';
   const web = t.website ? `<a href="${esc(t.website)}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">🌐 Website</a>` : '';
-  const mapsUrl = t.lat && t.lng
-    ? `https://www.google.com/maps/search/?api=1&query=${t.lat},${t.lng}`
-    : (loc ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(loc + ' horse trainer')}` : '');
-  const maps = mapsUrl ? `<a href="${mapsUrl}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">🗺 Map</a>` : '';
+
   return `
     <div class="trainer-card" tabindex="0">
       <div style="display:flex;align-items:center;gap:12px;">
@@ -997,7 +994,7 @@ function trainerCardHTML(t) {
       </div>
       <div class="trainer-disciplines">${tags}</div>
       <div class="trainer-bio">${bio}</div>
-      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:4px;">${[phone,email,web,maps].filter(Boolean).join('')}</div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:4px;">${[phone,email,web].filter(Boolean).join('')}</div>
     </div>`;
 }
 
