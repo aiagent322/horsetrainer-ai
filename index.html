@@ -582,6 +582,15 @@ img { max-width:100%; height:auto; display:block; }
       <select class="search-select" id="state-filter" aria-label="Filter by state">
         <option value="">All States</option>
       </select>
+      <button class="btn btn-outline" id="nearme-btn" onclick="applyNearMe(this)" aria-pressed="false" style="white-space:nowrap;gap:6px;padding:9px 16px;font-size:0.88rem;">📍 Near Me</button>
+    </div>
+    <div id="nearme-radius-bar" style="display:none;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap;">
+      <span style="font-size:0.82rem;color:var(--text-light);white-space:nowrap;">Radius:</span>
+      <button class="chip" id="radius-50"  onclick="setNearMeRadius(50,this)"  style="font-size:0.8rem;">50 mi</button>
+      <button class="chip active" id="radius-100" onclick="setNearMeRadius(100,this)" style="font-size:0.8rem;">100 mi</button>
+      <button class="chip" id="radius-250" onclick="setNearMeRadius(250,this)" style="font-size:0.8rem;">250 mi</button>
+      <button class="chip" id="radius-500" onclick="setNearMeRadius(500,this)" style="font-size:0.8rem;">500 mi</button>
+      <span id="nearme-status" style="font-size:0.8rem;color:var(--text-light);"></span>
     </div>
 
     <!-- Discipline chips -->
@@ -931,6 +940,19 @@ function applyFilters() {
       String(discs).toLowerCase().includes(term);
     return matchDisc && matchState && matchSearch;
   });
+
+  // Near Me: compute distance, filter by radius, sort closest first
+  if (nearMeActive && userLat !== null) {
+    filteredTrainers = filteredTrainers.map(t => {
+      const coords = getTrainerCoords(t);
+      if (!coords) return null;
+      return { ...t, _distMi: Math.round(haversine(userLat, userLng, coords[0], coords[1])) };
+    }).filter(t => t && t._distMi <= nearMeRadius)
+      .sort((a, b) => a._distMi - b._distMi);
+  } else {
+    filteredTrainers = filteredTrainers.map(t => ({ ...t, _distMi: undefined }));
+  }
+
   displayCount = PAGE_SIZE;
   renderCards();
 }
@@ -966,7 +988,7 @@ function trainerCardHTML(t) {
         <div class="trainer-avatar">${t.photo_url ? `<img src="${esc(t.photo_url)}" alt="${esc(t.name)}" loading="lazy">` : initials}</div>
         <div>
           <div class="trainer-name">${esc(t.name||'')}</div>
-          <div class="trainer-location">📍 ${esc(loc||'Location TBD')}</div>
+          <div class="trainer-location">📍 ${esc(loc||'Location TBD')}${t._distMi !== undefined ? ` <span style="margin-left:6px;font-size:0.75rem;background:rgba(29,111,165,0.1);color:var(--secondary);padding:2px 7px;border-radius:10px;font-weight:600;">${t._distMi} mi</span>` : ''}</div>
         </div>
       </div>
       <div class="trainer-disciplines">${tags}</div>
@@ -1192,6 +1214,136 @@ document.getElementById('intake-next').addEventListener('click', async () => {
 document.getElementById('intake-back').addEventListener('click', () => {
   if (currentStep > 1) showStep(currentStep - 1);
 });
+
+
+/* ════════════════════════════════════════
+   NEAR ME — Geolocation + Distance Filter
+   ════════════════════════════════════════ */
+const CITY_COORDS = {
+  'Abilene,KS':[38.9172,-97.2137],'Abilene,TX':[32.4487,-99.7331],'Adkins,TX':[29.3466,-98.2264],'Aguila,AZ':[33.9509,-113.1726],
+  'Albuquerque,NM':[35.0844,-106.6504],'Alvarado,TX':[32.4068,-97.2156],'Amarillo,TX':[35.222,-101.8313],'Andrews,TX':[32.3185,-102.5451],
+  'Anthony,NM':[32.004,-106.6059],'Ardmore,OK':[34.1743,-97.1436],'Arlington,WA':[48.1676,-122.1346],'Athens,TX':[32.2049,-95.8552],
+  'Augusta,KS':[37.6867,-96.9764],'Avery,TX':[33.6626,-94.7777],'Aztec,NM':[36.8221,-107.9929],'Battle Ground,WA':[45.7807,-122.5348],
+  'Belton,TX':[31.056,-97.4642],'Benson,AZ':[31.9679,-110.2945],'Benton City,WA':[46.2629,-119.4871],'Benton,AR':[34.5651,-92.5868],
+  'Bethany,MO':[40.2672,-94.0233],'Big Spring,TX':[32.2504,-101.4788],'Blackfoot,ID':[43.1905,-112.3444],'Blue Ridge,TX':[33.2815,-96.3985],
+  'Bolivar,MO':[37.6145,-93.4105],'Boone,CO':[38.0736,-104.2936],'Broken Arrow,OK':[36.0526,-95.7908],'Bryan,TX':[30.6744,-96.3698],
+  'Buckeye,AZ':[33.3703,-112.5838],'Buffalo,TX':[31.4632,-96.0583],'Buffalo,WY':[44.348,-106.6996],'Carbon,TX':[32.2726,-98.8239],
+  'Carthage,MO':[37.1764,-94.3102],'Casa Grande,AZ':[32.8795,-111.7574],'Cave Creek,AZ':[33.8333,-111.9512],'Centerville,TX':[31.2596,-95.9769],
+  'Cheyenne,WY':[41.14,-104.8202],'Childress,TX':[34.4268,-100.204],'Clayton,WA':[47.8776,-117.5582],'Clovis,NM':[34.4048,-103.2052],'Cleveland,TX':[30.3413,-95.0855],
+  'Coleman,OK':[34.5273,-97.8303],'Comfort,TX':[29.968,-98.9051],'Congress,AZ':[34.1645,-112.8527],'Cortez,CO':[37.3489,-108.5859],
+  'Cottonwood,CA':[40.3857,-122.2808],'Cuero,TX':[29.0963,-97.2878],'De Leon,TX':[32.1098,-98.5301],'Decatur,TX':[33.2343,-97.5836],
+  'Del Rio,TX':[29.3627,-100.8968],'Denton,TX':[33.215,-97.133],'Detroit,TX':[33.6618,-95.2688],'Durango,CO':[37.2753,-107.8801],
+  'El Paso,TX':[31.7619,-106.485],'El Reno,OK':[35.5323,-97.955],'Elbert,CO':[39.2183,-104.5416],'Elm Grove,LA':[32.4987,-93.8038],
+  'Escalon,CA':[37.7974,-120.9949],'Fillmore,CA':[34.3992,-118.9181],'Florence,AZ':[33.0314,-111.3873],'Fort Blackmore,VA':[36.8293,-82.5993],
+  'Fort Lupton,CO':[40.0836,-104.803],'Fort St. John,BC':[56.2526,-120.8477],'Fort Stockton,TX':[30.8935,-102.8793],'Fort Sumner,NM':[34.4701,-104.2431],
+  'Fort Worth,TX':[32.7555,-97.3308],'Fruita,CO':[39.1583,-108.7282],'Gainesville,TX':[33.6268,-97.1331],'Gilbert,AZ':[33.3528,-111.789],
+  'Gill,CO':[40.5233,-104.7108],'Globe,AZ':[33.3942,-110.7865],'Gonzales,TX':[29.5019,-97.4522],'Graham,TX':[33.107,-98.5895],
+  'Granbury,TX':[32.4419,-97.7942],'Groesbeck,TX':[31.5235,-96.5336],'Guthrie,OK':[35.8787,-97.4253],'Guymon,OK':[36.6853,-101.4813],
+  'Halletsville,TX':[29.4469,-96.9403],'Hallettsville,TX':[29.4469,-96.9403],'Hamilton,TX':[31.7085,-98.1228],'Harwood,TX':[29.6662,-97.504],
+  'Haskell,TX':[33.1576,-99.7337],'Heber City,UT':[40.5069,-111.4134],'Helena,MT':[46.5958,-112.027],'Henrietta,TX':[33.8166,-98.1947],
+  'Hereford,TX':[34.8148,-102.3976],'Hineston,LA':[31.1435,-92.7588],'Hobbs,NM':[32.7026,-103.136],'Holbrook,AZ':[34.902,-110.1598],
+  'Homedale,ID':[43.6207,-116.9338],'Hutto,TX':[30.5427,-97.5464],'Jacksons Gap,AL':[32.9241,-86.0219],'Jasper,TX':[30.9202,-94.0099],
+  'Jourdanton,TX':[28.9133,-99.0019],'Kansas City,MO':[39.0997,-94.5786],'Karnes City,TX':[28.885,-97.9008],'Kaycee,WY':[43.7094,-106.6327],
+  'Keatchie,LA':[32.1807,-93.9438],'Keifer,OK':[35.8568,-96.0683],'Kiefer,OK':[35.9473,-96.0667],'Kingsville,TX':[27.5158,-97.8561],
+  'Kirkland,AZ':[34.5381,-112.7222],'Kosse,TX':[31.3085,-96.6358],'Las Vegas,NV':[36.1699,-115.1398],'Laveen,AZ':[33.3645,-112.1693],
+  'Levelland,TX':[33.5873,-102.3779],'Limestone,TN':[36.2223,-82.6449],'Linden,AZ':[34.2406,-110.0459],'Litchfield Park,AZ':[33.4934,-112.3568],
+  'Littlefield,TX':[33.9165,-102.3252],'Live Oak,FL':[30.2949,-82.9849],'Llano,TX':[30.7524,-98.6737],'Lometa,TX':[31.2168,-98.3937],
+  'Lorena,TX':[31.3832,-97.2147],'Loveland,CO':[40.3978,-105.0749],'Lubbock,TX':[33.5779,-101.8552],'Many Farms,AZ':[36.3875,-109.6147],
+  'Marana,AZ':[32.4366,-111.2201],'Maricopa,AZ':[33.0581,-112.0476],'Marshall,TX':[32.5449,-94.3674],'Maypearl,TX':[32.3165,-97.0094],
+  'McAlester,OK':[34.9334,-95.7696],'McAlister,OK':[34.9334,-95.7696],'Medanales,NM':[36.2292,-106.2542],'Medicine Hat,AB':[50.0417,-110.6775],
+  'Meeker,OK':[35.4973,-96.8917],'Mineral Wells,TX':[32.8084,-98.1128],'Montgomery,TX':[30.3899,-95.6966],'Moriarty,NM':[34.992,-106.0497],
+  'Morristown,AZ':[33.8451,-112.8133],'Mounds,OK':[35.8735,-96.0597],'Mount Vernon,MO':[37.1039,-93.8169],'New Waverly,TX':[30.5368,-95.4841],
+  'Nogales,AZ':[31.3404,-110.9381],'Oak Lake,MB':[49.7167,-100.7167],'Ochelata,OK':[36.6006,-95.9753],'Odessa,TX':[31.8457,-102.3676],
+  'Oklahoma City,OK':[35.4676,-97.5164],'Ontario,OR':[44.0246,-116.9629],'Palmer,TX':[32.4335,-96.6747],'Paris,TX':[33.6609,-95.5555],
+  'Paso Robles,CA':[35.6263,-120.6901],'Pauls Valley,OK':[34.7401,-97.2228],'Pawhuska,OK':[36.6706,-96.3328],'Pendleton,OR':[45.6722,-118.7886],
+  'Petaluma,CA':[38.2324,-122.6367],'Pickens,SC':[34.884,-82.7074],'Ponder,TX':[33.1826,-97.2867],'Poteau,OK':[35.0534,-94.6213],
+  'Potter,NE':[41.2197,-103.3143],'Powell Butte,OR':[44.1179,-121.0285],'Prescott,AZ':[34.54,-112.4685],'Rapid City,SD':[44.0805,-103.231],
+  'Red Oak,TX':[32.5182,-96.8014],'Reno,NV':[39.5296,-119.8138],'Riverside,CA':[33.9533,-117.3961],'Riverton,WY':[43.0242,-108.3803],
+  'Robstown,TX':[27.7927,-97.6688],'Roseau,MN':[48.8453,-95.76],'Saginaw,TX':[32.8665,-97.3643],'Salina,UT':[38.9549,-111.8621],
+  'San Antonio,TX':[29.4241,-98.4936],'San Luis Obispo,CA':[35.2828,-120.6596],'Sanger,CA':[36.7077,-119.5546],'Santa Fe,NM':[35.687,-105.9378],
+  'Santa Maria,CA':[34.953,-120.4357],'Santo,TX':[32.6376,-98.1853],'Selah,WA':[46.6548,-120.5307],'Shawnee,OK':[35.3273,-96.9253],
+  'Show Low,AZ':[34.2542,-110.0298],'Socorro,NM':[34.0584,-106.8914],'South Jordan,UT':[40.5621,-111.9297],'Spanish Fork,UT':[40.1147,-111.6552],
+  'Spokane,WA':[47.6588,-117.426],'Springer,OK':[34.7176,-97.1286],'Springfield,TN':[36.5092,-86.885],'St. Johns,AZ':[34.5059,-109.3609],
+  'Stanton,TX':[32.1267,-101.7896],'Steamboat,AZ':[36.2517,-110.5764],'Stephenville / Graham,TX':[32.2209,-98.2023],'Stephenville,TX':[32.2207,-98.202],
+  'Sulphur Springs,TX':[33.1362,-95.601],'Taylor,TX':[30.571,-97.4097],'Terrell,TX':[32.7357,-96.2753],'Three Rivers,CA':[36.4388,-118.9063],
+  'Tilden,TX':[28.4651,-98.5512],'Tremonton,UT':[41.713,-112.166],'Tucson,AZ':[32.2226,-110.9747],'Tuscumbia,AL':[34.7312,-87.705],
+  'Weatherford,TX':[32.7593,-97.7972],'Wells,NV':[41.1135,-114.9627],'Whitesboro,TX':[33.6558,-96.9069],'Wichita Falls,TX':[33.9137,-98.4934],
+  'Wickenburg,AZ':[33.9651,-112.7296],'Willcox,AZ':[32.2527,-109.832],'Williamsville,MO':[36.9756,-90.5487],'Winnipeg,MB':[49.8951,-97.1384],
+  'Wittmann,AZ':[33.759,-112.5046],'Yelm,WA':[46.9426,-122.6151]
+};
+
+function getTrainerCoords(t) {
+  if (t.lat && t.lng) return [parseFloat(t.lat), parseFloat(t.lng)];
+  const city  = (t.city  || '').trim();
+  const state = (t.state || '').trim();
+  return CITY_COORDS[city + ',' + state] || null;
+}
+
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 3958.8;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+let userLat = null, userLng = null;
+let nearMeRadius = 100;
+let nearMeActive = false;
+
+function applyNearMe(btn) {
+  if (nearMeActive) {
+    // Toggle off
+    nearMeActive = false;
+    userLat = null; userLng = null;
+    btn.classList.remove('active');
+    btn.setAttribute('aria-pressed', 'false');
+    btn.style.background = '';
+    btn.style.color = '';
+    btn.style.borderColor = '';
+    document.getElementById('nearme-radius-bar').style.display = 'none';
+    document.getElementById('nearme-status').textContent = '';
+    applyFilters();
+    return;
+  }
+  if (!navigator.geolocation) {
+    document.getElementById('nearme-status').textContent = '⚠️ Geolocation not supported';
+    document.getElementById('nearme-radius-bar').style.display = 'flex';
+    return;
+  }
+  document.getElementById('nearme-radius-bar').style.display = 'flex';
+  document.getElementById('nearme-status').textContent = 'Locating…';
+  navigator.geolocation.getCurrentPosition(
+    pos => {
+      userLat = pos.coords.latitude;
+      userLng = pos.coords.longitude;
+      nearMeActive = true;
+      btn.classList.add('active');
+      btn.setAttribute('aria-pressed', 'true');
+      btn.style.background = 'var(--primary)';
+      btn.style.color = '#fff';
+      btn.style.borderColor = 'var(--primary)';
+      document.getElementById('nearme-status').textContent = '';
+      // Clear state filter when Near Me activates
+      activeState = '';
+      document.getElementById('state-filter').value = '';
+      applyFilters();
+    },
+    err => {
+      document.getElementById('nearme-status').textContent = '⚠️ Location access denied';
+      nearMeActive = false;
+    },
+    { timeout: 8000 }
+  );
+}
+
+function setNearMeRadius(miles, btn) {
+  nearMeRadius = miles;
+  document.querySelectorAll('#nearme-radius-bar .chip').forEach(c => c.classList.remove('active'));
+  btn.classList.add('active');
+  if (nearMeActive && userLat !== null) applyFilters();
+}
+
 
 /* ── INIT ── */
 fetchTrainers();
