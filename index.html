@@ -863,11 +863,19 @@ let searchTerm = '';
 /* ── SUPABASE FETCH ── */
 async function fetchTrainers() {
   try {
-    const res = await fetch(`${SB_URL}/rest/v1/trainers?select=*&order=name.asc&limit=500`, {
-      headers: { 'apikey': SB_KEY, 'Authorization': `Bearer ${SB_KEY}` }
-    });
-    if (!res.ok) throw new Error('Fetch failed');
-    allTrainers = await res.json();
+    const PAGE = 1000;
+    let all = [], from = 0, done = false;
+    while (!done) {
+      const res = await fetch(`${SB_URL}/rest/v1/trainers?select=*&order=name.asc&limit=${PAGE}&offset=${from}`, {
+        headers: { 'apikey': SB_KEY, 'Authorization': `Bearer ${SB_KEY}`, 'Prefer': 'count=none' }
+      });
+      if (!res.ok) throw new Error('Fetch failed');
+      const batch = await res.json();
+      all = all.concat(batch);
+      done = batch.length < PAGE;
+      from += PAGE;
+    }
+    allTrainers = all;
     initDirectory();
   } catch(e) {
     document.getElementById('trainers-grid').innerHTML =
