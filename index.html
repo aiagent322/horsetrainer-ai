@@ -1129,26 +1129,41 @@ document.getElementById('intake-next').addEventListener('click', async () => {
 
     // Call AI via proxy worker
     try {
-      const prompt = `You are a horse trainer matchmaker. Based on the following information, provide a specific, helpful recommendation for what kind of horse trainer this person needs and what to look for. Keep it under 200 words, practical and direct.
-
-Discipline: ${answers.discipline || 'Not specified'}
-Horse Age: ${answers.horse_age || 'Not specified'}
-Situation: ${answers.situation || 'Not specified'}
-Issues: ${Array.isArray(answers.problems) ? answers.problems.join(', ') : answers.problems || 'None'}
-Safety Rating: ${answers.danger || 2}/5
-Rider Level: ${answers.rider_level || 'Not specified'}
-Location: ${answers.city || 'Not specified'}
-
-Provide a concrete recommendation including: (1) the type of trainer they need, (2) 2-3 specific things to ask a potential trainer, and (3) one red flag to watch for.`;
-
       const res = await fetch('https://horse-trainer-proxy.bridleandbit.workers.dev', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ prompt })
+        body: JSON.stringify({ intake_data: {
+          discipline: answers.discipline || 'general',
+          horse_age: answers.horse_age,
+          training_situation: answers.situation,
+          problems: Array.isArray(answers.problems) ? answers.problems : (answers.problems ? [answers.problems] : []),
+          danger_rating: answers.danger || 1,
+          rider_level: answers.rider_level,
+          state: answers.city
+        }})
       });
       const data = await res.json();
-      const text = data.content?.[0]?.text || data.result || 'We were unable to generate a recommendation at this time. Please browse the directory below.';
-      document.getElementById('ai-text').textContent = text;
+
+      // Worker returns structured JSON: { summary, risk_level, training_pathway, trainer_note, pain_flag, pain_message }
+      let html = '';
+      if (data.summary) {
+        html += `<p style="margin-bottom:12px;">${data.summary}</p>`;
+      }
+      if (data.pain_flag && data.pain_message) {
+        html += `<div style="background:#fef3cd;border-left:3px solid #d4a017;padding:10px 14px;border-radius:4px;margin-bottom:12px;font-size:0.88rem;">⚠️ ${data.pain_message}</div>`;
+      }
+      if (data.training_pathway && data.training_pathway.length) {
+        html += `<div style="margin-bottom:12px;"><strong style="font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;color:#4a5568;">Training Steps</strong><ol style="margin:8px 0 0 18px;line-height:1.7;font-size:0.9rem;">`;
+        data.training_pathway.forEach(step => { html += `<li>${step}</li>`; });
+        html += `</ol></div>`;
+      }
+      if (data.trainer_note) {
+        html += `<div style="background:#f4f6f8;padding:10px 14px;border-radius:4px;font-size:0.88rem;"><strong>Trainer tip:</strong> ${data.trainer_note}</div>`;
+      }
+      if (!html) {
+        html = '<p>Browse the trainer directory below to find the right match for your horse.</p>';
+      }
+      document.getElementById('ai-text').innerHTML = html;
     } catch(e) {
       document.getElementById('ai-text').textContent = 'Browse the trainer directory below to find the right match for your horse.';
     }
