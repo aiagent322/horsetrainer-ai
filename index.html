@@ -1166,30 +1166,38 @@ document.getElementById('intake-next').addEventListener('click', async () => {
           state: answers.city
         }})
       });
+
+      if (!res.ok) throw new Error('Worker returned ' + res.status);
+
       const data = await res.json();
+      if (data.error) throw new Error(data.error);
 
       // Worker returns structured JSON: { summary, risk_level, training_pathway, trainer_note, pain_flag, pain_message }
-      let html = '';
+      let out = '';
       if (data.summary) {
-        html += `<p style="margin-bottom:12px;">${data.summary}</p>`;
+        const riskColor = data.risk_level === 'red' ? '#dc2626' : data.risk_level === 'yellow' ? '#d97706' : '#047857';
+        out += `<p style="margin-bottom:12px;line-height:1.65;">${data.summary}</p>`;
       }
       if (data.pain_flag && data.pain_message) {
-        html += `<div style="background:#fef3cd;border-left:3px solid #d4a017;padding:10px 14px;border-radius:4px;margin-bottom:12px;font-size:0.88rem;">⚠️ ${data.pain_message}</div>`;
+        out += `<div style="background:#fef3cd;border-left:3px solid #d4a017;padding:10px 14px;border-radius:4px;margin-bottom:12px;font-size:0.88rem;">⚠️ ${data.pain_message}</div>`;
       }
       if (data.training_pathway && data.training_pathway.length) {
-        html += `<div style="margin-bottom:12px;"><strong style="font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;color:#4a5568;">Training Steps</strong><ol style="margin:8px 0 0 18px;line-height:1.7;font-size:0.9rem;">`;
-        data.training_pathway.forEach(step => { html += `<li>${step}</li>`; });
-        html += `</ol></div>`;
+        out += `<div style="margin-bottom:12px;"><strong style="font-size:0.82rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--text-mid);">Suggested Training Steps</strong><ol style="margin:8px 0 0 18px;line-height:1.75;font-size:0.9rem;color:var(--text-mid);">`;
+        data.training_pathway.forEach(step => { out += `<li style="margin-bottom:4px;">${step}</li>`; });
+        out += `</ol></div>`;
       }
       if (data.trainer_note) {
-        html += `<div style="background:#f4f6f8;padding:10px 14px;border-radius:4px;font-size:0.88rem;"><strong>Trainer tip:</strong> ${data.trainer_note}</div>`;
+        out += `<div style="background:var(--bg-alt);padding:10px 14px;border-radius:4px;font-size:0.88rem;border-left:3px solid var(--secondary);"><strong style="color:var(--primary);">Trainer tip:</strong> ${data.trainer_note}</div>`;
       }
-      if (!html) {
-        html = '<p>Browse the trainer directory below to find the right match for your horse.</p>';
-      }
-      document.getElementById('ai-text').innerHTML = html;
+      document.getElementById('ai-text').innerHTML = out || '<p>Your responses have been analyzed. Browse trainers below to find your match.</p>';
+
     } catch(e) {
-      document.getElementById('ai-text').textContent = 'Browse the trainer directory below to find the right match for your horse.';
+      document.getElementById('ai-text').innerHTML = `
+        <div style="text-align:center;padding:8px 0;">
+          <div style="font-size:2rem;margin-bottom:8px;">⚠️</div>
+          <p style="margin-bottom:12px;color:var(--text-mid);">Our AI is temporarily unavailable. Browse the directory to find your trainer.</p>
+          <button class="btn btn-outline" onclick="location.reload()" style="font-size:0.85rem;padding:8px 16px;">Try Again</button>
+        </div>`;
     }
 
     document.getElementById('ai-loading').classList.add('hidden');
