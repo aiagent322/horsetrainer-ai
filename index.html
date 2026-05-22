@@ -412,16 +412,18 @@ img { max-width:100%; height:auto; display:block; }
 /* ═══════════════════════════════════════
    HORSE TRAINING Q&A SECTION
    ═══════════════════════════════════════ */
-.qa-section { padding:48px 0; background:var(--bg); }
+.qa-section { padding:48px 0; background:var(--bg-alt); }
 .qa-section .section-title { margin-bottom:4px; }
 .qa-section .section-sub { margin-bottom:20px; }
 
+/* Search bar */
 .qa-search-bar {
-  display:flex; gap:10px; margin-bottom:18px;
+  display:flex; gap:10px; margin-bottom:28px;
   background:#fff; border:1.5px solid var(--border);
   border-radius:var(--radius); padding:6px 12px;
   align-items:center;
   transition:border-color var(--transition);
+  max-width:560px;
 }
 .qa-search-bar:focus-within { border-color:var(--secondary); }
 .qa-search-bar svg { flex-shrink:0; color:var(--text-light); }
@@ -431,39 +433,87 @@ img { max-width:100%; height:auto; display:block; }
 }
 .qa-search-input::placeholder { color:var(--text-light); }
 
-.qa-cat-chips { overflow-x:auto; -webkit-overflow-scrolling:touch; padding-bottom:4px; margin-bottom:24px; }
-.qa-cat-chips .chips { display:flex; gap:8px; white-space:nowrap; padding:2px 0; }
-
-.qa-results-count {
-  font-size:0.82rem; color:var(--text-light); margin-bottom:14px;
+/* Category card grid */
+.qa-cat-grid {
+  display:grid; gap:10px;
+  grid-template-columns:repeat(2,1fr);
+  margin-bottom:32px;
 }
+@media(min-width:480px) { .qa-cat-grid { grid-template-columns:repeat(3,1fr); } }
+@media(min-width:680px) { .qa-cat-grid { grid-template-columns:repeat(4,1fr); } }
+@media(min-width:900px) { .qa-cat-grid { grid-template-columns:repeat(5,1fr); } }
 
+.qa-cat-card {
+  display:flex; flex-direction:column; align-items:center; gap:7px;
+  padding:16px 10px 14px;
+  background:#fff; border:1.5px solid var(--border); border-radius:var(--radius);
+  cursor:pointer; text-align:center;
+  transition:all var(--transition);
+  user-select:none; -webkit-user-select:none;
+}
+.qa-cat-card:hover {
+  border-color:var(--secondary); box-shadow:var(--shadow-md); transform:translateY(-2px);
+}
+.qa-cat-card.active {
+  border-color:var(--primary); background:var(--primary);
+  box-shadow:var(--shadow-md);
+}
+.qa-cat-icon {
+  width:46px; height:46px; border-radius:var(--radius);
+  display:flex; align-items:center; justify-content:center; font-size:1.4rem;
+  flex-shrink:0;
+}
+.qa-cat-name {
+  font-size:0.77rem; font-weight:700; color:var(--text); line-height:1.3;
+}
+.qa-cat-card.active .qa-cat-name { color:#fff; }
+.qa-cat-count {
+  font-size:0.7rem; font-weight:600;
+  background:var(--bg-alt); color:var(--text-light);
+  padding:2px 9px; border-radius:10px;
+}
+.qa-cat-card.active .qa-cat-count { background:rgba(255,255,255,0.18); color:rgba(255,255,255,0.9); }
+
+/* Results section */
+.qa-results-section { display:none; }
+.qa-results-section.visible { display:block; }
+.qa-results-header {
+  display:flex; align-items:center; justify-content:space-between;
+  margin-bottom:16px; flex-wrap:wrap; gap:8px;
+}
+.qa-results-title {
+  font-size:1.05rem; font-weight:700; color:var(--primary);
+}
+.qa-back-btn {
+  display:inline-flex; align-items:center; gap:5px;
+  font-size:0.82rem; font-weight:600; color:var(--secondary);
+  background:none; border:none; cursor:pointer; padding:0;
+}
+.qa-back-btn:hover { color:var(--primary); }
+.qa-results-count { font-size:0.82rem; color:var(--text-light); margin-bottom:14px; }
+
+/* Accordion */
 .qa-list { display:flex; flex-direction:column; gap:0; }
 .qa-item {
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  margin-bottom:8px;
-  background:#fff;
-  overflow:hidden;
+  border:1px solid var(--border); border-radius:var(--radius);
+  margin-bottom:8px; background:#fff; overflow:hidden;
   transition:box-shadow var(--transition);
 }
 .qa-item:hover { box-shadow:var(--shadow-md); }
 .qa-item.open { box-shadow:var(--shadow-md); border-color:var(--secondary); }
-
 .qa-q {
   display:flex; align-items:center; justify-content:space-between; gap:12px;
   padding:14px 16px; cursor:pointer;
   font-weight:600; font-size:0.95rem; color:var(--text);
-  user-select:none; -webkit-user-select:none;
-  min-height:52px;
+  user-select:none; -webkit-user-select:none; min-height:52px;
 }
 .qa-q:hover { color:var(--secondary); }
 .qa-item.open .qa-q { color:var(--primary); border-bottom:1px solid var(--border-light); }
 .qa-q-left { display:flex; align-items:center; gap:10px; }
 .qa-cat-badge {
-  display:inline-block;
-  font-size:0.68rem; font-weight:600; letter-spacing:0.04em;
-  text-transform:uppercase; padding:3px 8px; border-radius:12px;
+  display:inline-block; font-size:0.68rem; font-weight:600;
+  letter-spacing:0.04em; text-transform:uppercase;
+  padding:3px 8px; border-radius:12px;
   background:var(--bg-alt); color:var(--text-mid);
   flex-shrink:0; white-space:nowrap;
 }
@@ -472,19 +522,15 @@ img { max-width:100%; height:auto; display:block; }
   transition:transform 0.22s ease; color:var(--text-light);
 }
 .qa-item.open .qa-chevron { transform:rotate(180deg); color:var(--secondary); }
-
 .qa-a {
   padding:14px 16px 16px;
-  font-size:0.9rem; color:var(--text-mid); line-height:1.7;
-  display:none;
+  font-size:0.9rem; color:var(--text-mid); line-height:1.7; display:none;
 }
 .qa-item.open .qa-a { display:block; }
-
 .qa-empty {
   text-align:center; padding:40px 20px;
   color:var(--text-light); font-size:0.95rem;
 }
-
 @media(min-width:600px) {
   .qa-q { font-size:1rem; }
   .qa-a { font-size:0.93rem; }
@@ -644,46 +690,23 @@ img { max-width:100%; height:auto; display:block; }
     <!-- Search -->
     <div class="qa-search-bar">
       <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input type="text" class="qa-search-input" id="qa-search" placeholder="Search questions…" autocomplete="off" aria-label="Search training questions">
+      <input type="text" class="qa-search-input" id="qa-search" placeholder="Search all questions…" autocomplete="off" aria-label="Search training questions">
     </div>
 
-    <!-- Category chips -->
-    <div class="qa-cat-chips" aria-label="Filter by category">
-      <div class="chips">
-        <button class="chip active" data-qa-cat="" aria-pressed="true">All <span id="qa-chip-all-count"></span></button>
-        <button class="chip" data-qa-cat="Reining" aria-pressed="false">Reining</button>
-        <button class="chip" data-qa-cat="Cutting" aria-pressed="false">Cutting</button>
-        <button class="chip" data-qa-cat="Reined Cow Horse" aria-pressed="false">Reined Cow Horse</button>
-        <button class="chip" data-qa-cat="Barrel Racing" aria-pressed="false">Barrel Racing</button>
-        <button class="chip" data-qa-cat="Team Roping" aria-pressed="false">Team Roping</button>
-        <button class="chip" data-qa-cat="Western Pleasure" aria-pressed="false">Western Pleasure</button>
-        <button class="chip" data-qa-cat="Ranch Riding" aria-pressed="false">Ranch Riding</button>
-        <button class="chip" data-qa-cat="Working Equitation" aria-pressed="false">Working Equitation</button>
-        <button class="chip" data-qa-cat="Mounted Shooting" aria-pressed="false">Mounted Shooting</button>
-        <button class="chip" data-qa-cat="Trail" aria-pressed="false">Trail</button>
-        <button class="chip" data-qa-cat="Therapeutic Riding" aria-pressed="false">Therapeutic Riding</button>
-        <button class="chip" data-qa-cat="Choosing a Trainer" aria-pressed="false">Choosing a Trainer</button>
-        <button class="chip" data-qa-cat="Horsemanship" aria-pressed="false">Horsemanship</button>
-        <button class="chip" data-qa-cat="Horse Care" aria-pressed="false">Horse Care</button>
-        <button class="chip" data-qa-cat="Facilities" aria-pressed="false">Facilities</button>
-        <button class="chip" data-qa-cat="Equipment" aria-pressed="false">Equipment</button>
-        <button class="chip" data-qa-cat="Competition" aria-pressed="false">Competition</button>
-        <button class="chip" data-qa-cat="Collection" aria-pressed="false">Collection</button>
-        <button class="chip" data-qa-cat="Gaits" aria-pressed="false">Gaits</button>
-        <button class="chip" data-qa-cat="Position &amp; Seat" aria-pressed="false">Position &amp; Seat</button>
-        <button class="chip" data-qa-cat="Safety" aria-pressed="false">Safety</button>
-        <button class="chip" data-qa-cat="Speed" aria-pressed="false">Speed</button>
-        <button class="chip" data-qa-cat="Steer Wrestling" aria-pressed="false">Steer Wrestling</button>
-        <button class="chip" data-qa-cat="Breakaway Roping" aria-pressed="false">Breakaway Roping</button>
-        <button class="chip" data-qa-cat="Working Cow Horse" aria-pressed="false">Working Cow Horse</button>
+    <!-- Category card grid (dynamically populated) -->
+    <div class="qa-cat-grid" id="qa-cat-grid" aria-label="Browse by category"></div>
 
+    <!-- Results panel (shown after card click or search) -->
+    <div class="qa-results-section" id="qa-results-section">
+      <div class="qa-results-header">
+        <div class="qa-results-title" id="qa-results-title"></div>
+        <button class="qa-back-btn" id="qa-back-btn" aria-label="Back to all categories">
+          ← All Categories
+        </button>
       </div>
+      <div class="qa-results-count" id="qa-results-count" aria-live="polite"></div>
+      <div class="qa-list" id="qa-list" aria-label="Training questions and answers"></div>
     </div>
-
-    <div class="qa-results-count" id="qa-results-count" aria-live="polite"></div>
-
-    <!-- Accordion list -->
-    <div class="qa-list" id="qa-list" aria-label="Training questions and answers"></div>
   </div>
 </section>
 
@@ -1436,29 +1459,106 @@ fetchTrainers();
     });
   }
 
-  // Category chips
-  document.querySelectorAll('[data-qa-cat]').forEach(chip => {
-    chip.addEventListener('click', function() {
-      activeQaCat = this.dataset.qaCat;
-      document.querySelectorAll('[data-qa-cat]').forEach(c => {
-        c.classList.remove('active'); c.setAttribute('aria-pressed','false');
-      });
-      this.classList.add('active'); this.setAttribute('aria-pressed','true');
-      renderQA();
+  // ── CATEGORY ICONS & COLORS ──
+  const CAT_ICONS = {
+    'Reining':'🏆','Cutting':'🐄','Reined Cow Horse':'🐂','Barrel Racing':'🛢️',
+    'Team Roping':'🤠','Western Pleasure':'⭐','Ranch Riding':'🌵',
+    'Working Equitation':'🎯','Mounted Shooting':'🎯','Trail':'🏔️',
+    'Therapeutic Riding':'❤️','Choosing a Trainer':'🔍','Horsemanship':'🐎',
+    'Horse Care':'🌿','Facilities':'🏠','Equipment':'🧰','Competition':'🏅',
+    'Collection':'🎭','Gaits':'👣','Position & Seat':'🎪','Safety':'🛡️',
+    'Speed':'⚡','Steer Wrestling':'💪','Breakaway Roping':'🪢',
+    'Working Cow Horse':'🐃'
+  };
+  const CAT_BG = {
+    'Reining':'#dbeafe','Cutting':'#fef3c7','Reined Cow Horse':'#d1fae5',
+    'Barrel Racing':'#fce7f3','Team Roping':'#e0e7ff','Western Pleasure':'#f3e8ff',
+    'Ranch Riding':'#ffedd5','Working Equitation':'#ccfbf1','Mounted Shooting':'#fef9c3',
+    'Trail':'#dcfce7','Therapeutic Riding':'#fce7f3','Choosing a Trainer':'#e0e7ff',
+    'Horsemanship':'#dbeafe','Horse Care':'#d1fae5','Facilities':'#fef3c7',
+    'Equipment':'#f3e8ff','Competition':'#fce7f3','Collection':'#cffafe',
+    'Gaits':'#ffedd5','Position & Seat':'#e0e7ff','Safety':'#fee2e2',
+    'Speed':'#fef9c3','Steer Wrestling':'#ffedd5','Breakaway Roping':'#dbeafe',
+    'Working Cow Horse':'#d1fae5'
+  };
+
+  // ── BUILD CATEGORY CARDS ──
+  function buildCatCards() {
+    const counts = {};
+    QA_DATA.forEach(item => { counts[item.Category] = (counts[item.Category]||0)+1; });
+    const grid = document.getElementById('qa-cat-grid');
+    if (!grid) return;
+    grid.innerHTML = '';
+
+    // All Topics card
+    const allCard = document.createElement('div');
+    allCard.className = 'qa-cat-card active';
+    allCard.dataset.cat = '';
+    allCard.innerHTML = `<div class="qa-cat-icon" style="background:#dbeafe;">🐎</div><div class="qa-cat-name">All Topics</div><div class="qa-cat-count">${QA_DATA.length}</div>`;
+    allCard.addEventListener('click', () => selectCatCard('', allCard, 'All Topics'));
+    grid.appendChild(allCard);
+
+    // Per-category cards sorted by count desc
+    Object.entries(counts).sort((a,b)=>b[1]-a[1]).forEach(([cat,cnt]) => {
+      const card = document.createElement('div');
+      card.className = 'qa-cat-card';
+      card.dataset.cat = cat;
+      const icon = CAT_ICONS[cat] || '📋';
+      const bg   = CAT_BG[cat]   || '#f4f6f8';
+      card.innerHTML = `<div class="qa-cat-icon" style="background:${bg};">${icon}</div><div class="qa-cat-name">${cat}</div><div class="qa-cat-count">${cnt}</div>`;
+      card.addEventListener('click', () => selectCatCard(cat, card, cat));
+      grid.appendChild(card);
     });
+  }
+
+  function selectCatCard(cat, clickedCard, label) {
+    activeQaCat = cat;
+    qaSearch = '';
+    document.getElementById('qa-search').value = '';
+    document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
+    clickedCard.classList.add('active');
+    document.getElementById('qa-results-title').textContent = label;
+    showResults();
+  }
+
+  function showResults() {
+    const section = document.getElementById('qa-results-section');
+    section.classList.add('visible');
+    renderQA();
+    section.scrollIntoView({ behavior:'smooth', block:'nearest' });
+  }
+
+  // Back button
+  document.getElementById('qa-back-btn').addEventListener('click', () => {
+    activeQaCat = '';
+    qaSearch = '';
+    document.getElementById('qa-search').value = '';
+    document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
+    const allCard = document.querySelector('.qa-cat-card[data-cat=""]');
+    if (allCard) allCard.classList.add('active');
+    document.getElementById('qa-results-section').classList.remove('visible');
   });
 
-  // Search
+  // Search — show results panel immediately
   document.getElementById('qa-search').addEventListener('input', e => {
     qaSearch = e.target.value;
-    renderQA();
+    activeQaCat = '';
+    document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
+    const allCard = document.querySelector('.qa-cat-card[data-cat=""]');
+    if (allCard) allCard.classList.add('active');
+    if (qaSearch.length > 1) {
+      document.getElementById('qa-results-title').textContent = 'Search Results';
+      showResults();
+    } else {
+      document.getElementById('qa-results-section').classList.remove('visible');
+    }
   });
 
   // Init — load from Supabase
   (async function initQA() {
     try {
       const res = await fetch(
-        'https://ptuuuishzwwgmaexneul.supabase.co/rest/v1/qa?select=id,category,question,answer&order=category&active=eq.true&limit=500',
+        'https://ptuuuishzwwgmaexneul.supabase.co/rest/v1/qa?select=id,category,question,answer&order=category.asc,question.asc&limit=1000',
         { headers: { 'apikey': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB0dXV1aXNoend3Z21hZXhuZXVsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc2ODQ4NTAsImV4cCI6MjA5MzI2MDg1MH0.y55GTkYHdfzh1P9Gv4AFoox7ahC_Y9Pr4gqsyF-da3c' } }
       );
       const data = await res.json();
@@ -1471,10 +1571,9 @@ fetchTrainers();
     } catch(e) {
       console.error('QA load error', e);
     }
-    // Update subtitle with live count
     const sub = document.querySelector('#horse-training-qa .section-sub');
-    if (sub) sub.textContent = QA_DATA.length + ' expert answers across reining, barrel racing, team roping, and more.';
-    renderQA();
+    if (sub) sub.textContent = QA_DATA.length + ' expert answers across reining, barrel racing, team roping, cutting, and more.';
+    buildCatCards();
   })();
 })();
 
