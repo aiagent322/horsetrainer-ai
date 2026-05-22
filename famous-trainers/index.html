@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Famous Horse Trainers – Biographies | HorseTrainer.ai</title>
+<meta name="description" content="In-depth biographies of the most influential horse trainers in history — from the founding fathers of natural horsemanship to reining legends and clinic pioneers. Discover the lives, philosophies, and legacies that shaped modern horsemanship.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://horsetrainer.ai/famous-trainers">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,500;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --ink:       #18140f;
+    --char:      #2c241a;
+    --saddle:    #5c3218;
+    --leather:   #7a4a25;
+    --buckskin:  #c49a5a;
+    --gold:      #c8912a;
+    --gold-lt:   #e0b44a;
+    --cream:     #f5eedf;
+    --parchment: #ede0c4;
+    --dust:      #c8baa0;
+    --smoke:     #f9f5ed;
+    --sage:      #6b8059;
+    --rust:      #8b3a1a;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--smoke);
+    color: var(--ink);
+    font-family: 'Lora', Georgia, serif;
+    line-height: 1.75;
+    font-size: 16px;
+  }
+
+  /* ── NAV ── */
+  .site-nav {
+    background: var(--ink);
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    height: 50px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 13px;
+  }
+  .site-nav a { color: var(--dust); text-decoration: none; }
+  .site-nav a:hover { color: var(--gold-lt); }
+  .site-nav .sep { color: #3a2e22; }
+  .site-nav .brand { color: var(--gold); font-weight: 700; letter-spacing: .03em; }
+
+  /* ── HERO ── */
+  .hero {
+    background: var(--char);
+    position: relative;
+    overflow: hidden;
+    padding: 88px 24px 80px;
+    text-align: center;
+  }
+
+  /* aged paper grain */
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    background-size: 300px;
+    pointer-events: none;
+  }
+
+  /* decorative arch lines */
+  .hero::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 70% 60% at 50% 100%, rgba(200,145,42,.12) 0%, transparent 70%),
+      radial-gradient(ellipse 100% 40% at 50% -5%, rgba(200,145,42,.06) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 2;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+
+  .hero-eyebrow {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 11px;
+    letter-spacing: .24em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
+  .hero-eyebrow::before,
+  .hero-eyebrow::after {
+    content: '';
+    display: block;
+    width: 48px; height: 1px;
+    background: var(--gold);
+    opacity: .6;
+  }
+
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(38px, 6vw, 70px);
+    font-weight: 900;
+    line-height: 1.05;
+    color: var(--cream);
+    letter-spacing: -.015em;
+  }
+  .hero h1 em {
+    display: block;
+    font-style: italic;
+    color: var(--buckskin);
+  }
+
+  .hero-sub {
+    margin-top: 28px;
+    font-style: italic;
+    font-size: 19px;
+    color: var(--dust);
+    line-height: 1.55;
+    max-width: 580px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-divider {
+    margin: 36px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    color: var(--gold);
+    font-size: 12px;
+    letter-spacing: 8px;
+    opacity: .5;
+  }
+
+  /* ── FILTER BAR ── */
+  .filter-bar {
+    background: var(--parchment);
+    border-bottom: 1px solid var(--dust);
+    padding: 0 24px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    gap: 0;
+    overflow-x: auto;
+    height: 52px;
+  }
+  .filter-btn {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 11.5px;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    color: var(--leather);
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    padding: 0 18px;
+    height: 52px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color .15s, border-color .15s;
+  }
+  .filter-btn:hover { color: var(--saddle); }
+  .filter-btn.active {
+    color: var(--saddle);
+    border-bottom-color: var(--gold);
+    font-weight: 700;
+  }
+
+  /* ── COUNT BAR ── */
+  .count-bar {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px 24px 16px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .count-bar h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    color: var(--char);
+  }
+  .count-bar p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+    color: var(--leather);
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+
+  /* ── TRAINER GRID ── */
+  .trainers-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+  }
+  @media(max-width:700px){ .trainers-grid { grid-template-columns: 1fr; } }
+
+  /* ── TRAINER CARD ── */
+  .trainer-card {
+    background: var(--cream);
+    border: 1px solid var(--dust);
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow .2s, transform .2s;
+  }
+  .trainer-card:hover {
+    box-shadow: 0 8px 32px rgba(0,0,0,.13);
+    transform: translateY(-2px);
+  }
+
+  /* era color strip */
+  .card-stripe {
+    height: 4px;
+    width: 100%;
+  }
+
+  .card-body {
+    padding: 24px 26px 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-era {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--leather);
+    margin-bottom: 10px;
+  }
+
+  .card-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--char);
+    line-height: 1.1;
+    margin-bottom: 4px;
+  }
+
+  .card-dates {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+    color: var(--leather);
+    letter-spacing: .05em;
+    margin-bottom: 14px;
+  }
+
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 16px;
+  }
+  .card-tag {
+    background: var(--parchment);
+    border: 1px solid var(--dust);
+    color: var(--saddle);
+    font-size: 10.5px;
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: .06em;
+    padding: 3px 9px;
+    text-transform: uppercase;
+  }
+
+  .card-excerpt {
+    font-size: 14.5px;
+    color: var(--char);
+    line-height: 1.6;
+    flex: 1;
+    margin-bottom: 20px;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 16px;
+    border-top: 1px solid var(--dust);
+  }
+  .card-discipline {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--leather);
+  }
+  .card-arrow {
+    width: 36px; height: 36px;
+    background: var(--saddle);
+    color: var(--cream);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    transition: background .15s;
+  }
+  .trainer-card:hover .card-arrow { background: var(--gold); }
+
+  /* LIVE badge */
+  .live-badge {
+    position: absolute;
+    top: 16px; right: 16px;
+    background: var(--sage);
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 9.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: 3px 9px;
+  }
+
+  /* COMING SOON card variant */
+  .trainer-card.coming-soon {
+    opacity: .62;
+    pointer-events: none;
+    cursor: default;
+  }
+  .trainer-card.coming-soon:hover {
+    box-shadow: none;
+    transform: none;
+  }
+  .soon-badge {
+    position: absolute;
+    top: 16px; right: 16px;
+    background: var(--buckskin);
+    color: var(--char);
+    font-family: 'Libre Baskerville', serif;
+    font-size: 9.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: 3px 9px;
+  }
+  .trainer-card.coming-soon .card-arrow {
+    background: var(--dust);
+  }
+
+  /* ── STRIPE COLORS by discipline ── */
+  .stripe-natural   { background: linear-gradient(90deg, #6b8059, #a8bc9a); }
+  .stripe-reining   { background: linear-gradient(90deg, #1a1a2e, #e8b84b); }
+  .stripe-cutting   { background: linear-gradient(90deg, #5c2800, #c8912a); }
+  .stripe-racing    { background: linear-gradient(90deg, #1a3a5c, #4a9ab5); }
+  .stripe-dressage  { background: linear-gradient(90deg, #2a1a3e, #9a7ac8); }
+  .stripe-western   { background: linear-gradient(90deg, #3e2a0a, #c8912a); }
+  .stripe-halter    { background: linear-gradient(90deg, #1a3a1a, #6b9a5c); }
+
+  /* ── SECTION DIVIDER ── */
+  .section-head {
+    max-width: 1200px;
+    margin: 48px auto 0;
+    padding: 0 24px 20px;
+    border-bottom: 2px solid var(--parchment);
+  }
+  .section-head h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--leather);
+    letter-spacing: .04em;
+  }
+
+  /* ── ABOUT SECTION ── */
+  .about-section {
+    background: var(--char);
+    padding: 64px 24px;
+  }
+  .about-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 56px;
+    align-items: start;
+  }
+  @media(max-width:700px){ .about-inner { grid-template-columns: 1fr; gap: 32px; } }
+
+  .about-inner h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--cream);
+    line-height: 1.2;
+    margin-bottom: 20px;
+  }
+  .about-inner h2 em { font-style: italic; color: var(--buckskin); }
+  .about-inner p {
+    font-size: 15px;
+    color: var(--dust);
+    line-height: 1.75;
+    margin-bottom: 16px;
+  }
+  .about-inner p:last-child { margin-bottom: 0; }
+
+  .about-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .about-stat {
+    border-top: 2px solid var(--gold);
+    padding-top: 14px;
+  }
+  .about-stat-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-weight: 900;
+    color: var(--cream);
+    line-height: 1;
+  }
+  .about-stat-label {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--dust);
+    margin-top: 5px;
+  }
+
+  /* ── FOOTER ── */
+  .bio-footer { background: var(--ink); color: var(--dust); padding: 40px 24px; }
+  .bio-footer-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 16px;
+  }
+  .bio-footer p { font-size: 13px; }
+  .bio-footer a { color: var(--buckskin); text-decoration: none; }
+  .bio-footer-brand { font-family: 'Playfair Display', serif; font-size: 18px; color: var(--cream); }
+  .bio-footer-brand span { color: var(--gold); }
+
+  /* filter JS */
+  .trainer-card[data-cat] { transition: opacity .2s, transform .2s; }
+  .trainer-card.hidden { display: none; }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a class="brand" href="/">HorseTrainer.ai</a>
+  <span class="sep">/</span>
+  <span style="color:var(--cream)">Famous Horse Trainers</span>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">HorseTrainer.ai</div>
+    <h1>Famous Horse<br><em>Trainers</em></h1>
+    <p class="hero-sub">In-depth biographies of the men and women who defined how we think about, train, and relate to horses — from the founding fathers of natural horsemanship to reining legends, cutting champions, and clinic pioneers.</p>
+    <div class="hero-divider">✦ &nbsp; ✦ &nbsp; ✦</div>
+  </div>
+</header>
+
+<!-- FILTER BAR -->
+<nav class="filter-bar" aria-label="Filter by discipline">
+  <button class="filter-btn active" data-filter="all">All Trainers</button>
+  <button class="filter-btn" data-filter="natural">Natural Horsemanship</button>
+  <button class="filter-btn" data-filter="reining">Reining</button>
+  <button class="filter-btn" data-filter="cutting">Cutting</button>
+  <button class="filter-btn" data-filter="western">Western Performance</button>
+  <button class="filter-btn" data-filter="dressage">Dressage</button>
+  <button class="filter-btn" data-filter="racing">Racing</button>
+</nav>
+
+<!-- LIVE BIOGRAPHIES -->
+<div class="count-bar">
+  <h2>Published Biographies</h2>
+  <p>3 profiles live &nbsp;·&nbsp; More coming soon</p>
+</div>
+
+<div class="trainers-grid" id="trainers-grid">
+
+  <!-- BILL DORRANCE -->
+  <a href="/famous-trainers/bill-dorrance" class="trainer-card" data-cat="natural">
+    <span class="live-badge">Live</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">Oregon · California &nbsp;·&nbsp; Living Legend</div>
+      <div class="card-name">Bill Dorrance</div>
+      <div class="card-dates">January 19, 1906 – July 20, 1999</div>
+      <div class="card-tags">
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Rawhide Braiding</span>
+        <span class="card-tag">Buckaroo</span>
+      </div>
+      <p class="card-excerpt">Co-founder of modern natural horsemanship alongside his brother Tom. A master rawhide braider, ranch horseman, and quiet philosopher whose concept of "feel" reshaped how Americans think about horses. Author of <em>True Horsemanship Through Feel</em>.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- BOB LOOMIS -->
+  <a href="/famous-trainers/bob-loomis" class="trainer-card" data-cat="reining">
+    <span class="live-badge">Live</span>
+    <div class="card-stripe stripe-reining"></div>
+    <div class="card-body">
+      <div class="card-era">Nebraska · Oklahoma &nbsp;·&nbsp; NRHA Hall of Fame</div>
+      <div class="card-name">Bob Loomis</div>
+      <div class="card-dates">b. c. 1943 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Reining</span>
+        <span class="card-tag">6× Futurity Champion</span>
+        <span class="card-tag">Master Breeder</span>
+      </div>
+      <p class="card-excerpt">The greatest reining trainer who ever lived. Six NRHA Open Futurity titles — a record that stands alone. Bred three generations of NRHA Million Dollar Sires including Topsail Whiz, the sport's first $12 million sire. Author of <em>Reining: The Art of Performance in Horses</em>.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Reining</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- RAY HUNT -->
+  <a href="/famous-trainers/ray-hunt" class="trainer-card" data-cat="natural">
+    <span class="live-badge">Live</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">Idaho · Nevada &nbsp;·&nbsp; Clinic Pioneer</div>
+      <div class="card-name">Ray Hunt</div>
+      <div class="card-dates">August 31, 1929 – March 12, 2009</div>
+      <div class="card-tags">
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Clinic Pioneer</span>
+        <span class="card-tag">Western Horseman of the Year</span>
+      </div>
+      <p class="card-excerpt">The man who spread natural horsemanship to the world. Tom Dorrance's most famous student, mentor to Buck Brannaman and Pat Parelli, and inventor of the modern horsemanship clinic format. He opened every clinic the same way: "I'm here for the horse, to help him get a better deal."</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- ── COMING SOON ── -->
+
+  <!-- TOM DORRANCE -->
+  <div class="trainer-card coming-soon" data-cat="natural">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">Oregon · California &nbsp;·&nbsp; The Horse's Lawyer</div>
+      <div class="card-name">Tom Dorrance</div>
+      <div class="card-dates">May 11, 1910 – June 11, 2003</div>
+      <div class="card-tags">
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Founding Father</span>
+        <span class="card-tag">True Unity</span>
+      </div>
+      <p class="card-excerpt">The philosophical root of the entire natural horsemanship movement. Bill Dorrance's younger brother; mentor to Ray Hunt. His landmark book <em>True Unity</em> (1987) remains the deepest expression of the horseman's art ever committed to print.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- BUCK BRANNAMAN -->
+  <div class="trainer-card coming-soon" data-cat="natural">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">Idaho · Montana &nbsp;·&nbsp; The Real Horse Whisperer</div>
+      <div class="card-name">Buck Brannaman</div>
+      <div class="card-dates">b. 1962 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Clinician</span>
+        <span class="card-tag">Colt Starting</span>
+      </div>
+      <p class="card-excerpt">Ray Hunt's most celebrated student and the real-life inspiration behind Nicholas Evans' <em>The Horse Whisperer</em>. Brannaman carries the Dorrance-Hunt tradition further than anyone — running over 60 clinics a year, nearly every week of his life.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- AL DUNNING -->
+  <div class="trainer-card coming-soon" data-cat="western">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-western"></div>
+    <div class="card-body">
+      <div class="card-era">Arizona &nbsp;·&nbsp; AQHA Legend</div>
+      <div class="card-name">Al Dunning</div>
+      <div class="card-dates">b. 1947 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Western Performance</span>
+        <span class="card-tag">AQHA World Champion</span>
+        <span class="card-tag">Arizona</span>
+      </div>
+      <p class="card-excerpt">One of Arizona's most decorated horsemen. Multiple AQHA World Champion trainer across reining, working cow horse, and Western pleasure. Based in Scottsdale, Dunning has trained horses and riders to world-championship level across five decades.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Western Performance</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAT PARELLI -->
+  <div class="trainer-card coming-soon" data-cat="natural">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">California · Colorado &nbsp;·&nbsp; Global Brand</div>
+      <div class="card-name">Pat Parelli</div>
+      <div class="card-dates">b. 1954 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Parelli Program</span>
+        <span class="card-tag">7 Games</span>
+      </div>
+      <p class="card-excerpt">Built natural horsemanship into a worldwide franchise. Student of Tom Dorrance, Ray Hunt, and Ronnie Willis, Parelli developed his signature Seven Games system and grew it into the most recognized horsemanship brand on the planet.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- MONTY ROBERTS -->
+  <div class="trainer-card coming-soon" data-cat="natural">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-natural"></div>
+    <div class="card-body">
+      <div class="card-era">California &nbsp;·&nbsp; Join-Up Method</div>
+      <div class="card-name">Monty Roberts</div>
+      <div class="card-dates">b. 1935 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Join-Up Method</span>
+        <span class="card-tag">Natural Horsemanship</span>
+        <span class="card-tag">Author</span>
+      </div>
+      <p class="card-excerpt">Creator of Join-Up — a gentling technique based on reading equine body language — and author of the bestselling memoir <em>The Man Who Listens to Horses</em>. Trained horses for Queen Elizabeth II and carried natural methods to an international mainstream audience.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Natural Horsemanship</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- CUTTING: BUSTER WELCH -->
+  <div class="trainer-card coming-soon" data-cat="cutting">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-cutting"></div>
+    <div class="card-body">
+      <div class="card-era">Texas &nbsp;·&nbsp; NCHA Legend</div>
+      <div class="card-name">Buster Welch</div>
+      <div class="card-dates">1921 – 2018</div>
+      <div class="card-tags">
+        <span class="card-tag">Cutting</span>
+        <span class="card-tag">NCHA Hall of Fame</span>
+        <span class="card-tag">Texas</span>
+      </div>
+      <p class="card-excerpt">The patron saint of cutting. NCHA Hall of Famer who shaped the modern cutting horse and whose influence on the sport spans eight decades. His approach to cow sense, feel, and developing the complete cutting horse defined a generation.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Cutting</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- REINING: SHAWN FLARIDA -->
+  <div class="trainer-card coming-soon" data-cat="reining">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-reining"></div>
+    <div class="card-body">
+      <div class="card-era">Ohio · Oklahoma &nbsp;·&nbsp; NRHA Millionaire</div>
+      <div class="card-name">Shawn Flarida</div>
+      <div class="card-dates">b. 1969 &nbsp;·&nbsp; Living</div>
+      <div class="card-tags">
+        <span class="card-tag">Reining</span>
+        <span class="card-tag">NRHA Hall of Fame</span>
+        <span class="card-tag">Million Dollar Rider</span>
+      </div>
+      <p class="card-excerpt">One of the winningest reiners in NRHA history. Multiple Futurity and Derby champion, NRHA Hall of Famer, and the sport's first NRHA Two Million Dollar Rider. Known for his exceptional feel and precision across all levels of competition.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Reining</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- DRESSAGE: WALTER ZETTl -->
+  <div class="trainer-card coming-soon" data-cat="dressage">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-dressage"></div>
+    <div class="card-body">
+      <div class="card-era">Germany · Canada &nbsp;·&nbsp; Classical Dressage</div>
+      <div class="card-name">Walter Zettl</div>
+      <div class="card-dates">1928 – 2016</div>
+      <div class="card-tags">
+        <span class="card-tag">Classical Dressage</span>
+        <span class="card-tag">FEI Judge</span>
+        <span class="card-tag">Author</span>
+      </div>
+      <p class="card-excerpt">One of the great classical dressage masters of the 20th century. A student of the old European tradition who dedicated his later decades to teaching horsemanship based on lightness, harmony, and deep understanding of the horse's natural movement.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Classical Dressage</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- RACING: CHARLIE WHITTINGHAM -->
+  <div class="trainer-card coming-soon" data-cat="racing">
+    <span class="soon-badge">Coming Soon</span>
+    <div class="card-stripe stripe-racing"></div>
+    <div class="card-body">
+      <div class="card-era">California &nbsp;·&nbsp; Racing Hall of Fame</div>
+      <div class="card-name">Charlie Whittingham</div>
+      <div class="card-dates">1913 – 1999</div>
+      <div class="card-tags">
+        <span class="card-tag">Thoroughbred Racing</span>
+        <span class="card-tag">Racing HOF</span>
+        <span class="card-tag">The Bald Eagle</span>
+      </div>
+      <p class="card-excerpt">The "Bald Eagle" of American racing. Two Kentucky Derby wins in his 70s with Ferdinand (1986) and Sunday Silence (1989). Trained over 2,500 winners and was still saddling stakes horses at 86. National Museum of Racing Hall of Fame inductee.</p>
+      <div class="card-footer">
+        <span class="card-discipline">Thoroughbred Racing</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /trainers-grid -->
+
+<!-- ABOUT THE SERIES -->
+<section class="about-section">
+  <div class="about-inner">
+    <div>
+      <h2>About the <em>Famous Trainers</em> Series</h2>
+      <p>These biographies are researched and written to give horse lovers, students, and professionals a complete picture of the trainers who shaped the sport — not just their wins and records, but their philosophies, their mentors, their methods, and their lasting influence.</p>
+      <p>Each biography includes a full career narrative, timeline, key works and media, and profiles of the horsemen and women they influenced. New profiles are added regularly.</p>
+      <p>Part of the <strong>HorseTrainer.ai</strong> network — Arizona's premier equestrian intelligence platform, powered by Bridle &amp; Bit Magazine since 1978.</p>
+    </div>
+    <div class="about-stats">
+      <div class="about-stat">
+        <div class="about-stat-num">3</div>
+        <div class="about-stat-label">Biographies Live</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-num">9</div>
+        <div class="about-stat-label">Coming Soon</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-num">6</div>
+        <div class="about-stat-label">Disciplines Covered</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-num">100+</div>
+        <div class="about-stat-label">Years of History</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="bio-footer">
+  <div class="bio-footer-inner">
+    <div>
+      <div class="bio-footer-brand">Horse<span>Trainer</span>.ai</div>
+      <p style="margin-top:6px">Arizona's equestrian intelligence network · <a href="/">Home</a> · <a href="/trainers">Find a Trainer</a> · <a href="/famous-trainers">Famous Trainers</a></p>
+    </div>
+    <p>© 2025 Bridle &amp; Bit Magazine · All rights reserved</p>
+  </div>
+</footer>
+
+<script>
+  // Filter functionality
+  const btns  = document.querySelectorAll('.filter-btn');
+  const cards = document.querySelectorAll('.trainer-card[data-cat]');
+
+  btns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      const filter = btn.dataset.filter;
+      cards.forEach(card => {
+        if (filter === 'all' || card.dataset.cat === filter) {
+          card.classList.remove('hidden');
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+    });
+  });
+</script>
+</body>
+</html>
