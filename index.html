@@ -474,9 +474,8 @@ img { max-width:100%; height:auto; display:block; }
 }
 .qa-cat-card.active .qa-cat-count { background:rgba(255,255,255,0.18); color:rgba(255,255,255,0.9); }
 
-/* Results section */
-.qa-results-section { display:none; }
-.qa-results-section.visible { display:block; }
+/* Results section — always visible */
+.qa-results-section { display:block; }
 .qa-results-header {
   display:flex; align-items:center; justify-content:space-between;
   margin-bottom:16px; flex-wrap:wrap; gap:8px;
@@ -484,12 +483,7 @@ img { max-width:100%; height:auto; display:block; }
 .qa-results-title {
   font-size:1.05rem; font-weight:700; color:var(--primary);
 }
-.qa-back-btn {
-  display:inline-flex; align-items:center; gap:5px;
-  font-size:0.82rem; font-weight:600; color:var(--secondary);
-  background:none; border:none; cursor:pointer; padding:0;
-}
-.qa-back-btn:hover { color:var(--primary); }
+.qa-back-btn { display:none; }
 .qa-results-count { font-size:0.82rem; color:var(--text-light); margin-bottom:14px; }
 
 /* Accordion */
@@ -1518,40 +1512,19 @@ fetchTrainers();
     document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
     clickedCard.classList.add('active');
     document.getElementById('qa-results-title').textContent = label;
-    showResults();
-  }
-
-  function showResults() {
-    const section = document.getElementById('qa-results-section');
-    section.classList.add('visible');
     renderQA();
-    section.scrollIntoView({ behavior:'smooth', block:'nearest' });
+    document.getElementById('qa-list').scrollIntoView({ behavior:'smooth', block:'nearest' });
   }
 
-  // Back button
-  document.getElementById('qa-back-btn').addEventListener('click', () => {
-    activeQaCat = '';
-    qaSearch = '';
-    document.getElementById('qa-search').value = '';
-    document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
-    const allCard = document.querySelector('.qa-cat-card[data-cat=""]');
-    if (allCard) allCard.classList.add('active');
-    document.getElementById('qa-results-section').classList.remove('visible');
-  });
-
-  // Search — show results panel immediately
+  // Search — filter in place
   document.getElementById('qa-search').addEventListener('input', e => {
     qaSearch = e.target.value;
     activeQaCat = '';
     document.querySelectorAll('.qa-cat-card').forEach(c => c.classList.remove('active'));
     const allCard = document.querySelector('.qa-cat-card[data-cat=""]');
     if (allCard) allCard.classList.add('active');
-    if (qaSearch.length > 1) {
-      document.getElementById('qa-results-title').textContent = 'Search Results';
-      showResults();
-    } else {
-      document.getElementById('qa-results-section').classList.remove('visible');
-    }
+    document.getElementById('qa-results-title').textContent = qaSearch ? 'Search Results' : 'All Topics';
+    renderQA();
   });
 
   // Init — load from Supabase
@@ -1574,6 +1547,8 @@ fetchTrainers();
     const sub = document.querySelector('#horse-training-qa .section-sub');
     if (sub) sub.textContent = QA_DATA.length + ' expert answers across reining, barrel racing, team roping, cutting, and more.';
     buildCatCards();
+    document.getElementById('qa-results-title').textContent = 'All Topics';
+    renderQA();
   })();
 })();
 
