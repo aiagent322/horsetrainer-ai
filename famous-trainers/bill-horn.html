@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bill Horn – Famous Horse Trainer Biography | HorseTrainer.ai</title>
+<meta name="description" content="A tribute to the late Bill Horn (c.1938–2011) — founding member of the NRHA, four-time NRHA Futurity Champion, three-time NRHA Open World Champion, NRHA's first Million Dollar Rider, NRHA Hall of Famer, and the ultimate reiner.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://horsetrainer.ai/famous-trainers/bill-horn">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Lora:ital,wght@0,400;0,500;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --earth:     #1a1408;
+    --dark-oak:  #261c0c;
+    --oak:       #3c2c10;
+    --saddle:    #6a4418;
+    --tan:       #a87028;
+    --gold:      #c89030;
+    --gold-lt:   #e0b040;
+    --wheat:     #e8d090;
+    --cream:     #faf4e0;
+    --parchment: #f0e4c0;
+    --warm:      #fdf8ee;
+    --mist:      #e4d4a8;
+    --arena-red: #7a2010;
+    --ohio-blue: #3a5878;
+    --dust:      #b0925c;
+    --silver:    #c0a870;
+    --ink:       #1a1408;
+    --char:      #2a1e0c;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--warm);
+    color: var(--ink);
+    font-family: 'Lora', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.82;
+  }
+
+  /* ── NAV ── */
+  .site-nav {
+    background: var(--earth);
+    padding: 0 24px;
+    display: flex; align-items: center; gap: 8px;
+    height: 50px;
+    font-family: 'Libre Baskerville', serif; font-size: 13px;
+  }
+  .site-nav a { color: var(--silver); text-decoration: none; }
+  .site-nav a:hover { color: var(--gold-lt); }
+  .site-nav .sep { color: #3c2c10; }
+  .site-nav .brand { color: var(--gold-lt); font-weight: 700; letter-spacing: .03em; }
+
+  /* ── TRIBUTE BANNER ── */
+  .tribute-banner {
+    background: var(--oak);
+    padding: 14px 24px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 13px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--wheat);
+  }
+  .tribute-banner span { color: var(--gold-lt); }
+
+  /* ── HERO ── */
+  .hero {
+    background: var(--earth);
+    min-height: 580px;
+    position: relative; overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 420px;
+  }
+  @media(max-width:860px){ .hero { grid-template-columns: 1fr; min-height: auto; } }
+
+  /* Ohio farmland / Oklahoma arena warmth */
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse 90% 55% at 35% 15%, rgba(200,144,48,.16) 0%, transparent 55%),
+      radial-gradient(ellipse 70% 80% at 90% 100%, rgba(58,44,16,.4) 0%, transparent 55%);
+    pointer-events: none;
+  }
+
+  /* gold top crest */
+  .hero::after {
+    content: '';
+    position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--gold), var(--gold-lt), var(--gold), transparent);
+    pointer-events: none;
+  }
+
+  .hero-left {
+    position: relative; z-index: 2;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 72px 52px 80px 48px;
+  }
+  @media(max-width:860px){ .hero-left { padding: 48px 24px 56px; } }
+
+  .trainer-label {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10.5px; letter-spacing: .22em; text-transform: uppercase;
+    color: var(--gold-lt); margin-bottom: 20px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .trainer-label::before { content: ''; width: 36px; height: 1px; background: var(--gold-lt); display: block; }
+
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(52px, 7vw, 86px);
+    font-weight: 900; line-height: .95;
+    color: var(--cream); letter-spacing: -.02em;
+  }
+  .hero h1 em { display: block; font-style: italic; color: var(--gold-lt); font-weight: 700; }
+
+  .hero-dates {
+    margin-top: 14px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px; letter-spacing: .1em;
+    color: var(--dust); text-transform: uppercase;
+  }
+  .hero-epitaph {
+    margin-top: 7px;
+    font-family: 'Lora', serif; font-size: 16px; font-style: italic;
+    color: var(--gold); opacity: .9;
+  }
+
+  .hero-tagline {
+    margin-top: 26px;
+    font-style: italic; font-size: 20px; line-height: 1.45;
+    color: var(--parchment); max-width: 480px;
+    padding-left: 20px;
+    border-left: 3px solid var(--gold-lt);
+  }
+
+  .hero-tags {
+    margin-top: 32px; display: flex; flex-wrap: wrap; gap: 8px;
+  }
+  .tag {
+    background: rgba(255,255,255,.07);
+    border: 1px solid rgba(200,144,48,.3);
+    color: var(--silver); font-size: 11px;
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: .07em; padding: 5px 12px; text-transform: uppercase;
+  }
+
+  /* ── HERO PHOTO ── */
+  .hero-photo { position: relative; overflow: hidden; z-index: 2; }
+  .hero-photo img {
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: center top;
+    display: block; opacity: .78;
+    filter: contrast(1.05) sepia(8%);
+  }
+  .hero-photo::before {
+    content: ''; position: absolute; inset: 0;
+    background: linear-gradient(90deg, var(--earth) 0%, transparent 22%);
+    z-index: 1;
+  }
+  .hero-photo-caption {
+    position: absolute; bottom: 12px; right: 12px;
+    font-size: 11px; color: rgba(255,255,255,.45);
+    font-family: 'Libre Baskerville', serif; font-style: italic; z-index: 2;
+  }
+  @media(max-width:860px){ .hero-photo { min-height: 290px; } }
+
+  /* ── RECORDS BAR ── */
+  .records-bar {
+    background: var(--dark-oak);
+    border-top: 2px solid var(--gold);
+    display: flex; overflow-x: auto;
+  }
+  .rec-item {
+    flex: 1; min-width: 120px;
+    padding: 18px 16px; border-right: 1px solid rgba(255,255,255,.08);
+    text-align: center;
+  }
+  .rec-item:last-child { border-right: none; }
+  .rec-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px; font-weight: 900; color: var(--cream); line-height: 1;
+  }
+  .rec-label {
+    font-size: 10.5px; color: var(--dust);
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: .07em; text-transform: uppercase; margin-top: 4px;
+  }
+
+  /* ── LAYOUT ── */
+  .page-wrapper { max-width: 1160px; margin: 0 auto; padding: 0 24px; }
+  .content-grid {
+    display: grid; grid-template-columns: 1fr 300px;
+    gap: 60px; padding: 68px 0;
+  }
+  @media(max-width:900px){ .content-grid { grid-template-columns: 1fr; gap: 40px; } }
+
+  /* ── BIO ── */
+  .bio-section { margin-bottom: 52px; }
+
+  .section-label {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10.5px; letter-spacing: .2em; text-transform: uppercase;
+    color: var(--saddle); margin-bottom: 10px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--mist); }
+
+  .bio-section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(23px, 3vw, 32px); font-weight: 700;
+    color: var(--earth); line-height: 1.18; margin-bottom: 22px;
+  }
+
+  .bio-section p { margin-bottom: 18px; color: var(--char); }
+  .bio-section p:last-child { margin-bottom: 0; }
+
+  /* ── PULL QUOTE ── */
+  .pull-quote {
+    margin: 44px 0; padding: 30px 38px 30px 48px;
+    background: var(--earth); position: relative; overflow: hidden;
+  }
+  .pull-quote::before {
+    content: '\201C'; font-family: 'Playfair Display', serif;
+    font-size: 130px; line-height: 1; color: var(--gold-lt);
+    opacity: .18; position: absolute; top: -14px; left: 10px;
+  }
+  .pull-quote::after {
+    content: ''; position: absolute; top: 0; left: 0;
+    width: 4px; height: 100%; background: var(--gold-lt);
+  }
+  .pull-quote p {
+    font-family: 'Playfair Display', serif;
+    font-size: 21px; font-style: italic; line-height: 1.48;
+    color: var(--cream); position: relative; z-index: 1; margin-bottom: 14px !important;
+  }
+  .pull-quote cite {
+    font-family: 'Libre Baskerville', serif; font-size: 11.5px;
+    letter-spacing: .1em; text-transform: uppercase;
+    color: var(--gold-lt); font-style: normal;
+  }
+
+  /* ── INLINE PHOTO ── */
+  .inline-photo { float: right; margin: 0 0 24px 32px; max-width: 265px; }
+  .inline-photo img {
+    width: 100%; display: block;
+    filter: contrast(1.04) sepia(6%);
+    border: 4px solid var(--parchment);
+    box-shadow: 4px 4px 20px rgba(0,0,0,.18);
+  }
+  .inline-photo figcaption {
+    font-size: 12px; font-style: italic;
+    color: var(--saddle); margin-top: 9px;
+    font-family: 'Libre Baskerville', serif; line-height: 1.4; text-align: center;
+  }
+  @media(max-width:600px){ .inline-photo { float: none; margin: 0 0 24px; max-width: 100%; } }
+
+  /* ── FUTURITY TABLE ── */
+  .futurity-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 14.5px; }
+  .futurity-table thead tr { background: var(--earth); color: var(--gold-lt); }
+  .futurity-table thead th {
+    padding: 11px 14px;
+    font-family: 'Libre Baskerville', serif; font-size: 10.5px;
+    letter-spacing: .1em; text-transform: uppercase; text-align: left;
+  }
+  .futurity-table tbody tr:nth-child(odd) { background: rgba(0,0,0,.03); }
+  .futurity-table tbody tr:hover { background: rgba(200,144,48,.07); }
+  .futurity-table td { padding: 10px 14px; border-bottom: 1px solid var(--mist); color: var(--char); }
+  .futurity-table td:first-child { font-family: 'Playfair Display', serif; font-weight: 700; color: var(--tan); font-size: 15px; }
+  .futurity-table td.champ { color: var(--gold); font-weight: 600; }
+  .futurity-table td.res { color: var(--ohio-blue); }
+
+  /* ── ACCOMPLISHMENTS ── */
+  .accomplishments { list-style: none; margin: 20px 0; }
+  .accomplishments li {
+    padding: 12px 0 12px 28px;
+    border-bottom: 1px solid var(--mist);
+    position: relative; font-size: 15.5px; color: var(--char);
+  }
+  .accomplishments li:last-child { border-bottom: none; }
+  .accomplishments li::before {
+    content: '◉'; position: absolute; left: 0;
+    color: var(--gold-lt); font-size: 10px; top: 15px;
+  }
+
+  /* ── TIMELINE ── */
+  .timeline { list-style: none; margin: 32px 0; padding: 0; }
+  .timeline li {
+    display: grid; grid-template-columns: 64px 1fr;
+    gap: 18px; padding-bottom: 28px; position: relative;
+  }
+  .timeline li::before {
+    content: ''; position: absolute;
+    left: 30px; top: 26px; bottom: 0;
+    width: 1px; background: var(--mist);
+  }
+  .timeline li:last-child::before { display: none; }
+  .tl-dot {
+    position: absolute; left: 25px; top: 5px;
+    width: 11px; height: 11px; border-radius: 50%;
+    background: var(--gold-lt); border: 2px solid var(--warm);
+  }
+  .tl-dot.final { background: var(--arena-red); }
+  .tl-year {
+    font-family: 'Playfair Display', serif; font-size: 13px; font-weight: 700;
+    color: var(--tan); text-align: right; line-height: 1.2; padding-top: 2px;
+  }
+  .tl-content { font-size: 14.5px; color: var(--char); line-height: 1.55; }
+  .tl-content strong {
+    display: block; font-family: 'Libre Baskerville', serif;
+    font-size: 13px; color: var(--earth); margin-bottom: 2px; letter-spacing: .02em;
+  }
+
+  /* ── SIDEBAR ── */
+  .sidebar-card {
+    background: var(--parchment); border: 1px solid var(--mist);
+    margin-bottom: 28px; padding: 24px;
+  }
+  .sidebar-card h3 {
+    font-family: 'Playfair Display', serif; font-size: 17px; font-weight: 700;
+    color: var(--earth); margin-bottom: 16px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--gold-lt);
+  }
+  .sidebar-card dt {
+    font-family: 'Libre Baskerville', serif; font-size: 10px;
+    letter-spacing: .14em; text-transform: uppercase; color: var(--saddle); margin-top: 12px;
+  }
+  .sidebar-card dt:first-child { margin-top: 0; }
+  .sidebar-card dd { font-size: 14.5px; color: var(--char); margin: 3px 0 0; }
+
+  .list-items { list-style: none; }
+  .list-items li {
+    padding: 8px 0; border-bottom: 1px solid var(--mist);
+    font-size: 14px; color: var(--char); line-height: 1.4;
+  }
+  .list-items li:last-child { border-bottom: none; }
+  .list-items li span {
+    display: block; font-size: 11px; color: var(--saddle);
+    font-family: 'Libre Baskerville', serif; letter-spacing: .03em; margin-top: 2px;
+  }
+
+  /* ── RELATED ── */
+  .related-section {
+    background: var(--earth); border-top: 3px solid var(--gold-lt); padding: 56px 24px;
+  }
+  .related-inner { max-width: 1160px; margin: 0 auto; }
+  .related-inner h2 {
+    font-family: 'Playfair Display', serif; font-size: 28px;
+    color: var(--cream); margin-bottom: 32px; font-weight: 700;
+  }
+  .related-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 16px;
+  }
+  .related-card {
+    background: rgba(255,255,255,.05); border: 1px solid rgba(200,144,48,.22);
+    padding: 20px; text-decoration: none; display: block;
+    transition: background .2s, border-color .2s;
+  }
+  .related-card:hover { background: rgba(200,144,48,.1); border-color: var(--gold-lt); }
+  .related-name { font-family: 'Playfair Display', serif; font-size: 17px; color: var(--cream); font-weight: 700; }
+  .related-desc { font-size: 12.5px; color: var(--dust); margin-top: 4px; font-family: 'Libre Baskerville', serif; }
+  .related-arrow { margin-top: 12px; font-size: 18px; color: var(--gold-lt); }
+
+  /* ── FOOTER ── */
+  .bio-footer { background: var(--ink); color: var(--dust); padding: 40px 24px; }
+  .bio-footer-inner {
+    max-width: 1160px; margin: 0 auto;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 16px;
+  }
+  .bio-footer p { font-size: 13px; }
+  .bio-footer a { color: var(--gold-lt); text-decoration: none; }
+  .bio-footer-brand { font-family: 'Playfair Display', serif; font-size: 18px; color: var(--cream); }
+  .bio-footer-brand span { color: var(--gold-lt); }
+
+  hr.fancy {
+    border: none; border-top: 1px solid var(--mist);
+    margin: 48px 0; position: relative;
+  }
+  hr.fancy::after {
+    content: '◉'; position: absolute; left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--warm); padding: 0 8px;
+    color: var(--gold-lt); font-size: 10px;
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a class="brand" href="/">HorseTrainer.ai</a>
+  <span class="sep">/</span>
+  <a href="/famous-trainers">Famous Trainers</a>
+  <span class="sep">/</span>
+  <span style="color:var(--cream)">Bill Horn</span>
+</nav>
+
+<!-- TRIBUTE BANNER -->
+<div class="tribute-banner">
+  In Memoriam &nbsp;·&nbsp; <span>Bill Horn</span> &nbsp;·&nbsp; c. 1938 – December 9, 2011 &nbsp;·&nbsp; Age 73 &nbsp;·&nbsp; NRHA Founding Member &amp; First Million Dollar Rider
+</div>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-left">
+    <div class="trainer-label">Famous Horse Trainers — In Memoriam</div>
+    <h1>Bill<br><em>Horn</em></h1>
+    <div class="hero-dates">c. 1938 &nbsp;–&nbsp; December 9, 2011 &nbsp;·&nbsp; Age 73</div>
+    <div class="hero-epitaph">"The ultimate reiner." — NRHA</div>
+    <p class="hero-tagline">"He never knew how to give less than 110 percent in the show pen."</p>
+    <div class="hero-tags">
+      <span class="tag">NRHA Founding Member</span>
+      <span class="tag">4× NRHA Futurity Champion</span>
+      <span class="tag">First Million Dollar Rider</span>
+      <span class="tag">NRHA Hall of Fame</span>
+      <span class="tag">3× Open World Champion</span>
+      <span class="tag">NRHA President 1977</span>
+    </div>
+  </div>
+  <div class="hero-photo">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bill_Horn_reiner.jpg/480px-Bill_Horn_reiner.jpg"
+      alt="Bill Horn — founding member of the NRHA, four-time Futurity Champion, first Million Dollar Rider"
+      onerror="this.src='https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=420&h=600&fit=crop&q=80'; this.onerror=null;"
+    >
+    <div class="hero-photo-caption">Ohio · Oklahoma City · Ocala, Florida</div>
+  </div>
+</header>
+
+<!-- RECORDS BAR -->
+<div class="records-bar">
+  <div class="rec-item">
+    <div class="rec-num">1966</div>
+    <div class="rec-label">NRHA Founding Member</div>
+  </div>
+  <div class="rec-item">
+    <div class="rec-num">4×</div>
+    <div class="rec-label">NRHA Futurity Champion</div>
+  </div>
+  <div class="rec-item">
+    <div class="rec-num">6×</div>
+    <div class="rec-label">NRHA Futurity Reserve</div>
+  </div>
+  <div class="rec-item">
+    <div class="rec-num">3×</div>
+    <div class="rec-label">NRHA Open World Champion</div>
+  </div>
+  <div class="rec-item">
+    <div class="rec-num">1st</div>
+    <div class="rec-label">NRHA Million Dollar Rider · 1995</div>
+  </div>
+  <div class="rec-item">
+    <div class="rec-num">10</div>
+    <div class="rec-label">Horses in NRHA Hall of Fame</div>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<div class="page-wrapper">
+  <div class="content-grid">
+
+    <main>
+
+      <!-- TRIBUTE OPEN -->
+      <article class="bio-section">
+        <div class="section-label">In Memoriam</div>
+        <h2>The Void His Passing Leaves Cannot Be Filled</h2>
+
+        <p>Bill Horn died on December 9, 2011, at the age of 73, after succumbing to illness at his ranch in Ocala, Florida. The National Reining Horse Association — the organization he helped found in 1966, served as president in 1977, governed as a board member for nearly three decades, and competed in for more than forty years — lost one of its most beloved legends. The tribute from the reining community was immediate and universal. "The void his passing leaves behind cannot be filled," wrote those who covered his career. "His friends and fans will remember him as the ultimate reiner."</p>
+
+        <p>He is survived by his wife Kim Horn, with whom he raised and bred the horses that came to define an era of reining competition. A celebration of life was held at Horn's Ranch in Ocala, Florida — the farm where they had built a program that influenced every major development in the sport he helped create.</p>
+
+        <div class="pull-quote">
+          <p>He never knew how to give less than 110 percent in the show pen. Bill Horn was a modest, humble man. You never heard him boast of his accomplishments, but when you saw him show a reining horse, you knew you were watching the ultimate partnership between horse and rider.</p>
+          <cite>— Tribute from the reining community</cite>
+        </div>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- EARLY LIFE & NRHA FOUNDING -->
+      <article class="bio-section">
+        <div class="section-label">The Founding of a Sport</div>
+        <h2>Ohio, Dale Wilkinson, and the Birth of the NRHA — 1966</h2>
+
+        <p>Bill Horn was born in approximately 1938 in Ohio, the son of a farming family, and grew up in the environment that produced the earliest generation of competitive reiners in America. His brother Paul Horn would also become a prominent figure in reining, and together the Horn brothers represented the kind of closely-knit, family-rooted horse culture that characterized the sport in its earliest decades — when the NRHA was a regional organization run from kitchen tables and competed in at county fairs and stock horse shows in Ohio and the Midwest.</p>
+
+        <p>Bill Horn became a student of Dale Wilkinson — known today as the father of modern-day reining and the first inductee into the NRHA Hall of Fame. Under Wilkinson's influence, Horn developed not just his horsemanship but his vision for what the sport could become. When the time came to formalize competitive reining into a national association, Bill Horn was one of the people in the room.</p>
+
+        <p>In 1966, in Coshocton, Ohio, the National Reining Horse Association was formally established. Bill Horn was among its founding members — listed alongside Dale Wilkinson, his brother Paul Horn, Dick Pieper, Stretch Bradley, and others as the men who created an institution that would eventually grow into a global sport. The first NRHA Futurity was held that same year in Columbus, Ohio. Horn was at that event too, competing. He would still be competing at NRHA Futurities nearly four decades later.</p>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- FUTURITY RECORD -->
+      <article class="bio-section">
+        <div class="section-label">The Futurity Record</div>
+        <h2>Four Championships, Six Reserves — Forty Years of Finals</h2>
+
+        <figure class="inline-photo">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Trashadeous_reiner.jpg/320px-Trashadeous_reiner.jpg"
+            alt="Trashadeous — NRHA Hall of Fame inductee, bred by Bill and Kim Horn"
+            onerror="this.src='https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=265&h=340&fit=crop'; this.onerror=null;"
+          >
+          <figcaption>Trashadeous — bred by Bill and Kim Horn (sire: Be Aech Enterprise, dam: Miss White Trash), 1992 NRHA Open World Champion, NRHA Hall of Fame inductee 1996</figcaption>
+        </figure>
+
+        <p>The NRHA Futurity is the sport's defining event — a competition for three-year-old horses that has, since its inception, served as the ultimate proving ground for both trainer and horse. From 1966 through 1996, Bill Horn took at least one horse to the NRHA Futurity finals every single year. That is an unbroken streak of thirty years at the finals of the most important reining event in the world. He then brought finalists in 2001, 2002, and remarkably, at age sixty-seven, in 2005.</p>
+
+        <p>His record across those decades is extraordinary: four Futurity Championships and six Reserve Championships — ten times in the winner's circle across four decades of competition. No other trainer in NRHA history has sustained that level of performance across such a span of time.</p>
+
+        <table class="futurity-table">
+          <thead>
+            <tr><th>Year</th><th>Horse</th><th>Result</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>1967</td><td>Mr Poco Luis</td><td class="champ">★ NRHA Futurity Open Champion</td></tr>
+            <tr><td>1968</td><td>Miz Liz Dodson</td><td class="res">Reserve Champion</td></tr>
+            <tr><td>1971</td><td>Glenda Echols</td><td class="res">Reserve Champion</td></tr>
+            <tr><td>1972</td><td>Eternal One</td><td class="champ">★ NRHA Futurity Open Champion</td></tr>
+            <tr><td>1973</td><td>Continental Charo</td><td class="res">Reserve Champion</td></tr>
+            <tr><td>1981</td><td>Aces Command</td><td class="champ">★ NRHA Futurity Open Champion</td></tr>
+            <tr><td>1983</td><td>Enterprise Velvet</td><td class="res">Reserve Champion</td></tr>
+            <tr><td>1987</td><td>Spirit of Five</td><td class="champ">★ NRHA Futurity Open Champion</td></tr>
+            <tr><td>1990</td><td>Trashadeous</td><td class="res">Reserve Champion</td></tr>
+            <tr><td>1994</td><td>Mifillena</td><td class="res">Reserve Champion</td></tr>
+          </tbody>
+        </table>
+
+        <p>In addition to the Futurity, Horn won multiple NRHA Derby and SuperStakes Championships — and won three NRHA Open World Championships: Walkaway Rene (1978), White Is (1980), and Trashadeous (1992). The 1992 World Championship on Trashadeous — a horse he and Kim had bred, raised, and trained from Miss White Trash and Be Aech Enterprise — was the capstone of one of the most complete horse-and-rider careers in the sport's history.</p>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- TRASHADEOUS & MISS WHITE TRASH -->
+      <article class="bio-section">
+        <div class="section-label">The Great Partnership</div>
+        <h2>Trashadeous — Born in the Horn Barn, Made for the History Books</h2>
+
+        <p>Of all the horses Bill Horn rode to glory, none occupies a more special place in reining history than Trashadeous. The stallion was bred by Bill and Kim Horn — the product of Be Aech Enterprise (himself an NRHA Hall of Famer) out of Miss White Trash, a mare Horn owned her entire life and had shown in both the NRHA and the 1970 NCHA Futurity, where she finished sixth in the Open. Miss White Trash was a fixture in Horn's program, and when she produced Trashadeous, the result was a horse that would be inducted into the NRHA Hall of Fame in 1996.</p>
+
+        <p>The relationship between Horn and Trashadeous was not always easy. "He was pretty wild," Horn recalled of the horse's early days. At the Quarter Horse Congress as a three-year-old, Trash reared up into the air — not exactly the behavior of a future champion. But Horn's patience and horsemanship turned that wildness into brilliance. The duo finished as Reserve Champions at the 1990 NRHA Futurity, and then came back in 1992 to win the NRHA Open World Championship outright — two years of refinement that produced the most important title of Horn's career.</p>
+
+        <div class="pull-quote">
+          <p>Horn owned Miss White Trash her entire life. When she produced Trashadeous, it was the breeding of a horseman who knew exactly what he was doing — and had the patience to wait for the result.</p>
+          <cite>— Quarter Horse News, on the Trashadeous legacy</cite>
+        </div>
+
+        <p>Trashadeous went on to become an influential sire, extending the Horn legacy into the next generation of reining horses. His induction into the NRHA Hall of Fame — alongside Be Aech Enterprise (inducted 1997) and a total of ten horses Bill Horn rode or was associated with — speaks to the depth and continuity of his program across decades.</p>
+
+        <p>One of the most celebrated moments of Horn's competitive career came not with Trashadeous but with Miss White Trash and Im Great Too in 1975. At the All-American Quarter Horse Congress, Bill rode both his beloved Miss White Trash and his brother Paul's Im Great Too in a runoff for first place in the NRHA Open. Bill won the class on Im Great Too — a moment that combined family competition, sportsmanship, and sheer horsemanship in a scene that reiners still talk about decades later.</p>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- NRHA LEADERSHIP & MILLION DOLLAR -->
+      <article class="bio-section">
+        <div class="section-label">NRHA Leadership &amp; Legacy</div>
+        <h2>Board Member, President, First Million Dollar Rider</h2>
+
+        <p>Bill Horn's contribution to reining extended far beyond what he accomplished in the arena. He served on the NRHA board from 1966 — the year the association was founded — through 1994. Twenty-eight years of governance, spanning the organization's entire journey from a small regional Ohio association to a globally recognized equestrian sport. In 1977, he was elected NRHA President, serving the association at a critical point in its growth and helping guide it through the formative years that would lead to its eventual move to Oklahoma City in 1986 and its acceptance into the FEI in 2000.</p>
+
+        <p>In 1995, the recognition that had long been overdue was formally conferred: Bill Horn was named the NRHA's first-ever Million Dollar Rider — the first person in the history of the sport to accumulate one million dollars in lifetime NRHA earnings. The milestone acknowledged not just the competitive record but the longevity and consistency of a career that had begun at the very first NRHA Futurity in 1966. He had grown with the sport, and the sport had grown around him.</p>
+
+        <p>He was inducted into the NRHA Hall of Fame in 1992 — the same year he won the World Championship on Trashadeous. The combination of competitive peak and formal recognition in a single year says something essential about the kind of career Bill Horn had: he was never a historical figure while he was still competing. He remained relevant, dangerous, and present at the highest level of the sport until his body would no longer allow it.</p>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- ACHIEVEMENTS -->
+      <article class="bio-section">
+        <div class="section-label">Achievements</div>
+        <h2>A Career That Built the Sport It Competed In</h2>
+        <ul class="accomplishments">
+          <li>NRHA Founding Member — one of the founders of the National Reining Horse Association in 1966 in Coshocton, Ohio</li>
+          <li>NRHA President — 1977; served on the NRHA board from 1966 through 1994, guiding the association through its formative years</li>
+          <li>NRHA's First Million Dollar Rider — named in 1995, the first in the sport's history to accumulate $1M in lifetime NRHA earnings</li>
+          <li>NRHA Hall of Fame inductee — 1992</li>
+          <li>4× NRHA Open Futurity Champion: Mr Poco Luis (1967), Eternal One (1972), Aces Command (1981), Spirit of Five (1987)</li>
+          <li>6× NRHA Futurity Open Reserve Champion: Miz Liz Dodson (1968), Glenda Echols (1971), Continental Charo (1973), Enterprise Velvet (1983), Trashadeous (1990), Mifillena (1994)</li>
+          <li>3× NRHA Open World Champion: Walkaway Rene (1978), White Is (1980), Trashadeous (1992)</li>
+          <li>Multiple NRHA Derby and SuperStakes Champion</li>
+          <li>NRHA Futurity finalist every year from 1966 through 1996 — an unbroken 30-year streak. Also brought finalists in 2001, 2002, and at age 67 in 2005</li>
+          <li>10 horses he rode or was associated with inducted into the NRHA Hall of Fame</li>
+          <li>Bred Trashadeous (NRHA HOF 1996) — sire: Be Aech Enterprise (NRHA HOF 1997), dam: Miss White Trash</li>
+          <li>1975 All-American Quarter Horse Congress — rode Miss White Trash and brother Paul's Im Great Too to a runoff for first; won on Im Great Too</li>
+          <li>Student of Dale Wilkinson — "father of modern-day reining" and first NRHA Hall of Fame inductee</li>
+          <li>Mentor to many reiners across four decades of competition</li>
+          <li>Passed away December 9, 2011, at age 73, in Ocala, Florida</li>
+        </ul>
+      </article>
+
+      <hr class="fancy">
+
+      <!-- TIMELINE -->
+      <article class="bio-section">
+        <div class="section-label">Life Timeline</div>
+        <h2>From Ohio to the Hall of Fame — A Life in Reining</h2>
+        <ul class="timeline">
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">c.1938</div>
+            <div class="tl-content"><strong>Born in Ohio</strong>Born into a farming family in Ohio. Brother Paul Horn will also become a prominent reiner. Studies under Dale Wilkinson — the father of modern reining — developing the horsemanship that will span five decades.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1966</div>
+            <div class="tl-content"><strong>NRHA Co-Founded — Inaugural Futurity</strong>Participates in founding the National Reining Horse Association in Coshocton, Ohio, alongside Dale Wilkinson, Paul Horn, Dick Pieper, and others. Competes in the inaugural NRHA Futurity in Columbus, Ohio. Begins a thirty-year unbroken streak of reaching the Futurity finals.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1967</div>
+            <div class="tl-content"><strong>First NRHA Futurity Championship — Mr Poco Luis</strong>Wins the NRHA Open Futurity for the first time on Mr Poco Luis — the second year of the event's existence. The first of four Futurity titles across two decades.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1972</div>
+            <div class="tl-content"><strong>Second Futurity Championship — Eternal One</strong>Wins the NRHA Open Futurity on Eternal One — five years after the first, demonstrating consistency at the sport's most demanding event.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1975</div>
+            <div class="tl-content"><strong>The Congress Runoff</strong>At the All-American Quarter Horse Congress, rides both his own Miss White Trash and brother Paul's Im Great Too in a runoff for first in the NRHA Open. Wins on Im Great Too — a moment that becomes part of reining lore.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1977</div>
+            <div class="tl-content"><strong>NRHA President</strong>Elected NRHA President, serving the association at a pivotal period in its growth from regional Ohio sport toward national and eventually international recognition.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1978–<br>1980</div>
+            <div class="tl-content"><strong>Two NRHA Open World Championships</strong>Wins the NRHA Open World Championship on Walkaway Rene (1978) and White Is (1980). Back-to-back World titles confirm his position as the dominant force in the sport.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1981</div>
+            <div class="tl-content"><strong>Third Futurity Championship — Aces Command</strong>Wins the NRHA Open Futurity on Aces Command — his third championship title, now spanning fourteen years of Futurity dominance.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1987</div>
+            <div class="tl-content"><strong>Fourth Futurity Championship — Spirit of Five</strong>Wins the NRHA Open Futurity for a fourth and final time on Spirit of Five — twenty years after the first, an achievement without precedent in the sport.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1990–<br>1992</div>
+            <div class="tl-content"><strong>Trashadeous — Reserve, then World Champion</strong>1990 Futurity Reserve on Trashadeous, a horse bred by Bill and Kim Horn out of Miss White Trash. In 1992, wins the NRHA Open World Championship on Trashadeous — the capstone title of a magnificent career.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1992</div>
+            <div class="tl-content"><strong>NRHA Hall of Fame Inductee</strong>Inducted into the NRHA Hall of Fame — recognition of a career that has shaped the sport at every level: as a competitor, as a founder, as a president, and as a breeder.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">1995</div>
+            <div class="tl-content"><strong>NRHA's First Million Dollar Rider</strong>Named the NRHA's first-ever Million Dollar Rider — the first person in the history of reining to accumulate $1 million in lifetime NRHA earnings. A milestone that honors his full body of work from 1966 to the mid-1990s.</div>
+          </li>
+          <li>
+            <div class="tl-dot"></div>
+            <div class="tl-year">2005</div>
+            <div class="tl-content"><strong>Final Futurity Finals — Age 67</strong>At age sixty-seven, brings another three-year-old to the NRHA Futurity finals — the last time, but not without grace. Nearly forty years after the first, still in the pen when it mattered most.</div>
+          </li>
+          <li>
+            <div class="tl-dot final"></div>
+            <div class="tl-year">Dec 9,<br>2011</div>
+            <div class="tl-content"><strong>Passing — Ocala, Florida</strong>Bill Horn dies at age 73 at his ranch in Ocala, Florida, after illness. Survived by his wife Kim Horn. The NRHA — the organization he helped create and served for four decades — mourned the loss of its ultimate reiner. "The void his passing leaves behind cannot be filled."</div>
+          </li>
+        </ul>
+      </article>
+
+    </main>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+      <div class="sidebar-card" style="border-top:3px solid var(--gold-lt)">
+        <h3>In Memoriam</h3>
+        <dl>
+          <dt>Born</dt>
+          <dd>c. 1938 · Ohio, USA</dd>
+          <dt>Died</dt>
+          <dd>December 9, 2011<br>Ocala, Florida · Age 73</dd>
+          <dt>Spouse</dt>
+          <dd>Kim Horn<br>(co-breeder of Trashadeous)</dd>
+          <dt>Brother</dt>
+          <dd>Paul Horn — also a prominent reiner</dd>
+          <dt>Mentor</dt>
+          <dd>Dale Wilkinson — father of modern reining, first NRHA Hall of Fame inductee</dd>
+          <dt>Based</dt>
+          <dd>Ohio (early career)<br>Ocala, Florida (later career)</dd>
+          <dt>NRHA Board</dt>
+          <dd>1966 – 1994 (founding through near-present)</dd>
+          <dt>NRHA President</dt>
+          <dd>1977</dd>
+        </dl>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>NRHA Hall of Fame Horses</h3>
+        <ul class="list-items">
+          <li>Glenda Echols <span>1971 Futurity Reserve · HOF 1990</span></li>
+          <li>Be Aech Enterprise <span>Associated horse · HOF 1997</span></li>
+          <li>Trashadeous <span>Bred by Bill &amp; Kim Horn · 1992 World Champion · HOF 1996</span></li>
+          <li>+ 7 more horses <span>10 total associated with Horn inducted into NRHA Hall of Fame</span></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>Three World Championships</h3>
+        <ul class="list-items">
+          <li>Walkaway Rene <span>1978 NRHA Open World Champion</span></li>
+          <li>White Is <span>1980 NRHA Open World Champion</span></li>
+          <li>Trashadeous <span>1992 NRHA Open World Champion</span></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <h3>The NRHA Founding</h3>
+        <ul class="list-items">
+          <li>1966 — NRHA founded in Coshocton, Ohio <span>Horn among founding members alongside Dale Wilkinson, Paul Horn, Dick Pieper, Stretch Bradley</span></li>
+          <li>First Futurity — Columbus, Ohio 1966 <span>Horn competed in the inaugural event</span></li>
+          <li>Futurity streak: 1966–1996 <span>Finals appearances every year — 30 consecutive years</span></li>
+          <li>2000 — FEI accepts reining <span>The sport Horn helped found reaches the international stage</span></li>
+        </ul>
+      </div>
+
+    </aside>
+
+  </div>
+</div>
+
+<!-- RELATED -->
+<section class="related-section">
+  <div class="related-inner">
+    <h2>More Famous Horse Trainers</h2>
+    <div class="related-grid">
+      <a href="/famous-trainers/bob-loomis" class="related-card">
+        <div class="related-name">Bob Loomis</div>
+        <div class="related-desc">b. 1943 · Reining Icon</div>
+        <div class="related-arrow">→</div>
+      </a>
+      <a href="/famous-trainers/todd-bergen" class="related-card">
+        <div class="related-name">Todd Bergen</div>
+        <div class="related-desc">b. c.1970 · $4M+ Reining Career</div>
+        <div class="related-arrow">→</div>
+      </a>
+      <a href="/famous-trainers/ray-hunt" class="related-card">
+        <div class="related-name">Ray Hunt</div>
+        <div class="related-desc">1929–2009 · Clinic Pioneer</div>
+        <div class="related-arrow">→</div>
+      </a>
+      <a href="/famous-trainers/bob-avila" class="related-card">
+        <div class="related-name">Bob Avila</div>
+        <div class="related-desc">1951–2024 · NRHA &amp; NRCHA Legend</div>
+        <div class="related-arrow">→</div>
+      </a>
+      <a href="/famous-trainers/al-dunning" class="related-card">
+        <div class="related-name">Al Dunning</div>
+        <div class="related-desc">b. 1950 · AQHA World Champion</div>
+        <div class="related-arrow">→</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer class="bio-footer">
+  <div class="bio-footer-inner">
+    <div>
+      <div class="bio-footer-brand">Horse<span>Trainer</span>.ai</div>
+      <p style="margin-top:6px">Arizona's equestrian intelligence network · <a href="/">Home</a> · <a href="/famous-trainers">Famous Trainers</a></p>
+    </div>
+    <p>© 2025 Bridle &amp; Bit Magazine · All rights reserved</p>
+  </div>
+</footer>
+
+</body>
+</html>
