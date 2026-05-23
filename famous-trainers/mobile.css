@@ -1,0 +1,199 @@
+/* ═══════════════════════════════════════════════════════
+   HorseTrainer.ai — Famous Trainers Mobile-First CSS
+   Applies to all bio pages via shared stylesheet
+   ═══════════════════════════════════════════════════════ */
+
+/* ── Base mobile overrides ─────────────────────────── */
+@media (max-width: 767px) {
+  body { font-size: 15px; line-height: 1.72; }
+  .page-wrapper { padding: 0 14px; }
+}
+
+/* ── Site nav ──────────────────────────────────────── */
+@media (max-width: 767px) {
+  .site-nav { padding: 0 14px; font-size: 12px; gap: 5px; overflow-x: auto; white-space: nowrap; }
+}
+
+/* ── Hero section ───────────────────────────────────── */
+@media (max-width: 767px) {
+  /* Always single column */
+  .hero {
+    grid-template-columns: 1fr !important;
+    min-height: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  /* Photo always on top in mobile stack */
+  .hero-photo { order: -1; min-height: 220px !important; width: 100% !important; }
+  .hero-photo img { height: 220px !important; object-fit: cover; }
+  /* Remove side gradients that don't make sense when stacked */
+  .hero-photo::before { display: none !important; }
+  .hero-photo::after { display: none !important; }
+
+  /* Left/right hero text panels */
+  .hero-left, .hero-right {
+    padding: 24px 16px 32px !important;
+    order: 1;
+  }
+  /* Headings */
+  .hero h1 { font-size: clamp(36px, 9vw, 52px) !important; margin-top: 12px !important; }
+  .hero h1 em { display: inline !important; } /* keep on same line if short */
+  .hero-tagline { font-size: 16px !important; margin-top: 18px !important; }
+  .hero-sub { font-size: 11px !important; }
+  .hero-desc, .hero-record, .hero-first, .hero-firsts, .hero-family, .hero-unique { font-size: 13px !important; margin-top: 6px !important; }
+  .hero-tags { margin-top: 18px !important; gap: 5px !important; }
+  .tag { font-size: 10px !important; padding: 3px 8px !important; letter-spacing: .04em !important; }
+  /* Badges */
+  .cutting-badge, .rcw-badge, .racing-badge, .jumper-badge,
+  .arabian-badge, .reining-badge, .eventing-badge { font-size: 9px !important; letter-spacing: .12em !important; }
+  .deceased-badge { font-size: 8px !important; }
+  /* Pull-left border */
+  .hero-tagline { padding-left: 14px !important; }
+  /* Trainer label decorative line */
+  .trainer-label::before { width: 24px !important; }
+}
+
+/* ── Record bar ─────────────────────────────────────── */
+.record-bar { flex-wrap: wrap !important; }
+@media (max-width: 767px) {
+  .rec-item {
+    flex: 0 0 33.33% !important;
+    min-width: 0 !important;
+    padding: 10px 8px !important;
+    border-right: 1px solid rgba(255,255,255,.09) !important;
+    border-bottom: 1px solid rgba(255,255,255,.09) !important;
+  }
+  .rec-num { font-size: 20px !important; }
+  .rec-label { font-size: 9px !important; letter-spacing: .04em !important; margin-top: 2px !important; }
+}
+
+/* ── Main content grid ─────────────────────────────── */
+@media (max-width: 767px) {
+  .content-grid {
+    grid-template-columns: 1fr !important;
+    padding: 32px 0 40px !important;
+    gap: 20px !important;
+  }
+  .bio-section { margin-bottom: 36px !important; }
+  .bio-section h2 { font-size: 22px !important; margin-bottom: 16px !important; }
+  .bio-section p { font-size: 15px !important; }
+}
+
+/* ── Section labels ─────────────────────────────────── */
+@media (max-width: 767px) {
+  .section-label { font-size: 9px !important; letter-spacing: .14em !important; }
+}
+
+/* ── Pull quotes ────────────────────────────────────── */
+@media (max-width: 767px) {
+  .pull-quote { padding: 20px 20px 20px 32px !important; margin: 28px 0 !important; }
+  .pull-quote::before { font-size: 80px !important; }
+  .pull-quote p { font-size: 17px !important; }
+  .pull-quote cite { font-size: 10px !important; }
+}
+
+/* ── Wins / data tables ─────────────────────────────── */
+@media (max-width: 767px) {
+  .wins-table { font-size: 12px !important; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .wins-table thead th { padding: 8px 8px !important; font-size: 9px !important; letter-spacing: .05em !important; white-space: nowrap; }
+  .wins-table td { padding: 8px 8px !important; }
+  .wins-table td:first-child { font-size: 13px !important; }
+}
+
+/* ── Timeline ───────────────────────────────────────── */
+@media (max-width: 767px) {
+  .timeline li { grid-template-columns: 52px 1fr !important; gap: 10px !important; padding-bottom: 20px !important; }
+  .tl-year { font-size: 11px !important; }
+  .tl-content { font-size: 13px !important; }
+  .tl-content strong { font-size: 12px !important; }
+  .tl-dot { left: 22px !important; }
+  .timeline li::before { left: 27px !important; }
+}
+
+/* ── Accomplishments list ───────────────────────────── */
+@media (max-width: 767px) {
+  .accomplishments li { font-size: 14px !important; padding: 10px 0 10px 22px !important; }
+  .accomplishments li::before { top: 12px !important; }
+}
+
+/* ── Inline photos ──────────────────────────────────── */
+@media (max-width: 767px) {
+  .inline-photo { float: none !important; margin: 0 0 20px !important; max-width: 100% !important; }
+}
+
+/* ── Sidebar cards ──────────────────────────────────── */
+@media (max-width: 767px) {
+  .sidebar-card { padding: 18px !important; }
+  .sidebar-card h3 { font-size: 15px !important; }
+  .sidebar-card dt { font-size: 9px !important; }
+  .sidebar-card dd { font-size: 13px !important; }
+  .list-items li { font-size: 13px !important; }
+  .list-items li span { font-size: 10px !important; }
+}
+
+/* ── Various pair/grid layouts inside bios ─────────── */
+@media (max-width: 767px) {
+  /* Triple crown pairs, milestone rows, title blocks */
+  .tc-pair, .title-pair, .milestone-row,
+  .hb-firsts, .hb-breakdown, .pb-mares,
+  .tc-wins, .hb-firsts { grid-template-columns: 1fr !important; }
+
+  .student-grid { grid-template-columns: 1fr !important; }
+  .sb-races { grid-template-columns: 1fr 1fr !important; }
+  .fp-row { flex-direction: column !important; gap: 4px !important; }
+  .fp-year { min-width: unset !important; }
+  .badminton-row { flex-direction: row !important; flex-wrap: wrap !important; }
+  .br-card { flex: 0 0 calc(50% - 6px) !important; }
+  .medal-grid { grid-template-columns: 1fr 1fr !important; }
+
+  /* Horse boxes, coaching boxes */
+  .horse-box, .coaching-box, .zak-card, .hott-rod,
+  .the-ride, .historic-box, .streak-box, .tc-card,
+  .family-box, .polish-box, .caution-box, .controversy-box { padding: 18px 16px !important; }
+  .hb-big { font-size: 36px !important; }
+  .zk-score { font-size: 44px !important; }
+  .hb-year, .tc-year, .tr-year, .sb-num { font-size: 36px !important; }
+  .ms-count, .tb-count { font-size: 32px !important; }
+}
+
+/* ── Horses path list ───────────────────────────────── */
+@media (max-width: 767px) {
+  .horses-path li { grid-template-columns: 1fr !important; gap: 4px !important; }
+  .hp-name { font-size: 14px !important; }
+}
+
+/* ── Related section ────────────────────────────────── */
+@media (max-width: 767px) {
+  .related-section { padding: 36px 14px !important; }
+  .related-inner h2 { font-size: 22px !important; margin-bottom: 20px !important; }
+  .related-grid { grid-template-columns: 1fr 1fr !important; gap: 10px !important; }
+  .related-name { font-size: 14px !important; }
+  .related-desc { font-size: 11px !important; }
+  .related-arrow { font-size: 14px !important; margin-top: 8px !important; }
+}
+
+/* ── Footer ─────────────────────────────────────────── */
+@media (max-width: 767px) {
+  .bio-footer { padding: 24px 14px !important; }
+  .bio-footer-inner { flex-direction: column !important; gap: 10px !important; }
+  .bio-footer-brand { font-size: 16px !important; }
+  .bio-footer p { font-size: 11px !important; }
+}
+
+/* ── Hr fancy ───────────────────────────────────────── */
+@media (max-width: 767px) {
+  hr.fancy { margin: 28px 0 !important; }
+}
+
+/* ── Famous Trainers INDEX page ─────────────────────── */
+@media (max-width: 767px) {
+  .trainer-card { min-height: unset !important; }
+  .card-name { font-size: 18px !important; }
+  .card-era { font-size: 10px !important; }
+  .card-excerpt { font-size: 13px !important; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+}
+
+/* ── Homepage banner ────────────────────────────────── */
+@media (max-width: 767px) {
+  .hero-stats { flex-wrap: wrap !important; }
+}
