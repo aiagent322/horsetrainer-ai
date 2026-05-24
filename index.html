@@ -1033,7 +1033,7 @@ function trainerCardHTML(t) {
   const web = t.website ? `<a href="${esc(t.website)}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">🌐 Website</a>` : '';
 
   return `
-    <div class="trainer-card" tabindex="0" data-id="${t.id}" onclick="openTrainerProfile(this.dataset.id)" onkeydown="if(event.key==='Enter')openTrainerProfile(this.dataset.id)" style="cursor:pointer;">
+    <div class="trainer-card" tabindex="0" data-id="${t.id}" style="cursor:pointer;">
       <div style="display:flex;align-items:center;gap:12px;">
         <div class="trainer-avatar">${t.photo_url ? `<img src="${esc(t.photo_url)}" alt="${esc(t.name)}" loading="lazy">` : initials}</div>
         <div>
@@ -1405,6 +1405,19 @@ function setNearMeRadius(miles, btn) {
 
 /* ── INIT ── */
 fetchTrainers();
+
+/* ── TRAINER CARD CLICK (delegation) ── */
+document.getElementById('trainers-grid').addEventListener('click', function(e) {
+  const card = e.target.closest('.trainer-card');
+  if (!card || !card.dataset.id) return;
+  openTrainerProfile(card.dataset.id);
+});
+document.getElementById('trainers-grid').addEventListener('keydown', function(e) {
+  if (e.key !== 'Enter') return;
+  const card = e.target.closest('.trainer-card');
+  if (!card || !card.dataset.id) return;
+  openTrainerProfile(card.dataset.id);
+});
 
 /* ════════════════════════════════════════
    HORSE TRAINING Q&A
