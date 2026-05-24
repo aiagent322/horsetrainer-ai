@@ -1025,7 +1025,7 @@ function trainerCardHTML(t) {
   const web = t.website ? `<a href="${esc(t.website)}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">🌐 Website</a>` : '';
 
   return `
-    <div class="trainer-card" tabindex="0">
+    <div class="trainer-card" tabindex="0" data-id="${t.id}" onclick="openTrainerProfile(this.dataset.id)" onkeydown="if(event.key==='Enter')openTrainerProfile(this.dataset.id)" style="cursor:pointer;">
       <div style="display:flex;align-items:center;gap:12px;">
         <div class="trainer-avatar">${t.photo_url ? `<img src="${esc(t.photo_url)}" alt="${esc(t.name)}" loading="lazy">` : initials}</div>
         <div>
@@ -1568,6 +1568,90 @@ fetchTrainers();
   })();
 })();
 
+/* ── TRAINER PROFILE MODAL ── */
+function openTrainerProfile(trainerId) {
+  const t = allTrainers.find(x => x.id === trainerId);
+  if (!t) return;
+
+  const esc2 = s => String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const initials = (t.name||'T').split(' ').map(w=>w[0]).join('').slice(0,2).toUpperCase();
+  const loc = [t.city, t.state].filter(Boolean).join(', ');
+  const discs = t.disciplines || t.discipline || '';
+  const discArr = Array.isArray(discs) ? discs : String(discs).split(',').map(d=>d.trim()).filter(Boolean);
+  const discLabel = s => s.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+
+  const photo = t.photo_url
+    ? `<img src="${esc2(t.photo_url)}" alt="${esc2(t.name)}" style="width:80px;height:80px;border-radius:50%;object-fit:cover;border:3px solid var(--gold);">`
+    : `<div style="width:80px;height:80px;border-radius:50%;background:var(--primary);color:#fff;font-size:1.6rem;font-weight:700;display:flex;align-items:center;justify-content:center;border:3px solid var(--gold);">${initials}</div>`;
+
+  const row = (label, val) => val ? `<div style="margin-bottom:10px;"><span style="font-size:0.78rem;font-weight:700;color:var(--text-light);text-transform:uppercase;letter-spacing:0.05em;">${label}</span><div style="font-size:0.95rem;color:var(--text);margin-top:2px;">${val}</div></div>` : '';
+
+  const tags = discArr.map(d=>`<span style="display:inline-block;background:rgba(29,111,165,0.1);color:var(--secondary);font-size:0.78rem;font-weight:600;padding:3px 10px;border-radius:20px;margin:2px;">${esc2(discLabel(d))}</span>`).join('');
+
+  const contacts = [
+    t.phone ? `<a href="tel:${t.phone.replace(/\D/g,'')}" style="display:inline-flex;align-items:center;gap:6px;background:var(--primary);color:#fff;font-size:0.85rem;font-weight:600;padding:9px 18px;border-radius:6px;text-decoration:none;">📞 Call</a>` : '',
+    t.email ? `<a href="mailto:${esc2(t.email)}" style="display:inline-flex;align-items:center;gap:6px;background:var(--gold);color:#fff;font-size:0.85rem;font-weight:600;padding:9px 18px;border-radius:6px;text-decoration:none;">✉ Email</a>` : '',
+    t.website ? `<a href="${esc2(t.website)}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#eaf7ed;color:#2d7a3f;font-size:0.85rem;font-weight:600;padding:9px 18px;border-radius:6px;text-decoration:none;">🌐 Website</a>` : '',
+    t.facebook_url ? `<a href="${esc2(t.facebook_url)}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#e8f0f7;color:#1877f2;font-size:0.85rem;font-weight:600;padding:9px 18px;border-radius:6px;text-decoration:none;">Facebook</a>` : '',
+    t.instagram_url ? `<a href="${esc2(t.instagram_url)}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;background:#fce8f0;color:#c13584;font-size:0.85rem;font-weight:600;padding:9px 18px;border-radius:6px;text-decoration:none;">Instagram</a>` : ''
+  ].filter(Boolean).join('');
+
+  const badges = [
+    t.online_coaching ? '💻 Online Coaching' : '',
+    t.accepts_dangerous ? '⚡ Accepts Problem Horses' : '',
+    t.accepts_young_horses ? '🐴 Young Horses Welcome' : ''
+  ].filter(Boolean).map(b=>`<span style="display:inline-block;background:#fff8e1;color:#b8860b;border:1px solid #f0d060;font-size:0.78rem;font-weight:600;padding:3px 10px;border-radius:20px;margin:2px;">${b}</span>`).join('');
+
+  const specsArr = Array.isArray(t.specialties) ? t.specialties : (t.specialties ? String(t.specialties).split(',').map(s=>s.trim()).filter(Boolean) : []);
+  const certsArr = Array.isArray(t.certifications) ? t.certifications : (t.certifications ? String(t.certifications).split(',').map(s=>s.trim()).filter(Boolean) : []);
+  const assocArr = Array.isArray(t.associations) ? t.associations : (t.associations ? String(t.associations).split(',').map(s=>s.trim()).filter(Boolean) : []);
+
+  document.getElementById('tp-body').innerHTML = `
+    <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px;">
+      ${photo}
+      <div>
+        <div style="font-size:1.25rem;font-weight:800;color:var(--primary);line-height:1.2;">${esc2(t.name||'')}</div>
+        ${t.business_name ? `<div style="font-size:0.9rem;font-weight:600;color:var(--gold);margin-top:2px;">${esc2(t.business_name)}</div>` : ''}
+        <div style="font-size:0.88rem;color:var(--text-mid);margin-top:4px;">📍 ${esc2(loc||'Location TBD')}${t.years_experience ? ` &nbsp;·&nbsp; ${esc2(t.years_experience)} yrs experience` : ''}</div>
+      </div>
+    </div>
+    ${tags ? `<div style="margin-bottom:16px;">${tags}</div>` : ''}
+    ${badges ? `<div style="margin-bottom:16px;">${badges}</div>` : ''}
+    ${t.bio ? `<div style="background:var(--bg-alt);border-radius:8px;padding:14px;font-size:0.93rem;line-height:1.65;color:var(--text);margin-bottom:16px;">${esc2(t.bio)}</div>` : ''}
+    ${specsArr.length ? row('Specialties', specsArr.map(s=>esc2(discLabel(s))).join(', ')) : ''}
+    ${t.rider_levels ? row('Rider Levels', esc2(Array.isArray(t.rider_levels) ? t.rider_levels.join(', ') : t.rider_levels)) : ''}
+    ${t.horse_problems ? row('Horse Problems Addressed', esc2(Array.isArray(t.horse_problems) ? t.horse_problems.join(', ') : t.horse_problems)) : ''}
+    ${t.travel_radius ? row('Travel Radius', esc2(t.travel_radius) + ' miles') : ''}
+    ${t.budget_range ? row('Budget Range', esc2(t.budget_range)) : ''}
+    ${certsArr.length ? row('Certifications', certsArr.map(s=>esc2(s)).join(', ')) : ''}
+    ${assocArr.length ? row('Associations', assocArr.map(s=>esc2(s)).join(', ')) : ''}
+    ${contacts ? `<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;">${contacts}</div>` : ''}
+  `;
+  const overlay = document.getElementById('tp-overlay');
+  overlay.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+document.getElementById('tp-close').addEventListener('click', () => {
+  document.getElementById('tp-overlay').classList.remove('open');
+  document.body.style.overflow = '';
+});
+document.getElementById('tp-overlay').addEventListener('click', e => {
+  if (e.target === e.currentTarget) {
+    e.currentTarget.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+});
+
 </script>
+
+<!-- TRAINER PROFILE MODAL -->
+<div class="modal-overlay" id="tp-overlay" role="dialog" aria-modal="true" aria-label="Trainer profile">
+  <div class="modal" id="tp-modal" style="max-width:580px;">
+    <button class="modal-close" id="tp-close" aria-label="Close">✕</button>
+    <div id="tp-body"></div>
+  </div>
+</div>
+
 </body>
 </html>
