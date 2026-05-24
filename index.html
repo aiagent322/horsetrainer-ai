@@ -895,6 +895,14 @@ img { max-width:100%; height:auto; display:block; }
   </div>
 </div>
 
+<!-- TRAINER PROFILE MODAL -->
+<div class="modal-overlay" id="tp-overlay" role="dialog" aria-modal="true" aria-label="Trainer profile">
+  <div class="modal" id="tp-modal" style="max-width:580px;">
+    <button class="modal-close" id="tp-close" aria-label="Close">✕</button>
+    <div id="tp-body"></div>
+  </div>
+</div>
+
 <!-- ── SCRIPTS ─────────────────────────────────────── -->
 <script>
 /* ── CONFIG ── */
@@ -1644,14 +1652,6 @@ document.getElementById('tp-overlay').addEventListener('click', e => {
 });
 
 </script>
-
-<!-- TRAINER PROFILE MODAL -->
-<div class="modal-overlay" id="tp-overlay" role="dialog" aria-modal="true" aria-label="Trainer profile">
-  <div class="modal" id="tp-modal" style="max-width:580px;">
-    <button class="modal-close" id="tp-close" aria-label="Close">✕</button>
-    <div id="tp-body"></div>
-  </div>
-</div>
 
 </body>
 </html>
