@@ -1031,6 +1031,7 @@ function trainerCardHTML(t) {
   const phone = t.phone ? `<a href="tel:${t.phone.replace(/\D/g,'')}" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">📞 Call</a>` : '';
   const email = t.email ? `<a href="mailto:${t.email}" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">✉ Email</a>` : '';
   const web = t.website ? `<a href="${esc(t.website)}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">🌐 Website</a>` : '';
+  const fb = t.facebook_url ? `<a href="${esc(t.facebook_url)}" target="_blank" rel="noopener" style="font-size:0.82rem;color:var(--secondary);font-weight:600;">📘 Facebook</a>` : '';
 
   return `
     <div class="trainer-card" tabindex="0" data-id="${t.id}" style="cursor:pointer;">
@@ -1043,7 +1044,7 @@ function trainerCardHTML(t) {
       </div>
       <div class="trainer-disciplines">${tags}</div>
       <div class="trainer-bio">${bio}</div>
-      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:4px;">${[phone,email,web].filter(Boolean).join('')}</div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:4px;">${[phone,email,web,fb].filter(Boolean).join('')}</div>
     </div>`;
 }
 
