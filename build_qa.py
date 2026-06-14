@@ -15,7 +15,7 @@ from datetime import datetime
 # ── Config ─────────────────────────────────────────────────────────────────
 SUPABASE_URL = "https://ptuuuishzwwgmaexneul.supabase.co"
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")
-BASE_URL     = "https://horsetrainer.ai"
+BASE_URL     = "https://horsetrainer-ai.pages.dev"
 OUT          = "qa"   # output folder — push this to repo root
 
 # ── Helpers ────────────────────────────────────────────────────────────────

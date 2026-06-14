@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://horsetrainer.ai/sitemap.xml
+Sitemap: https://horsetrainer-ai.pages.dev/sitemap.xml
 
 # Block admin areas if added later
 Disallow: /admin/
