@@ -47,12 +47,23 @@ def fetch_all_qa():
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
-    req = urllib.request.Request(
-        f"{SUPABASE_URL}/rest/v1/qa?select=id,category,question,answer&order=category,id&limit=2000",
-        headers={"apikey": SUPABASE_KEY, "Authorization": f"Bearer {SUPABASE_KEY}"}
-    )
-    with urllib.request.urlopen(req, context=ctx) as r:
-        return json.loads(r.read())
+    all_rows = []
+    offset = 0
+    while True:
+        url = f"{SUPABASE_URL}/rest/v1/qa?select=id,category,question,answer&order=category,id&limit=1000&offset={offset}"
+        req = urllib.request.Request(
+            url,
+            headers={"apikey": SUPABASE_KEY, "Authorization": f"Bearer {SUPABASE_KEY}"}
+        )
+        with urllib.request.urlopen(req, context=ctx) as r:
+            batch = json.loads(r.read())
+        if not batch:
+            break
+        all_rows.extend(batch)
+        offset += len(batch)
+        if len(batch) < 1000:
+            break
+    return all_rows
 
 # ── Shared CSS (matches existing horsetrainer.ai design) ───────────────────
 SHARED_CSS = """
