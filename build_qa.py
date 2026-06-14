@@ -202,6 +202,10 @@ a:hover{color:var(--primary);text-decoration:underline;}
   background:var(--bg-warm);padding:20px 20px 20px 24px;
   border-radius:0 var(--radius) var(--radius) 0;}
 
+.cat-intro{background:var(--bg-warm);border-left:4px solid var(--secondary);
+  border-radius:0 var(--radius) var(--radius) 0;padding:20px 24px;margin-bottom:24px;}
+.cat-intro p{font-size:0.95rem;line-height:1.75;color:var(--text-mid);margin:0;}
+
 /* Related */
 .related-section{border-top:1px solid var(--border);padding-top:24px;margin-top:32px;}
 .related-section h3{font-size:0.78rem;font-weight:700;text-transform:uppercase;
@@ -458,6 +462,9 @@ def build_category(category, qa_list):
         ]
     })
 
+    intro_text = CATEGORY_INTROS.get(category, "")
+    intro_html = f'<div class="cat-intro"><p>{intro_text}</p></div>' if intro_text else ""
+
     html = html_head(title, desc, f"{BASE_URL}/qa/{cat_slug}/",
                      f'<script type="application/ld+json">{schema}</script>') + \
            html_header() + f"""
@@ -475,6 +482,8 @@ def build_category(category, qa_list):
     <a href="/qa/">Training Q&amp;A</a><span>›</span>
     {category}
   </nav>
+
+  {intro_html}
 
   <div class="qa-search">
     <div class="search-wrap">
@@ -588,6 +597,11 @@ def build_sitemap(all_urls):
 
 # ── Main ───────────────────────────────────────────────────────────────────
 def main():
+    global CATEGORY_INTROS
+    try:
+        from category_intros import CATEGORY_INTROS
+    except ImportError:
+        CATEGORY_INTROS = {}
     if not SUPABASE_KEY:
         sys.exit("ERROR: Set SUPABASE_KEY environment variable before running.")
     print("=" * 52)
