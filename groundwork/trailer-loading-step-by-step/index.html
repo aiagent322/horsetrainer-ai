@@ -8,6 +8,19 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Trailer Loading Step by Step","description":"A proven pressure-and-release method for loading resistant horses.","url":"https://horsetrainer.ai/groundwork/trailer-loading-step-by-step/","publisher":{"@type":"Organization","name":"HorseTrainer.ai"},"dateModified":"2026-05-01"}</script>
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐎</text></svg>">
+<style>
+.vid-facade{position:relative;width:100%;padding-bottom:56.25%;background:#0a0a0a;cursor:pointer;overflow:hidden;border-radius:var(--radius-md) var(--radius-md) 0 0;}
+.vid-facade img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s,filter .3s;}
+.vid-facade:hover img{transform:scale(1.04);filter:brightness(.75);}
+.vid-play-btn-2{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:52px;height:52px;background:rgba(29,111,165,.9);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.1rem;pointer-events:none;transition:transform .2s,background .2s;}
+.vid-facade:hover .vid-play-btn-2{background:var(--secondary);transform:translate(-50%,-50%) scale(1.1);}
+.vid-grid-4{display:grid;gap:1rem;grid-template-columns:1fr;}
+@media(min-width:640px){.vid-grid-4{grid-template-columns:repeat(2,1fr);}}
+.vid-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-md);overflow:hidden;}
+.vid-info{padding:.75rem 1rem .875rem;}
+.vid-title-sm{font-size:.875rem;font-weight:600;color:var(--cream);line-height:1.35;margin-bottom:.3rem;}
+.vid-ch{font-size:.75rem;color:var(--muted);}
+</style>
 </head>
 <body>
 <nav class="nav"><div class="container"><div class="nav-inner">
@@ -147,4 +160,5 @@
   <div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div>
 </div></div>
 <script src="/js/app.js"></script>
+<script>document.querySelectorAll('.vid-facade').forEach(function(f){f.addEventListener('click',function(){var id=f.dataset.vid,t=f.dataset.title||'';var ifr=document.createElement('iframe');ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';ifr.title=t;ifr.allowFullscreen=true;ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0;';f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';});f.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')f.click();});});</script>
 </body></html>
