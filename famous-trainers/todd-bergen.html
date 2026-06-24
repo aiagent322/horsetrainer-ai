@@ -85,6 +85,29 @@ body{background:var(--warm);color:var(--ink);font-family:'Source Serif 4',Georgi
 .bio-footer-brand span{color:var(--gold-lt)}
 hr.fancy{border:none;border-top:1px solid var(--mist);margin:48px 0;position:relative}
 hr.fancy::after{content:'◈';position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:var(--warm);padding:0 8px;color:var(--bronze);font-size:11px}
+
+/* ── Trainer video section ─────────────────────────────────────────────── */
+.trainer-videos{background:var(--saddle);border-top:3px solid var(--leather);padding:52px 24px 60px}
+.tv-inner{max-width:1160px;margin:0 auto}
+.tv-label{font-family:'Libre Baskerville',serif;font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold-lt);margin-bottom:10px;display:flex;align-items:center;gap:12px}
+.tv-label::before{content:'';width:36px;height:1px;background:var(--gold-lt);display:block}
+.tv-inner>h2{font-family:'Playfair Display',serif;font-size:clamp(22px,3vw,30px);font-weight:700;color:var(--cream);margin-bottom:32px;line-height:1.2}
+.tv-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px}
+.tv-card{background:rgba(255,255,255,.05);border:1px solid rgba(140,72,32,.35);border-radius:6px;overflow:hidden;transition:border-color .2s,background .2s}
+.tv-card:hover{background:rgba(140,72,32,.12);border-color:var(--copper)}
+.vid-facade{position:relative;width:100%;padding-bottom:56.25%;background:#0e0604;cursor:pointer;overflow:hidden}
+.vid-facade img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s,filter .3s}
+.vid-facade:hover img{transform:scale(1.04);filter:brightness(.8)}
+.vid-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:56px;height:56px;background:rgba(255,0,0,.88);border-radius:50%;display:flex;align-items:center;justify-content:center;transition:background .2s,transform .2s;pointer-events:none;box-shadow:0 4px 20px rgba(0,0,0,.5)}
+.vid-facade:hover .vid-play{background:rgba(255,0,0,1);transform:translate(-50%,-50%) scale(1.1)}
+.vid-play svg{width:22px;height:22px;fill:#fff;margin-left:4px}
+.vid-facade iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+.tv-info{padding:12px 14px 14px}
+.tv-title{font-family:'Playfair Display',serif;font-size:.92rem;font-weight:700;color:var(--cream);line-height:1.3;margin-bottom:4px;overflow-wrap:break-word}
+.tv-channel{font-size:.75rem;color:var(--sand);font-family:'Libre Baskerville',serif;font-weight:600}
+@media(min-width:640px){.tv-grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:1024px){.tv-grid{grid-template-columns:repeat(4,1fr)}}
+/* ── end trainer video section ─────────────────────────────────────────── */
 </style>
 <link rel="stylesheet" href="/famous-trainers/mobile.css">
 </head>
@@ -228,6 +251,55 @@ hr.fancy::after{content:'◈';position:absolute;left:50%;top:50%;transform:trans
   </div>
 </div>
 
+
+<section class="trainer-videos">
+  <div class="tv-inner">
+    <div class="tv-label">Watch &amp; Learn</div>
+    <h2>Bergen — Featured Videos</h2>
+    <div class="tv-grid">
+      <div class="tv-card">
+        <div class="vid-facade" data-vid="sZ_fJywqGxo" data-title="2024 NRBC Open Finals" role="button" tabindex="0" aria-label="Play: 2024 NRBC Open Finals">
+          <img src="https://i.ytimg.com/vi/sZ_fJywqGxo/hqdefault.jpg" alt="2024 NRBC Open Finals" loading="lazy" width="480" height="270">
+          <div class="vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
+        </div>
+        <div class="tv-info">
+          <div class="tv-title">2024 NRBC Open Finals</div>
+          <div class="tv-channel">NRHA</div>
+        </div>
+      </div>
+      <div class="tv-card">
+        <div class="vid-facade" data-vid="La5DcU2ZpJM" data-title="Cactus Reining Classic Open Finals" role="button" tabindex="0" aria-label="Play: Cactus Reining Classic Open Finals">
+          <img src="https://i.ytimg.com/vi/La5DcU2ZpJM/hqdefault.jpg" alt="Cactus Reining Classic Open Finals" loading="lazy" width="480" height="270">
+          <div class="vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
+        </div>
+        <div class="tv-info">
+          <div class="tv-title">Cactus Reining Classic Open Finals</div>
+          <div class="tv-channel">Reining USA</div>
+        </div>
+      </div>
+      <div class="tv-card">
+        <div class="vid-facade" data-vid="eKTstXJIqUw" data-title="2024 NRBC Open Championship" role="button" tabindex="0" aria-label="Play: 2024 NRBC Open Championship">
+          <img src="https://i.ytimg.com/vi/eKTstXJIqUw/hqdefault.jpg" alt="2024 NRBC Open Championship" loading="lazy" width="480" height="270">
+          <div class="vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
+        </div>
+        <div class="tv-info">
+          <div class="tv-title">2024 NRBC Open Championship</div>
+          <div class="tv-channel">NRHA</div>
+        </div>
+      </div>
+      <div class="tv-card">
+        <div class="vid-facade" data-vid="1hotOpqmr_c" data-title="NRHA Futurity Final — Score 230" role="button" tabindex="0" aria-label="Play: NRHA Futurity Final — Score 230">
+          <img src="https://i.ytimg.com/vi/1hotOpqmr_c/hqdefault.jpg" alt="NRHA Futurity Final — Score 230" loading="lazy" width="480" height="270">
+          <div class="vid-play" aria-hidden="true"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
+        </div>
+        <div class="tv-info">
+          <div class="tv-title">NRHA Futurity Final — Score 230</div>
+          <div class="tv-channel">NRHA</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="related-section">
   <div class="related-inner">
     <h2>More Famous Horse Trainers</h2>
@@ -247,5 +319,21 @@ hr.fancy::after{content:'◈';position:absolute;left:50%;top:50%;transform:trans
     <p>© 2025 Bridle &amp; Bit Magazine · All rights reserved</p>
   </div>
 </footer>
+<script>
+(function(){
+  document.querySelectorAll('.vid-facade').forEach(function(f){
+    f.addEventListener('click',function(){
+      var id=f.dataset.vid,t=f.dataset.title;
+      var ifr=document.createElement('iframe');
+      ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';
+      ifr.title=t;ifr.allowFullscreen=true;
+      ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';
+      ifr.referrerPolicy='strict-origin-when-cross-origin';
+      f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';
+    });
+    f.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')f.click();});
+  });
+})();
+</script>
 </body>
 </html>
