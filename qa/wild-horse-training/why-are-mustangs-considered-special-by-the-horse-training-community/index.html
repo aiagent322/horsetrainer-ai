@@ -204,6 +204,18 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .bb-badge{display:inline-flex;align-items:center;gap:6px;
   font-size:0.75rem;color:rgba(255,255,255,0.5);}
 </style>
+<style>
+.qa-vid-wrap{margin:32px 0 8px;border-top:2px solid #e5e7eb;padding-top:24px;}
+.qa-vid-wrap h3{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#6b7280;margin-bottom:14px;}
+.qa-vid-card{border:1px solid #e5e7eb;border-radius:6px;overflow:hidden;max-width:560px;}
+.qa-vid-facade{position:relative;width:100%;padding-bottom:56.25%;background:#0a0a0a;cursor:pointer;}
+.qa-vid-facade img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s,filter .3s;}
+.qa-vid-facade:hover img{transform:scale(1.03);filter:brightness(.78);}
+.qa-vid-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:48px;height:48px;background:rgba(29,111,165,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.05rem;pointer-events:none;}
+.qa-vid-info{padding:9px 12px 11px;background:#fff;}
+.qa-vid-title{font-size:.88rem;font-weight:600;color:#0b3c5d;line-height:1.35;margin-bottom:3px;}
+.qa-vid-ch{font-size:.75rem;color:#6b7280;}
+</style>
 </head>
 <body><header class="site-header">
   <div class="header-top">
@@ -258,7 +270,11 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
   <a href="/#find-a-trainer" class="cta-btn">Find My Trainer →</a>
 </div>
 
-  <section class="related-section">
+  <div class="qa-vid-wrap">
+<h3>Watch: Why Are Mustangs Considered Special by the Horse Training Community</h3>
+<div class="qa-vid-card"><div class="qa-vid-facade" data-vid="s9KlvAnwkLA" data-title="Mustang Heritage Foundation — Why Mustangs Are Considered Special by the Horse Training Community"><img src="https://i.ytimg.com/vi/s9KlvAnwkLA/hqdefault.jpg" alt="Mustang Heritage Foundation — Why Mustangs Are Considered Special by the Horse Training Community" loading="lazy" width="480" height="270"><div class="qa-vid-play">&#9654;</div></div><div class="qa-vid-info"><div class="qa-vid-title">Mustang Heritage Foundation — Why Mustangs Are Considered Special by the Horse Training Community</div><div class="qa-vid-ch">Mustang Heritage Foundation</div></div></div></div>
+
+<section class="related-section">
     <h3>More Wild Horse Training Questions</h3>
     <a class="related-link" href="/qa/wild-horse-training/what-role-do-mustangs-play-in-the-broader-horse-industry/">
   <span class="rel-arrow">›</span>
@@ -321,5 +337,18 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
     </div>
   </div>
 </footer>
+<script>
+document.querySelectorAll('.qa-vid-facade').forEach(function(f){
+  f.addEventListener('click',function(){
+    var id=f.dataset.vid,t=f.dataset.title||'';
+    var ifr=document.createElement('iframe');
+    ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';
+    ifr.title=t;ifr.allowFullscreen=true;
+    ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';
+    ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0;';
+    f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';
+  });
+});
+</script>
 </body>
 </html>
