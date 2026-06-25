@@ -112,13 +112,6 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .footer-bottom a:hover{color:rgba(255,255,255,0.85);text-decoration:none;}
 .bb-badge{display:inline-flex;align-items:center;gap:6px;font-size:0.75rem;color:rgba(255,255,255,0.5);}
 </style>
-<style>
-.yt-facade{position:relative;width:100%;max-width:640px;margin:2rem auto;cursor:pointer;background:#000;border-radius:8px;overflow:hidden;aspect-ratio:16/9}
-.yt-facade img{width:100%;height:100%;object-fit:cover;display:block;opacity:.85}
-.yt-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:68px;height:48px;background:#ff0000;border-radius:12px;display:flex;align-items:center;justify-content:center}
-.yt-play svg{width:24px;height:24px;fill:#fff;margin-left:4px}
-.yt-label{position:absolute;bottom:0;left:0;right:0;background:rgba(0,0,0,.6);color:#fff;font-size:.85rem;padding:.5rem .75rem}
-</style>
 </head>
 <body><header class="site-header">
   <div class="header-top">
@@ -173,10 +166,7 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
   </div>
   <a href="/#find-a-trainer" class="cta-btn">Find My Trainer &rarr;</a>
 </div>
-<div class="yt-facade" data-vid="oTQQwFzXduo" role="button" aria-label="Play video: How Backing on the Ground Relates to the Rein-Back Under Saddle" tabindex="0">
-  <img src="https://img.youtube.com/vi/oTQQwFzXduo/hqdefault.jpg" alt="How Backing on the Ground Relates to the Rein-Back Under Saddle" loading="lazy" width="480" height="360">
-  <div class="yt-play"><svg viewBox="0 0 24 24"><polygon points="5,3 19,12 5,21"/></svg></div>
-  <div class="yt-label">Al Dunning &mdash; How Backing on the Ground Relates to the Rein-Back Under Saddle</div>
+<div class="yt-label">Al Dunning &mdash; How Backing on the Ground Relates to the Rein-Back Under Saddle</div>
 </div>
 <section class="related-section">
     <h3>More Backing on the Ground Questions</h3>
@@ -239,17 +229,5 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
     </div>
   </div>
 </footer>
-<script>
-document.querySelectorAll('.yt-facade').forEach(el=>{
-  el.addEventListener('click',()=>{
-    const id=el.dataset.vid;
-    const ifr=document.createElement('iframe');
-    ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1';
-    ifr.allow='autoplay;encrypted-media';ifr.allowFullscreen=true;
-    ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0';
-    el.style.position='relative';el.innerHTML='';el.appendChild(ifr);
-  });
-});
-</script>
 </body>
 </html>
