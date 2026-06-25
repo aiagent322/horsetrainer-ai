@@ -204,6 +204,20 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .bb-badge{display:inline-flex;align-items:center;gap:6px;
   font-size:0.75rem;color:rgba(255,255,255,0.5);}
 </style>
+<style>
+.qa-vid-section{background:#f8fafc;border-top:2px solid #e5e7eb;padding:32px 0 8px;margin-top:8px;}
+.qa-vid-section h2{font-size:1.1rem;font-weight:700;color:#0b3c5d;margin-bottom:16px;padding:0 0 10px;border-bottom:1px solid #e5e7eb;}
+.qa-vid-grid{display:grid;gap:12px;grid-template-columns:1fr;}
+@media(min-width:540px){.qa-vid-grid{grid-template-columns:repeat(2,1fr);}}
+.qa-vid-card{background:#fff;border:1px solid #e5e7eb;border-radius:6px;overflow:hidden;}
+.qa-vid-facade{position:relative;width:100%;padding-bottom:56.25%;background:#0a0a0a;cursor:pointer;}
+.qa-vid-facade img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s,filter .3s;}
+.qa-vid-facade:hover img{transform:scale(1.04);filter:brightness(.75);}
+.qa-vid-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:46px;height:46px;background:rgba(29,111,165,.9);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1rem;pointer-events:none;}
+.qa-vid-info{padding:8px 10px 10px;}
+.qa-vid-title{font-size:.82rem;font-weight:600;color:#0b3c5d;line-height:1.3;margin-bottom:2px;}
+.qa-vid-ch{font-size:.73rem;color:#6b7280;}
+</style>
 </head>
 <body><header class="site-header">
   <div class="header-top">
@@ -644,6 +658,12 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
   </div>
   <a href="/#find-a-trainer" class="cta-btn">Find My Trainer →</a>
 </div>
+<section class="qa-vid-section"><div class="container"><h2>📹 Collection & Softness Training Videos</h2><div class="qa-vid-grid">
+<div class="qa-vid-card"><div class="qa-vid-facade" data-vid="FBEWVWmOj78" data-title="Collection and the Horse's Back — The Basics"><img src="https://i.ytimg.com/vi/FBEWVWmOj78/hqdefault.jpg" alt="Collection and the Horse's Back — The Basics" loading="lazy" width="480" height="270"><div class="qa-vid-play">▶</div></div><div class="qa-vid-info"><div class="qa-vid-title">Collection and the Horse's Back — The Basics</div><div class="qa-vid-ch">Mary Wanless</div></div></div>
+<div class="qa-vid-card"><div class="qa-vid-facade" data-vid="BANshLvc55g" data-title="Ken McNabb: How to Ride Your Horse with Light Hands"><img src="https://i.ytimg.com/vi/BANshLvc55g/hqdefault.jpg" alt="Ken McNabb: How to Ride Your Horse with Light Hands" loading="lazy" width="480" height="270"><div class="qa-vid-play">▶</div></div><div class="qa-vid-info"><div class="qa-vid-title">Ken McNabb: How to Ride Your Horse with Light Hands</div><div class="qa-vid-ch">Ken McNabb Horsemanship</div></div></div>
+<div class="qa-vid-card"><div class="qa-vid-facade" data-vid="5CHrzenH_Sw" data-title="Ken McNabb: Exercises to Start Putting More Finish on Your Horse"><img src="https://i.ytimg.com/vi/5CHrzenH_Sw/hqdefault.jpg" alt="Ken McNabb: Exercises to Start Putting More Finish on Your Horse" loading="lazy" width="480" height="270"><div class="qa-vid-play">▶</div></div><div class="qa-vid-info"><div class="qa-vid-title">Ken McNabb: Exercises to Start Putting More Finish on Your Horse</div><div class="qa-vid-ch">Ken McNabb Horsemanship</div></div></div>
+<div class="qa-vid-card"><div class="qa-vid-facade" data-vid="jahmDTCy5nU" data-title="Ken McNabb: How to Teach Your Horse to Move Off Your Seat & Legs"><img src="https://i.ytimg.com/vi/jahmDTCy5nU/hqdefault.jpg" alt="Ken McNabb: How to Teach Your Horse to Move Off Your Seat & Legs" loading="lazy" width="480" height="270"><div class="qa-vid-play">▶</div></div><div class="qa-vid-info"><div class="qa-vid-title">Ken McNabb: How to Teach Your Horse to Move Off Your Seat & Legs</div><div class="qa-vid-ch">Ken McNabb Horsemanship</div></div></div>
+</div></div></section>
 </main>
 
 <script>
@@ -695,5 +715,18 @@ if(inp){
     </div>
   </div>
 </footer>
+<script>
+document.querySelectorAll('.qa-vid-facade').forEach(function(f){
+  f.addEventListener('click',function(){
+    var id=f.dataset.vid,t=f.dataset.title||'';
+    var ifr=document.createElement('iframe');
+    ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';
+    ifr.title=t;ifr.allowFullscreen=true;
+    ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';
+    ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0;';
+    f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';
+  });
+});
+</script>
 </body>
 </html>
