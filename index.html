@@ -473,6 +473,9 @@ img { max-width:100%; height:auto; display:block; }
   padding:2px 9px; border-radius:10px;
 }
 .qa-cat-card.active .qa-cat-count { background:rgba(255,255,255,0.18); color:rgba(255,255,255,0.9); }
+.qa-cat-browse { display:block; font-size:.68rem; color:var(--secondary); margin-top:4px; text-decoration:none; font-weight:600; letter-spacing:.02em; }
+.qa-cat-card.active .qa-cat-browse { color:rgba(255,255,255,0.85); }
+.qa-cat-card:hover .qa-cat-browse { text-decoration:underline; }
 
 /* Results section — always visible */
 .qa-results-section { display:block; }
@@ -1547,7 +1550,8 @@ document.getElementById('trainers-grid').addEventListener('keydown', function(e)
       card.dataset.cat = cat;
       const icon = CAT_ICONS[cat] || '📋';
       const bg   = CAT_BG[cat]   || '#f4f6f8';
-      card.innerHTML = `<div class="qa-cat-icon" style="background:${bg};">${icon}</div><div class="qa-cat-name">${cat}</div><div class="qa-cat-count">${cnt}</div>`;
+      const catSlug = cat.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
+      card.innerHTML = `<div class="qa-cat-icon" style="background:${bg};">${icon}</div><div class="qa-cat-name">${cat}</div><div class="qa-cat-count">${cnt}</div><a class="qa-cat-browse" href="/qa/${catSlug}/" onclick="event.stopPropagation()">Browse all →</a>`;
       card.addEventListener('click', () => selectCatCard(cat, card, cat));
       grid.appendChild(card);
     });
