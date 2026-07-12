@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Horse Genius — TV</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--gold:#e0a83b;--bg:#0a0c0f;--panel:#14181d;--muted:#8b96a3;--focus:#ffd35c}
+html,body{height:100%;background:var(--bg);color:#fff;font-family:-apple-system,'Segoe UI',Roboto,sans-serif;overflow:hidden}
+#app{height:100vh;display:flex;flex-direction:column;padding:3.5vh 3.5vw 0}
+.topbar{display:flex;align-items:baseline;gap:16px;flex:0 0 auto}
+.brand{font-size:2.1rem;font-weight:800;letter-spacing:.5px}
+.brand span{color:var(--gold)}
+.hint{margin-left:auto;font-size:.85rem;color:var(--muted)}
+.hero{flex:0 0 auto;min-height:16vh;padding:14px 0 6px;display:flex;flex-direction:column;justify-content:flex-end}
+.hero-cat{color:var(--gold);font-size:.85rem;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+.hero-title{font-size:2.3rem;font-weight:700;line-height:1.15;margin-top:6px;max-width:70%;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.hero-channel{color:var(--muted);font-size:1rem;margin-top:8px}
+.hero-count{color:var(--muted);font-size:.85rem;margin-top:4px}
+#rows{flex:1 1 auto;overflow:hidden;position:relative}
+#rowsInner{transition:transform .28s cubic-bezier(.22,.61,.36,1)}
+.row{margin-bottom:2.4vh}
+.row-label{font-size:1.05rem;font-weight:700;margin:0 0 10px 2px;color:#e8edf2}
+.row-label b{color:var(--muted);font-weight:600;font-size:.85rem;margin-left:8px}
+.cards{display:flex;gap:16px;transition:transform .28s cubic-bezier(.22,.61,.36,1);will-change:transform}
+.card{flex:0 0 auto;width:15.5vw;min-width:210px;cursor:pointer;transition:transform .18s}
+.thumb{position:relative;width:100%;aspect-ratio:16/9;border-radius:10px;overflow:hidden;background:#1c2229;border:3px solid transparent}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.play-i{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .18s;background:rgba(0,0,0,.35)}
+.play-i::after{content:'';border-style:solid;border-width:11px 0 11px 20px;border-color:transparent transparent transparent #fff;margin-left:5px}
+.card-t{font-size:.82rem;line-height:1.3;margin-top:8px;color:#c9d2db;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;padding:0 2px}
+.card.focused{transform:scale(1.07)}
+.card.focused .thumb{border-color:var(--focus);box-shadow:0 0 0 2px rgba(255,211,92,.35),0 12px 30px rgba(0,0,0,.6)}
+.card.focused .play-i{opacity:1}
+.card.focused .card-t{color:#fff}
+#status{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:14px;color:var(--muted);font-size:1.1rem}
+.spinner{width:44px;height:44px;border:4px solid #23303c;border-top-color:var(--gold);border-radius:50%;animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="topbar">
+    <div class="brand">HORSE <span>GENIUS</span></div>
+    <div class="hint">&#9650; &#9660; &#9664; &#9654; navigate &nbsp;&middot;&nbsp; OK plays on YouTube</div>
+  </div>
+  <div class="hero">
+    <div class="hero-cat" id="heroCat"></div>
+    <div class="hero-title" id="heroTitle"></div>
+    <div class="hero-channel" id="heroChannel"></div>
+    <div class="hero-count" id="heroCount"></div>
+  </div>
+  <div id="rows"><div id="status"><div class="spinner"></div><div>Loading Horse Genius…</div></div><div id="rowsInner"></div></div>
+</div>
+<script>
+// Discipline row ordering + labels
+var PRIO=["colt-starting","reining","groundwork","problem-horse","trail","tack","famous-trainers","videos","qa"];
+var LABEL={"colt-starting":"Colt Starting","reining":"Reining","groundwork":"Groundwork","problem-horse":"Problem Horses","trail":"Trail","tack":"Tack & Equipment","famous-trainers":"Famous Trainers","videos":"Video Library","qa":"Q&A"};
+var CATALOG=[],TOTAL=0,fRow=0,fCol=0,rowEls=[];
+var rowsInner=document.getElementById('rowsInner');
+function thumb(id){return 'https://i.ytimg.com/vi/'+id+'/hqdefault.jpg';}
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function homeSection(secs){secs=secs||[];for(var i=0;i<PRIO.length;i++){if(secs.indexOf(PRIO[i])>-1)return PRIO[i];}return secs[0]||'videos';}
+
+fetch('/videos.json').then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
+  .then(function(feed){
+    var vids=(feed&&feed.videos)||[];
+    var rows={};
+    vids.forEach(function(v){
+      var home=homeSection(v.sections);
+      (rows[home]=rows[home]||[]).push({id:v.id,t:v.youtube_title||(v.site_titles&&v.site_titles[0])||'',c:v.channel||''});
+    });
+    CATALOG=PRIO.filter(function(k){return rows[k]&&rows[k].length;}).map(function(k){return {key:k,label:LABEL[k],items:rows[k]};});
+    TOTAL=CATALOG.reduce(function(n,r){return n+r.items.length;},0);
+    if(!TOTAL){throw new Error('empty feed');}
+    build();
+  })
+  .catch(function(e){
+    document.getElementById('status').innerHTML='<div>Could not load the video feed.</div><div style="font-size:.85rem">'+esc(e.message)+'</div>';
+  });
+
+function build(){
+  var s=document.getElementById('status');if(s)s.remove();
+  CATALOG.forEach(function(row,ri){
+    var rEl=document.createElement('div');rEl.className='row';
+    rEl.innerHTML='<div class="row-label">'+esc(row.label)+'<b>'+row.items.length+' videos</b></div>';
+    var cards=document.createElement('div');cards.className='cards';cards.dataset.row=ri;
+    row.items.forEach(function(v,ci){
+      var c=document.createElement('div');c.className='card';c.dataset.row=ri;c.dataset.col=ci;
+      c.innerHTML='<div class="thumb"><img loading="lazy" src="'+thumb(v.id)+'" alt=""><div class="play-i"></div></div><div class="card-t">'+esc(v.t)+'</div>';
+      c.addEventListener('mouseenter',function(){fRow=ri;fCol=ci;update();});
+      c.addEventListener('click',function(){fRow=ri;fCol=ci;update();play(v.id);});
+      cards.appendChild(c);
+    });
+    rEl.appendChild(cards);rowsInner.appendChild(rEl);
+  });
+  rowEls=[].slice.call(document.querySelectorAll('.cards'));
+  update();
+}
+function update(){
+  var f=document.querySelector('.card.focused');if(f)f.classList.remove('focused');
+  var row=CATALOG[fRow],v=row.items[fCol];
+  var card=rowEls[fRow].children[fCol];card.classList.add('focused');
+  document.getElementById('heroCat').textContent=row.label;
+  document.getElementById('heroTitle').textContent=v.t;
+  document.getElementById('heroChannel').textContent=v.c?('▶  '+v.c):'';
+  document.getElementById('heroCount').textContent='Video '+(fCol+1)+' of '+row.items.length+'  ·  '+TOTAL+' total in Horse Genius';
+  var cw=card.offsetWidth+16;
+  rowEls[fRow].style.transform='translateX('+(-Math.max(0,fCol)*cw)+'px)';
+  var rp=rowEls[0].parentElement;
+  var rowH=rp.offsetHeight+(parseFloat(getComputedStyle(rp).marginBottom)||0);
+  rowsInner.style.transform='translateY('+(-fRow*rowH)+'px)';
+}
+function play(id){
+  var watch='https://www.youtube.com/watch?v='+id;
+  if(/Android/i.test(navigator.userAgent)){
+    window.location.href='vnd.youtube:'+id;
+    setTimeout(function(){window.location.href='intent://www.youtube.com/watch?v='+id+'#Intent;scheme=https;package=com.google.android.youtube.tv;end';},400);
+  } else { window.open(watch,'_blank'); }
+}
+document.addEventListener('keydown',function(e){
+  if(!CATALOG.length)return;
+  var row=CATALOG[fRow];
+  if(e.key==='ArrowRight'){fCol=Math.min(fCol+1,row.items.length-1);}
+  else if(e.key==='ArrowLeft'){fCol=Math.max(fCol-1,0);}
+  else if(e.key==='ArrowDown'){fRow=Math.min(fRow+1,CATALOG.length-1);fCol=Math.min(fCol,CATALOG[fRow].items.length-1);}
+  else if(e.key==='ArrowUp'){fRow=Math.max(fRow-1,0);fCol=Math.min(fCol,CATALOG[fRow].items.length-1);}
+  else if(e.key==='Enter'){play(row.items[fCol].id);return;}
+  else{return;}
+  e.preventDefault();update();
+});
+</script>
+</body>
+</html>
