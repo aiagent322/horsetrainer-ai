@@ -1,0 +1,46 @@
+
+name: Video facade check
+
+# Guards against the failure this repo has shipped twice: video captions that
+# describe the PAGE instead of the VIDEO, including captions crediting real,
+# named trainers for content they did not produce.
+#
+# Fails on:
+#   - dead / removed / private YouTube IDs
+#   - a caption crediting trainer A over a video demonstrably by trainer B
+#   - a caption claiming discipline A over a video plainly about discipline B
+#
+# Does NOT fail on editorialized captions. Rewriting a YouTube title in your
+# own words is legitimate and expected; only factual contradictions fail.
+
+on:
+  pull_request:
+    paths:
+      - '**.html'
+      - 'videos.json'
+  push:
+    branches: [main]
+    paths:
+      - '**.html'
+      - 'videos.json'
+  workflow_dispatch:
+
+jobs:
+  check-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # need history for --changed-only
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check video facades
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 tools/check_videos.py --changed-only
+          else
+            python3 tools/check_videos.py
+          fi
