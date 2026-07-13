@@ -14,8 +14,6 @@
       "embed_url": "https://www.youtube.com/embed/oWU8YgIrNiY",
       "thumbnail": "https://i.ytimg.com/vi/oWU8YgIrNiY/hqdefault.jpg",
       "site_titles": [
-        "Benefits of Misting Systems and How to Install Them",
-        "Building Mental Consistency Under Pressure",
         "Clinton Anderson: An Overview of Starting a Colt",
         "Clinton Anderson: An Overview of Starting a Colt — Saddling Preparation",
         "Clinton Anderson: Managing Problem Behaviors — My Cribber Is Starting to Suck Wind and the Leather Choker Isn't Working",
@@ -68,11 +66,7 @@
         "Clinton Anderson: Overview of Starting a Colt — Why Using a Body Rope on a Foal Is Risky",
         "Clinton Anderson: Overview of Starting a Colt — Why to Be Careful When Dismounting During the First Few Rides",
         "Clinton Anderson: Overview of Starting a Colt — Why to Correct Problems as They Occur",
-        "Clinton Anderson: Overview of Starting a Horse — Halter Breaking a Young Horse",
-        "Correct Hand and Arm Position When Wrestling a Steer",
-        "Designing and Managing Safe Horse Pasture",
-        "Physical Strength and Conditioning for Steer Wrestling",
-        "Top Tips for New Breakaway Ropers"
+        "Clinton Anderson: Overview of Starting a Horse — Halter Breaking a Young Horse"
       ],
       "sections": [
         "colt-starting",
@@ -80,16 +74,12 @@
         "qa",
         "videos"
       ],
-      "reference_count": 61,
+      "reference_count": 55,
       "pages": [
         "colt-starting/first-60-days-under-saddle/index.html",
         "groundwork/first-saddling-colt-starting/index.html",
-        "qa/breakaway-roping/how-do-i-build-the-mental-consistency-to-perform-under-competition-pressure/index.html",
-        "qa/breakaway-roping/what-tips-can-you-share-with-a-new-breakaway-roper/index.html",
         "qa/desensitization-sacking-out/how-do-you-sack-out-a-young-horse-and-why-is-it-important/index.html",
         "qa/driving/what-equipment-do-you-need-to-start-ground-driving-a-horse/index.html",
-        "qa/facilities/how-do-i-design-and-manage-a-safe-pasture-for-horses/index.html",
-        "qa/facilities/how-do-misting-systems-benefit-horses-and-how-should-they-be-installed/index.html",
         "qa/ground-manners-handling/how-do-you-teach-a-young-horse-to-whoa-and-stand-quietly-on-a-lead-and-halter/index.html",
         "qa/ground-manners-handling/what-are-the-keys-to-halter-breaking-a-young-horse/index.html",
         "qa/groundwork-longing/explain-how-to-get-a-young-horse-started-longing-in-the-round-pen/index.html",
@@ -126,8 +116,6 @@
         "qa/starting-young-horses/what-is-the-correct-sequence-for-introducing-a-saddle-to-a-young-horse-for-the-f/index.html",
         "qa/starting-young-horses/what-is-the-role-of-the-round-pen-in-starting-young-horses-and-can-you-start-a-h/index.html",
         "qa/starting-young-horses/what-two-year-old-preparation-work-does-clinton-anderson-recommend-before-the-fi/index.html",
-        "qa/steer-wrestling/how-do-i-develop-the-physical-strength-and-conditioning-required-for-steer-wrest/index.html",
-        "qa/steer-wrestling/what-is-the-correct-hand-and-arm-position-when-wrestling-the-steer-to-the-ground/index.html",
         "qa/training-principles/how-do-you-establish-basic-steering-and-directional-control-in-a-young-horse/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-basic-groundwork-exercises/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
@@ -385,21 +373,16 @@
         "60-Day Colt Starting — What Natural Horsemanship Says About the Timeline for Starting Colts",
         "60-Day Colt Starting — What to Assess in a Young Horse's Movement and Conformation",
         "60-Day Colt Starting — When to Start Wearing Spurs on a Young Horse in Training",
-        "60-Day Colt Starting — When to Start a Young Horse Under Saddle",
-        "Building a Short, Efficient Swing",
-        "Keys to Coming Out of the Box",
-        "Timing Your Drop From Horse to Steer"
+        "60-Day Colt Starting — When to Start a Young Horse Under Saddle"
       ],
       "sections": [
         "colt-starting",
         "qa",
         "videos"
       ],
-      "reference_count": 33,
+      "reference_count": 30,
       "pages": [
         "colt-starting/first-60-days-under-saddle/index.html",
-        "qa/breakaway-roping/how-do-i-build-the-shortest-most-efficient-swing-to-shorten-my-time/index.html",
-        "qa/breakaway-roping/what-are-the-keys-for-coming-out-of-the-box-for-a-breakaway-roper/index.html",
         "qa/groundwork-longing/index.html",
         "qa/groundwork-longing/is-lunging-bad-for-young-horses/index.html",
         "qa/horsemanship/what-are-the-tips-for-trailer-loading-a-young-horse/index.html",
@@ -419,7 +402,6 @@
         "qa/starting-young-horses/what-should-a-trainer-assess-in-a-young-horses-movement-and-conformation-before/index.html",
         "qa/starting-young-horses/what-specific-ground-work-should-be-confirmed-before-anyone-other-than-the-prima/index.html",
         "qa/starting-young-horses/when-should-i-start-a-young-horse-under-saddle/index.html",
-        "qa/steer-wrestling/how-do-i-develop-the-timing-to-drop-from-my-horse-onto-a-steer-correctly/index.html",
         "qa/training-principles/how-do-you-determine-the-right-training-pace-for-an-individual-green-horse/index.html",
         "qa/training-principles/how-do-you-develop-a-young-horses-balance-and-straightness-under-saddle/index.html",
         "qa/training-principles/how-do-you-introduce-the-canter-to-a-young-horse-under-saddle/index.html",
@@ -440,9 +422,6 @@
       "embed_url": "https://www.youtube.com/embed/KJd9paeIu40",
       "thumbnail": "https://i.ytimg.com/vi/KJd9paeIu40/hqdefault.jpg",
       "site_titles": [
-        "Analyzing Your Runs to Find and Fix Time Losses",
-        "Developing Timing to Drop Off Your Horse",
-        "Equipment You Need and How the Rope Is Rigged",
         "Ken McNabb: Gaining Emotional Control Through Head Elevation",
         "Ken McNabb: Gaining Emotional Control in the Anxious High-Headed Horse — Desensitizing a Spooky Horse",
         "Ken McNabb: Gaining Emotional Control — Building Confidence in a Horse That Is Nervous About Jumping",
@@ -472,10 +451,8 @@
       "sections": [
         "qa"
       ],
-      "reference_count": 28,
+      "reference_count": 25,
       "pages": [
-        "qa/breakaway-roping/how-do-i-analyze-my-competitive-runs-to-find-and-fix-time-losses/index.html",
-        "qa/breakaway-roping/what-equipment-do-i-need-for-breakaway-roping-and-how-is-the-rope-rigged/index.html",
         "qa/competition/how-do-you-develop-a-horse-that-is-calm-and-focused-in-a-busy-ranch-horse-show-e/index.html",
         "qa/desensitization-sacking-out/how-do-i-build-confidence-in-a-fearful-or-anxious-horse/index.html",
         "qa/desensitization-sacking-out/how-do-i-desensitize-a-spooky-horse-to-frightening-objects-and-situations/index.html",
@@ -497,7 +474,6 @@
         "qa/safety/my-horse-wants-to-go-sideways-when-spooked-what-can-i-do-about-that/index.html",
         "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html",
         "qa/starting-young-horses/how-do-you-handle-the-first-time-a-young-horse-spooks-under-saddle/index.html",
-        "qa/steer-wrestling/how-do-i-develop-the-timing-needed-to-drop-off-my-horse-at-the-right-moment/index.html",
         "qa/trail/how-do-i-train-a-horse-that-spooks-on-the-trail/index.html",
         "qa/trail/how-do-i-train-a-horse-to-remain-calm-when-a-slicker-or-rain-jacket-is-handled-f/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-calmly-near-vehicles-machinery-and-t/index.html",
@@ -588,27 +564,16 @@
         "Al Dunning: Speed Control and Horsemanship — Training for the Speed Phase vs. Ease of Handling in Working Equitation",
         "Al Dunning: Speed Control and Horsemanship — What Are Speed Events and What Disciplines Fall Under This Category",
         "Al Dunning: Speed Control and Horsemanship — What Makes a Great Speed Event Rider and How to Develop Those Skills",
-        "Choosing the Right Horse for Competition",
-        "Choosing the Right Horse for the Job",
-        "Managing Arena Footing for Safe Performance Work",
         "Speed Control Series — Controlling the Slow Circle",
         "Speed Control Series — Guide the Horse Through Natural Movement",
-        "Speed Control Series — Natural Movement",
-        "The Hazer's Role and How Hazing Affects the Run",
-        "Understanding Overall Impression in Judging",
-        "What to Look for When Choosing a Boarding Facility"
+        "Speed Control Series — Natural Movement"
       ],
       "sections": [
         "qa",
         "reining"
       ],
-      "reference_count": 23,
+      "reference_count": 17,
       "pages": [
-        "qa/breakaway-roping/how-do-i-choose-the-right-horse-for-breakaway-roping/index.html",
-        "qa/english-pleasure/how-do-i-choose-the-right-horse-for-english-pleasure-competition/index.html",
-        "qa/english-pleasure/how-do-judges-evaluate-overall-impression-in-an-english-pleasure-class/index.html",
-        "qa/facilities/how-do-i-manage-arena-footing-for-consistent-safe-performance-work/index.html",
-        "qa/facilities/what-should-i-look-for-when-choosing-a-boarding-facility/index.html",
         "qa/mounted-shooting/how-do-i-build-my-horses-speed-and-rate-between-balloons-without-sacrificing-con/index.html",
         "qa/reining/how-do-beginners-learn-speed-control-in-reining/index.html",
         "qa/reining/how-much-speed-should-a-reining-horse-show-in-fast-circles/index.html",
@@ -620,7 +585,6 @@
         "qa/speed/how-do-you-rate-your-horse-like-a-jockey-in-a-race/index.html",
         "qa/speed/what-are-speed-events-in-horse-competition-and-what-disciplines-fall-under-this/index.html",
         "qa/speed/what-makes-a-great-speed-event-rider-and-how-do-i-develop-those-skills/index.html",
-        "qa/steer-wrestling/what-is-the-hazers-role-in-steer-wrestling-and-how-does-hazing-affect-the-outcom/index.html",
         "qa/western-pleasure/how-do-i-get-my-horse-to-slow-down-for-western-pleasure/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-equitation/how-do-i-train-for-the-speed-phase-and-how-does-it-differ-from-ease-of-handling/index.html",
@@ -803,7 +767,6 @@
       "embed_url": "https://www.youtube.com/embed/Y1Mndc7oZJ8",
       "thumbnail": "https://i.ytimg.com/vi/Y1Mndc7oZJ8/hqdefault.jpg",
       "site_titles": [
-        "Best Fencing Options for Horses",
         "Clinton Anderson: Trailer Loading Made Easy — Training a Horse to Load Calmly and Reliably",
         "Clinton Anderson: Why Horses Get Hot on Cattle and the Fix",
         "Clinton Anderson: Working With Hot and Busy-Minded Horses",
@@ -812,25 +775,18 @@
         "Clinton Anderson: Working With Hot and Busy-Minded Horses — Hauling a Rope Horse Without Making It Nervous",
         "Clinton Anderson: Working With Hot and Busy-Minded Horses — Keeping a Horse Calm Around Cattle",
         "Clinton Anderson: Working With Hot and Busy-Minded Horses — Managing a Hot or Difficult Horse in Jumper Competition",
-        "Developing a Consistent, Accurate Loop",
-        "Managing the Too-Aggressive or Hot Horse on Cattle",
-        "Practicing Steer Wrestling Without Live Steers",
-        "The Basics Every Breakaway Roper Must Know"
+        "Managing the Too-Aggressive or Hot Horse on Cattle"
       ],
       "sections": [
         "famous-trainers",
         "qa",
         "videos"
       ],
-      "reference_count": 17,
+      "reference_count": 13,
       "pages": [
         "famous-trainers/clinton-anderson.html",
-        "qa/breakaway-roping/how-do-i-develop-a-consistent-accurate-loop-for-breakaway-roping/index.html",
-        "qa/breakaway-roping/what-are-the-basics-to-learning-breakaway-roping-for-the-contestant-to-know/index.html",
-        "qa/facilities/what-fencing-options-work-best-for-horses-and-what-should-be-avoided/index.html",
         "qa/horsemanship/index.html",
         "qa/hunter-jumper/how-do-you-manage-a-hot-or-difficult-horse-in-jumper-competition/index.html",
-        "qa/steer-wrestling/how-do-i-practice-steer-wrestling-technique-without-constant-access-to-live-stee/index.html",
         "qa/team-roping/how-do-you-fix-a-hot-rope-horse/index.html",
         "qa/team-roping/how-do-you-haul-a-rope-horse-without-making-it-nervous/index.html",
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
@@ -851,7 +807,6 @@
       "embed_url": "https://www.youtube.com/embed/FBEWVWmOj78",
       "thumbnail": "https://i.ytimg.com/vi/FBEWVWmOj78/hqdefault.jpg",
       "site_titles": [
-        "Can Adults Start Vaulting?",
         "Collection and the Horse's Back — Collection Level Required in Working Equitation vs. Classical Dressage",
         "Collection and the Horse's Back — Developing Collection and the Prerequisites for Beginning It",
         "Collection and the Horse's Back — Developing Collection in a Young Horse Without Forcing It",
@@ -861,32 +816,21 @@
         "Collection and the Horse's Back — The Basics",
         "Collection and the Horse's Back — The Basics Applied to Reining",
         "Collection in the Cow Horse — Foundation and Application",
-        "How Vaulting Improves Riding in Other Disciplines",
-        "Improving Your Posting Trot",
-        "Mary Wanless: Collection and the Horse's Back — Physical Changes in the Horse as Collection Develops",
-        "Physical Conditioning for Vaulting Athletes",
-        "Therapeutic Vaulting vs. Competitive Vaulting",
-        "What Judges Want to See in Rider Presentation"
+        "Mary Wanless: Collection and the Horse's Back — Physical Changes in the Horse as Collection Develops"
       ],
       "sections": [
         "qa"
       ],
-      "reference_count": 16,
+      "reference_count": 10,
       "pages": [
         "qa/collection/index.html",
         "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
-        "qa/english-pleasure/how-do-i-develop-my-posting-trot-to-complement-my-horses-movement-in-english-ple/index.html",
-        "qa/english-pleasure/what-do-judges-look-for-in-rider-presentation-in-english-pleasure/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
         "qa/reining/how-much-collection-does-a-reining-horse-need/index.html",
         "qa/starting-young-horses/how-do-you-develop-collection-in-a-young-horse-without-forcing-it/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-in-self-carriage/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-topline-and-why-is-it-important-to-training-progress/index.html",
         "qa/training-principles/how-do-you-develop-collection-in-a-horse-and-what-are-the-prerequisites-for-begi/index.html",
-        "qa/vaulting/can-adults-start-vaulting-or-is-it-just-for-children/index.html",
-        "qa/vaulting/how-does-vaulting-help-with-riding-other-disciplines/index.html",
-        "qa/vaulting/how-is-therapeutic-vaulting-different-from-competitive-vaulting/index.html",
-        "qa/vaulting/what-physical-conditioning-does-a-vaulter-need/index.html",
         "qa/working-cow-horse/how-does-collection-apply-to-cow-horse-training/index.html",
         "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
       ]
@@ -1250,6 +1194,7 @@
       "site_titles": [
         "Basic Training of the Reining Maneuvers",
         "Basic Training of the Reining Maneuvers & Fundamentals",
+        "Basic Training of the Reining Maneuvers &amp; Fundamentals",
         "Basic Training of the Reining Maneuvers — Backup and Foundation",
         "Basic Training of the Reining Maneuvers — Essential Qualities in a Reining Horse",
         "Basic Training of the Reining Maneuvers — Fundamentals",
@@ -1285,31 +1230,23 @@
       "embed_url": "https://www.youtube.com/embed/07IltPi9yz8",
       "thumbnail": "https://i.ytimg.com/vi/07IltPi9yz8/hqdefault.jpg",
       "site_titles": [
-        "Building an Effective Practice Program",
         "Clinton Anderson: Post 'N Circle — Best Riding Exercise",
         "Clinton Anderson: Post 'N Circle — Calibrating Leg Sensitivity",
         "Clinton Anderson: Post 'N Circle — Developing Correct Circle Work at All Three Gaits",
         "Clinton Anderson: Post 'N Circle — Developing a Correct Circle and Why Circle Work Is Foundational",
         "Clinton Anderson: Post 'N Circle — Keeping Your Horse Fresh and Responsive",
         "Clinton Anderson: Post 'N Circle — Keeping the Reining Horse Honest",
-        "Clinton Anderson: Post 'N Circle — The Best Way to Transition From Longeing to Ground Driving",
-        "Most Common Breakaway Roping Mistakes and Fixes",
-        "Practicing Between Events Without Live Cattle",
-        "Responsible and Efficient Manure Management"
+        "Clinton Anderson: Post 'N Circle — The Best Way to Transition From Longeing to Ground Driving"
       ],
       "sections": [
         "qa"
       ],
-      "reference_count": 11,
+      "reference_count": 7,
       "pages": [
-        "qa/breakaway-roping/how-do-i-develop-an-effective-practice-program-for-breakaway-roping/index.html",
-        "qa/breakaway-roping/what-are-the-most-common-mistakes-breakaway-ropers-make-and-how-do-i-fix-them/index.html",
         "qa/driving/how-is-the-transition-from-longeing-to-ground-driving-best-done-starting-on-a-ci/index.html",
-        "qa/facilities/how-do-i-manage-manure-at-a-horse-facility-responsibly-and-efficiently/index.html",
         "qa/reining/how-do-you-keep-a-reining-horse-honest/index.html",
         "qa/reining/why-does-my-reining-horse-get-dull/index.html",
         "qa/reining/why-does-my-reining-horse-overreact-to-my-leg/index.html",
-        "qa/steer-wrestling/how-should-i-practice-steer-wrestling-without-access-to-live-cattle-between-even/index.html",
         "qa/training-principles/how-do-you-develop-a-correct-circle-and-why-is-circle-work-foundational-to-train/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-correctly-on-a-circle-at-all-three-g/index.html",
         "qa/training-principles/index.html"
@@ -1582,28 +1519,18 @@
       "embed_url": "https://www.youtube.com/embed/vH9NsbtmDsg",
       "thumbnail": "https://i.ytimg.com/vi/vH9NsbtmDsg/hqdefault.jpg",
       "site_titles": [
-        "Equine Light Therapy at Horse Facilities",
-        "Equine Treadmill Training and Rehabilitation",
         "Equine Veterinary: Horse Health Guide — How to Know If Your Horse Has Ulcers",
-        "Girth Pain, Wither Pain and the Stomach Ulcer Connection",
-        "Horse Swimming Pools and Their Uses",
-        "Preventing Injuries in Steer Wrestling",
-        "The Theraplate and Its Uses in Horse Care"
+        "Girth Pain, Wither Pain and the Stomach Ulcer Connection"
       ],
       "sections": [
         "problem-horse",
         "qa"
       ],
-      "reference_count": 8,
+      "reference_count": 3,
       "pages": [
         "problem-horse/cinchy-girthy-horse/index.html",
-        "qa/facilities/what-is-a-horse-swimming-pool-and-what-are-its-primary-uses/index.html",
-        "qa/facilities/what-is-a-theraplate-and-how-is-it-used-in-horse-care/index.html",
-        "qa/facilities/what-is-an-equine-treadmill-and-what-training-and-rehabilitation-applications-do/index.html",
-        "qa/facilities/what-is-equine-light-therapy-and-how-is-it-used-at-horse-facilities/index.html",
         "qa/horse-care/how-do-i-know-if-my-horse-has-ulcers/index.html",
-        "qa/horse-care/index.html",
-        "qa/steer-wrestling/how-do-i-prevent-injuries-in-steer-wrestling-and-what-are-the-most-common-risks/index.html"
+        "qa/horse-care/index.html"
       ]
     },
     {
@@ -1744,22 +1671,16 @@
         "Clinton Anderson: Getting Forward Movement — Building Forward Energy in a Lazy or Dull Young Horse",
         "Clinton Anderson: Getting Forward Movement — Developing Impulsion in a Young Horse",
         "Clinton Anderson: Getting Forward Movement — Why to Avoid Kicking During First Rides",
-        "Developing the Fastest Start Without Breaking the Barrier",
-        "Getting Forward Movement During a Colt's First Rides — Q&A",
-        "What Is Breakaway Roping and How It Differs from Calf Roping",
-        "Working on Box Position and Barrier Timing"
+        "Getting Forward Movement During a Colt's First Rides — Q&A"
       ],
       "sections": [
         "colt-starting",
         "qa"
       ],
-      "reference_count": 7,
+      "reference_count": 4,
       "pages": [
         "colt-starting/building-a-forward-horse/index.html",
-        "qa/breakaway-roping/how-do-i-develop-the-fastest-possible-start-without-breaking-the-barrier/index.html",
-        "qa/breakaway-roping/what-is-breakaway-roping-and-how-does-it-differ-from-traditional-calf-roping/index.html",
         "qa/starting-young-horses/how-do-you-build-forward-energy-in-a-young-horse-that-is-naturally-lazy-or-dull/index.html",
-        "qa/steer-wrestling/how-do-i-work-on-my-box-position-and-barrier-timing-in-steer-wrestling/index.html",
         "qa/training-principles/how-do-you-develop-impulsion-in-a-young-horse-and-why-is-it-important/index.html",
         "qa/training-principles/why-should-you-avoid-kicking-a-horse-during-its-first-rides/index.html"
       ]
@@ -1867,15 +1788,13 @@
         "Clinton Anderson: Colt Starting vs. Fundamentals — My Young Horse Won't Walk He Jogs: What to Do",
         "Clinton Anderson: Colt Starting vs. Fundamentals — Preventing a Young Horse From Becoming Ring Sour",
         "Clinton Anderson: Colt Starting vs. Fundamentals — What to Do When a Young Horse Plateaus",
-        "When to Use the Colt Starting Series vs Fundamentals — Q&A",
-        "Working on Barrier Timing to Avoid Penalties"
+        "When to Use the Colt Starting Series vs Fundamentals — Q&A"
       ],
       "sections": [
         "qa"
       ],
-      "reference_count": 7,
+      "reference_count": 6,
       "pages": [
-        "qa/breakaway-roping/how-do-i-work-on-my-barrier-timing-to-avoid-penalties/index.html",
         "qa/choosing-a-trainer/index.html",
         "qa/gaits/my-young-horse-wont-walk-he-jogs/index.html",
         "qa/starting-young-horses/how-do-you-prevent-a-young-horse-from-becoming-ring-sour-during-its-early-traini/index.html",
@@ -2037,7 +1956,7 @@
         "qa",
         "videos"
       ],
-      "reference_count": 5,
+      "reference_count": 3,
       "pages": [
         "problem-horse/spooky-horse-desensitizing/index.html",
         "qa/mounted-shooting/index.html",
@@ -2325,16 +2244,14 @@
       "thumbnail": "https://i.ytimg.com/vi/a9Hti_xBWHs/hqdefault.jpg",
       "site_titles": [
         "Heather Heath — Starting Your Horse on the Barrel Pattern",
-        "Training a Horse to Rate and Turn Correctly",
         "Walking the Pattern: Barrel Racing Fundamentals"
       ],
       "sections": [
         "qa",
         "videos"
       ],
-      "reference_count": 4,
+      "reference_count": 2,
       "pages": [
-        "qa/barrel-racing/how-do-i-train-a-horse-to-rate-and-turn-a-barrel-correctly-without-knocking-it-o/index.html",
         "videos/barrel-racing/index.html",
         "videos/index.html"
       ]
@@ -2753,7 +2670,7 @@
       "sections": [
         "videos"
       ],
-      "reference_count": 3,
+      "reference_count": 1,
       "pages": [
         "videos/trail/index.html"
       ]
@@ -2943,7 +2860,7 @@
       "embed_url": "https://www.youtube.com/embed/ELvr80RkVJo",
       "thumbnail": "https://i.ytimg.com/vi/ELvr80RkVJo/hqdefault.jpg",
       "site_titles": [
-        "Horse Training Tips for the Stop — Reining & Cutting Horse Stop (Larry Trocha)",
+        "Horse Training Tips for the Stop — Reining &amp; Cutting Horse Stop (Larry Trocha)",
         "Larry Trocha: Horse Training Tips for the Stop"
       ],
       "sections": [
@@ -3119,7 +3036,7 @@
       "embed_url": "https://www.youtube.com/embed/w9qrnxoEnug",
       "thumbnail": "https://i.ytimg.com/vi/w9qrnxoEnug/hqdefault.jpg",
       "site_titles": [
-        "First Ride Preparation: Sacking Out & Saddle Introduction",
+        "First Ride Preparation: Sacking Out &amp; Saddle Introduction",
         "Ken McNabb: Colt Starting Part 4 — Sacking Out",
         "Ken McNabb: Colt Starting Part 4 — Sacking Out Before the Saddle"
       ],
@@ -3171,7 +3088,7 @@
         "qa",
         "videos"
       ],
-      "reference_count": 3,
+      "reference_count": 2,
       "pages": [
         "qa/timed-events/index.html",
         "videos/barrel-racing/index.html"
@@ -3411,7 +3328,7 @@
         "qa",
         "videos"
       ],
-      "reference_count": 3,
+      "reference_count": 2,
       "pages": [
         "qa/timed-events/index.html",
         "videos/barrel-racing/index.html"
@@ -4506,7 +4423,7 @@
       "sections": [
         "videos"
       ],
-      "reference_count": 2,
+      "reference_count": 1,
       "pages": [
         "videos/trail/index.html"
       ]
@@ -4722,7 +4639,7 @@
       "thumbnail": "https://i.ytimg.com/vi/gkvUgetxK9M/hqdefault.jpg",
       "site_titles": [
         "How to Round Pen Any Horse — Best Method",
-        "Round Pen Fundamentals: Join-Up & Directional Control"
+        "Round Pen Fundamentals: Join-Up &amp; Directional Control"
       ],
       "sections": [
         "videos"
@@ -11087,7 +11004,7 @@
       "embed_url": "https://www.youtube.com/embed/fpKRCYz9SRo",
       "thumbnail": "https://i.ytimg.com/vi/fpKRCYz9SRo/hqdefault.jpg",
       "site_titles": [
-        "Reining & Cow Work — Building the Foundation Before the Cow (Larry Trocha)"
+        "Reining &amp; Cow Work — Building the Foundation Before the Cow (Larry Trocha)"
       ],
       "sections": [
         "qa"
@@ -12221,7 +12138,7 @@
       "embed_url": "https://www.youtube.com/embed/zEQSmm6ViXQ",
       "thumbnail": "https://i.ytimg.com/vi/zEQSmm6ViXQ/hqdefault.jpg",
       "site_titles": [
-        "The Legends Edition — Bob Loomis & Tim McQuay"
+        "The Legends Edition — Bob Loomis &amp; Tim McQuay"
       ],
       "sections": [
         "famous-trainers"
@@ -12707,7 +12624,7 @@
       "embed_url": "https://www.youtube.com/embed/AQk3ClKBiBE",
       "thumbnail": "https://i.ytimg.com/vi/AQk3ClKBiBE/hqdefault.jpg",
       "site_titles": [
-        "Training a Reined Cow Horse — Reining & Cow Work (Larry Trocha)"
+        "Training a Reined Cow Horse — Reining &amp; Cow Work (Larry Trocha)"
       ],
       "sections": [
         "qa"
