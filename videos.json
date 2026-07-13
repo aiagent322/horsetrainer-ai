@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 650,
+  "count": 649,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -3850,26 +3850,6 @@
       "pages": [
         "problem-horse/hard-to-catch-in-pasture/index.html",
         "qa/trailer-loading/index.html"
-      ]
-    },
-    {
-      "id": "2VA1O5Bg0R8",
-      "youtube_title": "Clinton Anderson Presents: Titan a Legend in the Making, Lesson 4, Part 1 - Downunder Horsemanship",
-      "channel": "DUHorseman",
-      "youtube_url": "https://www.youtube.com/watch?v=2VA1O5Bg0R8",
-      "embed_url": "https://www.youtube.com/embed/2VA1O5Bg0R8",
-      "thumbnail": "https://i.ytimg.com/vi/2VA1O5Bg0R8/hqdefault.jpg",
-      "site_titles": [
-        "Reining Circles — Foundation for the Pattern",
-        "Reining Circles — Large Fast and Small Slow Pattern Foundation"
-      ],
-      "sections": [
-        "qa"
-      ],
-      "reference_count": 2,
-      "pages": [
-        "qa/reining/how-do-beginners-learn-to-ride-circles-in-reining/index.html",
-        "qa/reining/what-are-the-keys-to-running-large-circles-in-a-reining-pattern/index.html"
       ]
     },
     {
