@@ -948,6 +948,12 @@ async function fetchTrainers() {
     }
     allTrainers = all;
     initDirectory();
+    const profileId = new URLSearchParams(location.search).get('trainer');
+    if (profileId) {
+      const trainer = allTrainers.find(record => String(record.id) === profileId);
+      if (trainer) openTrainerProfile(trainer.id);
+      else document.getElementById('find-a-trainer')?.scrollIntoView();
+    }
   } catch(e) {
     document.getElementById('trainers-grid').innerHTML =
       '<div class="state-empty">Unable to load trainers at this time. Please try again shortly.</div>';
