@@ -15,7 +15,7 @@ from datetime import datetime
 # ── Config ─────────────────────────────────────────────────────────────────
 SUPABASE_URL = "https://ptuuuishzwwgmaexneul.supabase.co"
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")
-BASE_URL     = "https://horsetrainer-ai.pages.dev"
+BASE_URL     = "https://horsetrainer.ai"
 OUT          = "qa"   # output folder — push this to repo root
 
 # ── Helpers ────────────────────────────────────────────────────────────────
@@ -586,7 +586,7 @@ def build_sitemap(all_urls):
     today = datetime.now().strftime("%Y-%m-%d")
     urls  = "\n".join(
         f"  <url><loc>{u}</loc><lastmod>{today}</lastmod></url>"
-        for u in all_urls
+        for u in dict.fromkeys(all_urls)
     )
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
