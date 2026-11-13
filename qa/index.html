@@ -258,6 +258,7 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
   <div class="qa-search">
     <div class="search-wrap">
       <span class="search-icon">🔍</span>
+      <label for="cat-search" style="display:block;font-weight:600;margin-bottom:.4rem">Search Q&amp;A categories</label>
       <input type="text" id="cat-search" placeholder="Search categories…" autocomplete="off">
     </div>
   </div>
@@ -529,13 +530,18 @@ document.getElementById('nav-toggle').addEventListener('click',function(){
 </main>
 
 <script>
+document.querySelector('.cat-grid').insertAdjacentHTML('afterend', '<p id="cat-empty" role="status"></p>');
 var inp=document.getElementById('cat-search');
 if(inp){
   inp.addEventListener('input',function(){
-    var q=this.value.toLowerCase();
+    var q=this.value.trim().toLowerCase();
+    var matches=0;
     document.querySelectorAll('.cat-cell').forEach(function(c){
-      c.style.display=c.textContent.toLowerCase().includes(q)?'':'none';
+      var match=c.textContent.toLowerCase().includes(q);
+      c.style.display=match?'':'none';
+      if(match) matches++;
     });
+    document.getElementById('cat-empty').textContent=matches?'':'No matching categories. Clear the search to see all categories.';
   });
 }
 </script>
