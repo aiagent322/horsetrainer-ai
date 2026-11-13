@@ -608,8 +608,8 @@ function trainerCardHTML(t) {
         ${scoreHTML}
       </div>
       <div class="trainer-card-footer">
-        <a href="/trainers/${t.slug}/" class="btn btn-outline btn-sm" style="flex:1;">View Profile</a>
-        <a href="/trainers/${t.slug}/#contact" class="btn btn-primary btn-sm" style="flex:1;">Contact</a>
+        <a href="/?trainer=${encodeURIComponent(t.id)}#find-a-trainer" class="btn btn-outline btn-sm" style="flex:1;">View Profile</a>
+        <a href="/?trainer=${encodeURIComponent(t.id)}#find-a-trainer" class="btn btn-primary btn-sm" style="flex:1;">Contact</a>
       </div>
     </div>
   `;
