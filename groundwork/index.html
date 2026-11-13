@@ -173,5 +173,18 @@
   </div>
 </div>
 <script src="/js/app.js"></script>
+<style>
+@media(max-width:899px){.nav-drawer{top:var(--guide-header-height,60px);visibility:hidden}.nav-drawer.open{visibility:visible}.page-layout{grid-template-columns:minmax(0,1fr)}}
+</style>
+<script>
+(() => {
+  const header = document.querySelector('.nav');
+  if (!header) return;
+  const positionMenu = () => document.documentElement.style.setProperty('--guide-header-height', header.getBoundingClientRect().height + 'px');
+  positionMenu();
+  if ('ResizeObserver' in window) new ResizeObserver(positionMenu).observe(header);
+  else window.addEventListener('resize', positionMenu);
+})();
+</script>
 </body>
 </html>

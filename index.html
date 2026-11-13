@@ -533,6 +533,13 @@ img { max-width:100%; height:auto; display:block; }
   .qa-a { font-size:0.93rem; }
 }
 
+.qa-cat-grid{grid-template-columns:minmax(0,1fr)}
+.qa-cat-name{font-size:1rem;color:#000}
+.qa-cat-count{font-size:.875rem}
+.qa-cat-browse{font-size:1rem;min-height:44px;display:grid;place-items:center}
+@media(min-width:480px){.qa-cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:680px){.qa-cat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(min-width:900px){.qa-cat-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
 </style>
 </head>
 <body>
