@@ -203,6 +203,13 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .footer-bottom a:hover{color:rgba(255,255,255,0.85);text-decoration:none;}
 .bb-badge{display:inline-flex;align-items:center;gap:6px;
   font-size:0.75rem;color:rgba(255,255,255,0.5);}
+.cat-grid{grid-template-columns:minmax(0,1fr)}
+.cat-name{font-size:1rem;color:#000}
+.cat-count{font-size:.875rem}
+#cat-search{font-size:1rem;min-height:44px}
+@media(min-width:480px){.cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:600px){.cat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(min-width:900px){.cat-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 </style>
 </head>
 <body><header class="site-header">
