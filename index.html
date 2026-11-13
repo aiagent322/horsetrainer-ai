@@ -934,9 +934,10 @@ let searchTerm = '';
 async function fetchTrainers() {
   try {
     const PAGE = 1000;
+    const fields = 'id,name,city,state,disciplines,bio,phone,email,website,facebook_url,photo_url,lat,lng,instagram_url,online_coaching,accepts_dangerous,accepts_young_horses,specialties,certifications,associations,business_name,years_experience,rider_levels,horse_problems,travel_radius,budget_range';
     let all = [], from = 0, done = false;
     while (!done) {
-      const res = await fetch(`${SB_URL}/rest/v1/trainers?select=*&order=name.asc&limit=${PAGE}&offset=${from}`, {
+      const res = await fetch(`${SB_URL}/rest/v1/trainers?select=${fields}&order=name.asc,id.asc&limit=${PAGE}&offset=${from}`, {
         headers: { 'apikey': SB_KEY, 'Authorization': `Bearer ${SB_KEY}`, 'Prefer': 'count=none' }
       });
       if (!res.ok) throw new Error('Fetch failed');
