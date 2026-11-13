@@ -890,6 +890,7 @@ img { max-width:100%; height:auto; display:block; }
         <div>Analyzing your responses…</div>
       </div>
       <div id="ai-content" class="hidden">
+        <p id="lead-save-status" role="status"></p>
         <div class="intake-title" style="margin-bottom:12px;">Your Trainer Recommendation</div>
         <div class="ai-result-content" id="ai-text"></div>
         <div style="margin-top:16px;text-align:center;">
@@ -1200,16 +1201,22 @@ document.getElementById('intake-next').addEventListener('click', async () => {
     document.getElementById('ai-loading').classList.remove('hidden');
     document.getElementById('ai-content').classList.add('hidden');
 
+    let leadSaveFailed = false;
     // Save lead to Supabase
     if (answers.email) {
       try {
-        await fetch(`${SB_URL}/rest/v1/leads`, {
+        const leadResponse = await fetch(`${SB_URL}/rest/v1/leads`, {
           method: 'POST',
           headers: { 'apikey': SB_KEY, 'Authorization': `Bearer ${SB_KEY}`, 'Content-Type': 'application/json', 'Prefer': 'return=minimal' },
           body: JSON.stringify({ ...answers, created_at: new Date().toISOString() })
         });
-      } catch(e) { /* silent */ }
+        leadSaveFailed = !leadResponse.ok;
+      } catch(e) { leadSaveFailed = true; }
     }
+
+    document.getElementById('lead-save-status').textContent = leadSaveFailed
+      ? 'We could not save your contact details. You can still view your training recommendations.'
+      : '';
 
     // Call AI via proxy worker
     try {
