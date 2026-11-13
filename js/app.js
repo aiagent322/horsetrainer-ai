@@ -721,19 +721,32 @@ function initNav() {
   }
 
   if (menuBtn && drawer) {
-    menuBtn.addEventListener('click', () => {
-      const open = drawer.classList.toggle('open');
+    const desktop = window.matchMedia('(min-width: 900px)');
+    const positionDrawer = () => {
+      if (nav) drawer.style.top = nav.getBoundingClientRect().bottom + 'px';
+    };
+    const setOpen = open => {
+      if (open) positionDrawer();
+      drawer.classList.toggle('open', open);
+      drawer.inert = !open;
+      menuBtn.setAttribute('aria-expanded', String(open));
+      menuBtn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
       document.body.style.overflow = open ? 'hidden' : '';
+    };
+    menuBtn.setAttribute('aria-controls', drawer.id);
+    setOpen(false);
+    menuBtn.addEventListener('click', () => setOpen(!drawer.classList.contains('open')));
+    drawer.querySelectorAll('.nav-link').forEach(link => link.addEventListener('click', () => setOpen(false)));
+    document.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && drawer.classList.contains('open')) {
+        setOpen(false);
+        menuBtn.focus();
+      }
     });
+    desktop.addEventListener('change', event => { if (event.matches) setOpen(false); });
+    if (nav && 'ResizeObserver' in window) new ResizeObserver(positionDrawer).observe(nav);
+    window.addEventListener('resize', positionDrawer);
   }
-
-  // Close drawer on link click
-  drawer?.querySelectorAll('.nav-link').forEach(link => {
-    link.addEventListener('click', () => {
-      drawer.classList.remove('open');
-      document.body.style.overflow = '';
-    });
-  });
 
   // Highlight current page
   const path = window.location.pathname;
