@@ -172,19 +172,10 @@
     <div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div>
   </div>
 </div>
-<script src="/js/app.js?v=76bbbb0"></script>
+<script src="/js/app.js?v=10b7efa"></script>
 <style>
 @media(max-width:899px){.nav-drawer{top:var(--guide-header-height,60px);visibility:hidden}.nav-drawer.open{visibility:visible}.page-layout{grid-template-columns:minmax(0,1fr)}}
 </style>
-<script>
-(() => {
-  const header = document.querySelector('.nav');
-  if (!header) return;
-  const positionMenu = () => document.documentElement.style.setProperty('--guide-header-height', header.getBoundingClientRect().height + 'px');
-  positionMenu();
-  if ('ResizeObserver' in window) new ResizeObserver(positionMenu).observe(header);
-  else window.addEventListener('resize', positionMenu);
-})();
-</script>
+
 </body>
 </html>
