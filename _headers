@@ -8,12 +8,12 @@
 /
   Cache-Control: public, max-age=3600, must-revalidate
 
-# CSS and JS — long cache (cache-bust via filename if needed)
+# CSS and JS — revalidate stable asset URLs
 /css/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=0, must-revalidate
 
 /js/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=0, must-revalidate
 
 # Images — long cache
 /images/*
