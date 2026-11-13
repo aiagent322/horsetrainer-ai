@@ -1093,3 +1093,7 @@ body { font-size: 1.125rem; }
 }
 .article-body strong[style*="font-size:.9rem"] { font-size: 1.0625rem !important; }
 .sidebar-card p[style*="font-size:.82rem"] { font-size: 1rem !important; }
+
+/* Topic card readability */
+.topic-card-title { font-size: 1.40625rem; color: #000; }
+.topic-card-desc { font-size: 1.25rem; color: #000; }
