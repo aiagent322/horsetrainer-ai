@@ -685,7 +685,7 @@ function initLeadForms() {
 
       try {
         if (CONFIG.SUPABASE_URL && !CONFIG.SUPABASE_URL.includes('YOUR_')) {
-          await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/leads`, {
+          const response = await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/leads`, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
@@ -695,8 +695,11 @@ function initLeadForms() {
             },
             body: JSON.stringify(data),
           });
+          if (!response.ok) throw new Error('Lead submission failed');
+        } else {
+          throw new Error('Lead submission unavailable');
         }
-        form.innerHTML = '<div class="risk-banner risk-green" style="margin:0;"><span class="risk-icon">✅</span><div><strong>Message Sent!</strong><p>The trainer will be in touch shortly. Check your email for confirmation.</p></div></div>';
+        form.innerHTML = '<div class="risk-banner risk-green" style="margin:0;"><span class="risk-icon">✅</span><div><strong>Message Sent!</strong><p>Your inquiry was submitted.</p></div></div>';
       } catch (err) {
         if (btn) { btn.textContent = orig; btn.disabled = false; }
         alert('Something went wrong. Please try again.');
