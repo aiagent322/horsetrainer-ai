@@ -1071,3 +1071,25 @@ ul { list-style: none; }
   .page-header { background: none; color: black; }
   .page-header h1, .breadcrumb a { color: black; }
 }
+
+
+/* Reading and navigation type */
+body { font-size: 1.125rem; }
+.nav-logo { font-size: 1.125rem; }
+.nav-link, .nav-drawer .nav-link, .breadcrumb,
+.sidebar-link, .topic-card-desc, .sidebar-card p {
+  font-size: 1rem;
+}
+.page-header .lead { font-size: 1.125rem; }
+.sidebar-title, .topic-card-title { font-size: 1.125rem; }
+.badge { font-size: 0.875rem; }
+.nav > a.btn[href^="/qa/"] {
+  font-size: clamp(1.125rem, 2.4vw, 1.5rem);
+  font-weight: 750;
+  line-height: 1.25;
+  padding: 0.65rem 1rem;
+  min-height: 44px;
+  color: #172330;
+}
+.article-body strong[style*="font-size:.9rem"] { font-size: 1.0625rem !important; }
+.sidebar-card p[style*="font-size:.82rem"] { font-size: 1rem !important; }
