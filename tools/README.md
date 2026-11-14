@@ -18,4 +18,4 @@ After a Q&A rebuild or new videos: build_qa.py -> qa_videos.py inject -> build_v
 New videos added by hand to Q&A pages are picked up automatically because the catalog reads data/qa_videos.json (run qa_videos.py extract first).
 
 ## Revive ad zones
-Header zone 31833 is inserted after the site header on every page by `python3 -I tools/add_revive.py` (idempotent; marker `<!-- revive-header -->`). build_qa.py already emits it. Run add_revive.py after build_video_pages.py and after any page-generating script; add further zones in that script.
+Header zone 31833 (after the header) and footer zone 31834 (before the footer) are inserted after the site header on every page by `python3 -I tools/add_revive.py` (idempotent; marker `<!-- revive-header -->`). build_qa.py already emits it. Run add_revive.py after build_video_pages.py and after any page-generating script; add further zones in that script.
