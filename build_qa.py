@@ -597,6 +597,13 @@ def build_answer(qa, cat_qa_list):
       <p>{qa['answer']}</p>
     </div>
   </article>
+<!-- revive-mid -->
+<div class="revive-zone revive-mid" style="display:flex;justify-content:center;align-items:center;text-align:center;margin:18px auto;max-width:100%;overflow:hidden">
+<!-- Revive Adserver Hosted edition Asynchronous JS Tag - Generated with Revive Adserver v6.0.6 -->
+<ins data-revive-zoneid="31835" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins>
+<script async src="//servedby.revive-adserver.net/asyncjs.php"></script>
+</div>
+<!-- /revive-mid -->
 
   {html_trainer_cta()}
 """

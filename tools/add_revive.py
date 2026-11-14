@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Insert the Revive Adserver header (31833) and footer (31834) zones into every HTML page (idempotent).
+"""Insert the Revive Adserver header (31833), mid-page (31835) and footer (31834) zones into every HTML page (idempotent).
 
 Placement: directly after the site header (</header>); pages without a
 <header> get it after the first </nav> in <body>, else right after <body>.
 Run after any rebuild:  python3 -I tools/add_revive.py
 """
 import glob, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import revive_mid
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MARK = "<!-- revive-header -->"
@@ -29,6 +31,26 @@ FZONE = (
     "</div>\n"
     "<!-- /revive-footer -->"
 )
+
+MMARK = "<!-- revive-mid -->"
+MZONE = (
+    MMARK + "\n"
+    '<div class="revive-zone revive-mid" style="display:flex;justify-content:center;align-items:center;text-align:center;margin:18px auto;max-width:100%;overflow:hidden">\n'
+    "<!-- Revive Adserver Hosted edition Asynchronous JS Tag - Generated with Revive Adserver v6.0.6 -->\n"
+    '<ins data-revive-zoneid="31835" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins>\n'
+    '<script async src="//servedby.revive-adserver.net/asyncjs.php"></script>\n'
+    "</div>\n"
+    "<!-- /revive-mid -->"
+)
+
+def inject_mid(s):
+    """Mid-page zone; pages with no safe split point (single-grid hubs) are skipped."""
+    if MMARK in s or "<body" not in s:
+        return s, False
+    k = revive_mid.mid_offset(s)
+    if k is None:
+        return s, False
+    return s[:k] + "\n" + MZONE + "\n" + s[k:], True
 
 def inject_footer(s):
     """Footer zone goes immediately before <footer>, else before </body>."""
@@ -65,7 +87,8 @@ def main():
         s = open(p, encoding="utf-8", errors="surrogateescape").read()
         t, ch = inject(s)
         t, ch2 = inject_footer(t)
-        ch = ch or ch2
+        t, ch3 = inject_mid(t)
+        ch = ch or ch2 or ch3
         if ch:
             open(p, "w", encoding="utf-8", errors="surrogateescape").write(t)
             n += 1
