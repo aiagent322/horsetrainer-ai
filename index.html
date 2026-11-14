@@ -41,7 +41,7 @@
 
 *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
 a,button,[onclick],.chip { touch-action:manipulation; }
-html { scroll-behavior:smooth; scroll-padding-top:100px; -webkit-text-size-adjust:100%; }
+html { scroll-behavior:smooth; scroll-padding-top:150px; -webkit-text-size-adjust:100%; }
 body {
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   color:var(--text); background:var(--bg); line-height:1.65; font-size:16px;
@@ -101,6 +101,24 @@ img { max-width:100%; height:auto; display:block; }
   }
   .main-nav a { padding:7px 14px; font-size:0.88rem; min-height:auto; }
 }
+
+/* subject-bar */
+.subject-bar { border-top:1px solid var(--border-light); }
+.subject-scroll {
+  display:flex; gap:6px; align-items:center; max-width:var(--max-w); margin:0 auto;
+  padding:6px 16px 8px; overflow-x:auto; overflow-y:hidden; white-space:nowrap;
+  -webkit-overflow-scrolling:touch; scrollbar-width:none; overscroll-behavior-x:contain;
+}
+.subject-scroll::-webkit-scrollbar { display:none; }
+.subject-scroll a {
+  flex:0 0 auto; display:inline-flex; align-items:center; min-height:40px;
+  padding:0 14px; border:1px solid var(--border); border-radius:999px;
+  font-size:0.85rem; font-weight:500; color:var(--text-mid); text-decoration:none; background:#fff;
+}
+.subject-scroll a:hover { background:var(--bg-alt); color:var(--primary); }
+.subject-scroll a.all { background:var(--primary); border-color:var(--primary); color:#fff; font-weight:600; }
+@media(min-width:900px){ .subject-scroll a { min-height:32px; font-size:0.82rem; } .subject-scroll { scrollbar-width:thin; } }
+/* /subject-bar */
 
 /* ═══════════════════════════════════════
    HERO
@@ -569,6 +587,77 @@ img { max-width:100%; height:auto; display:block; }
       <a href="/list-your-training/">List Your Training</a>
     </nav>
   </div>
+  <!-- subject-bar -->
+  <div class="subject-bar" role="navigation" aria-label="Browse all training subjects">
+    <div class="subject-scroll">
+      <a href="/qa/" class="all">All subjects</a>
+      <a href="/qa/reining/">Reining</a>
+      <a href="/qa/horsemanship/">Horsemanship</a>
+      <a href="/qa/working-cow-horse/">Working Cow Horse</a>
+      <a href="/qa/dressage/">Dressage</a>
+      <a href="/qa/hunter-jumper/">Hunter Jumper</a>
+      <a href="/qa/natural-horsemanship/">Natural Horsemanship</a>
+      <a href="/qa/cutting/">Cutting</a>
+      <a href="/qa/team-roping/">Team Roping</a>
+      <a href="/qa/training-principles/">Training Principles</a>
+      <a href="/qa/wild-horse-training/">Wild Horse Training</a>
+      <a href="/qa/obstacle-training/">Obstacle Training</a>
+      <a href="/qa/equipment/">Equipment</a>
+      <a href="/qa/driving/">Driving</a>
+      <a href="/qa/starting-young-horses/">Starting Young Horses</a>
+      <a href="/qa/collection/">Collection</a>
+      <a href="/qa/english-competition/">English Competition</a>
+      <a href="/qa/ground-manners-handling/">Ground Manners &amp; Handling</a>
+      <a href="/qa/dressage-lessons/">Dressage Lessons</a>
+      <a href="/qa/gaits/">Gaits</a>
+      <a href="/qa/trail/">Trail</a>
+      <a href="/qa/groundwork-longing/">Groundwork &amp; Longing</a>
+      <a href="/qa/competition/">Competition</a>
+      <a href="/qa/problem-solving-under-saddle/">Problem Solving Under Saddle</a>
+      <a href="/qa/safety/">Safety</a>
+      <a href="/qa/desensitization-sacking-out/">Desensitization &amp; Sacking Out</a>
+      <a href="/qa/choosing-a-trainer/">Choosing a Trainer</a>
+      <a href="/qa/lead-changes/">Lead Changes</a>
+      <a href="/qa/lateral-work-suppling/">Lateral Work &amp; Suppling</a>
+      <a href="/qa/timed-events/">Timed Events</a>
+      <a href="/qa/trailer-loading/">Trailer Loading</a>
+      <a href="/qa/western-pleasure/">Western Pleasure</a>
+      <a href="/qa/position-seat/">Position &amp; Seat</a>
+      <a href="/qa/versatility-ranch-horse/">Versatility Ranch Horse</a>
+      <a href="/qa/working-equitation/">Working Equitation</a>
+      <a href="/qa/bit-progression/">Bit Progression</a>
+      <a href="/qa/leadership-bonding/">Leadership &amp; Bonding</a>
+      <a href="/qa/mounting-dismounting/">Mounting &amp; Dismounting</a>
+      <a href="/qa/neck-reining/">Neck Reining</a>
+      <a href="/qa/horse-care/">Horse Care</a>
+      <a href="/qa/mounted-shooting/">Mounted Shooting</a>
+      <a href="/qa/working-western-rail/">Working Western Rail</a>
+      <a href="/qa/imprinting/">Imprinting</a>
+      <a href="/qa/speed/">Speed</a>
+      <a href="/qa/therapeutic-riding/">Therapeutic Riding</a>
+      <a href="/qa/english-pleasure/">English Pleasure</a>
+      <a href="/qa/ranch-riding/">Ranch Riding</a>
+      <a href="/qa/western-horsemanship/">Western Horsemanship</a>
+      <a href="/qa/barrel-racing/">Barrel Racing</a>
+      <a href="/qa/breakaway-roping/">Breakaway Roping</a>
+      <a href="/qa/counter-canter/">Counter-Canter</a>
+      <a href="/qa/facilities/">Facilities</a>
+      <a href="/qa/backing-on-the-ground/">Backing on the Ground</a>
+      <a href="/qa/body-position-communication/">Body Position as a Communication Aid</a>
+      <a href="/qa/packing/">Horse Packing</a>
+      <a href="/qa/liberty/">Liberty Training</a>
+      <a href="/qa/rein-aids/">Rein Aids</a>
+      <a href="/qa/vaulting/">Vaulting</a>
+      <a href="/qa/voice-cues/">Voice Cues</a>
+      <a href="/qa/weanling-handling/">Weanling Handling</a>
+      <a href="/qa/yearling-groundwork/">Yearling Groundwork</a>
+      <a href="/qa/yielding-to-pressure/">Yielding to Pressure</a>
+      <a href="/qa/steer-wrestling/">Steer Wrestling</a>
+      <a href="/qa/reined-cow-horse/">Reined Cow Horse</a>
+      <a href="/qa/training-principles-psychology/">Training Principles &amp; Psychology</a>
+    </div>
+  </div>
+  <!-- /subject-bar -->
 </header>
 <!-- revive-header -->
 <div class="revive-zone revive-header" style="display:flex;justify-content:center;align-items:center;text-align:center;margin:10px auto;max-width:100%;overflow:hidden">
