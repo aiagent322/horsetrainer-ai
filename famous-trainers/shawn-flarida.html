@@ -11,6 +11,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;1,8..60,300;1,8..60,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
+@layer page, mobile;
+@layer page {
 :root{
   --ohio-deep:#081c08;--ohio:#102810;--forest:#1a4018;--meadow:#2e6028;
   --sage:#4a8040;--grass:#6aaa58;--spring:#90d070;
@@ -174,6 +176,7 @@ hr.fancy::after{content:'◉';position:absolute;left:50%;top:50%;transform:trans
 @media(min-width:640px){.tv-grid{grid-template-columns:repeat(2,1fr)}}
 @media(min-width:1024px){.tv-grid{grid-template-columns:repeat(4,1fr)}}
 /* ── end trainer video section ─────────────────────────────────────────── */
+}
 </style>
 <link rel="stylesheet" href="/famous-trainers/mobile.css">
 </head>

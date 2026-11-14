@@ -596,8 +596,8 @@ ul { list-style: none; }
   grid-template-columns: repeat(2, 1fr);
 }
 .option-grid.cols-1 { grid-template-columns: 1fr; }
-.option-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
-@media (max-width: 400px) { .option-grid, .option-grid.cols-3 { grid-template-columns: 1fr 1fr; } }
+.option-grid.cols-3 { grid-template-columns: repeat(2, 1fr); }
+@media (min-width: 401px) { .option-grid.cols-3 { grid-template-columns: repeat(3, 1fr); } }
 
 .opt-btn {
   background: var(--bg);
