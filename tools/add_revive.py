@@ -11,7 +11,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MARK = "<!-- revive-header -->"
 ZONE = (
     MARK + "\n"
-    '<div class="revive-zone revive-header" style="text-align:center;margin:10px auto;max-width:100%;overflow:hidden">\n'
+    '<div class="revive-zone revive-header" style="display:flex;justify-content:center;align-items:center;text-align:center;margin:10px auto;max-width:100%;overflow:hidden">\n'
     "<!-- Revive Adserver Hosted edition Asynchronous JS Tag - Generated with Revive Adserver v6.0.6 -->\n"
     '<ins data-revive-zoneid="31833" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins>\n'
     '<script async src="//servedby.revive-adserver.net/asyncjs.php"></script>\n'
@@ -22,7 +22,7 @@ ZONE = (
 FMARK = "<!-- revive-footer -->"
 FZONE = (
     FMARK + "\n"
-    '<div class="revive-zone revive-footer" style="text-align:center;margin:10px auto;max-width:100%;overflow:hidden">\n'
+    '<div class="revive-zone revive-footer" style="display:flex;justify-content:center;align-items:center;text-align:center;margin:10px auto;max-width:100%;overflow:hidden">\n'
     "<!-- Revive Adserver Hosted edition Asynchronous JS Tag - Generated with Revive Adserver v6.0.6 -->\n"
     '<ins data-revive-zoneid="31834" data-revive-id="727bec5e09208690b050ccfc6a45d384"></ins>\n'
     '<script async src="//servedby.revive-adserver.net/asyncjs.php"></script>\n'
