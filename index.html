@@ -93,7 +93,7 @@ img { max-width:100%; height:auto; display:block; }
 }
 .main-nav a:hover { background:var(--bg-alt); color:var(--primary); text-decoration:none; }
 .main-nav a.active { background:var(--primary); color:#fff; }
-@media(min-width:768px) {
+@media(min-width:900px) {
   .nav-toggle { display:none; }
   .main-nav {
     display:flex !important; flex-direction:row; padding:0; gap:4px;
@@ -149,7 +149,7 @@ img { max-width:100%; height:auto; display:block; }
 .hero-stat:last-child { border-right:none; }
 .hero-stat-num { font-size:1.35rem; font-weight:800; color:#fff; line-height:1.1; }
 .hero-stat-label { font-size:0.68rem; color:rgba(255,255,255,0.65); text-transform:uppercase; letter-spacing:0.06em; margin-top:2px; }
-@media(min-width:600px) {
+@media(min-width:640px) {
   .hero h1 { font-size:2.4rem; }
   .hero-sub { font-size:1.05rem; }
 }
@@ -166,7 +166,7 @@ img { max-width:100%; height:auto; display:block; }
   letter-spacing:-0.02em; margin-bottom:6px;
 }
 .section-sub { font-size:0.95rem; color:var(--text-mid); margin-bottom:20px; }
-@media(min-width:600px) { .section-title { font-size:1.55rem; } }
+@media(min-width:640px) { .section-title { font-size:1.55rem; } }
 
 /* ═══════════════════════════════════════
    DISCIPLINE FILTER CHIPS
@@ -191,8 +191,8 @@ img { max-width:100%; height:auto; display:block; }
   display:grid; gap:16px;
   grid-template-columns:1fr;
 }
-@media(min-width:480px) { .cards-grid { grid-template-columns:repeat(2,1fr); } }
-@media(min-width:768px) { .cards-grid { grid-template-columns:repeat(3,1fr); } }
+@media(min-width:640px) { .cards-grid { grid-template-columns:repeat(2,1fr); } }
+@media(min-width:900px) { .cards-grid { grid-template-columns:repeat(3,1fr); } }
 @media(min-width:1024px) { .cards-grid { grid-template-columns:repeat(4,1fr); } }
 
 .trainer-card {
@@ -268,7 +268,7 @@ img { max-width:100%; height:auto; display:block; }
    HOW IT WORKS
    ═══════════════════════════════════════ */
 .steps-grid { display:grid; gap:16px; grid-template-columns:1fr; }
-@media(min-width:600px) { .steps-grid { grid-template-columns:repeat(3,1fr); } }
+@media(min-width:640px) { .steps-grid { grid-template-columns:repeat(3,1fr); } }
 .step-card {
   background:#fff; border:1px solid var(--border); border-radius:var(--radius);
   padding:24px 20px; text-align:center;
@@ -286,7 +286,7 @@ img { max-width:100%; height:auto; display:block; }
    DISCIPLINE PAGES GRID
    ═══════════════════════════════════════ */
 .disc-grid { display:grid; gap:12px; grid-template-columns:repeat(2,1fr); }
-@media(min-width:600px) { .disc-grid { grid-template-columns:repeat(3,1fr); } }
+@media(min-width:640px) { .disc-grid { grid-template-columns:repeat(3,1fr); } }
 @media(min-width:900px) { .disc-grid { grid-template-columns:repeat(4,1fr); } }
 .disc-card {
   display:flex; align-items:center; gap:10px;
@@ -320,7 +320,7 @@ img { max-width:100%; height:auto; display:block; }
 }
 .footer-inner { max-width:var(--max-w); margin:0 auto; }
 .footer-top { display:grid; gap:24px; grid-template-columns:1fr; margin-bottom:24px; }
-@media(min-width:600px) { .footer-top { grid-template-columns:2fr 1fr 1fr; } }
+@media(min-width:640px) { .footer-top { grid-template-columns:2fr 1fr 1fr; } }
 .footer-brand-name { font-weight:800; font-size:1.05rem; color:#fff; margin-bottom:6px; }
 .footer-brand-name span { color:#7ec8f0; }
 .footer-brand-desc { font-size:0.82rem; line-height:1.6; }
@@ -350,14 +350,14 @@ img { max-width:100%; height:auto; display:block; }
   transition:opacity 0.25s ease;
 }
 .modal-overlay.open { opacity:1; pointer-events:auto; }
-@media(min-width:600px) { .modal-overlay { align-items:center; } }
+@media(min-width:640px) { .modal-overlay { align-items:center; } }
 .modal {
   background:#fff; border-radius:16px 16px 0 0; width:100%; max-width:540px;
   padding:24px 20px 32px; position:relative; max-height:90vh; overflow-y:auto;
   transform:translateY(40px); transition:transform 0.3s ease;
 }
 .modal-overlay.open .modal { transform:translateY(0); }
-@media(min-width:600px) { .modal { border-radius:12px; } }
+@media(min-width:640px) { .modal { border-radius:12px; } }
 .modal-close {
   position:absolute; top:14px; right:14px;
   background:var(--bg-alt); border:none; border-radius:50%;
@@ -439,8 +439,8 @@ img { max-width:100%; height:auto; display:block; }
   grid-template-columns:repeat(2,1fr);
   margin-bottom:32px;
 }
-@media(min-width:480px) { .qa-cat-grid { grid-template-columns:repeat(3,1fr); } }
-@media(min-width:680px) { .qa-cat-grid { grid-template-columns:repeat(4,1fr); } }
+@media(min-width:640px) { .qa-cat-grid { grid-template-columns:repeat(3,1fr); } }
+@media(min-width:640px) { .qa-cat-grid { grid-template-columns:repeat(4,1fr); } }
 @media(min-width:900px) { .qa-cat-grid { grid-template-columns:repeat(5,1fr); } }
 
 .qa-cat-card {
@@ -528,7 +528,7 @@ img { max-width:100%; height:auto; display:block; }
   text-align:center; padding:40px 20px;
   color:var(--text-light); font-size:0.95rem;
 }
-@media(min-width:600px) {
+@media(min-width:640px) {
   .qa-q { font-size:1rem; }
   .qa-a { font-size:0.93rem; }
 }
@@ -537,8 +537,8 @@ img { max-width:100%; height:auto; display:block; }
 .qa-cat-name{font-size:1rem;color:#000}
 .qa-cat-count{font-size:.875rem}
 .qa-cat-browse{font-size:1rem;min-height:44px;display:grid;place-items:center}
-@media(min-width:480px){.qa-cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(min-width:680px){.qa-cat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(min-width:640px){.qa-cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:640px){.qa-cat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(min-width:900px){.qa-cat-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
 </style>
 </head>

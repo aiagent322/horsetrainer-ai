@@ -101,7 +101,7 @@ hr.fancy{margin: 28px 0;}
 .card-excerpt{font-size: 13px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;}
 .hero-stats{flex-wrap: wrap;}
 }
-@media (min-width: 768px) {
+@media (min-width: 640px) {
   @layer mobile {
     body{font-size:revert-layer;line-height:revert-layer}
     .page-wrapper{padding:revert-layer}

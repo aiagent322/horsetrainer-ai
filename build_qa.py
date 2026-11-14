@@ -105,7 +105,7 @@ a:hover{color:var(--primary);text-decoration:underline;}
   transition:background var(--transition),color var(--transition);}
 .main-nav a:hover{background:var(--bg-alt);color:var(--primary);text-decoration:none;}
 .main-nav a.active{background:var(--primary);color:#fff;}
-@media(min-width:768px){
+@media(min-width:900px){
   .nav-toggle{display:none;}
   .main-nav{display:flex!important;flex-direction:row;padding:0;gap:4px;
     border-top:none;align-items:center;}
@@ -153,7 +153,7 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;
   background:var(--border);border:1px solid var(--border);
   border-radius:var(--radius);overflow:hidden;margin:8px 0 24px;}
-@media(min-width:600px){.cat-grid{grid-template-columns:repeat(3,1fr);}}
+@media(min-width:640px){.cat-grid{grid-template-columns:repeat(3,1fr);}}
 @media(min-width:900px){.cat-grid{grid-template-columns:repeat(4,1fr);}}
 .cat-cell{background:var(--bg);padding:16px;text-decoration:none;display:block;
   transition:background var(--transition);}
@@ -196,7 +196,7 @@ a:hover{color:var(--primary);text-decoration:underline;}
   border:1px solid var(--border);}
 .answer-wrap h1{font-size:1.4rem;font-weight:800;color:var(--primary);
   line-height:1.3;margin-bottom:20px;}
-@media(min-width:600px){.answer-wrap h1{font-size:1.65rem;}}
+@media(min-width:640px){.answer-wrap h1{font-size:1.65rem;}}
 .full-answer{font-size:1rem;line-height:1.8;color:var(--text);
   border-left:4px solid var(--secondary);padding-left:20px;
   background:var(--bg-warm);padding:20px 20px 20px 24px;
@@ -242,7 +242,7 @@ a:hover{color:var(--primary);text-decoration:underline;}
 .site-footer{background:var(--primary);color:rgba(255,255,255,0.75);padding:32px 16px 20px;}
 .footer-inner{max-width:var(--max-w);margin:0 auto;}
 .footer-top{display:grid;gap:24px;grid-template-columns:1fr;margin-bottom:24px;}
-@media(min-width:600px){.footer-top{grid-template-columns:2fr 1fr 1fr;}}
+@media(min-width:640px){.footer-top{grid-template-columns:2fr 1fr 1fr;}}
 .footer-brand-name{font-weight:800;font-size:1.05rem;color:#fff;margin-bottom:6px;}
 .footer-brand-name span{color:#7ec8f0;}
 .footer-brand-desc{font-size:0.82rem;line-height:1.6;}
