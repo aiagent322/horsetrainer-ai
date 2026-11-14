@@ -587,7 +587,7 @@ def build_answer(qa, cat_qa_list):
     if related_html:
         html += f"""
   <section class="related-section">
-    <h3>More {qa['category']} Questions</h3>
+    <h2 style="font-size:1.17em">More {qa['category']} Questions</h2>
     {related_html}
     <a href="/qa/{cat_slug}/" style="display:block;margin-top:14px;font-size:0.85rem;color:var(--text-light);">
       View all {qa['category']} questions →
