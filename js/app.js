@@ -573,8 +573,37 @@ function renderTrainerCards(trainers, container) {
     container.innerHTML = '<p style="color:var(--muted);text-align:center;padding:2rem;">No trainers found matching your criteria. Try expanding your search radius or browse all trainers.</p>';
     return;
   }
-  container.innerHTML = trainers.map(t => trainerCardHTML(t)).join('');
+  // Paginate: draw TRAINER_PAGE cards, then "Show more" — keeps phones from rendering thousands of cards at once.
+  var PAGE = TRAINER_PAGE, shown = 0;
+  var key = (container.id || 'trainer-cards') + '-more';
+  var old = document.getElementById(key);
+  if (old) old.remove();
+  container.innerHTML = '';
+  var wrap = document.createElement('div');
+  wrap.id = key;
+  wrap.style.cssText = 'text-align:center;margin:1.25rem 0 0;';
+  var status = document.createElement('p');
+  status.setAttribute('aria-live', 'polite');
+  status.style.cssText = 'margin:0 0 0.75rem;font-size:0.88rem;color:var(--muted);';
+  var btn = document.createElement('button');
+  btn.type = 'button';
+  btn.className = 'btn btn-outline';
+  btn.style.cssText = 'min-height:44px;padding:0 24px;cursor:pointer;';
+  wrap.appendChild(status);
+  wrap.appendChild(btn);
+  container.insertAdjacentElement('afterend', wrap);
+  function draw() {
+    var next = trainers.slice(shown, shown + PAGE);
+    container.insertAdjacentHTML('beforeend', next.map(function (t) { return trainerCardHTML(t); }).join(''));
+    shown += next.length;
+    status.textContent = 'Showing ' + shown + ' of ' + trainers.length + ' trainers';
+    if (shown >= trainers.length) { btn.style.display = 'none'; }
+    else { btn.textContent = 'Show ' + Math.min(PAGE, trainers.length - shown) + ' more trainers'; }
+  }
+  btn.addEventListener('click', draw);
+  draw();
 }
+var TRAINER_PAGE = (window.innerWidth < 600) ? 6 : 12;
 
 function trainerCardHTML(t) {
   const tags = [...(t.disciplines || []).slice(0, 2), ...(t.specialties || []).slice(0, 1)]
