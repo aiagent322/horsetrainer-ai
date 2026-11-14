@@ -557,8 +557,10 @@ def build_answer(qa, cat_qa_list):
     })
 
     title = f"{qa['question']} | {qa['category']} | HorseTrainer.AI"
-    if len(title) > 70 and len(f"{qa['question']} | HorseTrainer.AI") <= 70:
-        title = f"{qa['question']} | HorseTrainer.AI"  # keep titles within ~70 chars where it needs no rewording
+    if len(title) > 60:  # Google shows ~60 chars: drop category, then brand (removal only, never reword)
+        title = f"{qa['question']} | HorseTrainer.AI"
+        if len(title) > 60:
+            title = qa['question']
     desc  = first_n_chars(qa["answer"], 155)
 
     html = html_head(title, desc, url,
