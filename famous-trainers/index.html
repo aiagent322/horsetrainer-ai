@@ -210,15 +210,8 @@
   }
 
   /* ── TRAINER GRID ── */
-  .trainers-grid {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 24px 80px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 24px;
-  }
-  @media(max-width:700px){ .trainers-grid { grid-template-columns: 1fr; } }
+  .trainers-grid {max-width:1200px;margin:0 auto;padding:0 24px 80px;display:grid;grid-template-columns:1fr;gap:24px}
+  @media(min-width:640px){.trainers-grid{grid-template-columns:repeat(auto-fill, minmax(320px, 1fr))}}
 
   /* ── TRAINER CARD ── */
   .trainer-card {
@@ -381,15 +374,8 @@
     background: var(--char);
     padding: 64px 24px;
   }
-  .about-inner {
-    max-width: 900px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 56px;
-    align-items: start;
-  }
-  @media(max-width:700px){ .about-inner { grid-template-columns: 1fr; gap: 32px; } }
+  .about-inner {max-width:900px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:32px;align-items:start}
+  @media(min-width:640px){.about-inner{grid-template-columns:1fr 1fr;gap:56px}}
 
   .about-inner h2 {
     font-family: 'Playfair Display', serif;

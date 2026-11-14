@@ -25,13 +25,13 @@ body{background:var(--warm);color:var(--ink);font-family:'Source Serif 4',Georgi
 
 .discipline-badge{display:inline-block;background:var(--cognac);color:var(--cream);font-family:'Libre Baskerville',serif;font-size:9.5px;letter-spacing:.18em;text-transform:uppercase;padding:3px 10px;margin-bottom:18px}
 
-.hero{background:var(--choc);min-height:590px;position:relative;overflow:hidden;display:grid;grid-template-columns:1fr 420px}
-@media(max-width:860px){.hero{grid-template-columns:1fr;min-height:auto}}
+.hero{background:var(--choc);min-height:auto;position:relative;overflow:hidden;display:grid;grid-template-columns:1fr}
+@media(min-width:900px){.hero{grid-template-columns:1fr 420px;min-height:590px}}
 .hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 100% 60% at 35% 10%,rgba(92,40,8,.25) 0%,transparent 55%),radial-gradient(ellipse 70% 80% at 90% 100%,rgba(20,8,2,.5) 0%,transparent 55%);pointer-events:none}
 .hero::after{content:'';position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,transparent,var(--bronze),var(--gold),var(--bronze),transparent);pointer-events:none}
 
-.hero-left{position:relative;z-index:2;display:flex;flex-direction:column;justify-content:center;padding:72px 52px 80px 48px}
-@media(max-width:860px){.hero-left{padding:48px 24px 56px}}
+.hero-left{position:relative;z-index:2;display:flex;flex-direction:column;justify-content:center;padding:48px 24px 56px}
+@media(min-width:900px){.hero-left{padding:72px 52px 80px 48px}}
 .trainer-label{font-family:'Libre Baskerville',serif;font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold-lt);margin-bottom:6px;display:flex;align-items:center;gap:12px}
 .trainer-label::before{content:'';width:36px;height:1px;background:var(--gold-lt);display:block}
 .hero h1{font-family:'Playfair Display',serif;font-size:clamp(50px,6.8vw,84px);font-weight:900;line-height:.95;color:var(--cream);letter-spacing:-.02em;margin-top:18px}
@@ -42,11 +42,11 @@ body{background:var(--warm);color:var(--ink);font-family:'Source Serif 4',Georgi
 .hero-tags{margin-top:32px;display:flex;flex-wrap:wrap;gap:8px}
 .tag{background:rgba(255,255,255,.07);border:1px solid rgba(208,144,64,.3);color:var(--silver);font-size:11px;font-family:'Libre Baskerville',serif;letter-spacing:.07em;padding:5px 12px;text-transform:uppercase}
 
-.hero-photo{position:relative;overflow:hidden;z-index:2}
+.hero-photo{position:relative;overflow:hidden;z-index:2;min-height:290px}
 .hero-photo img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;opacity:.88;filter:contrast(1.05)}
 .hero-photo::before{content:'';position:absolute;inset:0;background:linear-gradient(90deg,var(--choc) 0%,transparent 22%);z-index:1}
 .hero-photo-caption{position:absolute;bottom:12px;right:12px;font-size:11px;color:rgba(255,255,255,.45);font-family:'Libre Baskerville',serif;font-style:italic;z-index:2}
-@media(max-width:860px){.hero-photo{min-height:290px}}
+@media(min-width:900px){.hero-photo{min-height:initial}}
 
 .record-bar{background:var(--saddle);border-top:2px solid var(--bronze);display:flex;overflow-x:auto}
 .rec-item{flex:1;min-width:120px;padding:18px 16px;border-right:1px solid rgba(255,255,255,.09);text-align:center}
@@ -55,18 +55,18 @@ body{background:var(--warm);color:var(--ink);font-family:'Source Serif 4',Georgi
 .rec-label{font-size:10.5px;color:var(--sand);font-family:'Libre Baskerville',serif;letter-spacing:.07em;text-transform:uppercase;margin-top:4px}
 
 .page-wrapper{max-width:1160px;margin:0 auto;padding:0 24px}
-.content-grid{display:grid;grid-template-columns:1fr 300px;gap:60px;padding:68px 0}
-@media(max-width:900px){.content-grid{grid-template-columns:1fr;gap:40px}}
+.content-grid{display:grid;grid-template-columns:1fr;gap:40px;padding:68px 0}
+@media(min-width:900px){.content-grid{grid-template-columns:1fr 300px;gap:60px}}
 .bio-section{margin-bottom:52px}
 .section-label{font-family:'Libre Baskerville',serif;font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--cognac);margin-bottom:10px;display:flex;align-items:center;gap:10px}
 .section-label::after{content:'';flex:1;height:1px;background:var(--mist)}
 .bio-section h2{font-family:'Playfair Display',serif;font-size:clamp(23px,3vw,32px);font-weight:700;color:var(--choc);line-height:1.18;margin-bottom:22px}
 .bio-section p{margin-bottom:18px;color:var(--char)}.bio-section p:last-child{margin-bottom:0}
 
-.inline-photo{float:right;margin:0 0 24px 32px;max-width:265px}
+.inline-photo{float:none;margin:0 0 24px;max-width:100%}
 .inline-photo img{width:100%;display:block;filter:contrast(1.05);border:4px solid var(--parchment);box-shadow:4px 4px 20px rgba(0,0,0,.18)}
 .inline-photo figcaption{font-size:12px;font-style:italic;color:var(--turq-lt);margin-top:9px;font-family:'Libre Baskerville',serif;line-height:1.4;text-align:center}
-@media(max-width:600px){.inline-photo{float:none;margin:0 0 24px;max-width:100%}}
+@media(min-width:640px){.inline-photo{float:right;margin:0 0 24px 32px;max-width:265px}}
 
 .accomplishments{list-style:none;margin:20px 0}
 .accomplishments li{padding:12px 0 12px 28px;border-bottom:1px solid var(--mist);position:relative;font-size:15.5px;color:var(--char)}
