@@ -260,7 +260,16 @@ a:hover{color:var(--primary);text-decoration:underline;}
 """
 
 # ── Shared HTML Fragments ──────────────────────────────────────────────────
+def og_image_for(canonical):
+    """Social-share image URL for a Q&A page, chosen by category slug (images from tools/build_og_images.py)."""
+    parts = [x for x in canonical.replace(BASE_URL, "").split("/") if x]
+    name = "og-qa"
+    if len(parts) >= 2 and os.path.exists(os.path.join("images", "og", f"og-qa-{parts[1]}.jpg")):
+        name = f"og-qa-{parts[1]}"
+    return f"{BASE_URL}/images/og/{name}.jpg?v=1"
+
 def html_head(title, desc, canonical, extra_meta=""):
+    og_img = og_image_for(canonical)
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -273,7 +282,12 @@ def html_head(title, desc, canonical, extra_meta=""):
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{og_img}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{title}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{og_img}">
 {extra_meta}
 <style>{SHARED_CSS}</style>
 </head>
