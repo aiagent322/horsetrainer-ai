@@ -11,3 +11,8 @@ build_qa.py needs SUPABASE_KEY (anon key is enough) and regenerates every qa pag
 8. `python3 tools/build_sitemaps.py`
 
 If you add new videos to answer pages by hand, run `python3 tools/qa_videos.py extract` afterwards so a rebuild does not drop them.
+
+## Video library pages (one page per video)
+`python3 tools/build_video_pages.py` writes videos/watch/<slug>/ (one page per video), videos/library/ and videos/library/<category>/ from videos.json (oEmbed title + channel), data/qa_videos.json and the pages that use each video. Slugs are persisted in data/video_slugs.json so URLs do not change. Nothing is invented: channel shows only where videos.json has it, and there is no VideoObject markup because uploadDate is not known.
+After a Q&A rebuild or new videos: build_qa.py -> qa_videos.py inject -> build_video_pages.py -> link_qa_videos.py (adds 'About this video' links; run qa_videos.py extract after) -> build_sitemaps.py.
+New videos added by hand to Q&A pages are picked up automatically because the catalog reads data/qa_videos.json (run qa_videos.py extract first).
