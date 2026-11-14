@@ -603,7 +603,7 @@ function renderTrainerCards(trainers, container) {
   btn.addEventListener('click', draw);
   draw();
 }
-var TRAINER_PAGE = (window.innerWidth < 600) ? 6 : 12;
+var TRAINER_PAGE = (window.innerWidth < 600) ? 12 : 48;
 
 function trainerCardHTML(t) {
   const tags = [...(t.disciplines || []).slice(0, 2), ...(t.specialties || []).slice(0, 1)]
