@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 879,
+  "count": 907,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -202,7 +202,6 @@
         "qa/equipment/what-is-the-difference-between-a-show-shank-curb-and-a-long-shank-curb-and-how-d/index.html",
         "qa/horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/horsemanship/what-is-the-importance-of-feel-and-timing-in-riding/index.html",
-        "qa/lead-changes/how-does-collection-affect-the-quality-of-flying-lead-changes-and-why-do-more-co/index.html",
         "qa/natural-horsemanship/how-are-feel-timing-and-balance-connected-to-each-other/index.html",
         "qa/natural-horsemanship/how-does-feel-differ-from-technique-in-horse-training/index.html",
         "qa/natural-horsemanship/what-does-it-feel-like-when-you-have-good-timing-versus-poor-timing-in-horse-tra/index.html",
@@ -283,28 +282,6 @@
         "qa/counter-canter/how-does-counter-canter-help-prepare-a-horse-for-flying-changes/index.html",
         "qa/hunter-jumper/what-is-a-flying-lead-change-and-how-is-it-developed-for-jumpers/index.html",
         "qa/hunter-jumper/what-is-a-simple-lead-change-and-when-do-you-use-it/index.html",
-        "qa/lead-changes/how-can-you-use-a-figure-eight-to-train-flying-lead-changes/index.html",
-        "qa/lead-changes/how-do-i-train-flying-lead-changes-and-fix-a-horse-that-swaps-late-behind/index.html",
-        "qa/lead-changes/how-do-you-apply-the-aids-for-a-flying-lead-change-on-a-straightaway-and-what-sh/index.html",
-        "qa/lead-changes/how-do-you-cue-a-lead-change-when-turning/index.html",
-        "qa/lead-changes/how-do-you-develop-the-flying-lead-change-and-what-preparation-is-required/index.html",
-        "qa/lead-changes/how-do-you-fix-a-horse-that-refuses-to-change-leads-or-ignores-the-change-aid/index.html",
-        "qa/lead-changes/how-do-you-introduce-a-young-horse-to-lead-change-concepts-for-the-first-time/index.html",
-        "qa/lead-changes/how-do-you-introduce-simple-lead-changes-and-why-are-they-important-in-a-horses/index.html",
-        "qa/lead-changes/how-do-you-prepare-the-horse-in-the-strides-before-asking-for-a-flying-lead-chan/index.html",
-        "qa/lead-changes/how-do-you-school-a-horse-that-has-developed-a-habit-of-swapping-leads-spontaneo/index.html",
-        "qa/lead-changes/how-do-you-teach-a-horse-to-change-leads-on-a-straight-line-rather-than-only-thr/index.html",
-        "qa/lead-changes/how-do-you-teach-a-horse-to-perform-a-flying-lead-change/index.html",
-        "qa/lead-changes/how-do-you-use-poles-on-the-ground-to-help-teach-and-confirm-lead-changes/index.html",
-        "qa/lead-changes/how-long-does-it-take-to-develop-reliable-flying-lead-changes-and-what-is-a-real/index.html",
-        "qa/lead-changes/what-are-common-problems-with-flying-lead-changes-on-a-straightaway-and-how-do-y/index.html",
-        "qa/lead-changes/what-are-the-most-common-training-mistakes-that-create-lead-change-problems/index.html",
-        "qa/lead-changes/what-are-the-prerequisites-for-performing-a-flying-lead-change-on-a-straightaway/index.html",
-        "qa/lead-changes/what-does-it-mean-when-a-horse-is-late-behind-in-the-lead-change-and-how-do-you/index.html",
-        "qa/lead-changes/what-is-a-lead-and-why-does-it-matter-which-lead-a-horse-is-on/index.html",
-        "qa/lead-changes/what-is-a-simple-lead-change-and-how-is-it-different-from-a-flying-lead-change/index.html",
-        "qa/lead-changes/what-physical-and-training-prerequisites-must-be-in-place-before-teaching-flying/index.html",
-        "qa/lead-changes/what-role-does-the-figure-eight-play-in-lead-change-training-and-how-do-you-ride/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
         "qa/training-principles/how-do-you-develop-the-flying-lead-change-and-what-preparation-is-required/index.html",
         "qa/training-principles/how-do-you-introduce-simple-lead-changes-and-why-are-they-important-in-a-horses/index.html",
@@ -846,7 +823,6 @@
       "reference_count": 15,
       "pages": [
         "qa/horsemanship/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
-        "qa/lead-changes/what-is-the-riders-position-and-body-aid-for-asking-a-flying-lead-change/index.html",
         "qa/neck-reining/how-does-body-position-and-weight-aid-the-neck-reining-horse/index.html",
         "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
         "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
@@ -1512,7 +1488,6 @@
       ],
       "reference_count": 7,
       "pages": [
-        "qa/lead-changes/how-do-i-train-circles-and-lead-changes-for-ranch-reining/index.html",
         "reining/rollbacks-step-by-step/index.html",
         "videos/reining/index.html"
       ]
@@ -16733,6 +16708,454 @@
       "thumbnail": "https://i.ytimg.com/vi/fZCrON9OI8c/hqdefault.jpg",
       "site_titles": [
         "Ask the Experts: What Age Should You Start a Young Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HVpM9jkQEU0",
+      "youtube_title": "Athletic Lead Change 45 Degree: Stage 2 Skills Assessment",
+      "channel": "Al Dunning",
+      "youtube_url": "https://www.youtube.com/watch?v=HVpM9jkQEU0",
+      "embed_url": "https://www.youtube.com/embed/HVpM9jkQEU0",
+      "thumbnail": "https://i.ytimg.com/vi/HVpM9jkQEU0/hqdefault.jpg",
+      "site_titles": [
+        "Athletic Lead Change 45 Degree: Stage 2 Skills Assessment"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lsfAvHklLHI",
+      "youtube_title": "3 Minute Training Tip - Simple Lead Changes - Figure Eight",
+      "channel": "Jack Lieser",
+      "youtube_url": "https://www.youtube.com/watch?v=lsfAvHklLHI",
+      "embed_url": "https://www.youtube.com/embed/lsfAvHklLHI",
+      "thumbnail": "https://i.ytimg.com/vi/lsfAvHklLHI/hqdefault.jpg",
+      "site_titles": [
+        "3 Minute Training Tip - Simple Lead Changes - Figure Eight"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cUrEEWnhG08",
+      "youtube_title": "Ranch Riding - Training the Versatile Ranch Horse",
+      "channel": "Van Hargis Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=cUrEEWnhG08",
+      "embed_url": "https://www.youtube.com/embed/cUrEEWnhG08",
+      "thumbnail": "https://i.ytimg.com/vi/cUrEEWnhG08/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding - Training the Versatile Ranch Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sM9TtopL4HU",
+      "youtube_title": "Improve Your Lead Changes in 3 Days | Smooth Lateral & Forward Movement",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=sM9TtopL4HU",
+      "embed_url": "https://www.youtube.com/embed/sM9TtopL4HU",
+      "thumbnail": "https://i.ytimg.com/vi/sM9TtopL4HU/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Lead Changes in 3 Days | Smooth Lateral & Forward Movement"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "A1QOVErRo70",
+      "youtube_title": "How to fix a late flying change",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=A1QOVErRo70",
+      "embed_url": "https://www.youtube.com/embed/A1QOVErRo70",
+      "thumbnail": "https://i.ytimg.com/vi/A1QOVErRo70/hqdefault.jpg",
+      "site_titles": [
+        "How to fix a late flying change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1_QRqvwSZYg",
+      "youtube_title": "Al Dunning: Transition from Snaffle to Curb Bit",
+      "channel": "Horse and Rider Magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=1_QRqvwSZYg",
+      "embed_url": "https://www.youtube.com/embed/1_QRqvwSZYg",
+      "thumbnail": "https://i.ytimg.com/vi/1_QRqvwSZYg/hqdefault.jpg",
+      "site_titles": [
+        "Al Dunning: Transition from Snaffle to Curb Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LDXlJCz3t6E",
+      "youtube_title": "Trail Class - Cadence Over Poles",
+      "channel": "horsecoursesonline",
+      "youtube_url": "https://www.youtube.com/watch?v=LDXlJCz3t6E",
+      "embed_url": "https://www.youtube.com/embed/LDXlJCz3t6E",
+      "thumbnail": "https://i.ytimg.com/vi/LDXlJCz3t6E/hqdefault.jpg",
+      "site_titles": [
+        "Trail Class - Cadence Over Poles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2XRf7EehIF4",
+      "youtube_title": "How to Ask for a Flying Change",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=2XRf7EehIF4",
+      "embed_url": "https://www.youtube.com/embed/2XRf7EehIF4",
+      "thumbnail": "https://i.ytimg.com/vi/2XRf7EehIF4/hqdefault.jpg",
+      "site_titles": [
+        "How to Ask for a Flying Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uPYWOVcmLm4",
+      "youtube_title": "How To Execute A Simple Lead Change",
+      "channel": "Equestrian Neightion",
+      "youtube_url": "https://www.youtube.com/watch?v=uPYWOVcmLm4",
+      "embed_url": "https://www.youtube.com/embed/uPYWOVcmLm4",
+      "thumbnail": "https://i.ytimg.com/vi/uPYWOVcmLm4/hqdefault.jpg",
+      "site_titles": [
+        "How To Execute A Simple Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gvMzlg26gzA",
+      "youtube_title": "Struggling with LEAD CHANGES? This might be the problem...",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=gvMzlg26gzA",
+      "embed_url": "https://www.youtube.com/embed/gvMzlg26gzA",
+      "thumbnail": "https://i.ytimg.com/vi/gvMzlg26gzA/hqdefault.jpg",
+      "site_titles": [
+        "Struggling with LEAD CHANGES? This might be the problem..."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GxWiGvEWgls",
+      "youtube_title": "George Morris: How to Ride a Simple Lead Change",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=GxWiGvEWgls",
+      "embed_url": "https://www.youtube.com/embed/GxWiGvEWgls",
+      "thumbnail": "https://i.ytimg.com/vi/GxWiGvEWgls/hqdefault.jpg",
+      "site_titles": [
+        "George Morris: How to Ride a Simple Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "49jHIU6SOps",
+      "youtube_title": "Explaining Horse Lead Changes & What Is The Right or Wrong Lead",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=49jHIU6SOps",
+      "embed_url": "https://www.youtube.com/embed/49jHIU6SOps",
+      "thumbnail": "https://i.ytimg.com/vi/49jHIU6SOps/hqdefault.jpg",
+      "site_titles": [
+        "Explaining Horse Lead Changes & What Is The Right or Wrong Lead"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "562LKOLXAOw",
+      "youtube_title": "HOW TO TEACH A FLYING CHANGE FROM BASICS",
+      "channel": "Holly Lenahan",
+      "youtube_url": "https://www.youtube.com/watch?v=562LKOLXAOw",
+      "embed_url": "https://www.youtube.com/embed/562LKOLXAOw",
+      "thumbnail": "https://i.ytimg.com/vi/562LKOLXAOw/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO TEACH A FLYING CHANGE FROM BASICS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a-kqZ1uRdT4",
+      "youtube_title": "How to teach your horse to do flying changes",
+      "channel": "Boswell Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=a-kqZ1uRdT4",
+      "embed_url": "https://www.youtube.com/embed/a-kqZ1uRdT4",
+      "thumbnail": "https://i.ytimg.com/vi/a-kqZ1uRdT4/hqdefault.jpg",
+      "site_titles": [
+        "How to teach your horse to do flying changes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OY2DClqQN5o",
+      "youtube_title": "Canter lead changes  with poles",
+      "channel": "Kates Coaching",
+      "youtube_url": "https://www.youtube.com/watch?v=OY2DClqQN5o",
+      "embed_url": "https://www.youtube.com/embed/OY2DClqQN5o",
+      "thumbnail": "https://i.ytimg.com/vi/OY2DClqQN5o/hqdefault.jpg",
+      "site_titles": [
+        "Canter lead changes with poles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZyclTxm7lWE",
+      "youtube_title": "Clinton Anderson: How to Refine Lead Changes - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=ZyclTxm7lWE",
+      "embed_url": "https://www.youtube.com/embed/ZyclTxm7lWE",
+      "thumbnail": "https://i.ytimg.com/vi/ZyclTxm7lWE/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: How to Refine Lead Changes - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FBMmxxXL60U",
+      "youtube_title": "Lead changes - The set up is the most important piece to the 🧩!!!!!",
+      "channel": "Alexander K. Gryskiewicz",
+      "youtube_url": "https://www.youtube.com/watch?v=FBMmxxXL60U",
+      "embed_url": "https://www.youtube.com/embed/FBMmxxXL60U",
+      "thumbnail": "https://i.ytimg.com/vi/FBMmxxXL60U/hqdefault.jpg",
+      "site_titles": [
+        "Lead changes - The set up is the most important piece to the 🧩!!!!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2WL9jD-4ivU",
+      "youtube_title": "Fix Common Flying Change Mistakes with This Simple Strategy",
+      "channel": "ReflectionsFromTheSaddle",
+      "youtube_url": "https://www.youtube.com/watch?v=2WL9jD-4ivU",
+      "embed_url": "https://www.youtube.com/embed/2WL9jD-4ivU",
+      "thumbnail": "https://i.ytimg.com/vi/2WL9jD-4ivU/hqdefault.jpg",
+      "site_titles": [
+        "Fix Common Flying Change Mistakes with This Simple Strategy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GGvRBhdSNVA",
+      "youtube_title": "Lauren Sprieser: Tempi Changes",
+      "channel": "Dressage Today",
+      "youtube_url": "https://www.youtube.com/watch?v=GGvRBhdSNVA",
+      "embed_url": "https://www.youtube.com/embed/GGvRBhdSNVA",
+      "thumbnail": "https://i.ytimg.com/vi/GGvRBhdSNVA/hqdefault.jpg",
+      "site_titles": [
+        "Lauren Sprieser: Tempi Changes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6nUjh58b9Xo",
+      "youtube_title": "How to Prepare your Horse for a Flying Lead Change",
+      "channel": "Charles Wilhelm",
+      "youtube_url": "https://www.youtube.com/watch?v=6nUjh58b9Xo",
+      "embed_url": "https://www.youtube.com/embed/6nUjh58b9Xo",
+      "thumbnail": "https://i.ytimg.com/vi/6nUjh58b9Xo/hqdefault.jpg",
+      "site_titles": [
+        "How to Prepare your Horse for a Flying Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TiznKLV3gDg",
+      "youtube_title": "From Late to Clean: How to Improve Your Flying Changes",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=TiznKLV3gDg",
+      "embed_url": "https://www.youtube.com/embed/TiznKLV3gDg",
+      "thumbnail": "https://i.ytimg.com/vi/TiznKLV3gDg/hqdefault.jpg",
+      "site_titles": [
+        "From Late to Clean: How to Improve Your Flying Changes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gqPX9hrsVUE",
+      "youtube_title": "Teaching lead changes",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=gqPX9hrsVUE",
+      "embed_url": "https://www.youtube.com/embed/gqPX9hrsVUE",
+      "thumbnail": "https://i.ytimg.com/vi/gqPX9hrsVUE/hqdefault.jpg",
+      "site_titles": [
+        "Teaching lead changes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VQkTpkyC0fw",
+      "youtube_title": "How to Pick Up the Correct Canter Lead",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=VQkTpkyC0fw",
+      "embed_url": "https://www.youtube.com/embed/VQkTpkyC0fw",
+      "thumbnail": "https://i.ytimg.com/vi/VQkTpkyC0fw/hqdefault.jpg",
+      "site_titles": [
+        "How to Pick Up the Correct Canter Lead"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_pneNAh24JM",
+      "youtube_title": "Lead Changes Made Easy with Jonathan Field",
+      "channel": "Jonathan Field Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=_pneNAh24JM",
+      "embed_url": "https://www.youtube.com/embed/_pneNAh24JM",
+      "thumbnail": "https://i.ytimg.com/vi/_pneNAh24JM/hqdefault.jpg",
+      "site_titles": [
+        "Lead Changes Made Easy with Jonathan Field"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YvKN6L1Mqb8",
+      "youtube_title": "Step-by-Step: Teaching Your Horse Counter Canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=YvKN6L1Mqb8",
+      "embed_url": "https://www.youtube.com/embed/YvKN6L1Mqb8",
+      "thumbnail": "https://i.ytimg.com/vi/YvKN6L1Mqb8/hqdefault.jpg",
+      "site_titles": [
+        "Step-by-Step: Teaching Your Horse Counter Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9eI4Fe-1BVo",
+      "youtube_title": "When Should you ask for a Flying Change?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=9eI4Fe-1BVo",
+      "embed_url": "https://www.youtube.com/embed/9eI4Fe-1BVo",
+      "thumbnail": "https://i.ytimg.com/vi/9eI4Fe-1BVo/hqdefault.jpg",
+      "site_titles": [
+        "When Should you ask for a Flying Change?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QSw5OoR3r40",
+      "youtube_title": "Prepare for Flying Changes with These Five Exercises",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=QSw5OoR3r40",
+      "embed_url": "https://www.youtube.com/embed/QSw5OoR3r40",
+      "thumbnail": "https://i.ytimg.com/vi/QSw5OoR3r40/hqdefault.jpg",
+      "site_titles": [
+        "Prepare for Flying Changes with These Five Exercises"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0Rsmypo8eIE",
+      "youtube_title": "Trevor Carter's Lead Change Exercise",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=0Rsmypo8eIE",
+      "embed_url": "https://www.youtube.com/embed/0Rsmypo8eIE",
+      "thumbnail": "https://i.ytimg.com/vi/0Rsmypo8eIE/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Carter's Lead Change Exercise"
       ],
       "sections": [
         "qa"
