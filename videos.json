@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2511,
+  "count": 2525,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -883,7 +883,6 @@
         "qa/ranch-riding/index.html",
         "qa/reining/what-are-the-most-important-qualities-in-a-reining-horse/index.html",
         "qa/reining/what-does-a-good-reining-horse-need-to-know/index.html",
-        "qa/versatility-ranch-horse/how-do-you-develop-the-reining-maneuvers-required-for-versatility-ranch-horse/index.html",
         "qa/western-pleasure/index.html",
         "reining/backup-on-a-reining-horse/index.html",
         "reining/forward-straight-relaxed/index.html",
@@ -10540,9 +10539,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/versatility-ranch-horse/how-do-you-train-a-horse-to-compete-in-the-reined-work-phase-of-versatility-ranc/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "u1k4FlkQIcc",
@@ -42621,6 +42618,230 @@
       "thumbnail": "https://i.ytimg.com/vi/Xh_4z8-GWgY/hqdefault.jpg",
       "site_titles": [
         "Western Pleasure: From Head to Hock"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qLOgAa7383c",
+      "youtube_title": "AQHA Versatility Ranch Horse Ranch Conformation",
+      "channel": "Ed De Jong",
+      "youtube_url": "https://www.youtube.com/watch?v=qLOgAa7383c",
+      "embed_url": "https://www.youtube.com/embed/qLOgAa7383c",
+      "thumbnail": "https://i.ytimg.com/vi/qLOgAa7383c/hqdefault.jpg",
+      "site_titles": [
+        "AQHA Versatility Ranch Horse Ranch Conformation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G1m74eGqAM8",
+      "youtube_title": "Versatility Ranch Horse Ranch Reining | Ranch Reining Competition (How Reining Maneuvers Are Scored}",
+      "channel": "Ed De Jong",
+      "youtube_url": "https://www.youtube.com/watch?v=G1m74eGqAM8",
+      "embed_url": "https://www.youtube.com/embed/G1m74eGqAM8",
+      "thumbnail": "https://i.ytimg.com/vi/G1m74eGqAM8/hqdefault.jpg",
+      "site_titles": [
+        "Versatility Ranch Horse Ranch Reining | Ranch Reining Competition (How Reining Maneuvers Are Scored}"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BCDsm0e_M74",
+      "youtube_title": "What to expect at the AQHA Ranch Horse Versatility Show",
+      "channel": "KFDA NewsChannel 10",
+      "youtube_url": "https://www.youtube.com/watch?v=BCDsm0e_M74",
+      "embed_url": "https://www.youtube.com/embed/BCDsm0e_M74",
+      "thumbnail": "https://i.ytimg.com/vi/BCDsm0e_M74/hqdefault.jpg",
+      "site_titles": [
+        "What to expect at the AQHA Ranch Horse Versatility Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uAKPF67l5WI",
+      "youtube_title": "Preparing cattle for Versatility Clinic ",
+      "channel": "performancehorsea",
+      "youtube_url": "https://www.youtube.com/watch?v=uAKPF67l5WI",
+      "embed_url": "https://www.youtube.com/embed/uAKPF67l5WI",
+      "thumbnail": "https://i.ytimg.com/vi/uAKPF67l5WI/hqdefault.jpg",
+      "site_titles": [
+        "Preparing cattle for Versatility Clinic"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "74w9Sp6JStA",
+      "youtube_title": "Selecting a Versatility Horse - Kelsey Mosby",
+      "channel": "TotalFeeds",
+      "youtube_url": "https://www.youtube.com/watch?v=74w9Sp6JStA",
+      "embed_url": "https://www.youtube.com/embed/74w9Sp6JStA",
+      "thumbnail": "https://i.ytimg.com/vi/74w9Sp6JStA/hqdefault.jpg",
+      "site_titles": [
+        "Selecting a Versatility Horse - Kelsey Mosby"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EdmjePWCOcU",
+      "youtube_title": "Versatility Ranch Horse Training",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=EdmjePWCOcU",
+      "embed_url": "https://www.youtube.com/embed/EdmjePWCOcU",
+      "thumbnail": "https://i.ytimg.com/vi/EdmjePWCOcU/hqdefault.jpg",
+      "site_titles": [
+        "Versatility Ranch Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9YJaWn-WQK8",
+      "youtube_title": "Ranch Trail - Training the Versatile Ranch Horse",
+      "channel": "Van Hargis Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=9YJaWn-WQK8",
+      "embed_url": "https://www.youtube.com/embed/9YJaWn-WQK8",
+      "thumbnail": "https://i.ytimg.com/vi/9YJaWn-WQK8/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Trail - Training the Versatile Ranch Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2xBpWLNxErI",
+      "youtube_title": "Ranch Conformation",
+      "channel": "Sue Williams Equine Versatility",
+      "youtube_url": "https://www.youtube.com/watch?v=2xBpWLNxErI",
+      "embed_url": "https://www.youtube.com/embed/2xBpWLNxErI",
+      "thumbnail": "https://i.ytimg.com/vi/2xBpWLNxErI/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Conformation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "z_k1IR1CmO0",
+      "youtube_title": "VRH Ranch Riding | Ranch Horse Competition (How It Is Scored)",
+      "channel": "Ed De Jong",
+      "youtube_url": "https://www.youtube.com/watch?v=z_k1IR1CmO0",
+      "embed_url": "https://www.youtube.com/embed/z_k1IR1CmO0",
+      "thumbnail": "https://i.ytimg.com/vi/z_k1IR1CmO0/hqdefault.jpg",
+      "site_titles": [
+        "VRH Ranch Riding | Ranch Horse Competition (How It Is Scored)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nCMFnniodjk",
+      "youtube_title": "Versatility Ranch Horse Cutting |  The All Around Horse (How VRH Cutting Is Scored)",
+      "channel": "Ed De Jong",
+      "youtube_url": "https://www.youtube.com/watch?v=nCMFnniodjk",
+      "embed_url": "https://www.youtube.com/embed/nCMFnniodjk",
+      "thumbnail": "https://i.ytimg.com/vi/nCMFnniodjk/hqdefault.jpg",
+      "site_titles": [
+        "Versatility Ranch Horse Cutting | The All Around Horse (How VRH Cutting Is Scored)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FUjrejUhHNA",
+      "youtube_title": "vrh amateur ranch conformation, cut 1   2026 aqha vrh world championships",
+      "channel": "Shawn Walter",
+      "youtube_url": "https://www.youtube.com/watch?v=FUjrejUhHNA",
+      "embed_url": "https://www.youtube.com/embed/FUjrejUhHNA",
+      "thumbnail": "https://i.ytimg.com/vi/FUjrejUhHNA/hqdefault.jpg",
+      "site_titles": [
+        "vrh amateur ranch conformation, cut 1 2026 aqha vrh world championships"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bQLkli5LvgE",
+      "youtube_title": "Inaugural Versatility Ranch Horse competition",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=bQLkli5LvgE",
+      "embed_url": "https://www.youtube.com/embed/bQLkli5LvgE",
+      "thumbnail": "https://i.ytimg.com/vi/bQLkli5LvgE/hqdefault.jpg",
+      "site_titles": [
+        "Inaugural Versatility Ranch Horse competition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BXju6G56HiE",
+      "youtube_title": "Johnny Hill: What To Look For In Good Ranch Horses 7/8",
+      "channel": "Dusty Reins Stories",
+      "youtube_url": "https://www.youtube.com/watch?v=BXju6G56HiE",
+      "embed_url": "https://www.youtube.com/embed/BXju6G56HiE",
+      "thumbnail": "https://i.ytimg.com/vi/BXju6G56HiE/hqdefault.jpg",
+      "site_titles": [
+        "Johnny Hill: What To Look For In Good Ranch Horses 7/8"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Lag2zWQ7WqI",
+      "youtube_title": "Clinton Anderson Talks About Performance Horse Bloodlines - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=Lag2zWQ7WqI",
+      "embed_url": "https://www.youtube.com/embed/Lag2zWQ7WqI",
+      "thumbnail": "https://i.ytimg.com/vi/Lag2zWQ7WqI/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson Talks About Performance Horse Bloodlines - Downunder Horsemanship"
       ],
       "sections": [
         "qa"
