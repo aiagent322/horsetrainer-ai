@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2763,
+  "count": 2779,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -46625,6 +46625,262 @@
       "thumbnail": "https://i.ytimg.com/vi/eK5jOn3DW-4/hqdefault.jpg",
       "site_titles": [
         "5 Secrets to True Leadership with Horses | What Horses Actually Need From You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F7dRJVTVZqQ",
+      "youtube_title": "My Horse’s TRANSFORMATION Through Liberty Work | From Fear to Freedom ",
+      "channel": "Durancik Liberty Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=F7dRJVTVZqQ",
+      "embed_url": "https://www.youtube.com/embed/F7dRJVTVZqQ",
+      "thumbnail": "https://i.ytimg.com/vi/F7dRJVTVZqQ/hqdefault.jpg",
+      "site_titles": [
+        "My Horse’s TRANSFORMATION Through Liberty Work | From Fear to Freedom"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UEhtIF0GvpI",
+      "youtube_title": "Liberty Horse Training: Circle and Spin Styles!",
+      "channel": "Horsemanship By Lyndsi",
+      "youtube_url": "https://www.youtube.com/watch?v=UEhtIF0GvpI",
+      "embed_url": "https://www.youtube.com/embed/UEhtIF0GvpI",
+      "thumbnail": "https://i.ytimg.com/vi/UEhtIF0GvpI/hqdefault.jpg",
+      "site_titles": [
+        "Liberty Horse Training: Circle and Spin Styles!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ln6-edgbTqY",
+      "youtube_title": "TOP 3 ROUND PEN EXERCISES for Liberty Horse Training",
+      "channel": "Positive Connection Equine Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Ln6-edgbTqY",
+      "embed_url": "https://www.youtube.com/embed/Ln6-edgbTqY",
+      "thumbnail": "https://i.ytimg.com/vi/Ln6-edgbTqY/hqdefault.jpg",
+      "site_titles": [
+        "TOP 3 ROUND PEN EXERCISES for Liberty Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y-b-McjRy_U",
+      "youtube_title": "Bring Your Horse to You at Liberty with Jonathan Field",
+      "channel": "Jonathan Field Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Y-b-McjRy_U",
+      "embed_url": "https://www.youtube.com/embed/Y-b-McjRy_U",
+      "thumbnail": "https://i.ytimg.com/vi/Y-b-McjRy_U/hqdefault.jpg",
+      "site_titles": [
+        "Bring Your Horse to You at Liberty with Jonathan Field"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gWwz6tcbryY",
+      "youtube_title": "Liberty In Any Pen: With A Frisky Armando!",
+      "channel": "Jonathan Field Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=gWwz6tcbryY",
+      "embed_url": "https://www.youtube.com/embed/gWwz6tcbryY",
+      "thumbnail": "https://i.ytimg.com/vi/gWwz6tcbryY/hqdefault.jpg",
+      "site_titles": [
+        "Liberty In Any Pen: With A Frisky Armando!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MY1naDKMepk",
+      "youtube_title": "How To Begin Liberty,  Clicker Training and Positive Reinforcement",
+      "channel": "Charlie The Trick Pony",
+      "youtube_url": "https://www.youtube.com/watch?v=MY1naDKMepk",
+      "embed_url": "https://www.youtube.com/embed/MY1naDKMepk",
+      "thumbnail": "https://i.ytimg.com/vi/MY1naDKMepk/hqdefault.jpg",
+      "site_titles": [
+        "How To Begin Liberty, Clicker Training and Positive Reinforcement"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_yWrM734G4g",
+      "youtube_title": "Liberty with Multiple Horses - Training with David Lichman",
+      "channel": "Equestry",
+      "youtube_url": "https://www.youtube.com/watch?v=_yWrM734G4g",
+      "embed_url": "https://www.youtube.com/embed/_yWrM734G4g",
+      "thumbnail": "https://i.ytimg.com/vi/_yWrM734G4g/hqdefault.jpg",
+      "site_titles": [
+        "Liberty with Multiple Horses - Training with David Lichman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FQ4QNneoIMA",
+      "youtube_title": "Liberty Run Final Championship at Scottsdale Arabian Horse Show",
+      "channel": "Magnificent Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=FQ4QNneoIMA",
+      "embed_url": "https://www.youtube.com/embed/FQ4QNneoIMA",
+      "thumbnail": "https://i.ytimg.com/vi/FQ4QNneoIMA/hqdefault.jpg",
+      "site_titles": [
+        "Liberty Run Final Championship at Scottsdale Arabian Horse Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mDbGj-CJJ-g",
+      "youtube_title": "Jason's Parelli Liberty \"No Round Pen\"",
+      "channel": "zul114",
+      "youtube_url": "https://www.youtube.com/watch?v=mDbGj-CJJ-g",
+      "embed_url": "https://www.youtube.com/embed/mDbGj-CJJ-g",
+      "thumbnail": "https://i.ytimg.com/vi/mDbGj-CJJ-g/hqdefault.jpg",
+      "site_titles": [
+        "Jason's Parelli Liberty \"No Round Pen\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oFgKS6K1rHU",
+      "youtube_title": "The #1 Exercise in Your Liberty Training with Laura Baker",
+      "channel": "Everyday Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=oFgKS6K1rHU",
+      "embed_url": "https://www.youtube.com/embed/oFgKS6K1rHU",
+      "thumbnail": "https://i.ytimg.com/vi/oFgKS6K1rHU/hqdefault.jpg",
+      "site_titles": [
+        "The Exercise in Your Liberty Training with Laura Baker"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Og6knr2C6R0",
+      "youtube_title": "Letting the Horse make a Choice - Liberty Connection",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=Og6knr2C6R0",
+      "embed_url": "https://www.youtube.com/embed/Og6knr2C6R0",
+      "thumbnail": "https://i.ytimg.com/vi/Og6knr2C6R0/hqdefault.jpg",
+      "site_titles": [
+        "Letting the Horse make a Choice - Liberty Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_29FHjkoCNc",
+      "youtube_title": "5 Forms of Communication with Your Liberty  Horse",
+      "channel": "Everyday Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=_29FHjkoCNc",
+      "embed_url": "https://www.youtube.com/embed/_29FHjkoCNc",
+      "thumbnail": "https://i.ytimg.com/vi/_29FHjkoCNc/hqdefault.jpg",
+      "site_titles": [
+        "5 Forms of Communication with Your Liberty Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AGpbJI7BAbk",
+      "youtube_title": "Maintain Connection at Liberty Using This One Technique",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=AGpbJI7BAbk",
+      "embed_url": "https://www.youtube.com/embed/AGpbJI7BAbk",
+      "thumbnail": "https://i.ytimg.com/vi/AGpbJI7BAbk/hqdefault.jpg",
+      "site_titles": [
+        "Maintain Connection at Liberty Using This One Technique"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NxhjP07FrOM",
+      "youtube_title": "How To Start Liberty Training With Your Horse",
+      "channel": "Durancik Liberty Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=NxhjP07FrOM",
+      "embed_url": "https://www.youtube.com/embed/NxhjP07FrOM",
+      "thumbnail": "https://i.ytimg.com/vi/NxhjP07FrOM/hqdefault.jpg",
+      "site_titles": [
+        "How To Start Liberty Training With Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lXe8MdEKBL4",
+      "youtube_title": "Trick Training & Liberty Work Clinic",
+      "channel": "LaurenSandsHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=lXe8MdEKBL4",
+      "embed_url": "https://www.youtube.com/embed/lXe8MdEKBL4",
+      "thumbnail": "https://i.ytimg.com/vi/lXe8MdEKBL4/hqdefault.jpg",
+      "site_titles": [
+        "Trick Training & Liberty Work Clinic"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5aPfn5ctq1w",
+      "youtube_title": "Basic Groundwork Topics within Liberty, Lunging & Roundpenning",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=5aPfn5ctq1w",
+      "embed_url": "https://www.youtube.com/embed/5aPfn5ctq1w",
+      "thumbnail": "https://i.ytimg.com/vi/5aPfn5ctq1w/hqdefault.jpg",
+      "site_titles": [
+        "Basic Groundwork Topics within Liberty, Lunging & Roundpenning"
       ],
       "sections": [
         "qa"
