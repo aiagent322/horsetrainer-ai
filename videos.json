@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2790,
+  "count": 2800,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -47057,6 +47057,166 @@
       "thumbnail": "https://i.ytimg.com/vi/iHd41bwR1dI/hqdefault.jpg",
       "site_titles": [
         "Nutritious Feeding for Weanlings: Essential Tips and Best Practices I ClipMyHorse.TV Academy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3J5kLDrvqLc",
+      "youtube_title": "\"Docs Golden Queen\" - Yearling - Rope Desensitizing",
+      "channel": "highstylinrascal",
+      "youtube_url": "https://www.youtube.com/watch?v=3J5kLDrvqLc",
+      "embed_url": "https://www.youtube.com/embed/3J5kLDrvqLc",
+      "thumbnail": "https://i.ytimg.com/vi/3J5kLDrvqLc/hqdefault.jpg",
+      "site_titles": [
+        "\"Docs Golden Queen\" - Yearling - Rope Desensitizing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nmeViVH4ccU",
+      "youtube_title": "Spooky and reactive horse",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=nmeViVH4ccU",
+      "embed_url": "https://www.youtube.com/embed/nmeViVH4ccU",
+      "thumbnail": "https://i.ytimg.com/vi/nmeViVH4ccU/hqdefault.jpg",
+      "site_titles": [
+        "Spooky and reactive horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hvbO7Mzyyn0",
+      "youtube_title": "Bridling a yearling for the first time",
+      "channel": "PhoneyPony1",
+      "youtube_url": "https://www.youtube.com/watch?v=hvbO7Mzyyn0",
+      "embed_url": "https://www.youtube.com/embed/hvbO7Mzyyn0",
+      "thumbnail": "https://i.ytimg.com/vi/hvbO7Mzyyn0/hqdefault.jpg",
+      "site_titles": [
+        "Bridling a yearling for the first time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kxHT64crzFE",
+      "youtube_title": "Yearling colt ground driving",
+      "channel": "Melissa McDermott",
+      "youtube_url": "https://www.youtube.com/watch?v=kxHT64crzFE",
+      "embed_url": "https://www.youtube.com/embed/kxHT64crzFE",
+      "thumbnail": "https://i.ytimg.com/vi/kxHT64crzFE/hqdefault.jpg",
+      "site_titles": [
+        "Yearling colt ground driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NbyrFckKHnY",
+      "youtube_title": "Teaching My Yearling How to Lunge | Johnny’s Journey Ep. 1 | 8/27/2023",
+      "channel": "Running Ivy Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=NbyrFckKHnY",
+      "embed_url": "https://www.youtube.com/embed/NbyrFckKHnY",
+      "thumbnail": "https://i.ytimg.com/vi/NbyrFckKHnY/hqdefault.jpg",
+      "site_titles": [
+        "Teaching My Yearling How to Lunge | Johnny’s Journey Ep. 1 | 8/27/2023"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pkRsQ2vND5A",
+      "youtube_title": "Yearling Horse First Hoof Trim",
+      "channel": "The Horse Farrier",
+      "youtube_url": "https://www.youtube.com/watch?v=pkRsQ2vND5A",
+      "embed_url": "https://www.youtube.com/embed/pkRsQ2vND5A",
+      "thumbnail": "https://i.ytimg.com/vi/pkRsQ2vND5A/hqdefault.jpg",
+      "site_titles": [
+        "Yearling Horse First Hoof Trim"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ubFa1it5AOQ",
+      "youtube_title": "Teaching The Young Horse The Ability to Tie And Stand Quietly",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=ubFa1it5AOQ",
+      "embed_url": "https://www.youtube.com/embed/ubFa1it5AOQ",
+      "thumbnail": "https://i.ytimg.com/vi/ubFa1it5AOQ/hqdefault.jpg",
+      "site_titles": [
+        "Teaching The Young Horse The Ability to Tie And Stand Quietly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OczjJ-UhwWw",
+      "youtube_title": "How to teach a young horse to \"Yield the Hindquarters\"",
+      "channel": "Gabi Neurohr - Understanding Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=OczjJ-UhwWw",
+      "embed_url": "https://www.youtube.com/embed/OczjJ-UhwWw",
+      "thumbnail": "https://i.ytimg.com/vi/OczjJ-UhwWw/hqdefault.jpg",
+      "site_titles": [
+        "How to teach a young horse to \"Yield the Hindquarters\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DQW4-yWy1gg",
+      "youtube_title": "Working yearlings in the round pen for the first time!",
+      "channel": "Katie Van Slyke",
+      "youtube_url": "https://www.youtube.com/watch?v=DQW4-yWy1gg",
+      "embed_url": "https://www.youtube.com/embed/DQW4-yWy1gg",
+      "thumbnail": "https://i.ytimg.com/vi/DQW4-yWy1gg/hqdefault.jpg",
+      "site_titles": [
+        "Working yearlings in the round pen for the first time!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Nw2M7H4pABM",
+      "youtube_title": "Easy Groundwork Exercises for Young Horses",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=Nw2M7H4pABM",
+      "embed_url": "https://www.youtube.com/embed/Nw2M7H4pABM",
+      "thumbnail": "https://i.ytimg.com/vi/Nw2M7H4pABM/hqdefault.jpg",
+      "site_titles": [
+        "Easy Groundwork Exercises for Young Horses"
       ],
       "sections": [
         "qa"
