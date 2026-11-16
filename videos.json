@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2924,
+  "count": 2945,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49201,6 +49201,342 @@
       "thumbnail": "https://i.ytimg.com/vi/KzPRSjP3bGA/hqdefault.jpg",
       "site_titles": [
         "2 time AQHA Steer Wrestling Horse of the Year Cadillac Retiring"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tPn60sA1pBM",
+      "youtube_title": "Headers, Here’s What Your Heeler Wants You to Know",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=tPn60sA1pBM",
+      "embed_url": "https://www.youtube.com/embed/tPn60sA1pBM",
+      "thumbnail": "https://i.ytimg.com/vi/tPn60sA1pBM/hqdefault.jpg",
+      "site_titles": [
+        "Headers, Here’s What Your Heeler Wants You to Know"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kLGgG3KIRL4",
+      "youtube_title": "Johnathan Torres on NFR Pressure, Elite Horses & Team Roping Success | USTRC Finals 2026",
+      "channel": "SUCCEEDEquine",
+      "youtube_url": "https://www.youtube.com/watch?v=kLGgG3KIRL4",
+      "embed_url": "https://www.youtube.com/embed/kLGgG3KIRL4",
+      "thumbnail": "https://i.ytimg.com/vi/kLGgG3KIRL4/hqdefault.jpg",
+      "site_titles": [
+        "Johnathan Torres on NFR Pressure, Elite Horses & Team Roping Success | USTRC Finals 2026"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "icjbWLkEo7s",
+      "youtube_title": "Anticipating the Turn and Working through a dropped shoulder at the 2nd and 3rd barrels",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=icjbWLkEo7s",
+      "embed_url": "https://www.youtube.com/embed/icjbWLkEo7s",
+      "thumbnail": "https://i.ytimg.com/vi/icjbWLkEo7s/hqdefault.jpg",
+      "site_titles": [
+        "Anticipating the Turn and Working through a dropped shoulder at the 2nd and 3rd barrels"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X-yhZKCzjhY",
+      "youtube_title": "Danyelle Campbell How to Power Out of a Turn",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=X-yhZKCzjhY",
+      "embed_url": "https://www.youtube.com/embed/X-yhZKCzjhY",
+      "thumbnail": "https://i.ytimg.com/vi/X-yhZKCzjhY/hqdefault.jpg",
+      "site_titles": [
+        "Danyelle Campbell How to Power Out of a Turn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tYwRpzrXgA0",
+      "youtube_title": "Molly Powell: Teaching a Barrel Horse to Rate",
+      "channel": "BarrelRacingDotCom",
+      "youtube_url": "https://www.youtube.com/watch?v=tYwRpzrXgA0",
+      "embed_url": "https://www.youtube.com/embed/tYwRpzrXgA0",
+      "thumbnail": "https://i.ytimg.com/vi/tYwRpzrXgA0/hqdefault.jpg",
+      "site_titles": [
+        "Molly Powell: Teaching a Barrel Horse to Rate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "e8RzrWnkSAI",
+      "youtube_title": "How to Build Confidence in a \"Hot to Trot,\" Nervous, Anxious Barrel Horse",
+      "channel": "Barrel Racing Tips",
+      "youtube_url": "https://www.youtube.com/watch?v=e8RzrWnkSAI",
+      "embed_url": "https://www.youtube.com/embed/e8RzrWnkSAI",
+      "thumbnail": "https://i.ytimg.com/vi/e8RzrWnkSAI/hqdefault.jpg",
+      "site_titles": [
+        "How to Build Confidence in a \"Hot to Trot,\" Nervous, Anxious Barrel Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wgdObs1STDc",
+      "youtube_title": "Anticipating the Turn with an emphasis on Collection Work in Barrel Horses when Rating for the Turn",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=wgdObs1STDc",
+      "embed_url": "https://www.youtube.com/embed/wgdObs1STDc",
+      "thumbnail": "https://i.ytimg.com/vi/wgdObs1STDc/hqdefault.jpg",
+      "site_titles": [
+        "Anticipating the Turn with an emphasis on Collection Work in Barrel Horses when Rating for the Turn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mZmDwrTyqcA",
+      "youtube_title": "How to Select a Bit for the Hard to Please Barrel Horse",
+      "channel": "Barrel Racing Tips",
+      "youtube_url": "https://www.youtube.com/watch?v=mZmDwrTyqcA",
+      "embed_url": "https://www.youtube.com/embed/mZmDwrTyqcA",
+      "thumbnail": "https://i.ytimg.com/vi/mZmDwrTyqcA/hqdefault.jpg",
+      "site_titles": [
+        "How to Select a Bit for the Hard to Please Barrel Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7Hd1_rEqFGc",
+      "youtube_title": "STARTING YOUR HORSE ON BARRELS (showing mistakes and how to correct them) - Day 1, Week 1",
+      "channel": "Misfit Barrel Racer",
+      "youtube_url": "https://www.youtube.com/watch?v=7Hd1_rEqFGc",
+      "embed_url": "https://www.youtube.com/embed/7Hd1_rEqFGc",
+      "thumbnail": "https://i.ytimg.com/vi/7Hd1_rEqFGc/hqdefault.jpg",
+      "site_titles": [
+        "STARTING YOUR HORSE ON BARRELS (showing mistakes and how to correct them) - Day 1, Week 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Io7p5vHDR6M",
+      "youtube_title": "Three Steps of the Heel Run with Bret Beach",
+      "channel": "South Texas Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=Io7p5vHDR6M",
+      "embed_url": "https://www.youtube.com/embed/Io7p5vHDR6M",
+      "thumbnail": "https://i.ytimg.com/vi/Io7p5vHDR6M/hqdefault.jpg",
+      "site_titles": [
+        "Three Steps of the Heel Run with Bret Beach"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vkZkLApQPNI",
+      "youtube_title": "Krece Harris - How to swing Heel Loop - Delivery",
+      "channel": "NRS World - National Roper's Supply",
+      "youtube_url": "https://www.youtube.com/watch?v=vkZkLApQPNI",
+      "embed_url": "https://www.youtube.com/embed/vkZkLApQPNI",
+      "thumbnail": "https://i.ytimg.com/vi/vkZkLApQPNI/hqdefault.jpg",
+      "site_titles": [
+        "Krece Harris - How to swing Heel Loop - Delivery"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ys7Hx1KtdPs",
+      "youtube_title": "Heather Heath Eyes Hands Body Position When Running Barrels",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=ys7Hx1KtdPs",
+      "embed_url": "https://www.youtube.com/embed/ys7Hx1KtdPs",
+      "thumbnail": "https://i.ytimg.com/vi/ys7Hx1KtdPs/hqdefault.jpg",
+      "site_titles": [
+        "Heather Heath Eyes Hands Body Position When Running Barrels"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B8tYxG7_07k",
+      "youtube_title": "Heeler Horse Position - Brett & Cody McCarroll team roping tips",
+      "channel": "Team Roping Events",
+      "youtube_url": "https://www.youtube.com/watch?v=B8tYxG7_07k",
+      "embed_url": "https://www.youtube.com/embed/B8tYxG7_07k",
+      "thumbnail": "https://i.ytimg.com/vi/B8tYxG7_07k/hqdefault.jpg",
+      "site_titles": [
+        "Heeler Horse Position - Brett & Cody McCarroll team roping tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2zHsjwmY7XY",
+      "youtube_title": "Roping.com: Mental Barriers to Team Roping",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=2zHsjwmY7XY",
+      "embed_url": "https://www.youtube.com/embed/2zHsjwmY7XY",
+      "thumbnail": "https://i.ytimg.com/vi/2zHsjwmY7XY/hqdefault.jpg",
+      "site_titles": [
+        "Roping.com: Mental Barriers to Team Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GxuQAR7HPQw",
+      "youtube_title": "Krece Harris - How to swing a head loop",
+      "channel": "NRS World - National Roper's Supply",
+      "youtube_url": "https://www.youtube.com/watch?v=GxuQAR7HPQw",
+      "embed_url": "https://www.youtube.com/embed/GxuQAR7HPQw",
+      "thumbnail": "https://i.ytimg.com/vi/GxuQAR7HPQw/hqdefault.jpg",
+      "site_titles": [
+        "Krece Harris - How to swing a head loop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "39pciTRjLkE",
+      "youtube_title": "How to Dally - Just Rodeoin 12",
+      "channel": "Dale Brisby",
+      "youtube_url": "https://www.youtube.com/watch?v=39pciTRjLkE",
+      "embed_url": "https://www.youtube.com/embed/39pciTRjLkE",
+      "thumbnail": "https://i.ytimg.com/vi/39pciTRjLkE/hqdefault.jpg",
+      "site_titles": [
+        "How to Dally - Just Rodeoin 12"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AQ6_yhnmNo8",
+      "youtube_title": "Tuesday Tip Building Your Barrel Horse's Hind Quarters Muscle Group",
+      "channel": "Sharin Hall Barrel Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=AQ6_yhnmNo8",
+      "embed_url": "https://www.youtube.com/embed/AQ6_yhnmNo8",
+      "thumbnail": "https://i.ytimg.com/vi/AQ6_yhnmNo8/hqdefault.jpg",
+      "site_titles": [
+        "Tuesday Tip Building Your Barrel Horse's Hind Quarters Muscle Group"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GhXFr3sxO2c",
+      "youtube_title": "Header Box Team Roping Tips 1- SloMo Header Starts (re-edit for slomo)",
+      "channel": "Team Roping Events",
+      "youtube_url": "https://www.youtube.com/watch?v=GhXFr3sxO2c",
+      "embed_url": "https://www.youtube.com/embed/GhXFr3sxO2c",
+      "thumbnail": "https://i.ytimg.com/vi/GhXFr3sxO2c/hqdefault.jpg",
+      "site_titles": [
+        "Header Box Team Roping Tips 1- SloMo Header Starts (re-edit for slomo)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EuxNqaVakrA",
+      "youtube_title": "Heelers, Here’s How You Can Improve Your Timing",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=EuxNqaVakrA",
+      "embed_url": "https://www.youtube.com/embed/EuxNqaVakrA",
+      "thumbnail": "https://i.ytimg.com/vi/EuxNqaVakrA/hqdefault.jpg",
+      "site_titles": [
+        "Heelers, Here’s How You Can Improve Your Timing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Wtb87S-uGYI",
+      "youtube_title": "Charmayne James - Warming Up",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=Wtb87S-uGYI",
+      "embed_url": "https://www.youtube.com/embed/Wtb87S-uGYI",
+      "thumbnail": "https://i.ytimg.com/vi/Wtb87S-uGYI/hqdefault.jpg",
+      "site_titles": [
+        "Charmayne James - Warming Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7Rh-XaVTJM4",
+      "youtube_title": "BFI Practice Session with Patrick Smith and Tanner Tomlinson",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=7Rh-XaVTJM4",
+      "embed_url": "https://www.youtube.com/embed/7Rh-XaVTJM4",
+      "thumbnail": "https://i.ytimg.com/vi/7Rh-XaVTJM4/hqdefault.jpg",
+      "site_titles": [
+        "BFI Practice Session with Patrick Smith and Tanner Tomlinson"
       ],
       "sections": [
         "qa"
