@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2036,
+  "count": 2167,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -167,7 +167,6 @@
         "qa/choosing-a-trainer/how-do-you-find-a-qualified-trainer-for-a-specific-discipline-like-reining-cutti/index.html",
         "qa/competition/how-do-you-develop-the-reined-or-cow-horse-pattern-work-in-working-ranch-horse/index.html",
         "qa/dressage-lessons/what-if-i-only-have-a-western-horse-can-i-still-take-dressage-lessons/index.html",
-        "qa/dressage/how-does-dressage-improve-a-western-performance-horse/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
@@ -613,7 +612,6 @@
       "reference_count": 10,
       "pages": [
         "qa/collection/index.html",
-        "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
         "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
       ]
@@ -35067,6 +35065,2102 @@
       "thumbnail": "https://i.ytimg.com/vi/UM4xA6CjtCs/hqdefault.jpg",
       "site_titles": [
         "Flat Work for Jumpers - Training with Kate Cavanagh"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7Ed0fjbsgTs",
+      "youtube_title": "Top 5 Horse Breeds for Dressage by Dr. Cesar Parra",
+      "channel": "Dr. Cesar Parra",
+      "youtube_url": "https://www.youtube.com/watch?v=7Ed0fjbsgTs",
+      "embed_url": "https://www.youtube.com/embed/7Ed0fjbsgTs",
+      "thumbnail": "https://i.ytimg.com/vi/7Ed0fjbsgTs/hqdefault.jpg",
+      "site_titles": [
+        "Top 5 Horse Breeds for Dressage by Dr. Cesar Parra"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LTRbmAQQl1g",
+      "youtube_title": "Ride the Perfect Circle: Dressage Basics",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=LTRbmAQQl1g",
+      "embed_url": "https://www.youtube.com/embed/LTRbmAQQl1g",
+      "thumbnail": "https://i.ytimg.com/vi/LTRbmAQQl1g/hqdefault.jpg",
+      "site_titles": [
+        "Ride the Perfect Circle: Dressage Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pil1CDC2Zfg",
+      "youtube_title": "Dressage: Understanding the Collective Marks",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=pil1CDC2Zfg",
+      "embed_url": "https://www.youtube.com/embed/pil1CDC2Zfg",
+      "thumbnail": "https://i.ytimg.com/vi/pil1CDC2Zfg/hqdefault.jpg",
+      "site_titles": [
+        "Dressage: Understanding the Collective Marks"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UOFOVyYr-Oo",
+      "youtube_title": "Votre cheval manque d'impulsion ? Enchainez les transitions intra-allure",
+      "channel": "Working Equitation Academy",
+      "youtube_url": "https://www.youtube.com/watch?v=UOFOVyYr-Oo",
+      "embed_url": "https://www.youtube.com/embed/UOFOVyYr-Oo",
+      "thumbnail": "https://i.ytimg.com/vi/UOFOVyYr-Oo/hqdefault.jpg",
+      "site_titles": [
+        "Votre cheval manque d'impulsion ? Enchainez les transitions intra-allure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BeG5ahWytgA",
+      "youtube_title": "Don't Buy A Dressage Horse Until You Watch This!",
+      "channel": "Sally Engelhardt, Dressage With Sally",
+      "youtube_url": "https://www.youtube.com/watch?v=BeG5ahWytgA",
+      "embed_url": "https://www.youtube.com/embed/BeG5ahWytgA",
+      "thumbnail": "https://i.ytimg.com/vi/BeG5ahWytgA/hqdefault.jpg",
+      "site_titles": [
+        "Don't Buy A Dressage Horse Until You Watch This!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eTSehaFvlEg",
+      "youtube_title": "Dressage Test Tips: What Every Rider & Reader Should Know",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=eTSehaFvlEg",
+      "embed_url": "https://www.youtube.com/embed/eTSehaFvlEg",
+      "thumbnail": "https://i.ytimg.com/vi/eTSehaFvlEg/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Test Tips: What Every Rider & Reader Should Know"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RMHwAVftfHY",
+      "youtube_title": "Horse Riding Lessons - How To Use Your Weight / Seat Aids",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=RMHwAVftfHY",
+      "embed_url": "https://www.youtube.com/embed/RMHwAVftfHY",
+      "thumbnail": "https://i.ytimg.com/vi/RMHwAVftfHY/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Lessons - How To Use Your Weight / Seat Aids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vnjOXhXGR74",
+      "youtube_title": "Improve Your Free Walk",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=vnjOXhXGR74",
+      "embed_url": "https://www.youtube.com/embed/vnjOXhXGR74",
+      "thumbnail": "https://i.ytimg.com/vi/vnjOXhXGR74/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Free Walk"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BRnd0n-ZGz0",
+      "youtube_title": "How to Train an Expressive Trot",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=BRnd0n-ZGz0",
+      "embed_url": "https://www.youtube.com/embed/BRnd0n-ZGz0",
+      "thumbnail": "https://i.ytimg.com/vi/BRnd0n-ZGz0/hqdefault.jpg",
+      "site_titles": [
+        "How to Train an Expressive Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0Mbt-6bB1tY",
+      "youtube_title": "Dressage Trainer Jane Savoie Explains Elastic Contact",
+      "channel": "Jane Savoie",
+      "youtube_url": "https://www.youtube.com/watch?v=0Mbt-6bB1tY",
+      "embed_url": "https://www.youtube.com/embed/0Mbt-6bB1tY",
+      "thumbnail": "https://i.ytimg.com/vi/0Mbt-6bB1tY/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Trainer Jane Savoie Explains Elastic Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c--tQaYZ-xg",
+      "youtube_title": "HOW DO I MAKE A LAZY HORSE GO QUICK? - Dressage Mastery TV Episode 277",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=c--tQaYZ-xg",
+      "embed_url": "https://www.youtube.com/embed/c--tQaYZ-xg",
+      "thumbnail": "https://i.ytimg.com/vi/c--tQaYZ-xg/hqdefault.jpg",
+      "site_titles": [
+        "HOW DO I MAKE A LAZY HORSE GO QUICK? - Dressage Mastery TV Episode 277"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iNwE3Bwi8so",
+      "youtube_title": "Piaffe Training in the Long Reins! Azteca Mare Preciosa",
+      "channel": "Connected Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=iNwE3Bwi8so",
+      "embed_url": "https://www.youtube.com/embed/iNwE3Bwi8so",
+      "thumbnail": "https://i.ytimg.com/vi/iNwE3Bwi8so/hqdefault.jpg",
+      "site_titles": [
+        "Piaffe Training in the Long Reins! Azteca Mare Preciosa"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "igXrhLsLwGk",
+      "youtube_title": "Self Carriage Explained: How to Teach a Horse to Carry Himself in Piaffe | In‑Hand Dressage",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=igXrhLsLwGk",
+      "embed_url": "https://www.youtube.com/embed/igXrhLsLwGk",
+      "thumbnail": "https://i.ytimg.com/vi/igXrhLsLwGk/hqdefault.jpg",
+      "site_titles": [
+        "Self Carriage Explained: How to Teach a Horse to Carry Himself in Piaffe | In‑Hand Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cvI4M2eh5y8",
+      "youtube_title": "Canter with Confidence with These 4 Tips!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=cvI4M2eh5y8",
+      "embed_url": "https://www.youtube.com/embed/cvI4M2eh5y8",
+      "thumbnail": "https://i.ytimg.com/vi/cvI4M2eh5y8/hqdefault.jpg",
+      "site_titles": [
+        "Canter with Confidence with These 4 Tips!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TOuWSJs-2JM",
+      "youtube_title": "How to Develop the Medium Trot",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=TOuWSJs-2JM",
+      "embed_url": "https://www.youtube.com/embed/TOuWSJs-2JM",
+      "thumbnail": "https://i.ytimg.com/vi/TOuWSJs-2JM/hqdefault.jpg",
+      "site_titles": [
+        "How to Develop the Medium Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MZgdRF7_Qjs",
+      "youtube_title": "How to keep good Rhythm in the Walk.  #Training Scale, #Dressage, #PS of Sweden, #Trilogy",
+      "channel": "Susan Rainville",
+      "youtube_url": "https://www.youtube.com/watch?v=MZgdRF7_Qjs",
+      "embed_url": "https://www.youtube.com/embed/MZgdRF7_Qjs",
+      "thumbnail": "https://i.ytimg.com/vi/MZgdRF7_Qjs/hqdefault.jpg",
+      "site_titles": [
+        "How to keep good Rhythm in the Walk. Scale,, of Sweden,"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R8ClQu685mE",
+      "youtube_title": "Philippe Karl on the Problems of Modern Dressage and the Essence of French Classical Riding | ITM",
+      "channel": "Inside the Manège",
+      "youtube_url": "https://www.youtube.com/watch?v=R8ClQu685mE",
+      "embed_url": "https://www.youtube.com/embed/R8ClQu685mE",
+      "thumbnail": "https://i.ytimg.com/vi/R8ClQu685mE/hqdefault.jpg",
+      "site_titles": [
+        "Philippe Karl on the Problems of Modern Dressage and the Essence of French Classical Riding | ITM"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GqCWaTXBv-Q",
+      "youtube_title": "The Trot Canter Transition: Common Mistakes and Fixes",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=GqCWaTXBv-Q",
+      "embed_url": "https://www.youtube.com/embed/GqCWaTXBv-Q",
+      "thumbnail": "https://i.ytimg.com/vi/GqCWaTXBv-Q/hqdefault.jpg",
+      "site_titles": [
+        "The Trot Canter Transition: Common Mistakes and Fixes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dtMewbbJnwk",
+      "youtube_title": "Forward and in Front of the Leg",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=dtMewbbJnwk",
+      "embed_url": "https://www.youtube.com/embed/dtMewbbJnwk",
+      "thumbnail": "https://i.ytimg.com/vi/dtMewbbJnwk/hqdefault.jpg",
+      "site_titles": [
+        "Forward and in Front of the Leg"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YshIcTKF4Hw",
+      "youtube_title": "Why your horse leans on one rein (it’s not your hands)",
+      "channel": "Ritter Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=YshIcTKF4Hw",
+      "embed_url": "https://www.youtube.com/embed/YshIcTKF4Hw",
+      "thumbnail": "https://i.ytimg.com/vi/YshIcTKF4Hw/hqdefault.jpg",
+      "site_titles": [
+        "Why your horse leans on one rein (it’s not your hands)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZCWdr5jTo9w",
+      "youtube_title": "The Canter Transition: How to Fix a Horse that Rushes, Puts their Head up and Gets Tense!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=ZCWdr5jTo9w",
+      "embed_url": "https://www.youtube.com/embed/ZCWdr5jTo9w",
+      "thumbnail": "https://i.ytimg.com/vi/ZCWdr5jTo9w/hqdefault.jpg",
+      "site_titles": [
+        "The Canter Transition: How to Fix a Horse that Rushes, Puts their Head up and Gets Tense!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "A2Uv8769If4",
+      "youtube_title": "Top training Tips ‼️ How to improve a medium trot ",
+      "channel": "Ruby Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=A2Uv8769If4",
+      "embed_url": "https://www.youtube.com/embed/A2Uv8769If4",
+      "thumbnail": "https://i.ytimg.com/vi/A2Uv8769If4/hqdefault.jpg",
+      "site_titles": [
+        "Top training Tips ‼️ How to improve a medium trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4v9lHWcf9qs",
+      "youtube_title": "Laura Graves: How to Fix Head Tilt In Your Dressage Horse",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=4v9lHWcf9qs",
+      "embed_url": "https://www.youtube.com/embed/4v9lHWcf9qs",
+      "thumbnail": "https://i.ytimg.com/vi/4v9lHWcf9qs/hqdefault.jpg",
+      "site_titles": [
+        "Laura Graves: How to Fix Head Tilt In Your Dressage Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I5LyDAkdaY4",
+      "youtube_title": "Breathtaking Dressage Harmony! 😍 Jessica von Bredow-Werndl | Olympic Champion",
+      "channel": "jessica_von_bredow_werndl",
+      "youtube_url": "https://www.youtube.com/watch?v=I5LyDAkdaY4",
+      "embed_url": "https://www.youtube.com/embed/I5LyDAkdaY4",
+      "thumbnail": "https://i.ytimg.com/vi/I5LyDAkdaY4/hqdefault.jpg",
+      "site_titles": [
+        "Breathtaking Dressage Harmony! 😍 Jessica von Bredow-Werndl | Olympic Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Vm0vhwPUs3Q",
+      "youtube_title": "Robert Dover:  How To Create Collection And Maintain The Rhythm In Dressage",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=Vm0vhwPUs3Q",
+      "embed_url": "https://www.youtube.com/embed/Vm0vhwPUs3Q",
+      "thumbnail": "https://i.ytimg.com/vi/Vm0vhwPUs3Q/hqdefault.jpg",
+      "site_titles": [
+        "Robert Dover: How To Create Collection And Maintain The Rhythm In Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AY7CFi_GbgA",
+      "youtube_title": "TIPS TO HELP YOU REMEMBER YOUR DRESSAGE TEST | Equestrian Vlog",
+      "channel": "EJM Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=AY7CFi_GbgA",
+      "embed_url": "https://www.youtube.com/embed/AY7CFi_GbgA",
+      "thumbnail": "https://i.ytimg.com/vi/AY7CFi_GbgA/hqdefault.jpg",
+      "site_titles": [
+        "TIPS TO HELP YOU REMEMBER YOUR DRESSAGE TEST | Equestrian Vlog"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "z1Bs9AnkBKQ",
+      "youtube_title": "Prepare for Flying Changes with Fiji",
+      "channel": "Team Tate Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=z1Bs9AnkBKQ",
+      "embed_url": "https://www.youtube.com/embed/z1Bs9AnkBKQ",
+      "thumbnail": "https://i.ytimg.com/vi/z1Bs9AnkBKQ/hqdefault.jpg",
+      "site_titles": [
+        "Prepare for Flying Changes with Fiji"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GX16tzzGR4I",
+      "youtube_title": "Dressage Show Preparation - Part 1",
+      "channel": "Susan Rainville",
+      "youtube_url": "https://www.youtube.com/watch?v=GX16tzzGR4I",
+      "embed_url": "https://www.youtube.com/embed/GX16tzzGR4I",
+      "thumbnail": "https://i.ytimg.com/vi/GX16tzzGR4I/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Show Preparation - Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cF_ay6mjkZI",
+      "youtube_title": "How to Read and Interpret a Score Sheet",
+      "channel": "ExtensionHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=cF_ay6mjkZI",
+      "embed_url": "https://www.youtube.com/embed/cF_ay6mjkZI",
+      "thumbnail": "https://i.ytimg.com/vi/cF_ay6mjkZI/hqdefault.jpg",
+      "site_titles": [
+        "How to Read and Interpret a Score Sheet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Wfot3fdyctg",
+      "youtube_title": "Understanding Horse Connection | Elastic Contact in Dressage and Show Jumping",
+      "channel": "Diana's Equi Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Wfot3fdyctg",
+      "embed_url": "https://www.youtube.com/embed/Wfot3fdyctg",
+      "thumbnail": "https://i.ytimg.com/vi/Wfot3fdyctg/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Horse Connection | Elastic Contact in Dressage and Show Jumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "626VgAwIf6E",
+      "youtube_title": "HOW TO build up your TRAINING WARM UP PHASE Part 1-3 | Dressage Tutorial | Begijnhoeve | How To #20",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=626VgAwIf6E",
+      "embed_url": "https://www.youtube.com/embed/626VgAwIf6E",
+      "thumbnail": "https://i.ytimg.com/vi/626VgAwIf6E/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO build up your TRAINING WARM UP PHASE Part 1-3 | Dressage Tutorial | Begijnhoeve | How To"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EShK_f6xEhk",
+      "youtube_title": "The Dressage Secret That Solves Almost Every Training Problem",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=EShK_f6xEhk",
+      "embed_url": "https://www.youtube.com/embed/EShK_f6xEhk",
+      "thumbnail": "https://i.ytimg.com/vi/EShK_f6xEhk/hqdefault.jpg",
+      "site_titles": [
+        "The Dressage Secret That Solves Almost Every Training Problem"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mAa-B7Pa9oM",
+      "youtube_title": "How to warm up your dressage horse?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=mAa-B7Pa9oM",
+      "embed_url": "https://www.youtube.com/embed/mAa-B7Pa9oM",
+      "thumbnail": "https://i.ytimg.com/vi/mAa-B7Pa9oM/hqdefault.jpg",
+      "site_titles": [
+        "How to warm up your dressage horse?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oyUeM0KkCPs",
+      "youtube_title": "Half Pass - Counter Canter To Flying Change",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=oyUeM0KkCPs",
+      "embed_url": "https://www.youtube.com/embed/oyUeM0KkCPs",
+      "thumbnail": "https://i.ytimg.com/vi/oyUeM0KkCPs/hqdefault.jpg",
+      "site_titles": [
+        "Half Pass - Counter Canter To Flying Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DG8pltJ-Mr8",
+      "youtube_title": "🏇  The benefits of jumping with a Dressage Horse ft. Olivia Towers",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=DG8pltJ-Mr8",
+      "embed_url": "https://www.youtube.com/embed/DG8pltJ-Mr8",
+      "thumbnail": "https://i.ytimg.com/vi/DG8pltJ-Mr8/hqdefault.jpg",
+      "site_titles": [
+        "🏇 The benefits of jumping with a Dressage Horse ft. Olivia Towers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VrTKdDhtlHw",
+      "youtube_title": "How Dressage Benefits Both English & Western Riders",
+      "channel": "SaddleBox",
+      "youtube_url": "https://www.youtube.com/watch?v=VrTKdDhtlHw",
+      "embed_url": "https://www.youtube.com/embed/VrTKdDhtlHw",
+      "thumbnail": "https://i.ytimg.com/vi/VrTKdDhtlHw/hqdefault.jpg",
+      "site_titles": [
+        "How Dressage Benefits Both English & Western Riders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mSwtz1B4tWo",
+      "youtube_title": "Classical Dressage for the Horse’s Long-Term Health: Sonja Weber on Posture & Biomechanics | Ep. 5",
+      "channel": "Inside the Manège",
+      "youtube_url": "https://www.youtube.com/watch?v=mSwtz1B4tWo",
+      "embed_url": "https://www.youtube.com/embed/mSwtz1B4tWo",
+      "thumbnail": "https://i.ytimg.com/vi/mSwtz1B4tWo/hqdefault.jpg",
+      "site_titles": [
+        "Classical Dressage for the Horse’s Long-Term Health: Sonja Weber on Posture & Biomechanics | Ep. 5"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uYQOzNBv0GM",
+      "youtube_title": "Dressage for Trail Performance",
+      "channel": "Sarah Cuthbertson",
+      "youtube_url": "https://www.youtube.com/watch?v=uYQOzNBv0GM",
+      "embed_url": "https://www.youtube.com/embed/uYQOzNBv0GM",
+      "thumbnail": "https://i.ytimg.com/vi/uYQOzNBv0GM/hqdefault.jpg",
+      "site_titles": [
+        "Dressage for Trail Performance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rYhttM33LhY",
+      "youtube_title": "The Half Pass: A Simple Trick",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=rYhttM33LhY",
+      "embed_url": "https://www.youtube.com/embed/rYhttM33LhY",
+      "thumbnail": "https://i.ytimg.com/vi/rYhttM33LhY/hqdefault.jpg",
+      "site_titles": [
+        "The Half Pass: A Simple Trick"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SP3gAQcDbx8",
+      "youtube_title": "Impulsion, what is it?",
+      "channel": "Its THE training book",
+      "youtube_url": "https://www.youtube.com/watch?v=SP3gAQcDbx8",
+      "embed_url": "https://www.youtube.com/embed/SP3gAQcDbx8",
+      "thumbnail": "https://i.ytimg.com/vi/SP3gAQcDbx8/hqdefault.jpg",
+      "site_titles": [
+        "Impulsion, what is it?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "flBGjpuL4qo",
+      "youtube_title": "Classical versus Modern Dressage",
+      "channel": "lassiesuca",
+      "youtube_url": "https://www.youtube.com/watch?v=flBGjpuL4qo",
+      "embed_url": "https://www.youtube.com/embed/flBGjpuL4qo",
+      "thumbnail": "https://i.ytimg.com/vi/flBGjpuL4qo/hqdefault.jpg",
+      "site_titles": [
+        "Classical versus Modern Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mff3m4pbrFs",
+      "youtube_title": "The Half-Halt Explained",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=mff3m4pbrFs",
+      "embed_url": "https://www.youtube.com/embed/mff3m4pbrFs",
+      "thumbnail": "https://i.ytimg.com/vi/mff3m4pbrFs/hqdefault.jpg",
+      "site_titles": [
+        "The Half-Halt Explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "leaLZfEynkc",
+      "youtube_title": "How to Half-Halt from your Thighs and Seat",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=leaLZfEynkc",
+      "embed_url": "https://www.youtube.com/embed/leaLZfEynkc",
+      "thumbnail": "https://i.ytimg.com/vi/leaLZfEynkc/hqdefault.jpg",
+      "site_titles": [
+        "How to Half-Halt from your Thighs and Seat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U5HWhvDV9gw",
+      "youtube_title": "Correct leg aids to engage the horse's back",
+      "channel": "ArttoRide",
+      "youtube_url": "https://www.youtube.com/watch?v=U5HWhvDV9gw",
+      "embed_url": "https://www.youtube.com/embed/U5HWhvDV9gw",
+      "thumbnail": "https://i.ytimg.com/vi/U5HWhvDV9gw/hqdefault.jpg",
+      "site_titles": [
+        "Correct leg aids to engage the horse's back"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "skMOqMEF9Uw",
+      "youtube_title": "Develop Connection using the Training Scale",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=skMOqMEF9Uw",
+      "embed_url": "https://www.youtube.com/embed/skMOqMEF9Uw",
+      "thumbnail": "https://i.ytimg.com/vi/skMOqMEF9Uw/hqdefault.jpg",
+      "site_titles": [
+        "Develop Connection using the Training Scale"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ta5Tolxyv7c",
+      "youtube_title": "Evaluating the Basic Gaits",
+      "channel": "A Course in Lungeing",
+      "youtube_url": "https://www.youtube.com/watch?v=ta5Tolxyv7c",
+      "embed_url": "https://www.youtube.com/embed/ta5Tolxyv7c",
+      "thumbnail": "https://i.ytimg.com/vi/ta5Tolxyv7c/hqdefault.jpg",
+      "site_titles": [
+        "Evaluating the Basic Gaits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kTQnHmd_uE0",
+      "youtube_title": "Scoring in Dressage Tests",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=kTQnHmd_uE0",
+      "embed_url": "https://www.youtube.com/embed/kTQnHmd_uE0",
+      "thumbnail": "https://i.ytimg.com/vi/kTQnHmd_uE0/hqdefault.jpg",
+      "site_titles": [
+        "Scoring in Dressage Tests"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IgnKv0h9CqA",
+      "youtube_title": "Robert Dover: How To Collect the Canter",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=IgnKv0h9CqA",
+      "embed_url": "https://www.youtube.com/embed/IgnKv0h9CqA",
+      "thumbnail": "https://i.ytimg.com/vi/IgnKv0h9CqA/hqdefault.jpg",
+      "site_titles": [
+        "Robert Dover: How To Collect the Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GJDEMbnyWIs",
+      "youtube_title": "HOW OFTEN SHOULD I RIDE MY HORSE? - Dressage Mastery TV Episode 286",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=GJDEMbnyWIs",
+      "embed_url": "https://www.youtube.com/embed/GJDEMbnyWIs",
+      "thumbnail": "https://i.ytimg.com/vi/GJDEMbnyWIs/hqdefault.jpg",
+      "site_titles": [
+        "HOW OFTEN SHOULD I RIDE MY HORSE? - Dressage Mastery TV Episode 286"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nKEJKxDNUNw",
+      "youtube_title": "Horses Inside Out: The Biomechanics of Lateral Work",
+      "channel": "Gillian Higgins",
+      "youtube_url": "https://www.youtube.com/watch?v=nKEJKxDNUNw",
+      "embed_url": "https://www.youtube.com/embed/nKEJKxDNUNw",
+      "thumbnail": "https://i.ytimg.com/vi/nKEJKxDNUNw/hqdefault.jpg",
+      "site_titles": [
+        "Horses Inside Out: The Biomechanics of Lateral Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F-lnjUydZ40",
+      "youtube_title": "From the Philippe Karl and High Noon DVD",
+      "channel": "Légèreté USA",
+      "youtube_url": "https://www.youtube.com/watch?v=F-lnjUydZ40",
+      "embed_url": "https://www.youtube.com/embed/F-lnjUydZ40",
+      "thumbnail": "https://i.ytimg.com/vi/F-lnjUydZ40/hqdefault.jpg",
+      "site_titles": [
+        "From the Philippe Karl and High Noon DVD"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JmA0WgPo5io",
+      "youtube_title": "Dressage Goals",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=JmA0WgPo5io",
+      "embed_url": "https://www.youtube.com/embed/JmA0WgPo5io",
+      "thumbnail": "https://i.ytimg.com/vi/JmA0WgPo5io/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Goals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0ROptg8rS4s",
+      "youtube_title": "Dressage Arena Letters Explained: What Do A K E H C M B F Mean?",
+      "channel": "So I'm learning",
+      "youtube_url": "https://www.youtube.com/watch?v=0ROptg8rS4s",
+      "embed_url": "https://www.youtube.com/embed/0ROptg8rS4s",
+      "thumbnail": "https://i.ytimg.com/vi/0ROptg8rS4s/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Arena Letters Explained: What Do A K E H C M B F Mean?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lwottdtGN2o",
+      "youtube_title": "Dressage levels around the world - what is required?",
+      "channel": "Escala Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=lwottdtGN2o",
+      "embed_url": "https://www.youtube.com/embed/lwottdtGN2o",
+      "thumbnail": "https://i.ytimg.com/vi/lwottdtGN2o/hqdefault.jpg",
+      "site_titles": [
+        "Dressage levels around the world - what is required?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6PyfwWg4KwM",
+      "youtube_title": "Debbie McDonald Teaching How to Start Passage",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=6PyfwWg4KwM",
+      "embed_url": "https://www.youtube.com/embed/6PyfwWg4KwM",
+      "thumbnail": "https://i.ytimg.com/vi/6PyfwWg4KwM/hqdefault.jpg",
+      "site_titles": [
+        "Debbie McDonald Teaching How to Start Passage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9HELVgwyfP8",
+      "youtube_title": "How To Teach The Piaffe: From Ground To Saddle",
+      "channel": "Boswell Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=9HELVgwyfP8",
+      "embed_url": "https://www.youtube.com/embed/9HELVgwyfP8",
+      "thumbnail": "https://i.ytimg.com/vi/9HELVgwyfP8/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach The Piaffe: From Ground To Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "s7w9LMkVvkU",
+      "youtube_title": "Introduction To Lateral Work DVD",
+      "channel": "Rider Biomechanics",
+      "youtube_url": "https://www.youtube.com/watch?v=s7w9LMkVvkU",
+      "embed_url": "https://www.youtube.com/embed/s7w9LMkVvkU",
+      "thumbnail": "https://i.ytimg.com/vi/s7w9LMkVvkU/hqdefault.jpg",
+      "site_titles": [
+        "Introduction To Lateral Work DVD"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P1gQT-I9Rlc",
+      "youtube_title": "Equitation Tips - Impulsion",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=P1gQT-I9Rlc",
+      "embed_url": "https://www.youtube.com/embed/P1gQT-I9Rlc",
+      "thumbnail": "https://i.ytimg.com/vi/P1gQT-I9Rlc/hqdefault.jpg",
+      "site_titles": [
+        "Equitation Tips - Impulsion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uL9j7vdvZ7A",
+      "youtube_title": "Top Five Rider Position Faults",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=uL9j7vdvZ7A",
+      "embed_url": "https://www.youtube.com/embed/uL9j7vdvZ7A",
+      "thumbnail": "https://i.ytimg.com/vi/uL9j7vdvZ7A/hqdefault.jpg",
+      "site_titles": [
+        "Top Five Rider Position Faults"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7pWTq5letgc",
+      "youtube_title": "How to buy a dressage horse",
+      "channel": "Horsemart",
+      "youtube_url": "https://www.youtube.com/watch?v=7pWTq5letgc",
+      "embed_url": "https://www.youtube.com/embed/7pWTq5letgc",
+      "thumbnail": "https://i.ytimg.com/vi/7pWTq5letgc/hqdefault.jpg",
+      "site_titles": [
+        "How to buy a dressage horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xDhgwtS5pX8",
+      "youtube_title": "Dressage Horse Breeds",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=xDhgwtS5pX8",
+      "embed_url": "https://www.youtube.com/embed/xDhgwtS5pX8",
+      "thumbnail": "https://i.ytimg.com/vi/xDhgwtS5pX8/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Horse Breeds"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U_u9GaQz9Lc",
+      "youtube_title": "Hélène Arianoff: The Classical Riding Aids, Nuno Oliveira, & Modern Dressage Competition | Ep. 6",
+      "channel": "Inside the Manège",
+      "youtube_url": "https://www.youtube.com/watch?v=U_u9GaQz9Lc",
+      "embed_url": "https://www.youtube.com/embed/U_u9GaQz9Lc",
+      "thumbnail": "https://i.ytimg.com/vi/U_u9GaQz9Lc/hqdefault.jpg",
+      "site_titles": [
+        "Hélène Arianoff: The Classical Riding Aids, Nuno Oliveira, & Modern Dressage Competition | Ep. 6"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1OeSxKy6RtM",
+      "youtube_title": "How To Fix Flying Changes with a Young Horse | Dressage Tutorial | Begijnhoeve | How to #13",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=1OeSxKy6RtM",
+      "embed_url": "https://www.youtube.com/embed/1OeSxKy6RtM",
+      "thumbnail": "https://i.ytimg.com/vi/1OeSxKy6RtM/hqdefault.jpg",
+      "site_titles": [
+        "How To Fix Flying Changes with a Young Horse | Dressage Tutorial | Begijnhoeve | How to"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hBVKHgHhkt4",
+      "youtube_title": "Dressage Horse Conformation: Form and Function",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=hBVKHgHhkt4",
+      "embed_url": "https://www.youtube.com/embed/hBVKHgHhkt4",
+      "thumbnail": "https://i.ytimg.com/vi/hBVKHgHhkt4/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Horse Conformation: Form and Function"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OT7jbuon8N8",
+      "youtube_title": "Dressage Judging: Is it fair?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=OT7jbuon8N8",
+      "embed_url": "https://www.youtube.com/embed/OT7jbuon8N8",
+      "thumbnail": "https://i.ytimg.com/vi/OT7jbuon8N8/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Judging: Is it fair?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3YmsIxzuk50",
+      "youtube_title": "⭐️DRESSAGE EA PREP 2 ~ How to Ride And What Judges Look For #horse #horsegirl  #pony #dressage",
+      "channel": "Riding forward with Maria",
+      "youtube_url": "https://www.youtube.com/watch?v=3YmsIxzuk50",
+      "embed_url": "https://www.youtube.com/embed/3YmsIxzuk50",
+      "thumbnail": "https://i.ytimg.com/vi/3YmsIxzuk50/hqdefault.jpg",
+      "site_titles": [
+        "⭐️DRESSAGE EA PREP 2 ~ How to Ride And What Judges Look For"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "S8h-_W-4CI0",
+      "youtube_title": "Getting Insights From Your Dressage Judge",
+      "channel": "ridingrightvideo",
+      "youtube_url": "https://www.youtube.com/watch?v=S8h-_W-4CI0",
+      "embed_url": "https://www.youtube.com/embed/S8h-_W-4CI0",
+      "thumbnail": "https://i.ytimg.com/vi/S8h-_W-4CI0/hqdefault.jpg",
+      "site_titles": [
+        "Getting Insights From Your Dressage Judge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WhFBA8C67E0",
+      "youtube_title": "Dressage Explained Part 3: Suppleness Through Flexion and Bend",
+      "channel": "Trafalgar Square Horse Books",
+      "youtube_url": "https://www.youtube.com/watch?v=WhFBA8C67E0",
+      "embed_url": "https://www.youtube.com/embed/WhFBA8C67E0",
+      "thumbnail": "https://i.ytimg.com/vi/WhFBA8C67E0/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Explained Part 3: Suppleness Through Flexion and Bend"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dhcK6h3-4IE",
+      "youtube_title": "Dressage with Nicholas Fyffe Working on Contact With Elasticity",
+      "channel": "Dressage Today",
+      "youtube_url": "https://www.youtube.com/watch?v=dhcK6h3-4IE",
+      "embed_url": "https://www.youtube.com/embed/dhcK6h3-4IE",
+      "thumbnail": "https://i.ytimg.com/vi/dhcK6h3-4IE/hqdefault.jpg",
+      "site_titles": [
+        "Dressage with Nicholas Fyffe Working on Contact With Elasticity"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TYwSBj1UNkI",
+      "youtube_title": "Developing Harmony 1 17 17",
+      "channel": "Kompetetowin",
+      "youtube_url": "https://www.youtube.com/watch?v=TYwSBj1UNkI",
+      "embed_url": "https://www.youtube.com/embed/TYwSBj1UNkI",
+      "thumbnail": "https://i.ytimg.com/vi/TYwSBj1UNkI/hqdefault.jpg",
+      "site_titles": [
+        "Developing Harmony 1 17 17"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q6-v250ZRiM",
+      "youtube_title": "Bill Woods Dressage Lesson  Training Lateral Work and Collection",
+      "channel": "bwoodsdressage1",
+      "youtube_url": "https://www.youtube.com/watch?v=Q6-v250ZRiM",
+      "embed_url": "https://www.youtube.com/embed/Q6-v250ZRiM",
+      "thumbnail": "https://i.ytimg.com/vi/Q6-v250ZRiM/hqdefault.jpg",
+      "site_titles": [
+        "Bill Woods Dressage Lesson Training Lateral Work and Collection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q4jk0DPxWWk",
+      "youtube_title": "Rider's Seat and the Horse's Back",
+      "channel": "Jec Ballou",
+      "youtube_url": "https://www.youtube.com/watch?v=q4jk0DPxWWk",
+      "embed_url": "https://www.youtube.com/embed/q4jk0DPxWWk",
+      "thumbnail": "https://i.ytimg.com/vi/q4jk0DPxWWk/hqdefault.jpg",
+      "site_titles": [
+        "Rider's Seat and the Horse's Back"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eyhtCifOte4",
+      "youtube_title": "Rhythm = Results: The First Step to Better Riding",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=eyhtCifOte4",
+      "embed_url": "https://www.youtube.com/embed/eyhtCifOte4",
+      "thumbnail": "https://i.ytimg.com/vi/eyhtCifOte4/hqdefault.jpg",
+      "site_titles": [
+        "Rhythm = Results: The First Step to Better Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wFH_4sLrUzk",
+      "youtube_title": "Karen Rolhf: Dressage Meets Natural Horsemanship",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=wFH_4sLrUzk",
+      "embed_url": "https://www.youtube.com/embed/wFH_4sLrUzk",
+      "thumbnail": "https://i.ytimg.com/vi/wFH_4sLrUzk/hqdefault.jpg",
+      "site_titles": [
+        "Karen Rolhf: Dressage Meets Natural Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DJ4mBsBKTRM",
+      "youtube_title": "How do You get the Horse on the Bit and Keep Your Hands Quiet?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=DJ4mBsBKTRM",
+      "embed_url": "https://www.youtube.com/embed/DJ4mBsBKTRM",
+      "thumbnail": "https://i.ytimg.com/vi/DJ4mBsBKTRM/hqdefault.jpg",
+      "site_titles": [
+        "How do You get the Horse on the Bit and Keep Your Hands Quiet?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SKQ2cu1Khko",
+      "youtube_title": "Dressage Tack and Supplies from Schneiders",
+      "channel": "Schneider Saddlery",
+      "youtube_url": "https://www.youtube.com/watch?v=SKQ2cu1Khko",
+      "embed_url": "https://www.youtube.com/embed/SKQ2cu1Khko",
+      "thumbnail": "https://i.ytimg.com/vi/SKQ2cu1Khko/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Tack and Supplies from Schneiders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NGLHUXy2RVw",
+      "youtube_title": "THE GERMAN TRAINING SCALE PART 2 - Dressage Mastery TV Episode 44",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=NGLHUXy2RVw",
+      "embed_url": "https://www.youtube.com/embed/NGLHUXy2RVw",
+      "thumbnail": "https://i.ytimg.com/vi/NGLHUXy2RVw/hqdefault.jpg",
+      "site_titles": [
+        "THE GERMAN TRAINING SCALE PART 2 - Dressage Mastery TV Episode 44"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3_g0wtyZroo",
+      "youtube_title": "Aids for the Flying Change from the 1998 USDF National Symposium",
+      "channel": "USDFORG",
+      "youtube_url": "https://www.youtube.com/watch?v=3_g0wtyZroo",
+      "embed_url": "https://www.youtube.com/embed/3_g0wtyZroo",
+      "thumbnail": "https://i.ytimg.com/vi/3_g0wtyZroo/hqdefault.jpg",
+      "site_titles": [
+        "Aids for the Flying Change from the 1998 USDF National Symposium"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UdU1HgnqPn4",
+      "youtube_title": "How to Develop Swing and Cadence in Trot",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=UdU1HgnqPn4",
+      "embed_url": "https://www.youtube.com/embed/UdU1HgnqPn4",
+      "thumbnail": "https://i.ytimg.com/vi/UdU1HgnqPn4/hqdefault.jpg",
+      "site_titles": [
+        "How to Develop Swing and Cadence in Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JmnkOk7LuUk",
+      "youtube_title": "Top Three Tips for Steady Contact",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=JmnkOk7LuUk",
+      "embed_url": "https://www.youtube.com/embed/JmnkOk7LuUk",
+      "thumbnail": "https://i.ytimg.com/vi/JmnkOk7LuUk/hqdefault.jpg",
+      "site_titles": [
+        "Top Three Tips for Steady Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RJxWk_NDfE8",
+      "youtube_title": "Flexion vs  Bending with Montana",
+      "channel": "Team Tate Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=RJxWk_NDfE8",
+      "embed_url": "https://www.youtube.com/embed/RJxWk_NDfE8",
+      "thumbnail": "https://i.ytimg.com/vi/RJxWk_NDfE8/hqdefault.jpg",
+      "site_titles": [
+        "Flexion vs Bending with Montana"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ldpEQfdj2AU",
+      "youtube_title": "What is Dressage?",
+      "channel": "msuvets",
+      "youtube_url": "https://www.youtube.com/watch?v=ldpEQfdj2AU",
+      "embed_url": "https://www.youtube.com/embed/ldpEQfdj2AU",
+      "thumbnail": "https://i.ytimg.com/vi/ldpEQfdj2AU/hqdefault.jpg",
+      "site_titles": [
+        "What is Dressage?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DcDLLxgWa_Y",
+      "youtube_title": "Charlotte Dujardin's World Record Breaking Freestyle test at London Olympia",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=DcDLLxgWa_Y",
+      "embed_url": "https://www.youtube.com/embed/DcDLLxgWa_Y",
+      "thumbnail": "https://i.ytimg.com/vi/DcDLLxgWa_Y/hqdefault.jpg",
+      "site_titles": [
+        "Charlotte Dujardin's World Record Breaking Freestyle test at London Olympia"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3Y-4s7Z23ZM",
+      "youtube_title": "Half-Pass - The \"Easy\" Way",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=3Y-4s7Z23ZM",
+      "embed_url": "https://www.youtube.com/embed/3Y-4s7Z23ZM",
+      "thumbnail": "https://i.ytimg.com/vi/3Y-4s7Z23ZM/hqdefault.jpg",
+      "site_titles": [
+        "Half-Pass - The \"Easy\" Way"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EPGWgWgfqGI",
+      "youtube_title": "The FEI is a JOKE | Hyperflexion & Rollkur",
+      "channel": "Shelby Dennis",
+      "youtube_url": "https://www.youtube.com/watch?v=EPGWgWgfqGI",
+      "embed_url": "https://www.youtube.com/embed/EPGWgWgfqGI",
+      "thumbnail": "https://i.ytimg.com/vi/EPGWgWgfqGI/hqdefault.jpg",
+      "site_titles": [
+        "The FEI is a JOKE | Hyperflexion & Rollkur"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VPDAJIpOjhs",
+      "youtube_title": "Speed vs Impulsion",
+      "channel": "Deanna Phelan",
+      "youtube_url": "https://www.youtube.com/watch?v=VPDAJIpOjhs",
+      "embed_url": "https://www.youtube.com/embed/VPDAJIpOjhs",
+      "thumbnail": "https://i.ytimg.com/vi/VPDAJIpOjhs/hqdefault.jpg",
+      "site_titles": [
+        "Speed vs Impulsion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5FJgBsvARtU",
+      "youtube_title": "USDF Intro Level Test A",
+      "channel": "USDFORG",
+      "youtube_url": "https://www.youtube.com/watch?v=5FJgBsvARtU",
+      "embed_url": "https://www.youtube.com/embed/5FJgBsvARtU",
+      "thumbnail": "https://i.ytimg.com/vi/5FJgBsvARtU/hqdefault.jpg",
+      "site_titles": [
+        "USDF Intro Level Test A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N_27414FZxo",
+      "youtube_title": "Leg-yield made easy with dressage rider and trainer Matt Hicks",
+      "channel": "YourHorseOnline",
+      "youtube_url": "https://www.youtube.com/watch?v=N_27414FZxo",
+      "embed_url": "https://www.youtube.com/embed/N_27414FZxo",
+      "thumbnail": "https://i.ytimg.com/vi/N_27414FZxo/hqdefault.jpg",
+      "site_titles": [
+        "Leg-yield made easy with dressage rider and trainer Matt Hicks"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hRM94hzH0KY",
+      "youtube_title": "Dance with Your Horse: Making a choreography for your Musical Dressage Freestyle",
+      "channel": "Marvin ́s Music",
+      "youtube_url": "https://www.youtube.com/watch?v=hRM94hzH0KY",
+      "embed_url": "https://www.youtube.com/embed/hRM94hzH0KY",
+      "thumbnail": "https://i.ytimg.com/vi/hRM94hzH0KY/hqdefault.jpg",
+      "site_titles": [
+        "Dance with Your Horse: Making a choreography for your Musical Dressage Freestyle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EEW8lk9C4cs",
+      "youtube_title": "PIAFFE & PASSAGE",
+      "channel": "Top Andalusian Horses SL",
+      "youtube_url": "https://www.youtube.com/watch?v=EEW8lk9C4cs",
+      "embed_url": "https://www.youtube.com/embed/EEW8lk9C4cs",
+      "thumbnail": "https://i.ytimg.com/vi/EEW8lk9C4cs/hqdefault.jpg",
+      "site_titles": [
+        "PIAFFE & PASSAGE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NzCkUysxXE0",
+      "youtube_title": "Piaffe & Passage korrekt erarbeiten | Schule der Légèreté mit Philippe Karl",
+      "channel": "wehorse",
+      "youtube_url": "https://www.youtube.com/watch?v=NzCkUysxXE0",
+      "embed_url": "https://www.youtube.com/embed/NzCkUysxXE0",
+      "thumbnail": "https://i.ytimg.com/vi/NzCkUysxXE0/hqdefault.jpg",
+      "site_titles": [
+        "Piaffe & Passage korrekt erarbeiten | Schule der Légèreté mit Philippe Karl"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TGC7JQymIQE",
+      "youtube_title": "What Is The Dressage Training Scale",
+      "channel": "A Life With Horses - Meryl Lynn Straid",
+      "youtube_url": "https://www.youtube.com/watch?v=TGC7JQymIQE",
+      "embed_url": "https://www.youtube.com/embed/TGC7JQymIQE",
+      "thumbnail": "https://i.ytimg.com/vi/TGC7JQymIQE/hqdefault.jpg",
+      "site_titles": [
+        "What Is The Dressage Training Scale"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BBBbGGiYP0I",
+      "youtube_title": "How to Ride Shoulder-in and Renvers",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=BBBbGGiYP0I",
+      "embed_url": "https://www.youtube.com/embed/BBBbGGiYP0I",
+      "thumbnail": "https://i.ytimg.com/vi/BBBbGGiYP0I/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride Shoulder-in and Renvers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AeT2LmsSSR8",
+      "youtube_title": "Counting for Rhythm and Relaxation",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=AeT2LmsSSR8",
+      "embed_url": "https://www.youtube.com/embed/AeT2LmsSSR8",
+      "thumbnail": "https://i.ytimg.com/vi/AeT2LmsSSR8/hqdefault.jpg",
+      "site_titles": [
+        "Counting for Rhythm and Relaxation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wE3kHA49Bhs",
+      "youtube_title": "How To Teach Your Horse To Trot Big | Dressage Tutorial | Begijnhoeve | How To #14",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=wE3kHA49Bhs",
+      "embed_url": "https://www.youtube.com/embed/wE3kHA49Bhs",
+      "thumbnail": "https://i.ytimg.com/vi/wE3kHA49Bhs/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Horse To Trot Big | Dressage Tutorial | Begijnhoeve | How To"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FWmDCBzOnXA",
+      "youtube_title": "Straightness - Dressage Training",
+      "channel": "Dressage Training TV",
+      "youtube_url": "https://www.youtube.com/watch?v=FWmDCBzOnXA",
+      "embed_url": "https://www.youtube.com/embed/FWmDCBzOnXA",
+      "thumbnail": "https://i.ytimg.com/vi/FWmDCBzOnXA/hqdefault.jpg",
+      "site_titles": [
+        "Straightness - Dressage Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UKPo6cp6-2g",
+      "youtube_title": "Schooling my horse for Dressage + Suppleness exercise | ABG Equestrian",
+      "channel": "Amber Barson-Greally",
+      "youtube_url": "https://www.youtube.com/watch?v=UKPo6cp6-2g",
+      "embed_url": "https://www.youtube.com/embed/UKPo6cp6-2g",
+      "thumbnail": "https://i.ytimg.com/vi/UKPo6cp6-2g/hqdefault.jpg",
+      "site_titles": [
+        "Schooling my horse for Dressage + Suppleness exercise | ABG Equestrian"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JpPFPXtqors",
+      "youtube_title": "Dressage Fundamentals Rhythm and Tempo",
+      "channel": "Helen 2",
+      "youtube_url": "https://www.youtube.com/watch?v=JpPFPXtqors",
+      "embed_url": "https://www.youtube.com/embed/JpPFPXtqors",
+      "thumbnail": "https://i.ytimg.com/vi/JpPFPXtqors/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Fundamentals Rhythm and Tempo"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IIohQtDlCbg",
+      "youtube_title": "HOW TO COOL DOWN YOUR HORSE - Dressage Mastery TV Episode 87",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=IIohQtDlCbg",
+      "embed_url": "https://www.youtube.com/embed/IIohQtDlCbg",
+      "thumbnail": "https://i.ytimg.com/vi/IIohQtDlCbg/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO COOL DOWN YOUR HORSE - Dressage Mastery TV Episode 87"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PyijgX4uLiE",
+      "youtube_title": "Effective Leg Position",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=PyijgX4uLiE",
+      "embed_url": "https://www.youtube.com/embed/PyijgX4uLiE",
+      "thumbnail": "https://i.ytimg.com/vi/PyijgX4uLiE/hqdefault.jpg",
+      "site_titles": [
+        "Effective Leg Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U7w9BXhZfg8",
+      "youtube_title": "How to Sit the Canter and Stay Balanced",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=U7w9BXhZfg8",
+      "embed_url": "https://www.youtube.com/embed/U7w9BXhZfg8",
+      "thumbnail": "https://i.ytimg.com/vi/U7w9BXhZfg8/hqdefault.jpg",
+      "site_titles": [
+        "How to Sit the Canter and Stay Balanced"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_aHBu3COysw",
+      "youtube_title": "Creating Expression in the Trot with Gareth Hughes",
+      "channel": "Ridely",
+      "youtube_url": "https://www.youtube.com/watch?v=_aHBu3COysw",
+      "embed_url": "https://www.youtube.com/embed/_aHBu3COysw",
+      "thumbnail": "https://i.ytimg.com/vi/_aHBu3COysw/hqdefault.jpg",
+      "site_titles": [
+        "Creating Expression in the Trot with Gareth Hughes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AymEWPHACjY",
+      "youtube_title": "Conquering Bad Habits - Riding Behind the Vertical",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=AymEWPHACjY",
+      "embed_url": "https://www.youtube.com/embed/AymEWPHACjY",
+      "thumbnail": "https://i.ytimg.com/vi/AymEWPHACjY/hqdefault.jpg",
+      "site_titles": [
+        "Conquering Bad Habits - Riding Behind the Vertical"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GSPEHUOqqWc",
+      "youtube_title": "How to improve throughness, connection, prevent anticipation, Dressage Mechanics with Leif Aho.",
+      "channel": "Paradigm Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=GSPEHUOqqWc",
+      "embed_url": "https://www.youtube.com/embed/GSPEHUOqqWc",
+      "thumbnail": "https://i.ytimg.com/vi/GSPEHUOqqWc/hqdefault.jpg",
+      "site_titles": [
+        "How to improve throughness, connection, prevent anticipation, Dressage Mechanics with Leif Aho."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zaUKv-OWB8s",
+      "youtube_title": "The Difference Between: Flexion & Bend - Katherine Bateson-Chandler",
+      "channel": "Ridely",
+      "youtube_url": "https://www.youtube.com/watch?v=zaUKv-OWB8s",
+      "embed_url": "https://www.youtube.com/embed/zaUKv-OWB8s",
+      "thumbnail": "https://i.ytimg.com/vi/zaUKv-OWB8s/hqdefault.jpg",
+      "site_titles": [
+        "The Difference Between: Flexion & Bend - Katherine Bateson-Chandler"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pnn09XZfWZw",
+      "youtube_title": "Shoulder-In Made Simple: Build Suppleness & Connection",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=pnn09XZfWZw",
+      "embed_url": "https://www.youtube.com/embed/pnn09XZfWZw",
+      "thumbnail": "https://i.ytimg.com/vi/pnn09XZfWZw/hqdefault.jpg",
+      "site_titles": [
+        "Shoulder-In Made Simple: Build Suppleness & Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DDw04rysUaQ",
+      "youtube_title": "Dressage Canters - working, lengthening, collected, medium, extended",
+      "channel": "Eliza Sydnor Romm",
+      "youtube_url": "https://www.youtube.com/watch?v=DDw04rysUaQ",
+      "embed_url": "https://www.youtube.com/embed/DDw04rysUaQ",
+      "thumbnail": "https://i.ytimg.com/vi/DDw04rysUaQ/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Canters - working, lengthening, collected, medium, extended"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UKFvZSBViUE",
+      "youtube_title": "What is Equestrian Dressage? These are the rules.",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=UKFvZSBViUE",
+      "embed_url": "https://www.youtube.com/embed/UKFvZSBViUE",
+      "thumbnail": "https://i.ytimg.com/vi/UKFvZSBViUE/hqdefault.jpg",
+      "site_titles": [
+        "What is Equestrian Dressage? These are the rules."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gzEelZGXxQo",
+      "youtube_title": "How to Half Halt at the Canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=gzEelZGXxQo",
+      "embed_url": "https://www.youtube.com/embed/gzEelZGXxQo",
+      "thumbnail": "https://i.ytimg.com/vi/gzEelZGXxQo/hqdefault.jpg",
+      "site_titles": [
+        "How to Half Halt at the Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q57EEUNFes8",
+      "youtube_title": "Developing Hacking Confidence with Young Dressage Horse - Your Horsemanship TV",
+      "channel": "Your Horsemanship TV",
+      "youtube_url": "https://www.youtube.com/watch?v=Q57EEUNFes8",
+      "embed_url": "https://www.youtube.com/embed/Q57EEUNFes8",
+      "thumbnail": "https://i.ytimg.com/vi/Q57EEUNFes8/hqdefault.jpg",
+      "site_titles": [
+        "Developing Hacking Confidence with Young Dressage Horse - Your Horsemanship TV"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZAp8y7SynRo",
+      "youtube_title": "Hyperflexion/Rollkur",
+      "channel": "Jack",
+      "youtube_url": "https://www.youtube.com/watch?v=ZAp8y7SynRo",
+      "embed_url": "https://www.youtube.com/embed/ZAp8y7SynRo",
+      "thumbnail": "https://i.ytimg.com/vi/ZAp8y7SynRo/hqdefault.jpg",
+      "site_titles": [
+        "Hyperflexion/Rollkur"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qrZZ-6HkDpU",
+      "youtube_title": "Spanish Riding School Vienna | VIENNA/NOW Sights",
+      "channel": "Vienna",
+      "youtube_url": "https://www.youtube.com/watch?v=qrZZ-6HkDpU",
+      "embed_url": "https://www.youtube.com/embed/qrZZ-6HkDpU",
+      "thumbnail": "https://i.ytimg.com/vi/qrZZ-6HkDpU/hqdefault.jpg",
+      "site_titles": [
+        "Spanish Riding School Vienna | VIENNA/NOW Sights"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2yotBu9ly8Q",
+      "youtube_title": "piaffe & passage",
+      "channel": "British Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=2yotBu9ly8Q",
+      "embed_url": "https://www.youtube.com/embed/2yotBu9ly8Q",
+      "thumbnail": "https://i.ytimg.com/vi/2yotBu9ly8Q/hqdefault.jpg",
+      "site_titles": [
+        "piaffe & passage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p5OO1inN-Yo",
+      "youtube_title": "Windsor Dressage Warm Up: Carl Hester on Nip Tuck, Charlotte Dujardin on Uthopia",
+      "channel": "Wiola Grabowska",
+      "youtube_url": "https://www.youtube.com/watch?v=p5OO1inN-Yo",
+      "embed_url": "https://www.youtube.com/embed/p5OO1inN-Yo",
+      "thumbnail": "https://i.ytimg.com/vi/p5OO1inN-Yo/hqdefault.jpg",
+      "site_titles": [
+        "Windsor Dressage Warm Up: Carl Hester on Nip Tuck, Charlotte Dujardin on Uthopia"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9pd8ZnwVq2Q",
+      "youtube_title": "HOW TO build up YOUR TRAINING WORKING PHASE Part 2-3 | Dressage Tutorial | Begijnhoeve | How To #21",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=9pd8ZnwVq2Q",
+      "embed_url": "https://www.youtube.com/embed/9pd8ZnwVq2Q",
+      "thumbnail": "https://i.ytimg.com/vi/9pd8ZnwVq2Q/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO build up YOUR TRAINING WORKING PHASE Part 2-3 | Dressage Tutorial | Begijnhoeve | How To"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LAAKbQyauGI",
+      "youtube_title": "Lisa Wilcox on Thoroughness",
+      "channel": "equisearch",
+      "youtube_url": "https://www.youtube.com/watch?v=LAAKbQyauGI",
+      "embed_url": "https://www.youtube.com/embed/LAAKbQyauGI",
+      "thumbnail": "https://i.ytimg.com/vi/LAAKbQyauGI/hqdefault.jpg",
+      "site_titles": [
+        "Lisa Wilcox on Thoroughness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uve0TMEE5o8",
+      "youtube_title": "How to ride Dressage Training level test 1",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=uve0TMEE5o8",
+      "embed_url": "https://www.youtube.com/embed/uve0TMEE5o8",
+      "thumbnail": "https://i.ytimg.com/vi/uve0TMEE5o8/hqdefault.jpg",
+      "site_titles": [
+        "How to ride Dressage Training level test 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mYKOBeYd9dE",
+      "youtube_title": "What is Dressage, Really?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=mYKOBeYd9dE",
+      "embed_url": "https://www.youtube.com/embed/mYKOBeYd9dE",
+      "thumbnail": "https://i.ytimg.com/vi/mYKOBeYd9dE/hqdefault.jpg",
+      "site_titles": [
+        "What is Dressage, Really?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WcQ8Kfkpso8",
+      "youtube_title": "Conformation & Correctness In A Dressage Horse",
+      "channel": "MirrorMePR",
+      "youtube_url": "https://www.youtube.com/watch?v=WcQ8Kfkpso8",
+      "embed_url": "https://www.youtube.com/embed/WcQ8Kfkpso8",
+      "thumbnail": "https://i.ytimg.com/vi/WcQ8Kfkpso8/hqdefault.jpg",
+      "site_titles": [
+        "Conformation & Correctness In A Dressage Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XCIDrFkiygg",
+      "youtube_title": "SCHOOLING YOUR HORSE LONG AND LOW HORSE| Stretching | Equestrian Vlog",
+      "channel": "EJM Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=XCIDrFkiygg",
+      "embed_url": "https://www.youtube.com/embed/XCIDrFkiygg",
+      "thumbnail": "https://i.ytimg.com/vi/XCIDrFkiygg/hqdefault.jpg",
+      "site_titles": [
+        "SCHOOLING YOUR HORSE LONG AND LOW HORSE| Stretching | Equestrian Vlog"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ye-E52nGWmI",
+      "youtube_title": "HOW TO INCREASE YOUR DRESSAGE TEST SCORE BY 5% - Dressage Mastery TV Episode 289",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=Ye-E52nGWmI",
+      "embed_url": "https://www.youtube.com/embed/Ye-E52nGWmI",
+      "thumbnail": "https://i.ytimg.com/vi/Ye-E52nGWmI/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO INCREASE YOUR DRESSAGE TEST SCORE BY 5% - Dressage Mastery TV Episode 289"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "54qERRbZHI0",
+      "youtube_title": "HOW DO I IMPROVE MY DRESSAGE SCORES BY 5%?  - Dressage Mastery TV Episode 195",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=54qERRbZHI0",
+      "embed_url": "https://www.youtube.com/embed/54qERRbZHI0",
+      "thumbnail": "https://i.ytimg.com/vi/54qERRbZHI0/hqdefault.jpg",
+      "site_titles": [
+        "HOW DO I IMPROVE MY DRESSAGE SCORES BY 5%? - Dressage Mastery TV Episode 195"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9JDfrYhXw9Y",
+      "youtube_title": "Equine Pre-Purchase Exams",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=9JDfrYhXw9Y",
+      "embed_url": "https://www.youtube.com/embed/9JDfrYhXw9Y",
+      "thumbnail": "https://i.ytimg.com/vi/9JDfrYhXw9Y/hqdefault.jpg",
+      "site_titles": [
+        "Equine Pre-Purchase Exams"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8hIXGiV4N4k",
+      "youtube_title": "Blue tongue World Cup",
+      "channel": "eponatv",
+      "youtube_url": "https://www.youtube.com/watch?v=8hIXGiV4N4k",
+      "embed_url": "https://www.youtube.com/embed/8hIXGiV4N4k",
+      "thumbnail": "https://i.ytimg.com/vi/8hIXGiV4N4k/hqdefault.jpg",
+      "site_titles": [
+        "Blue tongue World Cup"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v3_x-RK5ITo",
+      "youtube_title": "Dressage Evolution: From Medieval Warriors to Renaissance Masters",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=v3_x-RK5ITo",
+      "embed_url": "https://www.youtube.com/embed/v3_x-RK5ITo",
+      "thumbnail": "https://i.ytimg.com/vi/v3_x-RK5ITo/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Evolution: From Medieval Warriors to Renaissance Masters"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RYKENJ9pRD8",
+      "youtube_title": "2  HYPERFLEXION/LDR/Rollkur at the Spanish Riding School",
+      "channel": "Ulrike Thiel",
+      "youtube_url": "https://www.youtube.com/watch?v=RYKENJ9pRD8",
+      "embed_url": "https://www.youtube.com/embed/RYKENJ9pRD8",
+      "thumbnail": "https://i.ytimg.com/vi/RYKENJ9pRD8/hqdefault.jpg",
+      "site_titles": [
+        "2 HYPERFLEXION/LDR/Rollkur at the Spanish Riding School"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "otgGo24sliw",
+      "youtube_title": "Isabell Werth breaks 90% once again - FEI World Cup™ Dressage 2016/17 Amsterdam",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=otgGo24sliw",
+      "embed_url": "https://www.youtube.com/embed/otgGo24sliw",
+      "thumbnail": "https://i.ytimg.com/vi/otgGo24sliw/hqdefault.jpg",
+      "site_titles": [
+        "Isabell Werth breaks 90% once again - FEI World Cup™ Dressage 2016/17 Amsterdam"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AfUFMJ9B420",
+      "youtube_title": "Kyra Kyrklund - Matador W-CUP Final 1991",
+      "channel": "Stall Nysvidja",
+      "youtube_url": "https://www.youtube.com/watch?v=AfUFMJ9B420",
+      "embed_url": "https://www.youtube.com/embed/AfUFMJ9B420",
+      "thumbnail": "https://i.ytimg.com/vi/AfUFMJ9B420/hqdefault.jpg",
+      "site_titles": [
+        "Kyra Kyrklund - Matador W-CUP Final 1991"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "A_VJCY5pkBM",
+      "youtube_title": "Alois Podhajsky and the lipizzaners of the Spanish Riding School",
+      "channel": "illiumDreamer",
+      "youtube_url": "https://www.youtube.com/watch?v=A_VJCY5pkBM",
+      "embed_url": "https://www.youtube.com/embed/A_VJCY5pkBM",
+      "thumbnail": "https://i.ytimg.com/vi/A_VJCY5pkBM/hqdefault.jpg",
+      "site_titles": [
+        "Alois Podhajsky and the lipizzaners of the Spanish Riding School"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XGmB4EFiZKg",
+      "youtube_title": "Steinbrecht Session #15 | The Adaptable Tactical Seat: Activate, Protect, Correct",
+      "channel": "Riding Lessons",
+      "youtube_url": "https://www.youtube.com/watch?v=XGmB4EFiZKg",
+      "embed_url": "https://www.youtube.com/embed/XGmB4EFiZKg",
+      "thumbnail": "https://i.ytimg.com/vi/XGmB4EFiZKg/hqdefault.jpg",
+      "site_titles": [
+        "Steinbrecht Session | The Adaptable Tactical Seat: Activate, Protect, Correct"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U264sa3aSQk",
+      "youtube_title": "Reiner klimke & Ahlerich - Los Angeles Olympic dressage",
+      "channel": "tle48",
+      "youtube_url": "https://www.youtube.com/watch?v=U264sa3aSQk",
+      "embed_url": "https://www.youtube.com/embed/U264sa3aSQk",
+      "thumbnail": "https://i.ytimg.com/vi/U264sa3aSQk/hqdefault.jpg",
+      "site_titles": [
+        "Reiner klimke & Ahlerich - Los Angeles Olympic dressage"
       ],
       "sections": [
         "qa"
