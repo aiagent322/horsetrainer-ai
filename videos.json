@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2728,
+  "count": 2747,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -46065,6 +46065,310 @@
       "thumbnail": "https://i.ytimg.com/vi/dQ72OpgGZ_M/hqdefault.jpg",
       "site_titles": [
         "Groundwork Lesson - Moving the horse's body zones"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yxRG_VggGqo",
+      "youtube_title": "Foal Training - Spoiled Yearling",
+      "channel": "Gerry Cox",
+      "youtube_url": "https://www.youtube.com/watch?v=yxRG_VggGqo",
+      "embed_url": "https://www.youtube.com/embed/yxRG_VggGqo",
+      "thumbnail": "https://i.ytimg.com/vi/yxRG_VggGqo/hqdefault.jpg",
+      "site_titles": [
+        "Foal Training - Spoiled Yearling"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JQRx884UnIo",
+      "youtube_title": "ROBERT M. MILLER    •   IMPRINTING THE FOAL",
+      "channel": "HorseTV Global",
+      "youtube_url": "https://www.youtube.com/watch?v=JQRx884UnIo",
+      "embed_url": "https://www.youtube.com/embed/JQRx884UnIo",
+      "thumbnail": "https://i.ytimg.com/vi/JQRx884UnIo/hqdefault.jpg",
+      "site_titles": [
+        "ROBERT M. MILLER • IMPRINTING THE FOAL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tIon0s7lfdk",
+      "youtube_title": "FOAL HANDLING // Episode One || Imprinting and Building Trust",
+      "channel": "Wilde Child Official",
+      "youtube_url": "https://www.youtube.com/watch?v=tIon0s7lfdk",
+      "embed_url": "https://www.youtube.com/embed/tIon0s7lfdk",
+      "thumbnail": "https://i.ytimg.com/vi/tIon0s7lfdk/hqdefault.jpg",
+      "site_titles": [
+        "FOAL HANDLING // Episode One || Imprinting and Building Trust"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uZ1uNNVvdKw",
+      "youtube_title": "Connection and handling a foals feet",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=uZ1uNNVvdKw",
+      "embed_url": "https://www.youtube.com/embed/uZ1uNNVvdKw",
+      "thumbnail": "https://i.ytimg.com/vi/uZ1uNNVvdKw/hqdefault.jpg",
+      "site_titles": [
+        "Connection and handling a foals feet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q3IzCyEO-cA",
+      "youtube_title": "WHY and HOW We Imprint Foals - Hashknife Ag Shorts",
+      "channel": "Hashknife Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=Q3IzCyEO-cA",
+      "embed_url": "https://www.youtube.com/embed/Q3IzCyEO-cA",
+      "thumbnail": "https://i.ytimg.com/vi/Q3IzCyEO-cA/hqdefault.jpg",
+      "site_titles": [
+        "WHY and HOW We Imprint Foals - Hashknife Ag Shorts"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4YCEysU3wM0",
+      "youtube_title": "Imprinting the newborn foal",
+      "channel": "FriesergaardSoma",
+      "youtube_url": "https://www.youtube.com/watch?v=4YCEysU3wM0",
+      "embed_url": "https://www.youtube.com/embed/4YCEysU3wM0",
+      "thumbnail": "https://i.ytimg.com/vi/4YCEysU3wM0/hqdefault.jpg",
+      "site_titles": [
+        "Imprinting the newborn foal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q6QAVsHO3vw",
+      "youtube_title": "Foal Imprinting by James Holman @ Double Spear Ranch",
+      "channel": "MsPiluV",
+      "youtube_url": "https://www.youtube.com/watch?v=Q6QAVsHO3vw",
+      "embed_url": "https://www.youtube.com/embed/Q6QAVsHO3vw",
+      "thumbnail": "https://i.ytimg.com/vi/Q6QAVsHO3vw/hqdefault.jpg",
+      "site_titles": [
+        "Foal Imprinting by James Holman @ Double Spear Ranch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jVNNr_RHPck",
+      "youtube_title": "How to Handle and Restrain a Foal",
+      "channel": "RanchTV at Texas A&M AgriLife Extension",
+      "youtube_url": "https://www.youtube.com/watch?v=jVNNr_RHPck",
+      "embed_url": "https://www.youtube.com/embed/jVNNr_RHPck",
+      "thumbnail": "https://i.ytimg.com/vi/jVNNr_RHPck/hqdefault.jpg",
+      "site_titles": [
+        "How to Handle and Restrain a Foal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mawD1LX16uM",
+      "youtube_title": "A Horse's Personal Space Bubble",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=mawD1LX16uM",
+      "embed_url": "https://www.youtube.com/embed/mawD1LX16uM",
+      "thumbnail": "https://i.ytimg.com/vi/mawD1LX16uM/hqdefault.jpg",
+      "site_titles": [
+        "A Horse's Personal Space Bubble"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SoBxcyfayDg",
+      "youtube_title": "Foal Handling Series - why I don’t halter my foals",
+      "channel": "Sean Coleman- Applied Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=SoBxcyfayDg",
+      "embed_url": "https://www.youtube.com/embed/SoBxcyfayDg",
+      "thumbnail": "https://i.ytimg.com/vi/SoBxcyfayDg/hqdefault.jpg",
+      "site_titles": [
+        "Foal Handling Series - why I don’t halter my foals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GoNlk3Ky7Oo",
+      "youtube_title": "Foal Handling Tips In The First Few Days",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=GoNlk3Ky7Oo",
+      "embed_url": "https://www.youtube.com/embed/GoNlk3Ky7Oo",
+      "thumbnail": "https://i.ytimg.com/vi/GoNlk3Ky7Oo/hqdefault.jpg",
+      "site_titles": [
+        "Foal Handling Tips In The First Few Days"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xVkbRw-YvGo",
+      "youtube_title": "Imprinting a Foal",
+      "channel": "Gibs Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=xVkbRw-YvGo",
+      "embed_url": "https://www.youtube.com/embed/xVkbRw-YvGo",
+      "thumbnail": "https://i.ytimg.com/vi/xVkbRw-YvGo/hqdefault.jpg",
+      "site_titles": [
+        "Imprinting a Foal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OLOlIj7p6-U",
+      "youtube_title": "Imprinting Cappuccino at birth",
+      "channel": "Heather Lehigh",
+      "youtube_url": "https://www.youtube.com/watch?v=OLOlIj7p6-U",
+      "embed_url": "https://www.youtube.com/embed/OLOlIj7p6-U",
+      "thumbnail": "https://i.ytimg.com/vi/OLOlIj7p6-U/hqdefault.jpg",
+      "site_titles": [
+        "Imprinting Cappuccino at birth"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WJNd_rCNt2E",
+      "youtube_title": "Foal Handling Fundamentals - Q&A",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=WJNd_rCNt2E",
+      "embed_url": "https://www.youtube.com/embed/WJNd_rCNt2E",
+      "thumbnail": "https://i.ytimg.com/vi/WJNd_rCNt2E/hqdefault.jpg",
+      "site_titles": [
+        "Foal Handling Fundamentals - Q&A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hcFztrwWqBc",
+      "youtube_title": "🐴 Gentle Beginnings: How to Desensitize and Imprint Your Baby Horse Filly 🌟",
+      "channel": "The Tin Barn Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=hcFztrwWqBc",
+      "embed_url": "https://www.youtube.com/embed/hcFztrwWqBc",
+      "thumbnail": "https://i.ytimg.com/vi/hcFztrwWqBc/hqdefault.jpg",
+      "site_titles": [
+        "🐴 Gentle Beginnings: How to Desensitize and Imprint Your Baby Horse Filly 🌟"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MazIlh8fJOw",
+      "youtube_title": "Imprint Training clip \"Understanding Horses\" DVD clip III",
+      "channel": "Robert M. Miller Communications",
+      "youtube_url": "https://www.youtube.com/watch?v=MazIlh8fJOw",
+      "embed_url": "https://www.youtube.com/embed/MazIlh8fJOw",
+      "thumbnail": "https://i.ytimg.com/vi/MazIlh8fJOw/hqdefault.jpg",
+      "site_titles": [
+        "Imprint Training clip \"Understanding Horses\" DVD clip III"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YNJPPieD_2Q",
+      "youtube_title": "Foal Imprinting",
+      "channel": "SigmaEliteSES",
+      "youtube_url": "https://www.youtube.com/watch?v=YNJPPieD_2Q",
+      "embed_url": "https://www.youtube.com/embed/YNJPPieD_2Q",
+      "thumbnail": "https://i.ytimg.com/vi/YNJPPieD_2Q/hqdefault.jpg",
+      "site_titles": [
+        "Foal Imprinting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y7tmU5EtC3Y",
+      "youtube_title": "Imprint training of a three day old foal session 4 #foal #horse #training #rescue",
+      "channel": "Dreamgaits",
+      "youtube_url": "https://www.youtube.com/watch?v=Y7tmU5EtC3Y",
+      "embed_url": "https://www.youtube.com/embed/Y7tmU5EtC3Y",
+      "thumbnail": "https://i.ytimg.com/vi/Y7tmU5EtC3Y/hqdefault.jpg",
+      "site_titles": [
+        "Imprint training of a three day old foal session 4"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CcOUT9KGaB4",
+      "youtube_title": "Early Learning DVD clip 2 Teaching the foal to tie.",
+      "channel": "Robert M. Miller Communications",
+      "youtube_url": "https://www.youtube.com/watch?v=CcOUT9KGaB4",
+      "embed_url": "https://www.youtube.com/embed/CcOUT9KGaB4",
+      "thumbnail": "https://i.ytimg.com/vi/CcOUT9KGaB4/hqdefault.jpg",
+      "site_titles": [
+        "Early Learning DVD clip 2 Teaching the foal to tie."
       ],
       "sections": [
         "qa"
