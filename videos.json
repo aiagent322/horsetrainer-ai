@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2709,
+  "count": 2717,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45761,6 +45761,134 @@
       "thumbnail": "https://i.ytimg.com/vi/p5XpWS7wCSg/hqdefault.jpg",
       "site_titles": [
         "2026 Youth Working Cow Horse Boxing World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Fu-16C-Jdvo",
+      "youtube_title": "Teaching your Horse to Back up at Liberty with Jonathan Field",
+      "channel": "Jonathan Field Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Fu-16C-Jdvo",
+      "embed_url": "https://www.youtube.com/embed/Fu-16C-Jdvo",
+      "thumbnail": "https://i.ytimg.com/vi/Fu-16C-Jdvo/hqdefault.jpg",
+      "site_titles": [
+        "Teaching your Horse to Back up at Liberty with Jonathan Field"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tdMrYImigyc",
+      "youtube_title": "Backing Straight",
+      "channel": "Allison Trimble Equestrian Property Specialist",
+      "youtube_url": "https://www.youtube.com/watch?v=tdMrYImigyc",
+      "embed_url": "https://www.youtube.com/embed/tdMrYImigyc",
+      "thumbnail": "https://i.ytimg.com/vi/tdMrYImigyc/hqdefault.jpg",
+      "site_titles": [
+        "Backing Straight"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eiNwFhwkycw",
+      "youtube_title": "Backing Uphill.wmv",
+      "channel": "functionalhorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=eiNwFhwkycw",
+      "embed_url": "https://www.youtube.com/embed/eiNwFhwkycw",
+      "thumbnail": "https://i.ytimg.com/vi/eiNwFhwkycw/hqdefault.jpg",
+      "site_titles": [
+        "Backing Uphill.wmv"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ye00Rp_j4Qc",
+      "youtube_title": "How To Back Up A Horse With More Energy",
+      "channel": "AllHorseStuff1",
+      "youtube_url": "https://www.youtube.com/watch?v=ye00Rp_j4Qc",
+      "embed_url": "https://www.youtube.com/embed/ye00Rp_j4Qc",
+      "thumbnail": "https://i.ytimg.com/vi/ye00Rp_j4Qc/hqdefault.jpg",
+      "site_titles": [
+        "How To Back Up A Horse With More Energy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BAN5LDmLy4A",
+      "youtube_title": "Horse Won’t Back Up",
+      "channel": "Remount Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=BAN5LDmLy4A",
+      "embed_url": "https://www.youtube.com/embed/BAN5LDmLy4A",
+      "thumbnail": "https://i.ytimg.com/vi/BAN5LDmLy4A/hqdefault.jpg",
+      "site_titles": [
+        "Horse Won’t Back Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wc8zg4qYyUU",
+      "youtube_title": "Teach Your Horse to Back Up with Just a Hand on His Face",
+      "channel": "horse-pros",
+      "youtube_url": "https://www.youtube.com/watch?v=wc8zg4qYyUU",
+      "embed_url": "https://www.youtube.com/embed/wc8zg4qYyUU",
+      "thumbnail": "https://i.ytimg.com/vi/wc8zg4qYyUU/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse to Back Up with Just a Hand on His Face"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lvD6jV5vnnM",
+      "youtube_title": "10 Min Groundwork Routine",
+      "channel": "Tara Osborn",
+      "youtube_url": "https://www.youtube.com/watch?v=lvD6jV5vnnM",
+      "embed_url": "https://www.youtube.com/embed/lvD6jV5vnnM",
+      "thumbnail": "https://i.ytimg.com/vi/lvD6jV5vnnM/hqdefault.jpg",
+      "site_titles": [
+        "10 Min Groundwork Routine"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YnnYAnzmR6o",
+      "youtube_title": "Ground work, lunge, sidepass, ground pole, rollback, backing, disengage hindquarters, whoa",
+      "channel": "Tina Spangler TLC Barrels",
+      "youtube_url": "https://www.youtube.com/watch?v=YnnYAnzmR6o",
+      "embed_url": "https://www.youtube.com/embed/YnnYAnzmR6o",
+      "thumbnail": "https://i.ytimg.com/vi/YnnYAnzmR6o/hqdefault.jpg",
+      "site_titles": [
+        "Ground work, lunge, sidepass, ground pole, rollback, backing, disengage hindquarters, whoa"
       ],
       "sections": [
         "qa"
