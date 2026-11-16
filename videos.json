@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2779,
+  "count": 2790,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -46881,6 +46881,182 @@
       "thumbnail": "https://i.ytimg.com/vi/5aPfn5ctq1w/hqdefault.jpg",
       "site_titles": [
         "Basic Groundwork Topics within Liberty, Lunging & Roundpenning"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xWqJLZMSj-g",
+      "youtube_title": "This exercise stopped my foal from kicking⭐️ #foaltraining #startthemyoung",
+      "channel": "Lady Malin",
+      "youtube_url": "https://www.youtube.com/watch?v=xWqJLZMSj-g",
+      "embed_url": "https://www.youtube.com/embed/xWqJLZMSj-g",
+      "thumbnail": "https://i.ytimg.com/vi/xWqJLZMSj-g/hqdefault.jpg",
+      "site_titles": [
+        "This exercise stopped my foal from kicking⭐️"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "55H0hzcGHtk",
+      "youtube_title": "Tips on handling both foals, and unhandled horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=55H0hzcGHtk",
+      "embed_url": "https://www.youtube.com/embed/55H0hzcGHtk",
+      "thumbnail": "https://i.ytimg.com/vi/55H0hzcGHtk/hqdefault.jpg",
+      "site_titles": [
+        "Tips on handling both foals, and unhandled horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Sz-unwA66M8",
+      "youtube_title": "Foals First Grooming Session // Versatile Horsemanship",
+      "channel": "Versatile Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Sz-unwA66M8",
+      "embed_url": "https://www.youtube.com/embed/Sz-unwA66M8",
+      "thumbnail": "https://i.ytimg.com/vi/Sz-unwA66M8/hqdefault.jpg",
+      "site_titles": [
+        "Foals First Grooming Session // Versatile Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HY5xjomHEwQ",
+      "youtube_title": "Building Confident Weanlings Through Everyday Moments | Why We Don’t Imprint",
+      "channel": "McNamee Colt Company",
+      "youtube_url": "https://www.youtube.com/watch?v=HY5xjomHEwQ",
+      "embed_url": "https://www.youtube.com/embed/HY5xjomHEwQ",
+      "thumbnail": "https://i.ytimg.com/vi/HY5xjomHEwQ/hqdefault.jpg",
+      "site_titles": [
+        "Building Confident Weanlings Through Everyday Moments | Why We Don’t Imprint"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3ZzvT3FSnTo",
+      "youtube_title": "1st time!!!  Baby Horse’s First Having Her Feet Trimmed!!! Very Important day In Her Life!",
+      "channel": "Olsen Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=3ZzvT3FSnTo",
+      "embed_url": "https://www.youtube.com/embed/3ZzvT3FSnTo",
+      "thumbnail": "https://i.ytimg.com/vi/3ZzvT3FSnTo/hqdefault.jpg",
+      "site_titles": [
+        "1st time!!! Baby Horse’s First Having Her Feet Trimmed!!! Very Important day In Her Life!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "M20z-UFi96I",
+      "youtube_title": "Catching and Halterbreaking a Weanling Horse First Session",
+      "channel": "Becky Amio",
+      "youtube_url": "https://www.youtube.com/watch?v=M20z-UFi96I",
+      "embed_url": "https://www.youtube.com/embed/M20z-UFi96I",
+      "thumbnail": "https://i.ytimg.com/vi/M20z-UFi96I/hqdefault.jpg",
+      "site_titles": [
+        "Catching and Halterbreaking a Weanling Horse First Session"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LRseRNXZYk8",
+      "youtube_title": "Teaching The Foal How To Lead, Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=LRseRNXZYk8",
+      "embed_url": "https://www.youtube.com/embed/LRseRNXZYk8",
+      "thumbnail": "https://i.ytimg.com/vi/LRseRNXZYk8/hqdefault.jpg",
+      "site_titles": [
+        "Teaching The Foal How To Lead, Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SdLZT_b6O9Q",
+      "youtube_title": "How to: Pick up your colt's feet",
+      "channel": "Flory Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=SdLZT_b6O9Q",
+      "embed_url": "https://www.youtube.com/embed/SdLZT_b6O9Q",
+      "thumbnail": "https://i.ytimg.com/vi/SdLZT_b6O9Q/hqdefault.jpg",
+      "site_titles": [
+        "How to: Pick up your colt's feet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T-nW6YMVzjQ",
+      "youtube_title": "A First Tying Lesson for a Weanling Colt (Episode 142) - Herm Gailey: A Lifetime with Horses",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=T-nW6YMVzjQ",
+      "embed_url": "https://www.youtube.com/embed/T-nW6YMVzjQ",
+      "thumbnail": "https://i.ytimg.com/vi/T-nW6YMVzjQ/hqdefault.jpg",
+      "site_titles": [
+        "A First Tying Lesson for a Weanling Colt (Episode 142) - Herm Gailey: A Lifetime with Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G_s_AheVMkM",
+      "youtube_title": "Our foal handling process 101 sponsored by Weaver Leather",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=G_s_AheVMkM",
+      "embed_url": "https://www.youtube.com/embed/G_s_AheVMkM",
+      "thumbnail": "https://i.ytimg.com/vi/G_s_AheVMkM/hqdefault.jpg",
+      "site_titles": [
+        "Our foal handling process 101 sponsored by Weaver Leather"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iHd41bwR1dI",
+      "youtube_title": "Nutritious Feeding for Weanlings: Essential Tips and Best Practices I ClipMyHorse.TV Academy",
+      "channel": "ClipMyHorseTV International",
+      "youtube_url": "https://www.youtube.com/watch?v=iHd41bwR1dI",
+      "embed_url": "https://www.youtube.com/embed/iHd41bwR1dI",
+      "thumbnail": "https://i.ytimg.com/vi/iHd41bwR1dI/hqdefault.jpg",
+      "site_titles": [
+        "Nutritious Feeding for Weanlings: Essential Tips and Best Practices I ClipMyHorse.TV Academy"
       ],
       "sections": [
         "qa"
