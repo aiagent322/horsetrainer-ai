@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2811,
+  "count": 2824,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -47393,6 +47393,214 @@
       "thumbnail": "https://i.ytimg.com/vi/-LUOVdgqKYU/hqdefault.jpg",
       "site_titles": [
         "Blue Allen Eliminate the Brace in your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "orgYjKi_wLA",
+      "youtube_title": "Verbal Cues",
+      "channel": "horsecoursesonline",
+      "youtube_url": "https://www.youtube.com/watch?v=orgYjKi_wLA",
+      "embed_url": "https://www.youtube.com/embed/orgYjKi_wLA",
+      "thumbnail": "https://i.ytimg.com/vi/orgYjKi_wLA/hqdefault.jpg",
+      "site_titles": [
+        "Verbal Cues"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2rYzy6ij-gs",
+      "youtube_title": "The 5 Words Every Horse Actually Understands (Not What You Think)",
+      "channel": "Horse Truth",
+      "youtube_url": "https://www.youtube.com/watch?v=2rYzy6ij-gs",
+      "embed_url": "https://www.youtube.com/embed/2rYzy6ij-gs",
+      "thumbnail": "https://i.ytimg.com/vi/2rYzy6ij-gs/hqdefault.jpg",
+      "site_titles": [
+        "The 5 Words Every Horse Actually Understands (Not What You Think)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d35qfN6f3qs",
+      "youtube_title": "Backing Up on Voice Cue - Demo",
+      "channel": "Heartful Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=d35qfN6f3qs",
+      "embed_url": "https://www.youtube.com/embed/d35qfN6f3qs",
+      "thumbnail": "https://i.ytimg.com/vi/d35qfN6f3qs/hqdefault.jpg",
+      "site_titles": [
+        "Backing Up on Voice Cue - Demo"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "57kzzOZzF60",
+      "youtube_title": "Voice Cue Training",
+      "channel": "Horses of the Forest",
+      "youtube_url": "https://www.youtube.com/watch?v=57kzzOZzF60",
+      "embed_url": "https://www.youtube.com/embed/57kzzOZzF60",
+      "thumbnail": "https://i.ytimg.com/vi/57kzzOZzF60/hqdefault.jpg",
+      "site_titles": [
+        "Voice Cue Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o-0pNV_nMqM",
+      "youtube_title": "Horse Training Tip: Teach Your Horse to Stop using Voice Commands!",
+      "channel": "Training Thru Trust",
+      "youtube_url": "https://www.youtube.com/watch?v=o-0pNV_nMqM",
+      "embed_url": "https://www.youtube.com/embed/o-0pNV_nMqM",
+      "thumbnail": "https://i.ytimg.com/vi/o-0pNV_nMqM/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Tip: Teach Your Horse to Stop using Voice Commands!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qDMtyCB3fGw",
+      "youtube_title": "How To Use a Marker In Horse Training: Beginners Guide Positive Reinforcement | LaraCCHorsemanship ",
+      "channel": "Lara Coventry Cox, Mahi Mahi Method",
+      "youtube_url": "https://www.youtube.com/watch?v=qDMtyCB3fGw",
+      "embed_url": "https://www.youtube.com/embed/qDMtyCB3fGw",
+      "thumbnail": "https://i.ytimg.com/vi/qDMtyCB3fGw/hqdefault.jpg",
+      "site_titles": [
+        "How To Use a Marker In Horse Training: Beginners Guide Positive Reinforcement | LaraCCHorsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mfwUabEzZ04",
+      "youtube_title": "Young horse training - voice commands",
+      "channel": "Alice Gipps",
+      "youtube_url": "https://www.youtube.com/watch?v=mfwUabEzZ04",
+      "embed_url": "https://www.youtube.com/embed/mfwUabEzZ04",
+      "thumbnail": "https://i.ytimg.com/vi/mfwUabEzZ04/hqdefault.jpg",
+      "site_titles": [
+        "Young horse training - voice commands"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ixf4a7heOEs",
+      "youtube_title": "Teaching Hollywood Voice Commands at the Liberty Clinic PRTR March 2018",
+      "channel": "ReachOutToHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=ixf4a7heOEs",
+      "embed_url": "https://www.youtube.com/embed/ixf4a7heOEs",
+      "thumbnail": "https://i.ytimg.com/vi/ixf4a7heOEs/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Hollywood Voice Commands at the Liberty Clinic PRTR March 2018"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hB0ZJebpG2Y",
+      "youtube_title": "Communicating with Your Horse Using Your Voice // Horse Training Tips with Deanna Corby Dressage",
+      "channel": "Deanna Corby",
+      "youtube_url": "https://www.youtube.com/watch?v=hB0ZJebpG2Y",
+      "embed_url": "https://www.youtube.com/embed/hB0ZJebpG2Y",
+      "thumbnail": "https://i.ytimg.com/vi/hB0ZJebpG2Y/hqdefault.jpg",
+      "site_titles": [
+        "Communicating with Your Horse Using Your Voice // Horse Training Tips with Deanna Corby Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OAyXsvESz3U",
+      "youtube_title": "5 WORDS Your Horse Truly UNDERSTANDS (Backed by SCIENCE)",
+      "channel": "Equine Decoded",
+      "youtube_url": "https://www.youtube.com/watch?v=OAyXsvESz3U",
+      "embed_url": "https://www.youtube.com/embed/OAyXsvESz3U",
+      "thumbnail": "https://i.ytimg.com/vi/OAyXsvESz3U/hqdefault.jpg",
+      "site_titles": [
+        "5 WORDS Your Horse Truly UNDERSTANDS (Backed by SCIENCE)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_sIpE0nlFnE",
+      "youtube_title": "Voice Commands  Horsemanship",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=_sIpE0nlFnE",
+      "embed_url": "https://www.youtube.com/embed/_sIpE0nlFnE",
+      "thumbnail": "https://i.ytimg.com/vi/_sIpE0nlFnE/hqdefault.jpg",
+      "site_titles": [
+        "Voice Commands Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ptu0K82P7KU",
+      "youtube_title": "One cluck or two …Teaching the horse to be light to the aids  One  Minute With Cathy",
+      "channel": "Cathy Wieschhoff",
+      "youtube_url": "https://www.youtube.com/watch?v=ptu0K82P7KU",
+      "embed_url": "https://www.youtube.com/embed/ptu0K82P7KU",
+      "thumbnail": "https://i.ytimg.com/vi/ptu0K82P7KU/hqdefault.jpg",
+      "site_titles": [
+        "One cluck or two …Teaching the horse to be light to the aids One Minute With Cathy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6TWdy8qdhU4",
+      "youtube_title": "Clicker Training Horses - 6 Ways to Get a Behaviour",
+      "channel": "Georgia Bruce",
+      "youtube_url": "https://www.youtube.com/watch?v=6TWdy8qdhU4",
+      "embed_url": "https://www.youtube.com/embed/6TWdy8qdhU4",
+      "thumbnail": "https://i.ytimg.com/vi/6TWdy8qdhU4/hqdefault.jpg",
+      "site_titles": [
+        "Clicker Training Horses - 6 Ways to Get a Behaviour"
       ],
       "sections": [
         "qa"
