@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2857,
+  "count": 2875,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -48129,6 +48129,294 @@
       "thumbnail": "https://i.ytimg.com/vi/ktxAivottUI/hqdefault.jpg",
       "site_titles": [
         "Mules Are WAY BETTER THAN HORSES - An Outfitter's Perspective"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B8Nx4J9CqcU",
+      "youtube_title": "SARI Therapeutic Riding: How we select our horses",
+      "channel": "SARI Therapeutic Riding",
+      "youtube_url": "https://www.youtube.com/watch?v=B8Nx4J9CqcU",
+      "embed_url": "https://www.youtube.com/embed/B8Nx4J9CqcU",
+      "thumbnail": "https://i.ytimg.com/vi/B8Nx4J9CqcU/hqdefault.jpg",
+      "site_titles": [
+        "SARI Therapeutic Riding: How we select our horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_F0_da-HtVw",
+      "youtube_title": "Horse Sense: Evaluating Equine Partners for Therapy",
+      "channel": "Animals and Aquatics in Occupational Therapy",
+      "youtube_url": "https://www.youtube.com/watch?v=_F0_da-HtVw",
+      "embed_url": "https://www.youtube.com/embed/_F0_da-HtVw",
+      "thumbnail": "https://i.ytimg.com/vi/_F0_da-HtVw/hqdefault.jpg",
+      "site_titles": [
+        "Horse Sense: Evaluating Equine Partners for Therapy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mgocha4vQQM",
+      "youtube_title": "PATH Intl. Overview",
+      "channel": "PATH Intl.",
+      "youtube_url": "https://www.youtube.com/watch?v=mgocha4vQQM",
+      "embed_url": "https://www.youtube.com/embed/mgocha4vQQM",
+      "thumbnail": "https://i.ytimg.com/vi/mgocha4vQQM/hqdefault.jpg",
+      "site_titles": [
+        "PATH Intl. Overview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "s-ki2Vk59co",
+      "youtube_title": "Caring for Therapeutic Riding Horses: Common Issues & Solutions",
+      "channel": "The Equine Institute",
+      "youtube_url": "https://www.youtube.com/watch?v=s-ki2Vk59co",
+      "embed_url": "https://www.youtube.com/embed/s-ki2Vk59co",
+      "thumbnail": "https://i.ytimg.com/vi/s-ki2Vk59co/hqdefault.jpg",
+      "site_titles": [
+        "Caring for Therapeutic Riding Horses: Common Issues & Solutions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7GQsmgdW6g4",
+      "youtube_title": "Horse Burnout Horsecare Standards in the Equine Therapy Industry",
+      "channel": "CAvera",
+      "youtube_url": "https://www.youtube.com/watch?v=7GQsmgdW6g4",
+      "embed_url": "https://www.youtube.com/embed/7GQsmgdW6g4",
+      "thumbnail": "https://i.ytimg.com/vi/7GQsmgdW6g4/hqdefault.jpg",
+      "site_titles": [
+        "Horse Burnout Horsecare Standards in the Equine Therapy Industry"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "V4xss6Dju6Q",
+      "youtube_title": "Mounting Ramp Training",
+      "channel": "SMILES-For Our Volunteers",
+      "youtube_url": "https://www.youtube.com/watch?v=V4xss6Dju6Q",
+      "embed_url": "https://www.youtube.com/embed/V4xss6Dju6Q",
+      "thumbnail": "https://i.ytimg.com/vi/V4xss6Dju6Q/hqdefault.jpg",
+      "site_titles": [
+        "Mounting Ramp Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ToRczytSVMI",
+      "youtube_title": "Therapy Horses: Managing the Therapeutic Riding Horse: Special Considerations & Care- Part 1",
+      "channel": "The Equine Institute",
+      "youtube_url": "https://www.youtube.com/watch?v=ToRczytSVMI",
+      "embed_url": "https://www.youtube.com/embed/ToRczytSVMI",
+      "thumbnail": "https://i.ytimg.com/vi/ToRczytSVMI/hqdefault.jpg",
+      "site_titles": [
+        "Therapy Horses: Managing the Therapeutic Riding Horse: Special Considerations & Care- Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-hWGvLOPBOk",
+      "youtube_title": "MTR Sidewalker Training Video",
+      "channel": "Maryland Therapeutic Riding",
+      "youtube_url": "https://www.youtube.com/watch?v=-hWGvLOPBOk",
+      "embed_url": "https://www.youtube.com/embed/-hWGvLOPBOk",
+      "thumbnail": "https://i.ytimg.com/vi/-hWGvLOPBOk/hqdefault.jpg",
+      "site_titles": [
+        "MTR Sidewalker Training Video"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eikiCZcRMJQ",
+      "youtube_title": "Become a PATH Intl. Certified Professional",
+      "channel": "PATH Intl.",
+      "youtube_url": "https://www.youtube.com/watch?v=eikiCZcRMJQ",
+      "embed_url": "https://www.youtube.com/embed/eikiCZcRMJQ",
+      "thumbnail": "https://i.ytimg.com/vi/eikiCZcRMJQ/hqdefault.jpg",
+      "site_titles": [
+        "Become a PATH Intl. Certified Professional"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5ziH6QkToFs",
+      "youtube_title": "CTRI Prerequisites",
+      "channel": "PATH Intl.",
+      "youtube_url": "https://www.youtube.com/watch?v=5ziH6QkToFs",
+      "embed_url": "https://www.youtube.com/embed/5ziH6QkToFs",
+      "thumbnail": "https://i.ytimg.com/vi/5ziH6QkToFs/hqdefault.jpg",
+      "site_titles": [
+        "CTRI Prerequisites"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U7GbkyriVPo",
+      "youtube_title": "How H.O.R.S.E. Therapy is helping those with emotional, physical challenges",
+      "channel": "News4JAX The Local Station",
+      "youtube_url": "https://www.youtube.com/watch?v=U7GbkyriVPo",
+      "embed_url": "https://www.youtube.com/embed/U7GbkyriVPo",
+      "thumbnail": "https://i.ytimg.com/vi/U7GbkyriVPo/hqdefault.jpg",
+      "site_titles": [
+        "How H.O.R.S.E. Therapy is helping those with emotional, physical challenges"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hu3na3SVZU4",
+      "youtube_title": "Healing through horses: Benefits of equine therapy",
+      "channel": "KPIX | CBS NEWS BAY AREA",
+      "youtube_url": "https://www.youtube.com/watch?v=hu3na3SVZU4",
+      "embed_url": "https://www.youtube.com/embed/hu3na3SVZU4",
+      "thumbnail": "https://i.ytimg.com/vi/hu3na3SVZU4/hqdefault.jpg",
+      "site_titles": [
+        "Healing through horses: Benefits of equine therapy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GHDnfLpxjPg",
+      "youtube_title": "Equine Assisted Learning",
+      "channel": "Be Connected",
+      "youtube_url": "https://www.youtube.com/watch?v=GHDnfLpxjPg",
+      "embed_url": "https://www.youtube.com/embed/GHDnfLpxjPg",
+      "thumbnail": "https://i.ytimg.com/vi/GHDnfLpxjPg/hqdefault.jpg",
+      "site_titles": [
+        "Equine Assisted Learning"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kiCX9Oc27fU",
+      "youtube_title": "Equine Therapy | How it Works, Benefits and What to Expect",
+      "channel": "Priory",
+      "youtube_url": "https://www.youtube.com/watch?v=kiCX9Oc27fU",
+      "embed_url": "https://www.youtube.com/embed/kiCX9Oc27fU",
+      "thumbnail": "https://i.ytimg.com/vi/kiCX9Oc27fU/hqdefault.jpg",
+      "site_titles": [
+        "Equine Therapy | How it Works, Benefits and What to Expect"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kSdDM6ObScI",
+      "youtube_title": "What is Hippotherapy? Hippotherapy vs Adaptive Riding (Therapro Saturday Seminar: May 7, 2016)",
+      "channel": "TheraproInc",
+      "youtube_url": "https://www.youtube.com/watch?v=kSdDM6ObScI",
+      "embed_url": "https://www.youtube.com/embed/kSdDM6ObScI",
+      "thumbnail": "https://i.ytimg.com/vi/kSdDM6ObScI/hqdefault.jpg",
+      "site_titles": [
+        "What is Hippotherapy? Hippotherapy vs Adaptive Riding (Therapro Saturday Seminar: May 7, 2016)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3Er3e8J8PMA",
+      "youtube_title": "What is Therapeutic Riding",
+      "channel": "Morning Dove Therapeutic Riding Center",
+      "youtube_url": "https://www.youtube.com/watch?v=3Er3e8J8PMA",
+      "embed_url": "https://www.youtube.com/embed/3Er3e8J8PMA",
+      "thumbnail": "https://i.ytimg.com/vi/3Er3e8J8PMA/hqdefault.jpg",
+      "site_titles": [
+        "What is Therapeutic Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g32M6vfZMpk",
+      "youtube_title": "How can therapy involving horses help people with disabilities?",
+      "channel": "euronews",
+      "youtube_url": "https://www.youtube.com/watch?v=g32M6vfZMpk",
+      "embed_url": "https://www.youtube.com/embed/g32M6vfZMpk",
+      "thumbnail": "https://i.ytimg.com/vi/g32M6vfZMpk/hqdefault.jpg",
+      "site_titles": [
+        "How can therapy involving horses help people with disabilities?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7u5aGNoFWHM",
+      "youtube_title": "Therapeutic Riding and Multiple Sclerosis",
+      "channel": "Multiple Sclerosis Foundation",
+      "youtube_url": "https://www.youtube.com/watch?v=7u5aGNoFWHM",
+      "embed_url": "https://www.youtube.com/embed/7u5aGNoFWHM",
+      "thumbnail": "https://i.ytimg.com/vi/7u5aGNoFWHM/hqdefault.jpg",
+      "site_titles": [
+        "Therapeutic Riding and Multiple Sclerosis"
       ],
       "sections": [
         "qa"
