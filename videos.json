@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2889,
+  "count": 2911,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -48641,6 +48641,358 @@
       "thumbnail": "https://i.ytimg.com/vi/OeOlYZvFSxM/hqdefault.jpg",
       "site_titles": [
         "Renegades||Vaulting Music Video"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d5-QGZH2QSw",
+      "youtube_title": "Components of a Breakaway Run with Jackie Crawford",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=d5-QGZH2QSw",
+      "embed_url": "https://www.youtube.com/embed/d5-QGZH2QSw",
+      "thumbnail": "https://i.ytimg.com/vi/d5-QGZH2QSw/hqdefault.jpg",
+      "site_titles": [
+        "Components of a Breakaway Run with Jackie Crawford"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nApkFTuCFcE",
+      "youtube_title": "BreakawayRoping.com: How to Handle Losses",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=nApkFTuCFcE",
+      "embed_url": "https://www.youtube.com/embed/nApkFTuCFcE",
+      "thumbnail": "https://i.ytimg.com/vi/nApkFTuCFcE/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: How to Handle Losses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mjSS31pIAUE",
+      "youtube_title": "Breakaway Roping Throwing on your Second Swing with Jackie Crawford",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=mjSS31pIAUE",
+      "embed_url": "https://www.youtube.com/embed/mjSS31pIAUE",
+      "thumbnail": "https://i.ytimg.com/vi/mjSS31pIAUE/hqdefault.jpg",
+      "site_titles": [
+        "Breakaway Roping Throwing on your Second Swing with Jackie Crawford"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iWx-SE0S4HE",
+      "youtube_title": "Breakaway Roping Tips with Kelsie Domer",
+      "channel": "Smarty Rodeo",
+      "youtube_url": "https://www.youtube.com/watch?v=iWx-SE0S4HE",
+      "embed_url": "https://www.youtube.com/embed/iWx-SE0S4HE",
+      "thumbnail": "https://i.ytimg.com/vi/iWx-SE0S4HE/hqdefault.jpg",
+      "site_titles": [
+        "Breakaway Roping Tips with Kelsie Domer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "McGF0YDVpXM",
+      "youtube_title": "Breakaway Roping Building the Perfect Breakaway Loop with Jackie Crawford",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=McGF0YDVpXM",
+      "embed_url": "https://www.youtube.com/embed/McGF0YDVpXM",
+      "thumbnail": "https://i.ytimg.com/vi/McGF0YDVpXM/hqdefault.jpg",
+      "site_titles": [
+        "Breakaway Roping Building the Perfect Breakaway Loop with Jackie Crawford"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zu37AKXR5SU",
+      "youtube_title": "BreakawayRoping.com: Purposeful Practice",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=zu37AKXR5SU",
+      "embed_url": "https://www.youtube.com/embed/zu37AKXR5SU",
+      "thumbnail": "https://i.ytimg.com/vi/zu37AKXR5SU/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: Purposeful Practice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "93cp58Hy2xs",
+      "youtube_title": "How the Barrier works in Rodeo timed events Rodeo Sports Promotions EP 34",
+      "channel": "Rodeo Sports Promotions",
+      "youtube_url": "https://www.youtube.com/watch?v=93cp58Hy2xs",
+      "embed_url": "https://www.youtube.com/embed/93cp58Hy2xs",
+      "thumbnail": "https://i.ytimg.com/vi/93cp58Hy2xs/hqdefault.jpg",
+      "site_titles": [
+        "How the Barrier works in Rodeo timed events Rodeo Sports Promotions EP 34"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dXSMQzkMSTU",
+      "youtube_title": "BreakawayRoping.com: Erin Johnson - Scoring",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=dXSMQzkMSTU",
+      "embed_url": "https://www.youtube.com/embed/dXSMQzkMSTU",
+      "thumbnail": "https://i.ytimg.com/vi/dXSMQzkMSTU/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: Erin Johnson - Scoring"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SqcdSLTBo0U",
+      "youtube_title": "How to Set Up a Rodeo Barrier | Rodeo Judges 101",
+      "channel": "Rodeo Judges 101",
+      "youtube_url": "https://www.youtube.com/watch?v=SqcdSLTBo0U",
+      "embed_url": "https://www.youtube.com/embed/SqcdSLTBo0U",
+      "thumbnail": "https://i.ytimg.com/vi/SqcdSLTBo0U/hqdefault.jpg",
+      "site_titles": [
+        "How to Set Up a Rodeo Barrier | Rodeo Judges 101"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gHW_Jaxt00o",
+      "youtube_title": "How One Woman Changed Rodeo Forever! Lari Dee Guy!",
+      "channel": "Cowboy Life",
+      "youtube_url": "https://www.youtube.com/watch?v=gHW_Jaxt00o",
+      "embed_url": "https://www.youtube.com/embed/gHW_Jaxt00o",
+      "thumbnail": "https://i.ytimg.com/vi/gHW_Jaxt00o/hqdefault.jpg",
+      "site_titles": [
+        "How One Woman Changed Rodeo Forever! Lari Dee Guy!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9eVBDpQZK8w",
+      "youtube_title": "BreakawayRoping.com: Scoring Details on Sensitive Horses",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=9eVBDpQZK8w",
+      "embed_url": "https://www.youtube.com/embed/9eVBDpQZK8w",
+      "thumbnail": "https://i.ytimg.com/vi/9eVBDpQZK8w/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: Scoring Details on Sensitive Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TfO9j4Xk7kI",
+      "youtube_title": "Why Breakaway Roping is Breaking All Barriers | COWGIRL",
+      "channel": "COWGIRL Magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=TfO9j4Xk7kI",
+      "embed_url": "https://www.youtube.com/embed/TfO9j4Xk7kI",
+      "thumbnail": "https://i.ytimg.com/vi/TfO9j4Xk7kI/hqdefault.jpg",
+      "site_titles": [
+        "Why Breakaway Roping is Breaking All Barriers | COWGIRL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iUJYM2NfXqc",
+      "youtube_title": "101 Breakaway Roping",
+      "channel": "Reno Rodeo",
+      "youtube_url": "https://www.youtube.com/watch?v=iUJYM2NfXqc",
+      "embed_url": "https://www.youtube.com/embed/iUJYM2NfXqc",
+      "thumbnail": "https://i.ytimg.com/vi/iUJYM2NfXqc/hqdefault.jpg",
+      "site_titles": [
+        "101 Breakaway Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RgPa4Pd8Wg4",
+      "youtube_title": "BreakawayRoping.com: Trouble-Shooting \"Cheating\" Horses",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=RgPa4Pd8Wg4",
+      "embed_url": "https://www.youtube.com/embed/RgPa4Pd8Wg4",
+      "thumbnail": "https://i.ytimg.com/vi/RgPa4Pd8Wg4/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: Trouble-Shooting \"Cheating\" Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sLWIYMO-Q5w",
+      "youtube_title": "BreakawayRoping.com: Common Mistakes in Getting to the Front of Your Saddle",
+      "channel": "The Breakaway Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=sLWIYMO-Q5w",
+      "embed_url": "https://www.youtube.com/embed/sLWIYMO-Q5w",
+      "thumbnail": "https://i.ytimg.com/vi/sLWIYMO-Q5w/hqdefault.jpg",
+      "site_titles": [
+        "BreakawayRoping.com: Common Mistakes in Getting to the Front of Your Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7OcZyK53U-Q",
+      "youtube_title": "Everything You Need To Start Breakaway Roping",
+      "channel": "Jenn Pollock",
+      "youtube_url": "https://www.youtube.com/watch?v=7OcZyK53U-Q",
+      "embed_url": "https://www.youtube.com/embed/7OcZyK53U-Q",
+      "thumbnail": "https://i.ytimg.com/vi/7OcZyK53U-Q/hqdefault.jpg",
+      "site_titles": [
+        "Everything You Need To Start Breakaway Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a17Y1EZZwwM",
+      "youtube_title": "Trevor Brazile Talks About Breaking To A Calf",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=a17Y1EZZwwM",
+      "embed_url": "https://www.youtube.com/embed/a17Y1EZZwwM",
+      "thumbnail": "https://i.ytimg.com/vi/a17Y1EZZwwM/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile Talks About Breaking To A Calf"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HmsaTG8k8b4",
+      "youtube_title": "How to Tie a Breakaway Honda on Your Rope",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=HmsaTG8k8b4",
+      "embed_url": "https://www.youtube.com/embed/HmsaTG8k8b4",
+      "thumbnail": "https://i.ytimg.com/vi/HmsaTG8k8b4/hqdefault.jpg",
+      "site_titles": [
+        "How to Tie a Breakaway Honda on Your Rope"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SKKJS-CTFlg",
+      "youtube_title": "Breakaway Roping 101 🤠 Everything You Need to Know",
+      "channel": "Scripps Sports",
+      "youtube_url": "https://www.youtube.com/watch?v=SKKJS-CTFlg",
+      "embed_url": "https://www.youtube.com/embed/SKKJS-CTFlg",
+      "thumbnail": "https://i.ytimg.com/vi/SKKJS-CTFlg/hqdefault.jpg",
+      "site_titles": [
+        "Breakaway Roping 101 🤠 Everything You Need to Know"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OglUxIswMr0",
+      "youtube_title": "The Art of Training the Calf Roping Horse",
+      "channel": "Michael Small",
+      "youtube_url": "https://www.youtube.com/watch?v=OglUxIswMr0",
+      "embed_url": "https://www.youtube.com/embed/OglUxIswMr0",
+      "thumbnail": "https://i.ytimg.com/vi/OglUxIswMr0/hqdefault.jpg",
+      "site_titles": [
+        "The Art of Training the Calf Roping Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_jCznPmKuIw",
+      "youtube_title": "Breakaway Roping Tips by Tuf Kaf",
+      "channel": "Tuf Kaf",
+      "youtube_url": "https://www.youtube.com/watch?v=_jCznPmKuIw",
+      "embed_url": "https://www.youtube.com/embed/_jCznPmKuIw",
+      "thumbnail": "https://i.ytimg.com/vi/_jCznPmKuIw/hqdefault.jpg",
+      "site_titles": [
+        "Breakaway Roping Tips by Tuf Kaf"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MKN6j4HlUoI",
+      "youtube_title": "Have you used this bit? (2024)",
+      "channel": "Rodeo Gym",
+      "youtube_url": "https://www.youtube.com/watch?v=MKN6j4HlUoI",
+      "embed_url": "https://www.youtube.com/embed/MKN6j4HlUoI",
+      "thumbnail": "https://i.ytimg.com/vi/MKN6j4HlUoI/hqdefault.jpg",
+      "site_titles": [
+        "Have you used this bit? (2024)"
       ],
       "sections": [
         "qa"
