@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2824,
+  "count": 2846,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -47601,6 +47601,358 @@
       "thumbnail": "https://i.ytimg.com/vi/6TWdy8qdhU4/hqdefault.jpg",
       "site_titles": [
         "Clicker Training Horses - 6 Ways to Get a Behaviour"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HYxGIBvWMtw",
+      "youtube_title": "How to Do a Horse Barn Safety Check",
+      "channel": "My New Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=HYxGIBvWMtw",
+      "embed_url": "https://www.youtube.com/embed/HYxGIBvWMtw",
+      "thumbnail": "https://i.ytimg.com/vi/HYxGIBvWMtw/hqdefault.jpg",
+      "site_titles": [
+        "How to Do a Horse Barn Safety Check"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uay6JKTQtGE",
+      "youtube_title": "The Five Keys to Horse Pasture Management",
+      "channel": "University of Minnesota Equine Extension Program",
+      "youtube_url": "https://www.youtube.com/watch?v=uay6JKTQtGE",
+      "embed_url": "https://www.youtube.com/embed/uay6JKTQtGE",
+      "thumbnail": "https://i.ytimg.com/vi/uay6JKTQtGE/hqdefault.jpg",
+      "site_titles": [
+        "The Five Keys to Horse Pasture Management"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xM_tkNo2Y9c",
+      "youtube_title": "Q&A With Clinton Anderson: Fly Control in the Barn",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=xM_tkNo2Y9c",
+      "embed_url": "https://www.youtube.com/embed/xM_tkNo2Y9c",
+      "thumbnail": "https://i.ytimg.com/vi/xM_tkNo2Y9c/hqdefault.jpg",
+      "site_titles": [
+        "Q&A With Clinton Anderson: Fly Control in the Barn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "E91j6mc6UJc",
+      "youtube_title": "4 Tips for Maintaining Arena Footing",
+      "channel": "Lindsay Rinehart - Trotwood Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=E91j6mc6UJc",
+      "embed_url": "https://www.youtube.com/embed/E91j6mc6UJc",
+      "thumbnail": "https://i.ytimg.com/vi/E91j6mc6UJc/hqdefault.jpg",
+      "site_titles": [
+        "4 Tips for Maintaining Arena Footing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r29LeO55m_s",
+      "youtube_title": "4 Ways Horse Farms Handle Manure (Worst to Best)",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=r29LeO55m_s",
+      "embed_url": "https://www.youtube.com/embed/r29LeO55m_s",
+      "thumbnail": "https://i.ytimg.com/vi/r29LeO55m_s/hqdefault.jpg",
+      "site_titles": [
+        "4 Ways Horse Farms Handle Manure (Worst to Best)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "licWxMyZT3M",
+      "youtube_title": "Horse Water Troughs",
+      "channel": "TheOntarioGardener",
+      "youtube_url": "https://www.youtube.com/watch?v=licWxMyZT3M",
+      "embed_url": "https://www.youtube.com/embed/licWxMyZT3M",
+      "thumbnail": "https://i.ytimg.com/vi/licWxMyZT3M/hqdefault.jpg",
+      "site_titles": [
+        "Horse Water Troughs"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "S9yNzeBZILs",
+      "youtube_title": "Big Ass Fans offer help for horse barns",
+      "channel": "Big Ass Fans",
+      "youtube_url": "https://www.youtube.com/watch?v=S9yNzeBZILs",
+      "embed_url": "https://www.youtube.com/embed/S9yNzeBZILs",
+      "thumbnail": "https://i.ytimg.com/vi/S9yNzeBZILs/hqdefault.jpg",
+      "site_titles": [
+        "Big Ass Fans offer help for horse barns"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FFToJISJmdM",
+      "youtube_title": "Storing Hay Tips",
+      "channel": "Silhouette Park Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=FFToJISJmdM",
+      "embed_url": "https://www.youtube.com/embed/FFToJISJmdM",
+      "thumbnail": "https://i.ytimg.com/vi/FFToJISJmdM/hqdefault.jpg",
+      "site_titles": [
+        "Storing Hay Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BQ01b9VzOSQ",
+      "youtube_title": "Misting System to Cool Horses in Barn",
+      "channel": "Advanced Misting Systems",
+      "youtube_url": "https://www.youtube.com/watch?v=BQ01b9VzOSQ",
+      "embed_url": "https://www.youtube.com/embed/BQ01b9VzOSQ",
+      "thumbnail": "https://i.ytimg.com/vi/BQ01b9VzOSQ/hqdefault.jpg",
+      "site_titles": [
+        "Misting System to Cool Horses in Barn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hwJovdZM9kQ",
+      "youtube_title": "55’ Round Pen Build | Good All Around Size",
+      "channel": "Stonefield Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=hwJovdZM9kQ",
+      "embed_url": "https://www.youtube.com/embed/hwJovdZM9kQ",
+      "thumbnail": "https://i.ytimg.com/vi/hwJovdZM9kQ/hqdefault.jpg",
+      "site_titles": [
+        "55’ Round Pen Build | Good All Around Size"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LxIXnVDZ2bY",
+      "youtube_title": "Sundance Horse Stall Mat Kits",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=LxIXnVDZ2bY",
+      "embed_url": "https://www.youtube.com/embed/LxIXnVDZ2bY",
+      "thumbnail": "https://i.ytimg.com/vi/LxIXnVDZ2bY/hqdefault.jpg",
+      "site_titles": [
+        "Sundance Horse Stall Mat Kits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qgtA-umCQLo",
+      "youtube_title": "How To Build The Perfect Horse Arena From Start To Finish",
+      "channel": "Tomley Projects",
+      "youtube_url": "https://www.youtube.com/watch?v=qgtA-umCQLo",
+      "embed_url": "https://www.youtube.com/embed/qgtA-umCQLo",
+      "thumbnail": "https://i.ytimg.com/vi/qgtA-umCQLo/hqdefault.jpg",
+      "site_titles": [
+        "How To Build The Perfect Horse Arena From Start To Finish"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oVPHMx3BZ58",
+      "youtube_title": "Barn Design from a Veterinarian's Perspective",
+      "channel": "Springhill Equine Veterinary Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=oVPHMx3BZ58",
+      "embed_url": "https://www.youtube.com/embed/oVPHMx3BZ58",
+      "thumbnail": "https://i.ytimg.com/vi/oVPHMx3BZ58/hqdefault.jpg",
+      "site_titles": [
+        "Barn Design from a Veterinarian's Perspective"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YWXSGBStndU",
+      "youtube_title": "Ask the Vet - Best type of fencing for horse pastures",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=YWXSGBStndU",
+      "embed_url": "https://www.youtube.com/embed/YWXSGBStndU",
+      "thumbnail": "https://i.ytimg.com/vi/YWXSGBStndU/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Vet - Best type of fencing for horse pastures"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SgUjGhmjyD0",
+      "youtube_title": "Did you know we take our horses swimming?",
+      "channel": "Godolphin",
+      "youtube_url": "https://www.youtube.com/watch?v=SgUjGhmjyD0",
+      "embed_url": "https://www.youtube.com/embed/SgUjGhmjyD0",
+      "thumbnail": "https://i.ytimg.com/vi/SgUjGhmjyD0/hqdefault.jpg",
+      "site_titles": [
+        "Did you know we take our horses swimming?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RNoHwmAuJ9Q",
+      "youtube_title": "TheraPlate by Rene Audsley",
+      "channel": "Rex Wager",
+      "youtube_url": "https://www.youtube.com/watch?v=RNoHwmAuJ9Q",
+      "embed_url": "https://www.youtube.com/embed/RNoHwmAuJ9Q",
+      "thumbnail": "https://i.ytimg.com/vi/RNoHwmAuJ9Q/hqdefault.jpg",
+      "site_titles": [
+        "TheraPlate by Rene Audsley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "L9ogsKV5gmM",
+      "youtube_title": "Horse in training on treadmill.  FBORGES RACING",
+      "channel": "Fabricio Borges",
+      "youtube_url": "https://www.youtube.com/watch?v=L9ogsKV5gmM",
+      "embed_url": "https://www.youtube.com/embed/L9ogsKV5gmM",
+      "thumbnail": "https://i.ytimg.com/vi/L9ogsKV5gmM/hqdefault.jpg",
+      "site_titles": [
+        "Horse in training on treadmill. FBORGES RACING"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r7ZTNjLItao",
+      "youtube_title": "Equine Light Therapy #2 - How to treat Horse Shoulder and Fetlock with LED Light Therapy",
+      "channel": "Doctor Light: Curtis Turchin, DC, MA",
+      "youtube_url": "https://www.youtube.com/watch?v=r7ZTNjLItao",
+      "embed_url": "https://www.youtube.com/embed/r7ZTNjLItao",
+      "thumbnail": "https://i.ytimg.com/vi/r7ZTNjLItao/hqdefault.jpg",
+      "site_titles": [
+        "Equine Light Therapy - How to treat Horse Shoulder and Fetlock with LED Light Therapy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "s_Ooy1d19dc",
+      "youtube_title": "How to Pick a Boarding Facility for Your Horse",
+      "channel": "The Eq Network",
+      "youtube_url": "https://www.youtube.com/watch?v=s_Ooy1d19dc",
+      "embed_url": "https://www.youtube.com/embed/s_Ooy1d19dc",
+      "thumbnail": "https://i.ytimg.com/vi/s_Ooy1d19dc/hqdefault.jpg",
+      "site_titles": [
+        "How to Pick a Boarding Facility for Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1V7SW1mCU9U",
+      "youtube_title": "Horse Stalls: What Flooring or Base Do You Use?",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=1V7SW1mCU9U",
+      "embed_url": "https://www.youtube.com/embed/1V7SW1mCU9U",
+      "thumbnail": "https://i.ytimg.com/vi/1V7SW1mCU9U/hqdefault.jpg",
+      "site_titles": [
+        "Horse Stalls: What Flooring or Base Do You Use?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "curXyBwEKa4",
+      "youtube_title": "12 Tips and Projects For Having An Organized Tack Room",
+      "channel": "The Budget Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=curXyBwEKa4",
+      "embed_url": "https://www.youtube.com/embed/curXyBwEKa4",
+      "thumbnail": "https://i.ytimg.com/vi/curXyBwEKa4/hqdefault.jpg",
+      "site_titles": [
+        "12 Tips and Projects For Having An Organized Tack Room"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aJFIKd3ZOk4",
+      "youtube_title": "What is Horse Arena Footing? The sand and footing recipe explained",
+      "channel": "Premier Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=aJFIKd3ZOk4",
+      "embed_url": "https://www.youtube.com/embed/aJFIKd3ZOk4",
+      "thumbnail": "https://i.ytimg.com/vi/aJFIKd3ZOk4/hqdefault.jpg",
+      "site_titles": [
+        "What is Horse Arena Footing? The sand and footing recipe explained"
       ],
       "sections": [
         "qa"
