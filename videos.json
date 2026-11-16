@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2747,
+  "count": 2763,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -46369,6 +46369,262 @@
       "thumbnail": "https://i.ytimg.com/vi/CcOUT9KGaB4/hqdefault.jpg",
       "site_titles": [
         "Early Learning DVD clip 2 Teaching the foal to tie."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NT4qe3Um1Ws",
+      "youtube_title": "HOW TO BOND WITH A NEW HORSE (3 Ways) 🐴",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=NT4qe3Um1Ws",
+      "embed_url": "https://www.youtube.com/embed/NT4qe3Um1Ws",
+      "thumbnail": "https://i.ytimg.com/vi/NT4qe3Um1Ws/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO BOND WITH A NEW HORSE (3 Ways) 🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9lm3unwTjpc",
+      "youtube_title": "My horse loves me...or does he ?",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=9lm3unwTjpc",
+      "embed_url": "https://www.youtube.com/embed/9lm3unwTjpc",
+      "thumbnail": "https://i.ytimg.com/vi/9lm3unwTjpc/hqdefault.jpg",
+      "site_titles": [
+        "My horse loves me...or does he ?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lmg9rsdChFA",
+      "youtube_title": "6 Signs Your Horse Feels SAFE With You",
+      "channel": "Horse Theory",
+      "youtube_url": "https://www.youtube.com/watch?v=lmg9rsdChFA",
+      "embed_url": "https://www.youtube.com/embed/lmg9rsdChFA",
+      "thumbnail": "https://i.ytimg.com/vi/lmg9rsdChFA/hqdefault.jpg",
+      "site_titles": [
+        "6 Signs Your Horse Feels SAFE With You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3Q2i44U6yfE",
+      "youtube_title": "2 simple boundaries exercises you can practice with your horse",
+      "channel": "Ruby Doss Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=3Q2i44U6yfE",
+      "embed_url": "https://www.youtube.com/embed/3Q2i44U6yfE",
+      "thumbnail": "https://i.ytimg.com/vi/3Q2i44U6yfE/hqdefault.jpg",
+      "site_titles": [
+        "2 simple boundaries exercises you can practice with your horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2bVoyl1r_30",
+      "youtube_title": "Helping an abused horse to develop trust",
+      "channel": "Shawna Karrasch Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=2bVoyl1r_30",
+      "embed_url": "https://www.youtube.com/embed/2bVoyl1r_30",
+      "thumbnail": "https://i.ytimg.com/vi/2bVoyl1r_30/hqdefault.jpg",
+      "site_titles": [
+        "Helping an abused horse to develop trust"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bHkP1kJF4jM",
+      "youtube_title": "Clinton Anderson: establishing respect for English and western riders",
+      "channel": "ashsyd217",
+      "youtube_url": "https://www.youtube.com/watch?v=bHkP1kJF4jM",
+      "embed_url": "https://www.youtube.com/embed/bHkP1kJF4jM",
+      "thumbnail": "https://i.ytimg.com/vi/bHkP1kJF4jM/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: establishing respect for English and western riders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FbQ024KrN2o",
+      "youtube_title": "How To Gain A Horse's Trust 💕",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=FbQ024KrN2o",
+      "embed_url": "https://www.youtube.com/embed/FbQ024KrN2o",
+      "thumbnail": "https://i.ytimg.com/vi/FbQ024KrN2o/hqdefault.jpg",
+      "site_titles": [
+        "How To Gain A Horse's Trust 💕"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I6G0pHxchqM",
+      "youtube_title": "How groundwork can help everything else",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=I6G0pHxchqM",
+      "embed_url": "https://www.youtube.com/embed/I6G0pHxchqM",
+      "thumbnail": "https://i.ytimg.com/vi/I6G0pHxchqM/hqdefault.jpg",
+      "site_titles": [
+        "How groundwork can help everything else"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "shkYVWBiF54",
+      "youtube_title": "The Truth About Horse Connection",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=shkYVWBiF54",
+      "embed_url": "https://www.youtube.com/embed/shkYVWBiF54",
+      "thumbnail": "https://i.ytimg.com/vi/shkYVWBiF54/hqdefault.jpg",
+      "site_titles": [
+        "The Truth About Horse Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5BX9ShS_xUo",
+      "youtube_title": "Patience & Consistency: Transform Your Horse Training!",
+      "channel": "Rock Solid Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=5BX9ShS_xUo",
+      "embed_url": "https://www.youtube.com/embed/5BX9ShS_xUo",
+      "thumbnail": "https://i.ytimg.com/vi/5BX9ShS_xUo/hqdefault.jpg",
+      "site_titles": [
+        "Patience & Consistency: Transform Your Horse Training!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QmxsnTGLDUg",
+      "youtube_title": "Introduction to our Relationship Path",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=QmxsnTGLDUg",
+      "embed_url": "https://www.youtube.com/embed/QmxsnTGLDUg",
+      "thumbnail": "https://i.ytimg.com/vi/QmxsnTGLDUg/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to our Relationship Path"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JfOPYuTSyC8",
+      "youtube_title": "5 signs your horse likes you",
+      "channel": "Skip Slusher Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=JfOPYuTSyC8",
+      "embed_url": "https://www.youtube.com/embed/JfOPYuTSyC8",
+      "thumbnail": "https://i.ytimg.com/vi/JfOPYuTSyC8/hqdefault.jpg",
+      "site_titles": [
+        "5 signs your horse likes you"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3ojmWjn8fwM",
+      "youtube_title": "Clinton Anderson: Don't Expect Immediate Perfection - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=3ojmWjn8fwM",
+      "embed_url": "https://www.youtube.com/embed/3ojmWjn8fwM",
+      "thumbnail": "https://i.ytimg.com/vi/3ojmWjn8fwM/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Don't Expect Immediate Perfection - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_6KveqVc6Vg",
+      "youtube_title": "Your Horse Isn't Listening? Try This Instead of Kicking",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=_6KveqVc6Vg",
+      "embed_url": "https://www.youtube.com/embed/_6KveqVc6Vg",
+      "thumbnail": "https://i.ytimg.com/vi/_6KveqVc6Vg/hqdefault.jpg",
+      "site_titles": [
+        "Your Horse Isn't Listening? Try This Instead of Kicking"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SxAsNCpQotw",
+      "youtube_title": "Matching Steps to Build Trust and Connection",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=SxAsNCpQotw",
+      "embed_url": "https://www.youtube.com/embed/SxAsNCpQotw",
+      "thumbnail": "https://i.ytimg.com/vi/SxAsNCpQotw/hqdefault.jpg",
+      "site_titles": [
+        "Matching Steps to Build Trust and Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eK5jOn3DW-4",
+      "youtube_title": "5 Secrets to True Leadership with Horses | What Horses Actually Need From You",
+      "channel": "Tao of Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=eK5jOn3DW-4",
+      "embed_url": "https://www.youtube.com/embed/eK5jOn3DW-4",
+      "thumbnail": "https://i.ytimg.com/vi/eK5jOn3DW-4/hqdefault.jpg",
+      "site_titles": [
+        "5 Secrets to True Leadership with Horses | What Horses Actually Need From You"
       ],
       "sections": [
         "qa"
