@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2875,
+  "count": 2889,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -48417,6 +48417,230 @@
       "thumbnail": "https://i.ytimg.com/vi/7u5aGNoFWHM/hqdefault.jpg",
       "site_titles": [
         "Therapeutic Riding and Multiple Sclerosis"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eWkuX4YjUi8",
+      "youtube_title": "Equestrian vaulting: the horse sport you can start without riding",
+      "channel": "Curious Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=eWkuX4YjUi8",
+      "embed_url": "https://www.youtube.com/embed/eWkuX4YjUi8",
+      "thumbnail": "https://i.ytimg.com/vi/eWkuX4YjUi8/hqdefault.jpg",
+      "site_titles": [
+        "Equestrian vaulting: the horse sport you can start without riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K1ncALze074",
+      "youtube_title": "FIRST EQUESTRIAN VAULTING LESSON - Full Vaulting Lesson Voiceover",
+      "channel": "Desert Dreaming Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=K1ncALze074",
+      "embed_url": "https://www.youtube.com/embed/K1ncALze074",
+      "thumbnail": "https://i.ytimg.com/vi/K1ncALze074/hqdefault.jpg",
+      "site_titles": [
+        "FIRST EQUESTRIAN VAULTING LESSON - Full Vaulting Lesson Voiceover"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QNCWR0vOIpg",
+      "youtube_title": "Using a Vaulting Surcicle, bitless, for the first time for both horse and owner - part 1 groundwork",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=QNCWR0vOIpg",
+      "embed_url": "https://www.youtube.com/embed/QNCWR0vOIpg",
+      "thumbnail": "https://i.ytimg.com/vi/QNCWR0vOIpg/hqdefault.jpg",
+      "site_titles": [
+        "Using a Vaulting Surcicle, bitless, for the first time for both horse and owner - part 1 groundwork"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9FqjzwDN748",
+      "youtube_title": "Horse Vaulting Proves Therapeutic for These Kids",
+      "channel": "b/60",
+      "youtube_url": "https://www.youtube.com/watch?v=9FqjzwDN748",
+      "embed_url": "https://www.youtube.com/embed/9FqjzwDN748",
+      "thumbnail": "https://i.ytimg.com/vi/9FqjzwDN748/hqdefault.jpg",
+      "site_titles": [
+        "Horse Vaulting Proves Therapeutic for These Kids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SN8h6TQGXt4",
+      "youtube_title": "The rules of Vaulting | FEI World Equestrian Games™ Tryon 2018",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=SN8h6TQGXt4",
+      "embed_url": "https://www.youtube.com/embed/SN8h6TQGXt4",
+      "thumbnail": "https://i.ytimg.com/vi/SN8h6TQGXt4/hqdefault.jpg",
+      "site_titles": [
+        "The rules of Vaulting | FEI World Equestrian Games™ Tryon 2018"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "No8Cu9lS1J4",
+      "youtube_title": "How to become a World Champion Squad Vaulter - w/ Jana Zelesny | Inside the Vault | Guest Vlog",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=No8Cu9lS1J4",
+      "embed_url": "https://www.youtube.com/embed/No8Cu9lS1J4",
+      "thumbnail": "https://i.ytimg.com/vi/No8Cu9lS1J4/hqdefault.jpg",
+      "site_titles": [
+        "How to become a World Champion Squad Vaulter - w/ Jana Zelesny | Inside the Vault | Guest Vlog"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6G2yws3U0MM",
+      "youtube_title": "guide on how to do vaulting compulsory",
+      "channel": "ash vaulting",
+      "youtube_url": "https://www.youtube.com/watch?v=6G2yws3U0MM",
+      "embed_url": "https://www.youtube.com/embed/6G2yws3U0MM",
+      "thumbnail": "https://i.ytimg.com/vi/6G2yws3U0MM/hqdefault.jpg",
+      "site_titles": [
+        "guide on how to do vaulting compulsory"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H44OGjdq0cw",
+      "youtube_title": "Equestrian vaulting 2022 AVA/USEF National Championship Silver Compulsories R2",
+      "channel": "Raelyn Snyder",
+      "youtube_url": "https://www.youtube.com/watch?v=H44OGjdq0cw",
+      "embed_url": "https://www.youtube.com/embed/H44OGjdq0cw",
+      "thumbnail": "https://i.ytimg.com/vi/H44OGjdq0cw/hqdefault.jpg",
+      "site_titles": [
+        "Equestrian vaulting 2022 AVA/USEF National Championship Silver Compulsories R2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FXQRQjlJHJg",
+      "youtube_title": "Drill for Compulsory Mount",
+      "channel": "Mile High Vaulters",
+      "youtube_url": "https://www.youtube.com/watch?v=FXQRQjlJHJg",
+      "embed_url": "https://www.youtube.com/embed/FXQRQjlJHJg",
+      "thumbnail": "https://i.ytimg.com/vi/FXQRQjlJHJg/hqdefault.jpg",
+      "site_titles": [
+        "Drill for Compulsory Mount"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v6woRPvTjfY",
+      "youtube_title": "Vaulting Tack",
+      "channel": "EVA BC Education",
+      "youtube_url": "https://www.youtube.com/watch?v=v6woRPvTjfY",
+      "embed_url": "https://www.youtube.com/embed/v6woRPvTjfY",
+      "thumbnail": "https://i.ytimg.com/vi/v6woRPvTjfY/hqdefault.jpg",
+      "site_titles": [
+        "Vaulting Tack"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UcsvbmRmTbU",
+      "youtube_title": "What is Equestrian Vaulting?",
+      "channel": "JB",
+      "youtube_url": "https://www.youtube.com/watch?v=UcsvbmRmTbU",
+      "embed_url": "https://www.youtube.com/embed/UcsvbmRmTbU",
+      "thumbnail": "https://i.ytimg.com/vi/UcsvbmRmTbU/hqdefault.jpg",
+      "site_titles": [
+        "What is Equestrian Vaulting?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SnsYxrPLVBg",
+      "youtube_title": "Pas de Deux perfection 💯 I Senior Freestyle I FEI Vaulting European Championship (SWE)",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=SnsYxrPLVBg",
+      "embed_url": "https://www.youtube.com/embed/SnsYxrPLVBg",
+      "thumbnail": "https://i.ytimg.com/vi/SnsYxrPLVBg/hqdefault.jpg",
+      "site_titles": [
+        "Pas de Deux perfection 💯 I Senior Freestyle I FEI Vaulting European Championship (SWE)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7mf7QTHzIM4",
+      "youtube_title": "Horse vaulting drills and conditioning",
+      "channel": "Stefania Vassallo Workout!",
+      "youtube_url": "https://www.youtube.com/watch?v=7mf7QTHzIM4",
+      "embed_url": "https://www.youtube.com/embed/7mf7QTHzIM4",
+      "thumbnail": "https://i.ytimg.com/vi/7mf7QTHzIM4/hqdefault.jpg",
+      "site_titles": [
+        "Horse vaulting drills and conditioning"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OeOlYZvFSxM",
+      "youtube_title": "Renegades||Vaulting Music Video",
+      "channel": "Equine Skylar",
+      "youtube_url": "https://www.youtube.com/watch?v=OeOlYZvFSxM",
+      "embed_url": "https://www.youtube.com/embed/OeOlYZvFSxM",
+      "thumbnail": "https://i.ytimg.com/vi/OeOlYZvFSxM/hqdefault.jpg",
+      "site_titles": [
+        "Renegades||Vaulting Music Video"
       ],
       "sections": [
         "qa"
