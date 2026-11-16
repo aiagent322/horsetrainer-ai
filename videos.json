@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1066,
+  "count": 1164,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -325,7 +325,6 @@
         "qa/groundwork-longing/is-lunging-bad-for-young-horses/index.html",
         "qa/horsemanship/what-are-the-tips-for-trailer-loading-a-young-horse/index.html",
         "qa/horsemanship/when-should-you-start-wearing-spurs-on-a-young-horse-in-training/index.html",
-        "qa/obstacle-training/can-obstacle-training-help-young-horses/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
         "qa/training-principles/how-do-you-determine-the-right-training-pace-for-an-individual-green-horse/index.html",
         "qa/training-principles/how-do-you-develop-a-young-horses-balance-and-straightness-under-saddle/index.html",
@@ -389,7 +388,6 @@
         "qa/hunter-jumper/how-do-you-build-confidence-in-a-horse-that-is-nervous-about-jumping/index.html",
         "qa/hunter-jumper/how-do-you-fix-a-horse-that-spooks-at-fences/index.html",
         "qa/lateral-work-suppling/index.html",
-        "qa/obstacle-training/how-do-you-teach-a-horse-to-stand-calmly-by-a-mailbox/index.html",
         "qa/problem-solving-under-saddle/how-do-you-ride-a-horse-through-a-spook-safely-without-making-it-worse/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
         "qa/safety/my-horse-is-spooky-under-saddle-and-even-when-getting-saddled-what-can-we-do/index.html",
@@ -1066,8 +1064,6 @@
       "pages": [
         "qa/horsemanship/how-do-i-develop-the-backup-required-in-a-western-horsemanship-pattern/index.html",
         "qa/horsemanship/when-backing-a-horse-how-do-you-control-the-speed/index.html",
-        "qa/obstacle-training/how-do-you-teach-a-horse-to-back-through-an-l-shape/index.html",
-        "qa/obstacle-training/how-do-you-teach-a-horse-to-back-through-obstacles/index.html",
         "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html",
         "qa/trail/how-do-i-train-a-horse-for-the-back-through-straight-chute-obstacle/index.html",
         "qa/trail/how-do-i-train-a-horse-to-back-through-an-l-shaped-obstacle-or-chute/index.html",
@@ -19665,6 +19661,1574 @@
       "thumbnail": "https://i.ytimg.com/vi/Kk4zR9xVFO8/hqdefault.jpg",
       "site_titles": [
         "Eclectic Conversations - Tom Dorrance More Than a Horseman with Jim Overstreet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Qlpnks-m4vg",
+      "youtube_title": "Cross Ditches Easily On Your Horse",
+      "channel": "HorseBizWhisperer",
+      "youtube_url": "https://www.youtube.com/watch?v=Qlpnks-m4vg",
+      "embed_url": "https://www.youtube.com/embed/Qlpnks-m4vg",
+      "thumbnail": "https://i.ytimg.com/vi/Qlpnks-m4vg/hqdefault.jpg",
+      "site_titles": [
+        "Cross Ditches Easily On Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_hvufPq64iA",
+      "youtube_title": "Starting Beau - teaching a horse to approach a scary object",
+      "channel": "MC Equine horseman and farrier",
+      "youtube_url": "https://www.youtube.com/watch?v=_hvufPq64iA",
+      "embed_url": "https://www.youtube.com/embed/_hvufPq64iA",
+      "thumbnail": "https://i.ytimg.com/vi/_hvufPq64iA/hqdefault.jpg",
+      "site_titles": [
+        "Starting Beau - teaching a horse to approach a scary object"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "roHFiV1sfdc",
+      "youtube_title": "Overcoming the Teeter-Totter Obstacle",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=roHFiV1sfdc",
+      "embed_url": "https://www.youtube.com/embed/roHFiV1sfdc",
+      "thumbnail": "https://i.ytimg.com/vi/roHFiV1sfdc/hqdefault.jpg",
+      "site_titles": [
+        "Overcoming the Teeter-Totter Obstacle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a2HnUUvBMxo",
+      "youtube_title": "RFH Horse Training: Intro to Obstacles",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=a2HnUUvBMxo",
+      "embed_url": "https://www.youtube.com/embed/a2HnUUvBMxo",
+      "thumbnail": "https://i.ytimg.com/vi/a2HnUUvBMxo/hqdefault.jpg",
+      "site_titles": [
+        "RFH Horse Training: Intro to Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HcLSY0zL3UE",
+      "youtube_title": "Guiding your Horse through an Obstacle Course",
+      "channel": "Helen Woodward Animal Center",
+      "youtube_url": "https://www.youtube.com/watch?v=HcLSY0zL3UE",
+      "embed_url": "https://www.youtube.com/embed/HcLSY0zL3UE",
+      "thumbnail": "https://i.ytimg.com/vi/HcLSY0zL3UE/hqdefault.jpg",
+      "site_titles": [
+        "Guiding your Horse through an Obstacle Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KbkIE9rffyA",
+      "youtube_title": "How To Teach Your Horse to Cross a Bridge",
+      "channel": "Missy Wryn",
+      "youtube_url": "https://www.youtube.com/watch?v=KbkIE9rffyA",
+      "embed_url": "https://www.youtube.com/embed/KbkIE9rffyA",
+      "thumbnail": "https://i.ytimg.com/vi/KbkIE9rffyA/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Horse to Cross a Bridge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RiS6a66-EOk",
+      "youtube_title": "Building Your Horses Confidence in You",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=RiS6a66-EOk",
+      "embed_url": "https://www.youtube.com/embed/RiS6a66-EOk",
+      "thumbnail": "https://i.ytimg.com/vi/RiS6a66-EOk/hqdefault.jpg",
+      "site_titles": [
+        "Building Your Horses Confidence in You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KkX9T3SdkMk",
+      "youtube_title": "Bud Lyon: Schooling Ranch Riding Obstacles",
+      "channel": "Horse and Rider Magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=KkX9T3SdkMk",
+      "embed_url": "https://www.youtube.com/embed/KkX9T3SdkMk",
+      "thumbnail": "https://i.ytimg.com/vi/KkX9T3SdkMk/hqdefault.jpg",
+      "site_titles": [
+        "Bud Lyon: Schooling Ranch Riding Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YtLHTItM8vQ",
+      "youtube_title": "A Young Horse With Anxiety Works Through Obstacles",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=YtLHTItM8vQ",
+      "embed_url": "https://www.youtube.com/embed/YtLHTItM8vQ",
+      "thumbnail": "https://i.ytimg.com/vi/YtLHTItM8vQ/hqdefault.jpg",
+      "site_titles": [
+        "A Young Horse With Anxiety Works Through Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SXfHi0VgjFs",
+      "youtube_title": "How to Desensitize ANY Horse in 4 simple steps!",
+      "channel": "Scott Purdum",
+      "youtube_url": "https://www.youtube.com/watch?v=SXfHi0VgjFs",
+      "embed_url": "https://www.youtube.com/embed/SXfHi0VgjFs",
+      "thumbnail": "https://i.ytimg.com/vi/SXfHi0VgjFs/hqdefault.jpg",
+      "site_titles": [
+        "How to Desensitize ANY Horse in 4 simple steps!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "shUOo24kGyc",
+      "youtube_title": "Horse Groundwork Exercises for Building Trust",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=shUOo24kGyc",
+      "embed_url": "https://www.youtube.com/embed/shUOo24kGyc",
+      "thumbnail": "https://i.ytimg.com/vi/shUOo24kGyc/hqdefault.jpg",
+      "site_titles": [
+        "Horse Groundwork Exercises for Building Trust"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RvhwlJ5kTV8",
+      "youtube_title": "Horse Training Videos: How To Cross Obstacles On The Trail",
+      "channel": "Manna Pro Official",
+      "youtube_url": "https://www.youtube.com/watch?v=RvhwlJ5kTV8",
+      "embed_url": "https://www.youtube.com/embed/RvhwlJ5kTV8",
+      "thumbnail": "https://i.ytimg.com/vi/RvhwlJ5kTV8/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Videos: How To Cross Obstacles On The Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bnEUjzqSeRU",
+      "youtube_title": "Desensitize your Horse: Flag Groundwork",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=bnEUjzqSeRU",
+      "embed_url": "https://www.youtube.com/embed/bnEUjzqSeRU",
+      "thumbnail": "https://i.ytimg.com/vi/bnEUjzqSeRU/hqdefault.jpg",
+      "site_titles": [
+        "Desensitize your Horse: Flag Groundwork"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aOjRcZpALDk",
+      "youtube_title": "I was recently asked my thoughts on \"patience poles\".",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=aOjRcZpALDk",
+      "embed_url": "https://www.youtube.com/embed/aOjRcZpALDk",
+      "thumbnail": "https://i.ytimg.com/vi/aOjRcZpALDk/hqdefault.jpg",
+      "site_titles": [
+        "I was recently asked my thoughts on \"patience poles\"."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7PbMXigu8yQ",
+      "youtube_title": "Horses and scary objects: training tip with Mark Langley",
+      "channel": "Mark Langley",
+      "youtube_url": "https://www.youtube.com/watch?v=7PbMXigu8yQ",
+      "embed_url": "https://www.youtube.com/embed/7PbMXigu8yQ",
+      "thumbnail": "https://i.ytimg.com/vi/7PbMXigu8yQ/hqdefault.jpg",
+      "site_titles": [
+        "Horses and scary objects: training tip with Mark Langley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "adKJ-Sn4vgk",
+      "youtube_title": "The Ultimate Guide To Beginning Tarp Training Your Horse",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=adKJ-Sn4vgk",
+      "embed_url": "https://www.youtube.com/embed/adKJ-Sn4vgk",
+      "thumbnail": "https://i.ytimg.com/vi/adKJ-Sn4vgk/hqdefault.jpg",
+      "site_titles": [
+        "The Ultimate Guide To Beginning Tarp Training Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iKMupayR5bk",
+      "youtube_title": "How to Train Your Horse With Simple Obstacles",
+      "channel": "Tack Room Buzz at Equefit Club",
+      "youtube_url": "https://www.youtube.com/watch?v=iKMupayR5bk",
+      "embed_url": "https://www.youtube.com/embed/iKMupayR5bk",
+      "thumbnail": "https://i.ytimg.com/vi/iKMupayR5bk/hqdefault.jpg",
+      "site_titles": [
+        "How to Train Your Horse With Simple Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_hiXCpq2Czs",
+      "youtube_title": "Horse Riding Helmet Safety - Is your helmet safe?",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=_hiXCpq2Czs",
+      "embed_url": "https://www.youtube.com/embed/_hiXCpq2Czs",
+      "thumbnail": "https://i.ytimg.com/vi/_hiXCpq2Czs/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Helmet Safety - Is your helmet safe?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OjUDblPSwc4",
+      "youtube_title": "Simple DIY Horse Obstacle Course",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=OjUDblPSwc4",
+      "embed_url": "https://www.youtube.com/embed/OjUDblPSwc4",
+      "thumbnail": "https://i.ytimg.com/vi/OjUDblPSwc4/hqdefault.jpg",
+      "site_titles": [
+        "Simple DIY Horse Obstacle Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SVCm1RBbEEY",
+      "youtube_title": "How to teach a horse more confidence with trail obstacles",
+      "channel": "Life with Peter",
+      "youtube_url": "https://www.youtube.com/watch?v=SVCm1RBbEEY",
+      "embed_url": "https://www.youtube.com/embed/SVCm1RBbEEY",
+      "thumbnail": "https://i.ytimg.com/vi/SVCm1RBbEEY/hqdefault.jpg",
+      "site_titles": [
+        "How to teach a horse more confidence with trail obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "anEW90iYs9s",
+      "youtube_title": "LET'S DISCOVER TREC - THE OBSTACLE COURSE FOR HORSES (WINTER SERIES) ",
+      "channel": "The Imperfect Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=anEW90iYs9s",
+      "embed_url": "https://www.youtube.com/embed/anEW90iYs9s",
+      "thumbnail": "https://i.ytimg.com/vi/anEW90iYs9s/hqdefault.jpg",
+      "site_titles": [
+        "LET'S DISCOVER TREC - THE OBSTACLE COURSE FOR HORSES (WINTER SERIES)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5NND9aojDHs",
+      "youtube_title": "How To Teach Your Horse To Pick Up Your Hat - Natural Behaviors & Operate Conditions",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=5NND9aojDHs",
+      "embed_url": "https://www.youtube.com/embed/5NND9aojDHs",
+      "thumbnail": "https://i.ytimg.com/vi/5NND9aojDHs/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Horse To Pick Up Your Hat - Natural Behaviors & Operate Conditions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8rPp0qUb5dc",
+      "youtube_title": "Backing up and 'L' Shape",
+      "channel": "Balanced Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=8rPp0qUb5dc",
+      "embed_url": "https://www.youtube.com/embed/8rPp0qUb5dc",
+      "thumbnail": "https://i.ytimg.com/vi/8rPp0qUb5dc/hqdefault.jpg",
+      "site_titles": [
+        "Backing up and 'L' Shape"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TfYwMu5JzXs",
+      "youtube_title": "Advanced Trail - Back Through L",
+      "channel": "WesternHorseUK",
+      "youtube_url": "https://www.youtube.com/watch?v=TfYwMu5JzXs",
+      "embed_url": "https://www.youtube.com/embed/TfYwMu5JzXs",
+      "thumbnail": "https://i.ytimg.com/vi/TfYwMu5JzXs/hqdefault.jpg",
+      "site_titles": [
+        "Advanced Trail - Back Through L"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Wf2__8taVss",
+      "youtube_title": "Introduction to Carrying a flag in the saddle - Tips for a safe and successful session",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Wf2__8taVss",
+      "embed_url": "https://www.youtube.com/embed/Wf2__8taVss",
+      "thumbnail": "https://i.ytimg.com/vi/Wf2__8taVss/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Carrying a flag in the saddle - Tips for a safe and successful session"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HvpDL0rmXAw",
+      "youtube_title": "Teaching Horse to Cross Bridge",
+      "channel": "Truly Lindahl",
+      "youtube_url": "https://www.youtube.com/watch?v=HvpDL0rmXAw",
+      "embed_url": "https://www.youtube.com/embed/HvpDL0rmXAw",
+      "thumbnail": "https://i.ytimg.com/vi/HvpDL0rmXAw/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Horse to Cross Bridge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tjwuwm5GFSg",
+      "youtube_title": "Clinton Anderson: Teach Your Horse to Cross Water - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=tjwuwm5GFSg",
+      "embed_url": "https://www.youtube.com/embed/tjwuwm5GFSg",
+      "thumbnail": "https://i.ytimg.com/vi/tjwuwm5GFSg/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Teach Your Horse to Cross Water - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q4fUsbbeawE",
+      "youtube_title": "How to Teach a Horse to Drag a Log Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=q4fUsbbeawE",
+      "embed_url": "https://www.youtube.com/embed/q4fUsbbeawE",
+      "thumbnail": "https://i.ytimg.com/vi/q4fUsbbeawE/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Drag a Log Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0x28ysdAEwQ",
+      "youtube_title": "How to Get Your Horses Head Down",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=0x28ysdAEwQ",
+      "embed_url": "https://www.youtube.com/embed/0x28ysdAEwQ",
+      "thumbnail": "https://i.ytimg.com/vi/0x28ysdAEwQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Get Your Horses Head Down"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5VglpCxoObE",
+      "youtube_title": "How to Teach your Horse to help you open a gate",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=5VglpCxoObE",
+      "embed_url": "https://www.youtube.com/embed/5VglpCxoObE",
+      "thumbnail": "https://i.ytimg.com/vi/5VglpCxoObE/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach your Horse to help you open a gate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ShWhVnAQuQg",
+      "youtube_title": "Walking to Success: How to Use Walk Poles to Improve Your Horse's Gait",
+      "channel": "Champions Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=ShWhVnAQuQg",
+      "embed_url": "https://www.youtube.com/embed/ShWhVnAQuQg",
+      "thumbnail": "https://i.ytimg.com/vi/ShWhVnAQuQg/hqdefault.jpg",
+      "site_titles": [
+        "Walking to Success: How to Use Walk Poles to Improve Your Horse's Gait"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Tnfyb_G-aBg",
+      "youtube_title": "How To: Teach Your Horse to Play Ball (+Practical Uses!)",
+      "channel": "Embodied Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Tnfyb_G-aBg",
+      "embed_url": "https://www.youtube.com/embed/Tnfyb_G-aBg",
+      "thumbnail": "https://i.ytimg.com/vi/Tnfyb_G-aBg/hqdefault.jpg",
+      "site_titles": [
+        "How To: Teach Your Horse to Play Ball (+Practical Uses!)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gz8WR7THJug",
+      "youtube_title": "Teach Your Horse to Side Pass Over a Pole (Step-by-Step!)",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=gz8WR7THJug",
+      "embed_url": "https://www.youtube.com/embed/gz8WR7THJug",
+      "thumbnail": "https://i.ytimg.com/vi/gz8WR7THJug/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse to Side Pass Over a Pole (Step-by-Step!)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Yr6clREje9Q",
+      "youtube_title": "Working with Rocky Mountain Horse on mailbox",
+      "channel": "Laura Plumley",
+      "youtube_url": "https://www.youtube.com/watch?v=Yr6clREje9Q",
+      "embed_url": "https://www.youtube.com/embed/Yr6clREje9Q",
+      "thumbnail": "https://i.ytimg.com/vi/Yr6clREje9Q/hqdefault.jpg",
+      "site_titles": [
+        "Working with Rocky Mountain Horse on mailbox"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "x9FIhtp0LQg",
+      "youtube_title": "Teach A Horse to Stand Still While Mounting 😀",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=x9FIhtp0LQg",
+      "embed_url": "https://www.youtube.com/embed/x9FIhtp0LQg",
+      "thumbnail": "https://i.ytimg.com/vi/x9FIhtp0LQg/hqdefault.jpg",
+      "site_titles": [
+        "Teach A Horse to Stand Still While Mounting 😀"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "utWBia9lUoo",
+      "youtube_title": "How to teach your horse to: step on a platform",
+      "channel": "ThePinkPonie",
+      "youtube_url": "https://www.youtube.com/watch?v=utWBia9lUoo",
+      "embed_url": "https://www.youtube.com/embed/utWBia9lUoo",
+      "thumbnail": "https://i.ytimg.com/vi/utWBia9lUoo/hqdefault.jpg",
+      "site_titles": [
+        "How to teach your horse to: step on a platform"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Pgx1rERp2Q0",
+      "youtube_title": "How to Teach Your Horse Stand on a Pedestal",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=Pgx1rERp2Q0",
+      "embed_url": "https://www.youtube.com/embed/Pgx1rERp2Q0",
+      "thumbnail": "https://i.ytimg.com/vi/Pgx1rERp2Q0/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse Stand on a Pedestal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "x6gRn1IZPt4",
+      "youtube_title": "ATHRA Trail Training Tips, Week Five - Obstacles",
+      "channel": "Australian Trail Horse Riders Association",
+      "youtube_url": "https://www.youtube.com/watch?v=x6gRn1IZPt4",
+      "embed_url": "https://www.youtube.com/embed/x6gRn1IZPt4",
+      "thumbnail": "https://i.ytimg.com/vi/x6gRn1IZPt4/hqdefault.jpg",
+      "site_titles": [
+        "ATHRA Trail Training Tips, Week Five - Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f2nRE9U83OA",
+      "youtube_title": "Ken McNabb: Extreme Trail Riding - Uphill & Downhill",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=f2nRE9U83OA",
+      "embed_url": "https://www.youtube.com/embed/f2nRE9U83OA",
+      "thumbnail": "https://i.ytimg.com/vi/f2nRE9U83OA/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Extreme Trail Riding - Uphill & Downhill"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6p_v-if5330",
+      "youtube_title": "Backing your horse into a chute for a trail pattern! #horses #animals #horseriding",
+      "channel": "Double Z Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=6p_v-if5330",
+      "embed_url": "https://www.youtube.com/embed/6p_v-if5330",
+      "thumbnail": "https://i.ytimg.com/vi/6p_v-if5330/hqdefault.jpg",
+      "site_titles": [
+        "Backing your horse into a chute for a trail pattern!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vjYqkocVSkA",
+      "youtube_title": "Horse Obstacles - Cowboy Curtains with Jesse Krier - Greatmats Horse Training Series",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=vjYqkocVSkA",
+      "embed_url": "https://www.youtube.com/embed/vjYqkocVSkA",
+      "thumbnail": "https://i.ytimg.com/vi/vjYqkocVSkA/hqdefault.jpg",
+      "site_titles": [
+        "Horse Obstacles - Cowboy Curtains with Jesse Krier - Greatmats Horse Training Series"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XULI1lQqvOk",
+      "youtube_title": "Extreme Horse Obstacle Training",
+      "channel": "Sandy Pikturna",
+      "youtube_url": "https://www.youtube.com/watch?v=XULI1lQqvOk",
+      "embed_url": "https://www.youtube.com/embed/XULI1lQqvOk",
+      "thumbnail": "https://i.ytimg.com/vi/XULI1lQqvOk/hqdefault.jpg",
+      "site_titles": [
+        "Extreme Horse Obstacle Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WcQA6cwtJwY",
+      "youtube_title": "How To Bombproof A Horse In 3 Steps (I GOT KICKED)",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=WcQA6cwtJwY",
+      "embed_url": "https://www.youtube.com/embed/WcQA6cwtJwY",
+      "thumbnail": "https://i.ytimg.com/vi/WcQA6cwtJwY/hqdefault.jpg",
+      "site_titles": [
+        "How To Bombproof A Horse In 3 Steps (I GOT KICKED)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cdoIdAD6jaQ",
+      "youtube_title": "Strategies for Overcoming Fear in the Saddle",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=cdoIdAD6jaQ",
+      "embed_url": "https://www.youtube.com/embed/cdoIdAD6jaQ",
+      "thumbnail": "https://i.ytimg.com/vi/cdoIdAD6jaQ/hqdefault.jpg",
+      "site_titles": [
+        "Strategies for Overcoming Fear in the Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zw1eeJxRJP8",
+      "youtube_title": "Trail Judging Class of 4",
+      "channel": "Clarendon Horse Judging",
+      "youtube_url": "https://www.youtube.com/watch?v=zw1eeJxRJP8",
+      "embed_url": "https://www.youtube.com/embed/zw1eeJxRJP8",
+      "thumbnail": "https://i.ytimg.com/vi/zw1eeJxRJP8/hqdefault.jpg",
+      "site_titles": [
+        "Trail Judging Class of 4"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YZFjsf5t0cM",
+      "youtube_title": "Horse Groundwork for RESPECT (Exercises That Work)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=YZFjsf5t0cM",
+      "embed_url": "https://www.youtube.com/embed/YZFjsf5t0cM",
+      "thumbnail": "https://i.ytimg.com/vi/YZFjsf5t0cM/hqdefault.jpg",
+      "site_titles": [
+        "Horse Groundwork for RESPECT (Exercises That Work)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OfTVo8ZEJd4",
+      "youtube_title": "Beginner Horse Riding Obstacles",
+      "channel": "Horse Trails and Pony Tails",
+      "youtube_url": "https://www.youtube.com/watch?v=OfTVo8ZEJd4",
+      "embed_url": "https://www.youtube.com/embed/OfTVo8ZEJd4",
+      "thumbnail": "https://i.ytimg.com/vi/OfTVo8ZEJd4/hqdefault.jpg",
+      "site_titles": [
+        "Beginner Horse Riding Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6Y9IdLwWa_c",
+      "youtube_title": "How to Teach your Horse Patience on the Ground",
+      "channel": "Panic-Free Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=6Y9IdLwWa_c",
+      "embed_url": "https://www.youtube.com/embed/6Y9IdLwWa_c",
+      "thumbnail": "https://i.ytimg.com/vi/6Y9IdLwWa_c/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach your Horse Patience on the Ground"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ggw7menMnQM",
+      "youtube_title": "Building a DIY Horse Bridge Obstacle From Scratch",
+      "channel": "From Scratch Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=Ggw7menMnQM",
+      "embed_url": "https://www.youtube.com/embed/Ggw7menMnQM",
+      "thumbnail": "https://i.ytimg.com/vi/Ggw7menMnQM/hqdefault.jpg",
+      "site_titles": [
+        "Building a DIY Horse Bridge Obstacle From Scratch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R0FL89pC9NQ",
+      "youtube_title": "everything YOU need to know before choosing the right helmet with Harrison Ashton & KASK",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=R0FL89pC9NQ",
+      "embed_url": "https://www.youtube.com/embed/R0FL89pC9NQ",
+      "thumbnail": "https://i.ytimg.com/vi/R0FL89pC9NQ/hqdefault.jpg",
+      "site_titles": [
+        "everything YOU need to know before choosing the right helmet with Harrison Ashton & KASK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2Q7ZAg8-XWY",
+      "youtube_title": "Teaching a horse to walk over a bridge",
+      "channel": "Becky Amio",
+      "youtube_url": "https://www.youtube.com/watch?v=2Q7ZAg8-XWY",
+      "embed_url": "https://www.youtube.com/embed/2Q7ZAg8-XWY",
+      "thumbnail": "https://i.ytimg.com/vi/2Q7ZAg8-XWY/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a horse to walk over a bridge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "svRi_j0w0HE",
+      "youtube_title": "\"Cody\" part 11 - Teaching A Horse Not To Refuse Minor Obstacles",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=svRi_j0w0HE",
+      "embed_url": "https://www.youtube.com/embed/svRi_j0w0HE",
+      "thumbnail": "https://i.ytimg.com/vi/svRi_j0w0HE/hqdefault.jpg",
+      "site_titles": [
+        "\"Cody\" part 11 - Teaching A Horse Not To Refuse Minor Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yO7LgjABLIg",
+      "youtube_title": "How To Teach Your Horse To Cross Water",
+      "channel": "Scott Purdum",
+      "youtube_url": "https://www.youtube.com/watch?v=yO7LgjABLIg",
+      "embed_url": "https://www.youtube.com/embed/yO7LgjABLIg",
+      "thumbnail": "https://i.ytimg.com/vi/yO7LgjABLIg/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Horse To Cross Water"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cJ0o3ql5--A",
+      "youtube_title": "Working Equitation Obstacles Intro by Working Equitation Simplified.",
+      "channel": "Trish Hyatt~WE Simplified",
+      "youtube_url": "https://www.youtube.com/watch?v=cJ0o3ql5--A",
+      "embed_url": "https://www.youtube.com/embed/cJ0o3ql5--A",
+      "thumbnail": "https://i.ytimg.com/vi/cJ0o3ql5--A/hqdefault.jpg",
+      "site_titles": [
+        "Working Equitation Obstacles Intro by Working Equitation Simplified."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fmQeNy25iTI",
+      "youtube_title": "Mark Bolender Extreme Trail Challenge Speed Run Nov 8 2009",
+      "channel": "GotHorseCents",
+      "youtube_url": "https://www.youtube.com/watch?v=fmQeNy25iTI",
+      "embed_url": "https://www.youtube.com/embed/fmQeNy25iTI",
+      "thumbnail": "https://i.ytimg.com/vi/fmQeNy25iTI/hqdefault.jpg",
+      "site_titles": [
+        "Mark Bolender Extreme Trail Challenge Speed Run Nov 8 2009"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DAlxpQESiwQ",
+      "youtube_title": "Horse training day. Bicycle desensitization ",
+      "channel": "Riding with Dude",
+      "youtube_url": "https://www.youtube.com/watch?v=DAlxpQESiwQ",
+      "embed_url": "https://www.youtube.com/embed/DAlxpQESiwQ",
+      "thumbnail": "https://i.ytimg.com/vi/DAlxpQESiwQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse training day. Bicycle desensitization"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aKg3GCa8ep0",
+      "youtube_title": "The most important lesson your horse will ever Learn",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=aKg3GCa8ep0",
+      "embed_url": "https://www.youtube.com/embed/aKg3GCa8ep0",
+      "thumbnail": "https://i.ytimg.com/vi/aKg3GCa8ep0/hqdefault.jpg",
+      "site_titles": [
+        "The most important lesson your horse will ever Learn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zeMYTxuz_cU",
+      "youtube_title": "What to do when a horse refuses a groundwork obstacle and how to get though it",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=zeMYTxuz_cU",
+      "embed_url": "https://www.youtube.com/embed/zeMYTxuz_cU",
+      "thumbnail": "https://i.ytimg.com/vi/zeMYTxuz_cU/hqdefault.jpg",
+      "site_titles": [
+        "What to do when a horse refuses a groundwork obstacle and how to get though it"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FkfFj25mM2Q",
+      "youtube_title": "Approach & Retreat",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=FkfFj25mM2Q",
+      "embed_url": "https://www.youtube.com/embed/FkfFj25mM2Q",
+      "thumbnail": "https://i.ytimg.com/vi/FkfFj25mM2Q/hqdefault.jpg",
+      "site_titles": [
+        "Approach & Retreat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OtiQ6rnECmA",
+      "youtube_title": "Introducing the Tarp to Your Horse",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=OtiQ6rnECmA",
+      "embed_url": "https://www.youtube.com/embed/OtiQ6rnECmA",
+      "thumbnail": "https://i.ytimg.com/vi/OtiQ6rnECmA/hqdefault.jpg",
+      "site_titles": [
+        "Introducing the Tarp to Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LwW_lntURiM",
+      "youtube_title": "Get over any obstacle with your horse with these top training tips!",
+      "channel": "Your Horsemanship TV",
+      "youtube_url": "https://www.youtube.com/watch?v=LwW_lntURiM",
+      "embed_url": "https://www.youtube.com/embed/LwW_lntURiM",
+      "thumbnail": "https://i.ytimg.com/vi/LwW_lntURiM/hqdefault.jpg",
+      "site_titles": [
+        "Get over any obstacle with your horse with these top training tips!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Yban4I3TE_o",
+      "youtube_title": "The Horse Lover's 2 Minute How To Overcome Rider Fear (part one)",
+      "channel": "Padma Video",
+      "youtube_url": "https://www.youtube.com/watch?v=Yban4I3TE_o",
+      "embed_url": "https://www.youtube.com/embed/Yban4I3TE_o",
+      "thumbnail": "https://i.ytimg.com/vi/Yban4I3TE_o/hqdefault.jpg",
+      "site_titles": [
+        "The Horse Lover's 2 Minute How To Overcome Rider Fear (part one)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f-Fe4dryTC8",
+      "youtube_title": "Mark Bolender Extreme Trail Bridleless Horse Timed event - Crazy Sexy Fun",
+      "channel": "Mark Bolender",
+      "youtube_url": "https://www.youtube.com/watch?v=f-Fe4dryTC8",
+      "embed_url": "https://www.youtube.com/embed/f-Fe4dryTC8",
+      "thumbnail": "https://i.ytimg.com/vi/f-Fe4dryTC8/hqdefault.jpg",
+      "site_titles": [
+        "Mark Bolender Extreme Trail Bridleless Horse Timed event - Crazy Sexy Fun"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Gu7pkhwyxzc",
+      "youtube_title": "My Obstacle Park- what my horses get to practice on",
+      "channel": "Harmony Horsemanship and Country Mom Chaos",
+      "youtube_url": "https://www.youtube.com/watch?v=Gu7pkhwyxzc",
+      "embed_url": "https://www.youtube.com/embed/Gu7pkhwyxzc",
+      "thumbnail": "https://i.ytimg.com/vi/Gu7pkhwyxzc/hqdefault.jpg",
+      "site_titles": [
+        "My Obstacle Park- what my horses get to practice on"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "poIa-oBQCVQ",
+      "youtube_title": "How to Train a SPOOKY Horse (Easy Method)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=poIa-oBQCVQ",
+      "embed_url": "https://www.youtube.com/embed/poIa-oBQCVQ",
+      "thumbnail": "https://i.ytimg.com/vi/poIa-oBQCVQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Train a SPOOKY Horse (Easy Method)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tYnQpa5TN1g",
+      "youtube_title": "A Judge's Perspective: 2017 AQHA Select Trail World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=tYnQpa5TN1g",
+      "embed_url": "https://www.youtube.com/embed/tYnQpa5TN1g",
+      "thumbnail": "https://i.ytimg.com/vi/tYnQpa5TN1g/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2017 AQHA Select Trail World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ghM3MLmdgKM",
+      "youtube_title": "Homemade trail obstacle course for my horses",
+      "channel": "Fromhold Paniola Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=ghM3MLmdgKM",
+      "embed_url": "https://www.youtube.com/embed/ghM3MLmdgKM",
+      "thumbnail": "https://i.ytimg.com/vi/ghM3MLmdgKM/hqdefault.jpg",
+      "site_titles": [
+        "Homemade trail obstacle course for my horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "poDyQCPzy38",
+      "youtube_title": "Teaching Your Horse to Trail Ride",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=poDyQCPzy38",
+      "embed_url": "https://www.youtube.com/embed/poDyQCPzy38",
+      "thumbnail": "https://i.ytimg.com/vi/poDyQCPzy38/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Horse to Trail Ride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Gg1_0CWFdh0",
+      "youtube_title": "Basics of Ranch Trail",
+      "channel": "Cook Feed & Outdoor",
+      "youtube_url": "https://www.youtube.com/watch?v=Gg1_0CWFdh0",
+      "embed_url": "https://www.youtube.com/embed/Gg1_0CWFdh0",
+      "thumbnail": "https://i.ytimg.com/vi/Gg1_0CWFdh0/hqdefault.jpg",
+      "site_titles": [
+        "Basics of Ranch Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IBDwxWvR7cg",
+      "youtube_title": "2023 OHC National Mtn Trail Championships",
+      "channel": "Fromhold Paniola Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=IBDwxWvR7cg",
+      "embed_url": "https://www.youtube.com/embed/IBDwxWvR7cg",
+      "thumbnail": "https://i.ytimg.com/vi/IBDwxWvR7cg/hqdefault.jpg",
+      "site_titles": [
+        "2023 OHC National Mtn Trail Championships"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6SrbmuHQR2s",
+      "youtube_title": "Teaching him to want to work the gate",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=6SrbmuHQR2s",
+      "embed_url": "https://www.youtube.com/embed/6SrbmuHQR2s",
+      "thumbnail": "https://i.ytimg.com/vi/6SrbmuHQR2s/hqdefault.jpg",
+      "site_titles": [
+        "Teaching him to want to work the gate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Mtu8WP2XDgc",
+      "youtube_title": "Trail Course Obstacles",
+      "channel": "MCRC Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Mtu8WP2XDgc",
+      "embed_url": "https://www.youtube.com/embed/Mtu8WP2XDgc",
+      "thumbnail": "https://i.ytimg.com/vi/Mtu8WP2XDgc/hqdefault.jpg",
+      "site_titles": [
+        "Trail Course Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-uf9YRMgD4k",
+      "youtube_title": "Training a horse to go through versatilty obstacles when they refuse.",
+      "channel": "Horse Training By Cathie Hatrick-Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=-uf9YRMgD4k",
+      "embed_url": "https://www.youtube.com/embed/-uf9YRMgD4k",
+      "thumbnail": "https://i.ytimg.com/vi/-uf9YRMgD4k/hqdefault.jpg",
+      "site_titles": [
+        "Training a horse to go through versatilty obstacles when they refuse."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gXM-IOZlyYM",
+      "youtube_title": "Same Obstacle, Different Problem. Which One Is Your Horse’s?",
+      "channel": "Trish Hyatt~WE Simplified",
+      "youtube_url": "https://www.youtube.com/watch?v=gXM-IOZlyYM",
+      "embed_url": "https://www.youtube.com/embed/gXM-IOZlyYM",
+      "thumbnail": "https://i.ytimg.com/vi/gXM-IOZlyYM/hqdefault.jpg",
+      "site_titles": [
+        "Same Obstacle, Different Problem. Which One Is Your Horse’s?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pDuioFVBr9E",
+      "youtube_title": "How to Fix a Rearing Horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=pDuioFVBr9E",
+      "embed_url": "https://www.youtube.com/embed/pDuioFVBr9E",
+      "thumbnail": "https://i.ytimg.com/vi/pDuioFVBr9E/hqdefault.jpg",
+      "site_titles": [
+        "How to Fix a Rearing Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XzIflFGKnSw",
+      "youtube_title": "Horse Won't Go Over Bridge Hates Water",
+      "channel": "Horse Training By Cathie Hatrick-Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=XzIflFGKnSw",
+      "embed_url": "https://www.youtube.com/embed/XzIflFGKnSw",
+      "thumbnail": "https://i.ytimg.com/vi/XzIflFGKnSw/hqdefault.jpg",
+      "site_titles": [
+        "Horse Won't Go Over Bridge Hates Water"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d2lrUNjqyY0",
+      "youtube_title": "Horse Obstacle/ Trail course.",
+      "channel": "Lynch Horsemanship Trail-Obstacle Training Center",
+      "youtube_url": "https://www.youtube.com/watch?v=d2lrUNjqyY0",
+      "embed_url": "https://www.youtube.com/embed/d2lrUNjqyY0",
+      "thumbnail": "https://i.ytimg.com/vi/d2lrUNjqyY0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Obstacle/ Trail course."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "V0jDGead3RY",
+      "youtube_title": "Horse Obstacle Course Logs - Jesse Krier Greatmats Horse Training Series",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=V0jDGead3RY",
+      "embed_url": "https://www.youtube.com/embed/V0jDGead3RY",
+      "thumbnail": "https://i.ytimg.com/vi/V0jDGead3RY/hqdefault.jpg",
+      "site_titles": [
+        "Horse Obstacle Course Logs - Jesse Krier Greatmats Horse Training Series"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zbvD5rn2NrQ",
+      "youtube_title": "Desensitizing Flag",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=zbvD5rn2NrQ",
+      "embed_url": "https://www.youtube.com/embed/zbvD5rn2NrQ",
+      "thumbnail": "https://i.ytimg.com/vi/zbvD5rn2NrQ/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing Flag"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D4hbqkmmfp8",
+      "youtube_title": "Introducing Mustang Merlin to a tarp!",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=D4hbqkmmfp8",
+      "embed_url": "https://www.youtube.com/embed/D4hbqkmmfp8",
+      "thumbnail": "https://i.ytimg.com/vi/D4hbqkmmfp8/hqdefault.jpg",
+      "site_titles": [
+        "Introducing Mustang Merlin to a tarp!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6g8wUtORiLc",
+      "youtube_title": "Mailbox - Level 2",
+      "channel": "Fromhold Paniola Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=6g8wUtORiLc",
+      "embed_url": "https://www.youtube.com/embed/6g8wUtORiLc",
+      "thumbnail": "https://i.ytimg.com/vi/6g8wUtORiLc/hqdefault.jpg",
+      "site_titles": [
+        "Mailbox - Level 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kga1nAKUF9Y",
+      "youtube_title": "What to do when a STUBBORN HORSE REFUSES to Go Forward/Move",
+      "channel": "Horse Training 101",
+      "youtube_url": "https://www.youtube.com/watch?v=kga1nAKUF9Y",
+      "embed_url": "https://www.youtube.com/embed/kga1nAKUF9Y",
+      "thumbnail": "https://i.ytimg.com/vi/kga1nAKUF9Y/hqdefault.jpg",
+      "site_titles": [
+        "What to do when a STUBBORN HORSE REFUSES to Go Forward/Move"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5-f16z5JzQA",
+      "youtube_title": "Does Your Horse Keep Making The Same Mistake?",
+      "channel": "Trish Hyatt~WE Simplified",
+      "youtube_url": "https://www.youtube.com/watch?v=5-f16z5JzQA",
+      "embed_url": "https://www.youtube.com/embed/5-f16z5JzQA",
+      "thumbnail": "https://i.ytimg.com/vi/5-f16z5JzQA/hqdefault.jpg",
+      "site_titles": [
+        "Does Your Horse Keep Making The Same Mistake?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4fpSXQc_2SI",
+      "youtube_title": "The Horse That Freezes: Why Pushing Him Forward Makes It Worse - TRT RESCUE S2E3 Kristel and Guspini",
+      "channel": "TRT method",
+      "youtube_url": "https://www.youtube.com/watch?v=4fpSXQc_2SI",
+      "embed_url": "https://www.youtube.com/embed/4fpSXQc_2SI",
+      "thumbnail": "https://i.ytimg.com/vi/4fpSXQc_2SI/hqdefault.jpg",
+      "site_titles": [
+        "The Horse That Freezes: Why Pushing Him Forward Makes It Worse - TRT RESCUE S2E3 Kristel and Guspini"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AV51hJArcmk",
+      "youtube_title": "Horses that push into you at the gate",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=AV51hJArcmk",
+      "embed_url": "https://www.youtube.com/embed/AV51hJArcmk",
+      "thumbnail": "https://i.ytimg.com/vi/AV51hJArcmk/hqdefault.jpg",
+      "site_titles": [
+        "Horses that push into you at the gate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PimG6btMfjs",
+      "youtube_title": "My top 3 favorite tools to desensitize a horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=PimG6btMfjs",
+      "embed_url": "https://www.youtube.com/embed/PimG6btMfjs",
+      "thumbnail": "https://i.ytimg.com/vi/PimG6btMfjs/hqdefault.jpg",
+      "site_titles": [
+        "My top 3 favorite tools to desensitize a horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WVNSKpd_eDE",
+      "youtube_title": "Week 4.3 Crossing a Ditch",
+      "channel": "Iron Gait Percherons, Inc. - Draft Horse Rescue & Sanctuary",
+      "youtube_url": "https://www.youtube.com/watch?v=WVNSKpd_eDE",
+      "embed_url": "https://www.youtube.com/embed/WVNSKpd_eDE",
+      "thumbnail": "https://i.ytimg.com/vi/WVNSKpd_eDE/hqdefault.jpg",
+      "site_titles": [
+        "Week 4.3 Crossing a Ditch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "emElGn2V3FU",
+      "youtube_title": "Resistance: Teaching your horse to cross water",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=emElGn2V3FU",
+      "embed_url": "https://www.youtube.com/embed/emElGn2V3FU",
+      "thumbnail": "https://i.ytimg.com/vi/emElGn2V3FU/hqdefault.jpg",
+      "site_titles": [
+        "Resistance: Teaching your horse to cross water"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5xGDkN-ayGo",
+      "youtube_title": "Horse won’t Stop Pawing",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=5xGDkN-ayGo",
+      "embed_url": "https://www.youtube.com/embed/5xGDkN-ayGo",
+      "thumbnail": "https://i.ytimg.com/vi/5xGDkN-ayGo/hqdefault.jpg",
+      "site_titles": [
+        "Horse won’t Stop Pawing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DTxa-XV0lQM",
+      "youtube_title": "Teaching Your Horse How To Cross Water, Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=DTxa-XV0lQM",
+      "embed_url": "https://www.youtube.com/embed/DTxa-XV0lQM",
+      "thumbnail": "https://i.ytimg.com/vi/DTxa-XV0lQM/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Horse How To Cross Water, Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RD3W8JGEGus",
+      "youtube_title": "How we want our horses to handle hills.  Ultimate Trail Horse Training.",
+      "channel": "Horse of YOUR dreams",
+      "youtube_url": "https://www.youtube.com/watch?v=RD3W8JGEGus",
+      "embed_url": "https://www.youtube.com/embed/RD3W8JGEGus",
+      "thumbnail": "https://i.ytimg.com/vi/RD3W8JGEGus/hqdefault.jpg",
+      "site_titles": [
+        "How we want our horses to handle hills. Ultimate Trail Horse Training."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fdkDRVCgfSM",
+      "youtube_title": "How To Stop Your Horse Rushing | Horse & Hound",
+      "channel": "Horse & Hound",
+      "youtube_url": "https://www.youtube.com/watch?v=fdkDRVCgfSM",
+      "embed_url": "https://www.youtube.com/embed/fdkDRVCgfSM",
+      "thumbnail": "https://i.ytimg.com/vi/fdkDRVCgfSM/hqdefault.jpg",
+      "site_titles": [
+        "How To Stop Your Horse Rushing | Horse & Hound"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nRig15-NTBY",
+      "youtube_title": "Horse Won't Cross the Bridge FIX #horsetraining #pnwhorsemanship #horseridingtips #pnwlife",
+      "channel": "pnwhorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=nRig15-NTBY",
+      "embed_url": "https://www.youtube.com/embed/nRig15-NTBY",
+      "thumbnail": "https://i.ytimg.com/vi/nRig15-NTBY/hqdefault.jpg",
+      "site_titles": [
+        "Horse Won't Cross the Bridge FIX"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vRew4SXNF-8",
+      "youtube_title": "The 4 steps of dealing with a spooky horse",
+      "channel": "TRT method",
+      "youtube_url": "https://www.youtube.com/watch?v=vRew4SXNF-8",
+      "embed_url": "https://www.youtube.com/embed/vRew4SXNF-8",
+      "thumbnail": "https://i.ytimg.com/vi/vRew4SXNF-8/hqdefault.jpg",
+      "site_titles": [
+        "The 4 steps of dealing with a spooky horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jvi5AnQ2UjI",
+      "youtube_title": "My TOP 5 Tools & Exercises For Ultimate Body Control",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=jvi5AnQ2UjI",
+      "embed_url": "https://www.youtube.com/embed/jvi5AnQ2UjI",
+      "thumbnail": "https://i.ytimg.com/vi/jvi5AnQ2UjI/hqdefault.jpg",
+      "site_titles": [
+        "My TOP 5 Tools & Exercises For Ultimate Body Control"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_U6C_ZdR9hI",
+      "youtube_title": "How we can teach a horse to drag without getting Hurt or Traumatized",
+      "channel": "Eicher Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=_U6C_ZdR9hI",
+      "embed_url": "https://www.youtube.com/embed/_U6C_ZdR9hI",
+      "thumbnail": "https://i.ytimg.com/vi/_U6C_ZdR9hI/hqdefault.jpg",
+      "site_titles": [
+        "How we can teach a horse to drag without getting Hurt or Traumatized"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "83gAdWZrnIE",
+      "youtube_title": "green horse afraid of scary bridge (1)",
+      "channel": "horsepaintings",
+      "youtube_url": "https://www.youtube.com/watch?v=83gAdWZrnIE",
+      "embed_url": "https://www.youtube.com/embed/83gAdWZrnIE",
+      "thumbnail": "https://i.ytimg.com/vi/83gAdWZrnIE/hqdefault.jpg",
+      "site_titles": [
+        "green horse afraid of scary bridge (1)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "klJDVOFWWvs",
+      "youtube_title": "Preparing for Trail Obstacles",
+      "channel": "Charles Wilhelm",
+      "youtube_url": "https://www.youtube.com/watch?v=klJDVOFWWvs",
+      "embed_url": "https://www.youtube.com/embed/klJDVOFWWvs",
+      "thumbnail": "https://i.ytimg.com/vi/klJDVOFWWvs/hqdefault.jpg",
+      "site_titles": [
+        "Preparing for Trail Obstacles"
       ],
       "sections": [
         "qa"
