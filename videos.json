@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2525,
+  "count": 2539,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -359,8 +359,6 @@
       "reference_count": 24,
       "pages": [
         "famous-trainers/matt-mills.html",
-        "qa/bit-progression/how-do-you-ride-with-a-loose-rein-versus-a-contact-rein-in-western-performance-a/index.html",
-        "qa/bit-progression/what-is-the-role-of-the-curb-bit-in-teaching-a-horse-to-neck-rein/index.html",
         "qa/neck-reining/index.html"
       ]
     },
@@ -42842,6 +42840,230 @@
       "thumbnail": "https://i.ytimg.com/vi/Lag2zWQ7WqI/hqdefault.jpg",
       "site_titles": [
         "Clinton Anderson Talks About Performance Horse Bloodlines - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p0xx8S5evVA",
+      "youtube_title": "Function of a Bridle with a Shank Bit",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=p0xx8S5evVA",
+      "embed_url": "https://www.youtube.com/embed/p0xx8S5evVA",
+      "thumbnail": "https://i.ytimg.com/vi/p0xx8S5evVA/hqdefault.jpg",
+      "site_titles": [
+        "Function of a Bridle with a Shank Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b1qyBpwedlc",
+      "youtube_title": "Horse pushing on the bit? Do this to fix it.",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=b1qyBpwedlc",
+      "embed_url": "https://www.youtube.com/embed/b1qyBpwedlc",
+      "thumbnail": "https://i.ytimg.com/vi/b1qyBpwedlc/hqdefault.jpg",
+      "site_titles": [
+        "Horse pushing on the bit? Do this to fix it."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WGmmU4Rk_4s",
+      "youtube_title": "When, Why, and How to Transition to a New Bit (Episode 118) - Herm Gailey: A Lifetime with Horses",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=WGmmU4Rk_4s",
+      "embed_url": "https://www.youtube.com/embed/WGmmU4Rk_4s",
+      "thumbnail": "https://i.ytimg.com/vi/WGmmU4Rk_4s/hqdefault.jpg",
+      "site_titles": [
+        "When, Why, and How to Transition to a New Bit (Episode 118) - Herm Gailey: A Lifetime with Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QUAwbBbMb2c",
+      "youtube_title": "Loose Rein While Riding VS Contact Rein | The Horse Guru - Michael Gascon",
+      "channel": "Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=QUAwbBbMb2c",
+      "embed_url": "https://www.youtube.com/embed/QUAwbBbMb2c",
+      "thumbnail": "https://i.ytimg.com/vi/QUAwbBbMb2c/hqdefault.jpg",
+      "site_titles": [
+        "Loose Rein While Riding VS Contact Rein | The Horse Guru - Michael Gascon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cIV0r3dv8K4",
+      "youtube_title": "Introduction to Curb Bits",
+      "channel": "ExtensionHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=cIV0r3dv8K4",
+      "embed_url": "https://www.youtube.com/embed/cIV0r3dv8K4",
+      "thumbnail": "https://i.ytimg.com/vi/cIV0r3dv8K4/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Curb Bits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-X9_YsmDCpo",
+      "youtube_title": "Function of a Bridle with a Snaffle Bit",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=-X9_YsmDCpo",
+      "embed_url": "https://www.youtube.com/embed/-X9_YsmDCpo",
+      "thumbnail": "https://i.ytimg.com/vi/-X9_YsmDCpo/hqdefault.jpg",
+      "site_titles": [
+        "Function of a Bridle with a Snaffle Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1mu7kKwXmJ4",
+      "youtube_title": "Correctly Adjusting the Bit In Your Horse's Mouth",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=1mu7kKwXmJ4",
+      "embed_url": "https://www.youtube.com/embed/1mu7kKwXmJ4",
+      "thumbnail": "https://i.ytimg.com/vi/1mu7kKwXmJ4/hqdefault.jpg",
+      "site_titles": [
+        "Correctly Adjusting the Bit In Your Horse's Mouth"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TAOZ6ljqBdw",
+      "youtube_title": "Keeping Your Horse Between Your Hands and Your Legs",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=TAOZ6ljqBdw",
+      "embed_url": "https://www.youtube.com/embed/TAOZ6ljqBdw",
+      "thumbnail": "https://i.ytimg.com/vi/TAOZ6ljqBdw/hqdefault.jpg",
+      "site_titles": [
+        "Keeping Your Horse Between Your Hands and Your Legs"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fK3BWT1Ijes",
+      "youtube_title": "My hackamore collection and what I use | MTHorses",
+      "channel": "MTHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=fK3BWT1Ijes",
+      "embed_url": "https://www.youtube.com/embed/fK3BWT1Ijes",
+      "thumbnail": "https://i.ytimg.com/vi/fK3BWT1Ijes/hqdefault.jpg",
+      "site_titles": [
+        "My hackamore collection and what I use | MTHorses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4_i2RzVZwv8",
+      "youtube_title": "Mechanical vs. Traditional Hackamore",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=4_i2RzVZwv8",
+      "embed_url": "https://www.youtube.com/embed/4_i2RzVZwv8",
+      "thumbnail": "https://i.ytimg.com/vi/4_i2RzVZwv8/hqdefault.jpg",
+      "site_titles": [
+        "Mechanical vs. Traditional Hackamore"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zDu-sVMtg0M",
+      "youtube_title": "Bitmaker Greg Darnall Compares Port Bits",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=zDu-sVMtg0M",
+      "embed_url": "https://www.youtube.com/embed/zDu-sVMtg0M",
+      "thumbnail": "https://i.ytimg.com/vi/zDu-sVMtg0M/hqdefault.jpg",
+      "site_titles": [
+        "Bitmaker Greg Darnall Compares Port Bits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CCCoi1w7TD0",
+      "youtube_title": "Lesson 21- How to Neck Rein with a Curb bit Briddle",
+      "channel": "Brooks Studios",
+      "youtube_url": "https://www.youtube.com/watch?v=CCCoi1w7TD0",
+      "embed_url": "https://www.youtube.com/embed/CCCoi1w7TD0",
+      "thumbnail": "https://i.ytimg.com/vi/CCCoi1w7TD0/hqdefault.jpg",
+      "site_titles": [
+        "Lesson 21- How to Neck Rein with a Curb bit Briddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0D2LCpXIqXo",
+      "youtube_title": "The Job of the Slobber Strap with Ken McNabb",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=0D2LCpXIqXo",
+      "embed_url": "https://www.youtube.com/embed/0D2LCpXIqXo",
+      "thumbnail": "https://i.ytimg.com/vi/0D2LCpXIqXo/hqdefault.jpg",
+      "site_titles": [
+        "The Job of the Slobber Strap with Ken McNabb"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KqiiChSeDnA",
+      "youtube_title": "Kenda Lenseigne Slack Rein Challenge",
+      "channel": "Kenda Lenseigne",
+      "youtube_url": "https://www.youtube.com/watch?v=KqiiChSeDnA",
+      "embed_url": "https://www.youtube.com/embed/KqiiChSeDnA",
+      "thumbnail": "https://i.ytimg.com/vi/KqiiChSeDnA/hqdefault.jpg",
+      "site_titles": [
+        "Kenda Lenseigne Slack Rein Challenge"
       ],
       "sections": [
         "qa"
