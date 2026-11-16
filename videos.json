@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2360,
+  "count": 2398,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -1388,7 +1388,6 @@
       "reference_count": 6,
       "pages": [
         "qa/choosing-a-trainer/index.html",
-        "qa/gaits/my-young-horse-wont-walk-he-jogs/index.html",
         "qa/training-principles-psychology/index.html"
       ]
     },
@@ -40214,6 +40213,614 @@
       "thumbnail": "https://i.ytimg.com/vi/9w25-sBnDYg/hqdefault.jpg",
       "site_titles": [
         "Dressage Pointers: How To Tack up Your Horse & Dressage Tack Recommendations"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n4GNgdZ_UpY",
+      "youtube_title": "Rising Trot",
+      "channel": "The Pony Club",
+      "youtube_url": "https://www.youtube.com/watch?v=n4GNgdZ_UpY",
+      "embed_url": "https://www.youtube.com/embed/n4GNgdZ_UpY",
+      "thumbnail": "https://i.ytimg.com/vi/n4GNgdZ_UpY/hqdefault.jpg",
+      "site_titles": [
+        "Rising Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Yi2M06ZUIVE",
+      "youtube_title": "ARE YOU ON THE CORRECT CANTER LEAD?",
+      "channel": "Free Spirit Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Yi2M06ZUIVE",
+      "embed_url": "https://www.youtube.com/embed/Yi2M06ZUIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Yi2M06ZUIVE/hqdefault.jpg",
+      "site_titles": [
+        "ARE YOU ON THE CORRECT CANTER LEAD?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t9JPVgxjekQ",
+      "youtube_title": "How To Sit The Stop & Have Relaxed Canter Departures",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=t9JPVgxjekQ",
+      "embed_url": "https://www.youtube.com/embed/t9JPVgxjekQ",
+      "thumbnail": "https://i.ytimg.com/vi/t9JPVgxjekQ/hqdefault.jpg",
+      "site_titles": [
+        "How To Sit The Stop & Have Relaxed Canter Departures"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iCcTDFRLV70",
+      "youtube_title": "Develop Your Trot Lengthening!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=iCcTDFRLV70",
+      "embed_url": "https://www.youtube.com/embed/iCcTDFRLV70",
+      "thumbnail": "https://i.ytimg.com/vi/iCcTDFRLV70/hqdefault.jpg",
+      "site_titles": [
+        "Develop Your Trot Lengthening!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2ezFHkJPMbs",
+      "youtube_title": "Mastering the Lope - Everyday Horsemanship",
+      "channel": "Craig Cameron Ride Smart Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=2ezFHkJPMbs",
+      "embed_url": "https://www.youtube.com/embed/2ezFHkJPMbs",
+      "thumbnail": "https://i.ytimg.com/vi/2ezFHkJPMbs/hqdefault.jpg",
+      "site_titles": [
+        "Mastering the Lope - Everyday Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tJcobrjPTjs",
+      "youtube_title": "Clinton Anderson: How to Lengthen a Horse's Stride at the Canter - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=tJcobrjPTjs",
+      "embed_url": "https://www.youtube.com/embed/tJcobrjPTjs",
+      "thumbnail": "https://i.ytimg.com/vi/tJcobrjPTjs/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: How to Lengthen a Horse's Stride at the Canter - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sOIXRMudP-4",
+      "youtube_title": "Teach your horse to pick up the correct lead",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=sOIXRMudP-4",
+      "embed_url": "https://www.youtube.com/embed/sOIXRMudP-4",
+      "thumbnail": "https://i.ytimg.com/vi/sOIXRMudP-4/hqdefault.jpg",
+      "site_titles": [
+        "Teach your horse to pick up the correct lead"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rES81XliVLg",
+      "youtube_title": "How To Pick Up The Correct Lead Every Time",
+      "channel": "Carson James",
+      "youtube_url": "https://www.youtube.com/watch?v=rES81XliVLg",
+      "embed_url": "https://www.youtube.com/embed/rES81XliVLg",
+      "thumbnail": "https://i.ytimg.com/vi/rES81XliVLg/hqdefault.jpg",
+      "site_titles": [
+        "How To Pick Up The Correct Lead Every Time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "obOoDDewvIk",
+      "youtube_title": "Trot-Lope-Trot Transitions",
+      "channel": "Inspired Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=obOoDDewvIk",
+      "embed_url": "https://www.youtube.com/embed/obOoDDewvIk",
+      "thumbnail": "https://i.ytimg.com/vi/obOoDDewvIk/hqdefault.jpg",
+      "site_titles": [
+        "Trot-Lope-Trot Transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "E0afUpOCekA",
+      "youtube_title": "Canter Departures Explained (Episode 263) - Herm Gailey: A Lifetime with Horses",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=E0afUpOCekA",
+      "embed_url": "https://www.youtube.com/embed/E0afUpOCekA",
+      "thumbnail": "https://i.ytimg.com/vi/E0afUpOCekA/hqdefault.jpg",
+      "site_titles": [
+        "Canter Departures Explained (Episode 263) - Herm Gailey: A Lifetime with Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sFZUl-Npcdg",
+      "youtube_title": "Improving Your Horse's Trot",
+      "channel": "Dry Creek Wrangler School",
+      "youtube_url": "https://www.youtube.com/watch?v=sFZUl-Npcdg",
+      "embed_url": "https://www.youtube.com/embed/sFZUl-Npcdg",
+      "thumbnail": "https://i.ytimg.com/vi/sFZUl-Npcdg/hqdefault.jpg",
+      "site_titles": [
+        "Improving Your Horse's Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bNyhdKLWq1k",
+      "youtube_title": "Horsemanship education Walk-Canter Departure",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=bNyhdKLWq1k",
+      "embed_url": "https://www.youtube.com/embed/bNyhdKLWq1k",
+      "thumbnail": "https://i.ytimg.com/vi/bNyhdKLWq1k/hqdefault.jpg",
+      "site_titles": [
+        "Horsemanship education Walk-Canter Departure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g3T1d139qsU",
+      "youtube_title": "Cross Cantering: How to Avoid Cross-Firing",
+      "channel": "Van Hargis Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=g3T1d139qsU",
+      "embed_url": "https://www.youtube.com/embed/g3T1d139qsU",
+      "thumbnail": "https://i.ytimg.com/vi/g3T1d139qsU/hqdefault.jpg",
+      "site_titles": [
+        "Cross Cantering: How to Avoid Cross-Firing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ec7WUfwtyjE",
+      "youtube_title": "How to ask your horse to canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=Ec7WUfwtyjE",
+      "embed_url": "https://www.youtube.com/embed/Ec7WUfwtyjE",
+      "thumbnail": "https://i.ytimg.com/vi/Ec7WUfwtyjE/hqdefault.jpg",
+      "site_titles": [
+        "How to ask your horse to canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4IBeC36b_i4",
+      "youtube_title": "What to do when a horse wants to walk faster than you",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=4IBeC36b_i4",
+      "embed_url": "https://www.youtube.com/embed/4IBeC36b_i4",
+      "thumbnail": "https://i.ytimg.com/vi/4IBeC36b_i4/hqdefault.jpg",
+      "site_titles": [
+        "What to do when a horse wants to walk faster than you"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iVREbc0P_u0",
+      "youtube_title": "My Number One Tip To Canter On A Horse",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=iVREbc0P_u0",
+      "embed_url": "https://www.youtube.com/embed/iVREbc0P_u0",
+      "thumbnail": "https://i.ytimg.com/vi/iVREbc0P_u0/hqdefault.jpg",
+      "site_titles": [
+        "My Number One Tip To Canter On A Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Z99Q3EJC2SQ",
+      "youtube_title": "WHAT TO DO IF YOUR HORSE KEEPS FALLING OUT OF CANTER BACK INTO TROT? - Train with Tash",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=Z99Q3EJC2SQ",
+      "embed_url": "https://www.youtube.com/embed/Z99Q3EJC2SQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z99Q3EJC2SQ/hqdefault.jpg",
+      "site_titles": [
+        "WHAT TO DO IF YOUR HORSE KEEPS FALLING OUT OF CANTER BACK INTO TROT? - Train with Tash"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SOPDqSkW7iM",
+      "youtube_title": "Does Your Horse Break Out of Canter? Here's how to fix it!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=SOPDqSkW7iM",
+      "embed_url": "https://www.youtube.com/embed/SOPDqSkW7iM",
+      "thumbnail": "https://i.ytimg.com/vi/SOPDqSkW7iM/hqdefault.jpg",
+      "site_titles": [
+        "Does Your Horse Break Out of Canter? Here's how to fix it!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AIzxALVl184",
+      "youtube_title": "How to Train a Horse to Extend the Walk - Episode 58 (Herm Gailey)",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=AIzxALVl184",
+      "embed_url": "https://www.youtube.com/embed/AIzxALVl184",
+      "thumbnail": "https://i.ytimg.com/vi/AIzxALVl184/hqdefault.jpg",
+      "site_titles": [
+        "How to Train a Horse to Extend the Walk - Episode 58 (Herm Gailey)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jH2_JSlpDZo",
+      "youtube_title": "Horse Training | How To Stop Jig Jogging When You Pick Up The Reins",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=jH2_JSlpDZo",
+      "embed_url": "https://www.youtube.com/embed/jH2_JSlpDZo",
+      "thumbnail": "https://i.ytimg.com/vi/jH2_JSlpDZo/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training | How To Stop Jig Jogging When You Pick Up The Reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dpaW40jxE7s",
+      "youtube_title": "Working with a  horse that won't pick up a left lead",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=dpaW40jxE7s",
+      "embed_url": "https://www.youtube.com/embed/dpaW40jxE7s",
+      "thumbnail": "https://i.ytimg.com/vi/dpaW40jxE7s/hqdefault.jpg",
+      "site_titles": [
+        "Working with a horse that won't pick up a left lead"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hBjahd7lIZ0",
+      "youtube_title": "HOW TO EXECUTE A LEAD DEPARTURE",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=hBjahd7lIZ0",
+      "embed_url": "https://www.youtube.com/embed/hBjahd7lIZ0",
+      "thumbnail": "https://i.ytimg.com/vi/hBjahd7lIZ0/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO EXECUTE A LEAD DEPARTURE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g5jsB9ah218",
+      "youtube_title": "Bucking in the Transition from Canter to Gallop",
+      "channel": "Patrick King Horsemanship & Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=g5jsB9ah218",
+      "embed_url": "https://www.youtube.com/embed/g5jsB9ah218",
+      "thumbnail": "https://i.ytimg.com/vi/g5jsB9ah218/hqdefault.jpg",
+      "site_titles": [
+        "Bucking in the Transition from Canter to Gallop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wUSRCyHZ-BA",
+      "youtube_title": "How To Get Into Trot: Most Riders Ask for Trot Wrong",
+      "channel": "Classical Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=wUSRCyHZ-BA",
+      "embed_url": "https://www.youtube.com/embed/wUSRCyHZ-BA",
+      "thumbnail": "https://i.ytimg.com/vi/wUSRCyHZ-BA/hqdefault.jpg",
+      "site_titles": [
+        "How To Get Into Trot: Most Riders Ask for Trot Wrong"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EcPIOUQ31q0",
+      "youtube_title": "Trotting Secrets!!!",
+      "channel": "Carson James",
+      "youtube_url": "https://www.youtube.com/watch?v=EcPIOUQ31q0",
+      "embed_url": "https://www.youtube.com/embed/EcPIOUQ31q0",
+      "thumbnail": "https://i.ytimg.com/vi/EcPIOUQ31q0/hqdefault.jpg",
+      "site_titles": [
+        "Trotting Secrets!!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "td7CG-D4pDw",
+      "youtube_title": "Speed Transitions - First Lope on a Colt",
+      "channel": "Gerry Cox",
+      "youtube_url": "https://www.youtube.com/watch?v=td7CG-D4pDw",
+      "embed_url": "https://www.youtube.com/embed/td7CG-D4pDw",
+      "thumbnail": "https://i.ytimg.com/vi/td7CG-D4pDw/hqdefault.jpg",
+      "site_titles": [
+        "Speed Transitions - First Lope on a Colt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YRK8D1jRBnI",
+      "youtube_title": "Walk to Lope Transitions",
+      "channel": "Rachel Hilton",
+      "youtube_url": "https://www.youtube.com/watch?v=YRK8D1jRBnI",
+      "embed_url": "https://www.youtube.com/embed/YRK8D1jRBnI",
+      "thumbnail": "https://i.ytimg.com/vi/YRK8D1jRBnI/hqdefault.jpg",
+      "site_titles": [
+        "Walk to Lope Transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DJJTc62h8JY",
+      "youtube_title": "Three Leg Cues for a Successful Ride",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=DJJTc62h8JY",
+      "embed_url": "https://www.youtube.com/embed/DJJTc62h8JY",
+      "thumbnail": "https://i.ytimg.com/vi/DJJTc62h8JY/hqdefault.jpg",
+      "site_titles": [
+        "Three Leg Cues for a Successful Ride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Cu0Yc8oEpmA",
+      "youtube_title": "Gait Analysis: The Walk | Understanding the Horse's Walk",
+      "channel": "Smart Fit Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=Cu0Yc8oEpmA",
+      "embed_url": "https://www.youtube.com/embed/Cu0Yc8oEpmA",
+      "thumbnail": "https://i.ytimg.com/vi/Cu0Yc8oEpmA/hqdefault.jpg",
+      "site_titles": [
+        "Gait Analysis: The Walk | Understanding the Horse's Walk"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IGASjZWBBEg",
+      "youtube_title": "HOW TO TROT ON THE CORRECT DIAGONAL",
+      "channel": "Zara Murad Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=IGASjZWBBEg",
+      "embed_url": "https://www.youtube.com/embed/IGASjZWBBEg",
+      "thumbnail": "https://i.ytimg.com/vi/IGASjZWBBEg/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO TROT ON THE CORRECT DIAGONAL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XBB2OE_bHFU",
+      "youtube_title": "Can You Spot the Difference? Walk, Trot, Jog, Canter & More!",
+      "channel": "The Equestrian Chronicles",
+      "youtube_url": "https://www.youtube.com/watch?v=XBB2OE_bHFU",
+      "embed_url": "https://www.youtube.com/embed/XBB2OE_bHFU",
+      "thumbnail": "https://i.ytimg.com/vi/XBB2OE_bHFU/hqdefault.jpg",
+      "site_titles": [
+        "Can You Spot the Difference? Walk, Trot, Jog, Canter & More!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BeeW5CO0c-Y",
+      "youtube_title": "Turn your Horse Without the Inside Rein!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=BeeW5CO0c-Y",
+      "embed_url": "https://www.youtube.com/embed/BeeW5CO0c-Y",
+      "thumbnail": "https://i.ytimg.com/vi/BeeW5CO0c-Y/hqdefault.jpg",
+      "site_titles": [
+        "Turn your Horse Without the Inside Rein!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CjKj8C6uK6A",
+      "youtube_title": "\"Inside Leg to Outside Rein\" - What this means and an exercise to finally FEEL it",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=CjKj8C6uK6A",
+      "embed_url": "https://www.youtube.com/embed/CjKj8C6uK6A",
+      "thumbnail": "https://i.ytimg.com/vi/CjKj8C6uK6A/hqdefault.jpg",
+      "site_titles": [
+        "\"Inside Leg to Outside Rein\" - What this means and an exercise to finally FEEL it"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Yl6nZbcKdXI",
+      "youtube_title": "Upward Transitions - Helping a horse that raises it's head during transitions",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Yl6nZbcKdXI",
+      "embed_url": "https://www.youtube.com/embed/Yl6nZbcKdXI",
+      "thumbnail": "https://i.ytimg.com/vi/Yl6nZbcKdXI/hqdefault.jpg",
+      "site_titles": [
+        "Upward Transitions - Helping a horse that raises it's head during transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3r-s200LPYk",
+      "youtube_title": "Why does the horse pick up the wrong canter lead? (Canter problems, canter transition)",
+      "channel": "Johanna J Equestrian Physio",
+      "youtube_url": "https://www.youtube.com/watch?v=3r-s200LPYk",
+      "embed_url": "https://www.youtube.com/embed/3r-s200LPYk",
+      "thumbnail": "https://i.ytimg.com/vi/3r-s200LPYk/hqdefault.jpg",
+      "site_titles": [
+        "Why does the horse pick up the wrong canter lead? (Canter problems, canter transition)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ju1wXCRoYJg",
+      "youtube_title": "What do you do if your horse breaks gait?!?!",
+      "channel": "Ivy Starnes",
+      "youtube_url": "https://www.youtube.com/watch?v=ju1wXCRoYJg",
+      "embed_url": "https://www.youtube.com/embed/ju1wXCRoYJg",
+      "thumbnail": "https://i.ytimg.com/vi/ju1wXCRoYJg/hqdefault.jpg",
+      "site_titles": [
+        "What do you do if your horse breaks gait?!?!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4hs0n3htVk4",
+      "youtube_title": "Hollowing out during transitions? | Help your horse get SOFT",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=4hs0n3htVk4",
+      "embed_url": "https://www.youtube.com/embed/4hs0n3htVk4",
+      "thumbnail": "https://i.ytimg.com/vi/4hs0n3htVk4/hqdefault.jpg",
+      "site_titles": [
+        "Hollowing out during transitions? | Help your horse get SOFT"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iWnzFTEVSZ0",
+      "youtube_title": "Farrier Tips | How To Stop a Horse Forging",
+      "channel": "Harry Spinks Farrier",
+      "youtube_url": "https://www.youtube.com/watch?v=iWnzFTEVSZ0",
+      "embed_url": "https://www.youtube.com/embed/iWnzFTEVSZ0",
+      "thumbnail": "https://i.ytimg.com/vi/iWnzFTEVSZ0/hqdefault.jpg",
+      "site_titles": [
+        "Farrier Tips | How To Stop a Horse Forging"
       ],
       "sections": [
         "qa"
