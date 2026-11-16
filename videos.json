@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2437,
+  "count": 2453,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -397,7 +397,6 @@
       ],
       "reference_count": 17,
       "pages": [
-        "qa/mounted-shooting/how-do-i-build-my-horses-speed-and-rate-between-balloons-without-sacrificing-con/index.html",
         "qa/western-pleasure/how-do-i-get-my-horse-to-slow-down-for-western-pleasure/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-equitation/how-do-i-train-for-the-speed-phase-and-how-does-it-differ-from-ease-of-handling/index.html",
@@ -41443,6 +41442,262 @@
       "thumbnail": "https://i.ytimg.com/vi/9yrhp1dHv2s/hqdefault.jpg",
       "site_titles": [
         "He Won't STAY In The TRAILER!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hbr6OYobhPo",
+      "youtube_title": "Conditioning the Mounted Shooting Horse",
+      "channel": "Ashley Fowler",
+      "youtube_url": "https://www.youtube.com/watch?v=hbr6OYobhPo",
+      "embed_url": "https://www.youtube.com/embed/hbr6OYobhPo",
+      "thumbnail": "https://i.ytimg.com/vi/hbr6OYobhPo/hqdefault.jpg",
+      "site_titles": [
+        "Conditioning the Mounted Shooting Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LtYPpba97Jc",
+      "youtube_title": "Desensitising a horse to gunfire",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=LtYPpba97Jc",
+      "embed_url": "https://www.youtube.com/embed/LtYPpba97Jc",
+      "thumbnail": "https://i.ytimg.com/vi/LtYPpba97Jc/hqdefault.jpg",
+      "site_titles": [
+        "Desensitising a horse to gunfire"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kWbeVlCJ2X0",
+      "youtube_title": "Mounted Shooting Drill | Mirror Image Drill",
+      "channel": "The Mounted Shooter",
+      "youtube_url": "https://www.youtube.com/watch?v=kWbeVlCJ2X0",
+      "embed_url": "https://www.youtube.com/embed/kWbeVlCJ2X0",
+      "thumbnail": "https://i.ytimg.com/vi/kWbeVlCJ2X0/hqdefault.jpg",
+      "site_titles": [
+        "Mounted Shooting Drill | Mirror Image Drill"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2ZxvTFxzXCU",
+      "youtube_title": "Full Video: Ghost Runs 2 reveal where I lost time ⏱ 👀 | Mounted Shooting lesson 2 🔫🐎",
+      "channel": "Horse45s",
+      "youtube_url": "https://www.youtube.com/watch?v=2ZxvTFxzXCU",
+      "embed_url": "https://www.youtube.com/embed/2ZxvTFxzXCU",
+      "thumbnail": "https://i.ytimg.com/vi/2ZxvTFxzXCU/hqdefault.jpg",
+      "site_titles": [
+        "Full Video: Ghost Runs 2 reveal where I lost time ⏱ 👀 | Mounted Shooting lesson 2 🔫🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AnBbDDYVmhU",
+      "youtube_title": "Cowboy Mounted Shooting For Beginners",
+      "channel": "Mr.Animate",
+      "youtube_url": "https://www.youtube.com/watch?v=AnBbDDYVmhU",
+      "embed_url": "https://www.youtube.com/embed/AnBbDDYVmhU",
+      "thumbnail": "https://i.ytimg.com/vi/AnBbDDYVmhU/hqdefault.jpg",
+      "site_titles": [
+        "Cowboy Mounted Shooting For Beginners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5Cutn0jCmJw",
+      "youtube_title": "Gun Handling Tutorial- Mounted Shooting",
+      "channel": "Hired Gun Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=5Cutn0jCmJw",
+      "embed_url": "https://www.youtube.com/embed/5Cutn0jCmJw",
+      "thumbnail": "https://i.ytimg.com/vi/5Cutn0jCmJw/hqdefault.jpg",
+      "site_titles": [
+        "Gun Handling Tutorial- Mounted Shooting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rCNOzz8DrTo",
+      "youtube_title": "Preparing a Horse for the Sound of Gunfire - Q&A",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=rCNOzz8DrTo",
+      "embed_url": "https://www.youtube.com/embed/rCNOzz8DrTo",
+      "thumbnail": "https://i.ytimg.com/vi/rCNOzz8DrTo/hqdefault.jpg",
+      "site_titles": [
+        "Preparing a Horse for the Sound of Gunfire - Q&A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N1tPYIg7mv4",
+      "youtube_title": "Mounted Shooting Pattern 1 Set 1 🐎 2022 US Mounted Shooting Qualifier",
+      "channel": "Dusty Reins Stories",
+      "youtube_url": "https://www.youtube.com/watch?v=N1tPYIg7mv4",
+      "embed_url": "https://www.youtube.com/embed/N1tPYIg7mv4",
+      "thumbnail": "https://i.ytimg.com/vi/N1tPYIg7mv4/hqdefault.jpg",
+      "site_titles": [
+        "Mounted Shooting Pattern 1 Set 1 🐎 2022 US Mounted Shooting Qualifier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UOJsFt90Ywo",
+      "youtube_title": "Mastering Mounted Shooting  From Level One to Pro",
+      "channel": "Mike Stine Equine Dynamics",
+      "youtube_url": "https://www.youtube.com/watch?v=UOJsFt90Ywo",
+      "embed_url": "https://www.youtube.com/embed/UOJsFt90Ywo",
+      "thumbnail": "https://i.ytimg.com/vi/UOJsFt90Ywo/hqdefault.jpg",
+      "site_titles": [
+        "Mastering Mounted Shooting From Level One to Pro"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rU-IVzfHt-4",
+      "youtube_title": "Beginner Cowboy Mounted Shooting Gear🐴 | new horse sport and goals",
+      "channel": "Bethanys Herd",
+      "youtube_url": "https://www.youtube.com/watch?v=rU-IVzfHt-4",
+      "embed_url": "https://www.youtube.com/embed/rU-IVzfHt-4",
+      "thumbnail": "https://i.ytimg.com/vi/rU-IVzfHt-4/hqdefault.jpg",
+      "site_titles": [
+        "Beginner Cowboy Mounted Shooting Gear🐴 | new horse sport and goals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AYpVWJxOdGU",
+      "youtube_title": "Episode 2: How do we keep the horses and humans safe in mounted shooting? (18+)",
+      "channel": "Chrissy \"Balloon Killers\"",
+      "youtube_url": "https://www.youtube.com/watch?v=AYpVWJxOdGU",
+      "embed_url": "https://www.youtube.com/embed/AYpVWJxOdGU",
+      "thumbnail": "https://i.ytimg.com/vi/AYpVWJxOdGU/hqdefault.jpg",
+      "site_titles": [
+        "Episode 2: How do we keep the horses and humans safe in mounted shooting? (18+)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "My5RLc_wDds",
+      "youtube_title": "Cowboy Mounted Shooting – Fair 2022",
+      "channel": "Iowa PBS",
+      "youtube_url": "https://www.youtube.com/watch?v=My5RLc_wDds",
+      "embed_url": "https://www.youtube.com/embed/My5RLc_wDds",
+      "thumbnail": "https://i.ytimg.com/vi/My5RLc_wDds/hqdefault.jpg",
+      "site_titles": [
+        "Cowboy Mounted Shooting – Fair 2022"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0KX82-8jPA8",
+      "youtube_title": "Bobby Ruwe: Mounted Shooting 101 - 2018 CMSA World Championships",
+      "channel": "Dusty Reins Stories",
+      "youtube_url": "https://www.youtube.com/watch?v=0KX82-8jPA8",
+      "embed_url": "https://www.youtube.com/embed/0KX82-8jPA8",
+      "thumbnail": "https://i.ytimg.com/vi/0KX82-8jPA8/hqdefault.jpg",
+      "site_titles": [
+        "Bobby Ruwe: Mounted Shooting 101 - 2018 CMSA World Championships"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DwncD7jxViM",
+      "youtube_title": "Introduction to Mounted Shooting Part 3",
+      "channel": "Mounted Shooting with Bolo Hunt - SEMSA",
+      "youtube_url": "https://www.youtube.com/watch?v=DwncD7jxViM",
+      "embed_url": "https://www.youtube.com/embed/DwncD7jxViM",
+      "thumbnail": "https://i.ytimg.com/vi/DwncD7jxViM/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Mounted Shooting Part 3"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RQMDP2ioHhA",
+      "youtube_title": "4 Steps for Training a Horse for Mounted Shooting",
+      "channel": "Stacy Westfall",
+      "youtube_url": "https://www.youtube.com/watch?v=RQMDP2ioHhA",
+      "embed_url": "https://www.youtube.com/embed/RQMDP2ioHhA",
+      "thumbnail": "https://i.ytimg.com/vi/RQMDP2ioHhA/hqdefault.jpg",
+      "site_titles": [
+        "4 Steps for Training a Horse for Mounted Shooting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QGtqkdvMl54",
+      "youtube_title": "Full Video: Ghost Runs 1 reveals where I lost time ⏱ 👀 | Mounted Shooting lesson 1 🔫🐎",
+      "channel": "Horse45s",
+      "youtube_url": "https://www.youtube.com/watch?v=QGtqkdvMl54",
+      "embed_url": "https://www.youtube.com/embed/QGtqkdvMl54",
+      "thumbnail": "https://i.ytimg.com/vi/QGtqkdvMl54/hqdefault.jpg",
+      "site_titles": [
+        "Full Video: Ghost Runs 1 reveals where I lost time ⏱ 👀 | Mounted Shooting lesson 1 🔫🐎"
       ],
       "sections": [
         "qa"
