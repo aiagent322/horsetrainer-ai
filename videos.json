@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2488,
+  "count": 2511,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -161,7 +161,6 @@
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
         "qa/western-horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
-        "qa/western-pleasure/how-do-i-train-smooth-correct-transitions-for-western-pleasure-competition/index.html",
         "qa/working-equitation/how-do-i-train-my-horse-for-the-dressage-phase-of-working-equitation/index.html",
         "videos/reining/index.html"
       ]
@@ -394,7 +393,6 @@
       ],
       "reference_count": 17,
       "pages": [
-        "qa/western-pleasure/how-do-i-get-my-horse-to-slow-down-for-western-pleasure/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-equitation/how-do-i-train-for-the-speed-phase-and-how-does-it-differ-from-ease-of-handling/index.html",
         "qa/working-equitation/what-is-the-speed-phase-of-working-equitation-and-how-do-you-prepare-horse-and-r/index.html",
@@ -42255,6 +42253,374 @@
       "thumbnail": "https://i.ytimg.com/vi/m4B1o3t9GWY/hqdefault.jpg",
       "site_titles": [
         "What Saddlery is Needed for a Horse Show | WSS EQUESTRIAN SHOW PREP TIPS | Show Horse Preparation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o52RerHrN-A",
+      "youtube_title": "Extend the Walk",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=o52RerHrN-A",
+      "embed_url": "https://www.youtube.com/embed/o52RerHrN-A",
+      "thumbnail": "https://i.ytimg.com/vi/o52RerHrN-A/hqdefault.jpg",
+      "site_titles": [
+        "Extend the Walk"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "y6ApnrzZYxI",
+      "youtube_title": "Getting a soft Western Headset",
+      "channel": "Paige Cannon",
+      "youtube_url": "https://www.youtube.com/watch?v=y6ApnrzZYxI",
+      "embed_url": "https://www.youtube.com/embed/y6ApnrzZYxI",
+      "thumbnail": "https://i.ytimg.com/vi/y6ApnrzZYxI/hqdefault.jpg",
+      "site_titles": [
+        "Getting a soft Western Headset"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZyDu_IUULgQ",
+      "youtube_title": "Western Pleasure Training Pushing Through at the LOPE!",
+      "channel": "Robert Westcott",
+      "youtube_url": "https://www.youtube.com/watch?v=ZyDu_IUULgQ",
+      "embed_url": "https://www.youtube.com/embed/ZyDu_IUULgQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZyDu_IUULgQ/hqdefault.jpg",
+      "site_titles": [
+        "Western Pleasure Training Pushing Through at the LOPE!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wqeijei5Gp4",
+      "youtube_title": "World Champion Ashley Lakins on Perfecting Your Jog Tip 1",
+      "channel": "HorseTrainingChannel",
+      "youtube_url": "https://www.youtube.com/watch?v=wqeijei5Gp4",
+      "embed_url": "https://www.youtube.com/embed/wqeijei5Gp4",
+      "thumbnail": "https://i.ytimg.com/vi/wqeijei5Gp4/hqdefault.jpg",
+      "site_titles": [
+        "World Champion Ashley Lakins on Perfecting Your Jog Tip 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZsUn-DKNutw",
+      "youtube_title": "Dana Hokana Winning Strides -7 Steps to Slow Your Horse Down",
+      "channel": "DanaHokanaPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=ZsUn-DKNutw",
+      "embed_url": "https://www.youtube.com/embed/ZsUn-DKNutw",
+      "thumbnail": "https://i.ytimg.com/vi/ZsUn-DKNutw/hqdefault.jpg",
+      "site_titles": [
+        "Dana Hokana Winning Strides -7 Steps to Slow Your Horse Down"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vxLDUWOQmHY",
+      "youtube_title": "Western Pleasure Quick Tip: \"Ride For A Reason\"",
+      "channel": "HorseTrainingChannel",
+      "youtube_url": "https://www.youtube.com/watch?v=vxLDUWOQmHY",
+      "embed_url": "https://www.youtube.com/embed/vxLDUWOQmHY",
+      "thumbnail": "https://i.ytimg.com/vi/vxLDUWOQmHY/hqdefault.jpg",
+      "site_titles": [
+        "Western Pleasure Quick Tip: \"Ride For A Reason\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "j0QWawKXu-I",
+      "youtube_title": "Western Pleasure Ride the Rail Clinic 2015",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=j0QWawKXu-I",
+      "embed_url": "https://www.youtube.com/embed/j0QWawKXu-I",
+      "thumbnail": "https://i.ytimg.com/vi/j0QWawKXu-I/hqdefault.jpg",
+      "site_titles": [
+        "Western Pleasure Ride the Rail Clinic 2015"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RHPSi3fwa9I",
+      "youtube_title": "Team LIFELINE Training Tip   Western Pleasure Riding Position",
+      "channel": "Bluebonnet (Stride Animal Health)",
+      "youtube_url": "https://www.youtube.com/watch?v=RHPSi3fwa9I",
+      "embed_url": "https://www.youtube.com/embed/RHPSi3fwa9I",
+      "thumbnail": "https://i.ytimg.com/vi/RHPSi3fwa9I/hqdefault.jpg",
+      "site_titles": [
+        "Team LIFELINE Training Tip Western Pleasure Riding Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BJzpy5JD5vI",
+      "youtube_title": "Correcting Break of Gait",
+      "channel": "Jesse Chase",
+      "youtube_url": "https://www.youtube.com/watch?v=BJzpy5JD5vI",
+      "embed_url": "https://www.youtube.com/embed/BJzpy5JD5vI",
+      "thumbnail": "https://i.ytimg.com/vi/BJzpy5JD5vI/hqdefault.jpg",
+      "site_titles": [
+        "Correcting Break of Gait"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kor8tubp7d4",
+      "youtube_title": "Champion Horse Training Quick Tip #14: Key To A Slow Horse",
+      "channel": "HorseTrainingChannel",
+      "youtube_url": "https://www.youtube.com/watch?v=Kor8tubp7d4",
+      "embed_url": "https://www.youtube.com/embed/Kor8tubp7d4",
+      "thumbnail": "https://i.ytimg.com/vi/Kor8tubp7d4/hqdefault.jpg",
+      "site_titles": [
+        "Champion Horse Training Quick Tip: Key To A Slow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4DjQy0bOktM",
+      "youtube_title": "Teach EXTENDED to SLOW LOPE transitions for Ranch Riding",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=4DjQy0bOktM",
+      "embed_url": "https://www.youtube.com/embed/4DjQy0bOktM",
+      "thumbnail": "https://i.ytimg.com/vi/4DjQy0bOktM/hqdefault.jpg",
+      "site_titles": [
+        "Teach EXTENDED to SLOW LOPE transitions for Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O6aDmSArnig",
+      "youtube_title": "A Judge's Perspective  2015 World Show Senior Western Pleasure",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=O6aDmSArnig",
+      "embed_url": "https://www.youtube.com/embed/O6aDmSArnig",
+      "thumbnail": "https://i.ytimg.com/vi/O6aDmSArnig/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective 2015 World Show Senior Western Pleasure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3ZFNAe8aYu4",
+      "youtube_title": "UNL Horse Judging - Judging Western Pleasure",
+      "channel": "Kathy Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=3ZFNAe8aYu4",
+      "embed_url": "https://www.youtube.com/embed/3ZFNAe8aYu4",
+      "thumbnail": "https://i.ytimg.com/vi/3ZFNAe8aYu4/hqdefault.jpg",
+      "site_titles": [
+        "UNL Horse Judging - Judging Western Pleasure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DiI1uGCwgSs",
+      "youtube_title": "4H Horse Judging-Western Pleasure",
+      "channel": "Tammy Orr",
+      "youtube_url": "https://www.youtube.com/watch?v=DiI1uGCwgSs",
+      "embed_url": "https://www.youtube.com/embed/DiI1uGCwgSs",
+      "thumbnail": "https://i.ytimg.com/vi/DiI1uGCwgSs/hqdefault.jpg",
+      "site_titles": [
+        "4H Horse Judging-Western Pleasure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LPp-FR_1-XA",
+      "youtube_title": "What to Wear to an Open Breed Horse Show: Western",
+      "channel": "Equifever",
+      "youtube_url": "https://www.youtube.com/watch?v=LPp-FR_1-XA",
+      "embed_url": "https://www.youtube.com/embed/LPp-FR_1-XA",
+      "thumbnail": "https://i.ytimg.com/vi/LPp-FR_1-XA/hqdefault.jpg",
+      "site_titles": [
+        "What to Wear to an Open Breed Horse Show: Western"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iUAa8noMxxs",
+      "youtube_title": "Western Pleasure Judging Practice",
+      "channel": "nmsuaces",
+      "youtube_url": "https://www.youtube.com/watch?v=iUAa8noMxxs",
+      "embed_url": "https://www.youtube.com/embed/iUAa8noMxxs",
+      "thumbnail": "https://i.ytimg.com/vi/iUAa8noMxxs/hqdefault.jpg",
+      "site_titles": [
+        "Western Pleasure Judging Practice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NaEhbZ7m23M",
+      "youtube_title": "Judge Reveals Secrets Behind Winning Ride",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=NaEhbZ7m23M",
+      "embed_url": "https://www.youtube.com/embed/NaEhbZ7m23M",
+      "thumbnail": "https://i.ytimg.com/vi/NaEhbZ7m23M/hqdefault.jpg",
+      "site_titles": [
+        "Judge Reveals Secrets Behind Winning Ride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "35gb0EQBPbQ",
+      "youtube_title": "Friesian, Arabian, Gypsy Vanner Horses in Hunter/Western Pleasure",
+      "channel": "Magnificent Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=35gb0EQBPbQ",
+      "embed_url": "https://www.youtube.com/embed/35gb0EQBPbQ",
+      "thumbnail": "https://i.ytimg.com/vi/35gb0EQBPbQ/hqdefault.jpg",
+      "site_titles": [
+        "Friesian, Arabian, Gypsy Vanner Horses in Hunter/Western Pleasure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bSk-fIxXAJg",
+      "youtube_title": "Different Western Headstalls for Showing",
+      "channel": "Laurel H",
+      "youtube_url": "https://www.youtube.com/watch?v=bSk-fIxXAJg",
+      "embed_url": "https://www.youtube.com/embed/bSk-fIxXAJg",
+      "thumbnail": "https://i.ytimg.com/vi/bSk-fIxXAJg/hqdefault.jpg",
+      "site_titles": [
+        "Different Western Headstalls for Showing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k8Tt2c-r4Tc",
+      "youtube_title": "The Game Plan - Western Pleasure (February 2014)",
+      "channel": "American Paint Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=k8Tt2c-r4Tc",
+      "embed_url": "https://www.youtube.com/embed/k8Tt2c-r4Tc",
+      "thumbnail": "https://i.ytimg.com/vi/k8Tt2c-r4Tc/hqdefault.jpg",
+      "site_titles": [
+        "The Game Plan - Western Pleasure (February 2014)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pNS2NSFZRjY",
+      "youtube_title": "What Is Western Pleasure? | Full Breakdown and Lesson",
+      "channel": "Katie Van Slyke",
+      "youtube_url": "https://www.youtube.com/watch?v=pNS2NSFZRjY",
+      "embed_url": "https://www.youtube.com/embed/pNS2NSFZRjY",
+      "thumbnail": "https://i.ytimg.com/vi/pNS2NSFZRjY/hqdefault.jpg",
+      "site_titles": [
+        "What Is Western Pleasure? | Full Breakdown and Lesson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EZzoZo2LSGk",
+      "youtube_title": "How to Train a Western Pleasure Horse",
+      "channel": "eHowPets",
+      "youtube_url": "https://www.youtube.com/watch?v=EZzoZo2LSGk",
+      "embed_url": "https://www.youtube.com/embed/EZzoZo2LSGk",
+      "thumbnail": "https://i.ytimg.com/vi/EZzoZo2LSGk/hqdefault.jpg",
+      "site_titles": [
+        "How to Train a Western Pleasure Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Xh_4z8-GWgY",
+      "youtube_title": "Western Pleasure: From Head to Hock",
+      "channel": "EquineFever",
+      "youtube_url": "https://www.youtube.com/watch?v=Xh_4z8-GWgY",
+      "embed_url": "https://www.youtube.com/embed/Xh_4z8-GWgY",
+      "thumbnail": "https://i.ytimg.com/vi/Xh_4z8-GWgY/hqdefault.jpg",
+      "site_titles": [
+        "Western Pleasure: From Head to Hock"
       ],
       "sections": [
         "qa"
