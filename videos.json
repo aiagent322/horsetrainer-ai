@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2539,
+  "count": 2557,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -83,7 +83,6 @@
         "qa/horse-care/my-horse-started-weaving-its-pretty-bad-so-quickly-what-is-the-cause-stress/index.html",
         "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
         "qa/horse-care/now-my-cribber-is-starting-to-suck-wind-and-the-leather-choker-isnt-working-what/index.html",
-        "qa/mounting-dismounting/why-is-putting-weight-in-the-stirrups-a-good-idea-before-mounting-a-young-horse/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
         "qa/training-principles/how-do-you-know-when-a-young-horse-is-ready-to-advance-to-the-next-stage-of-trai/index.html",
         "qa/training-principles/index.html",
@@ -1088,7 +1087,6 @@
         "colt-starting/developing-the-stop/index.html",
         "problem-horse/bolting/index.html",
         "problem-horse/no-whoa-runaway-horse/index.html",
-        "qa/mounting-dismounting/how-does-anderson-teach-the-one-rein-stop-as-it-applies-to-the-moment-of-mountin/index.html",
         "qa/reining/what-is-the-safest-way-to-start-reining/index.html",
         "qa/safety/index.html"
       ]
@@ -43064,6 +43062,294 @@
       "thumbnail": "https://i.ytimg.com/vi/KqiiChSeDnA/hqdefault.jpg",
       "site_titles": [
         "Kenda Lenseigne Slack Rein Challenge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t4xbk_0AW7M",
+      "youtube_title": "My Horse Won’t Stand Still!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=t4xbk_0AW7M",
+      "embed_url": "https://www.youtube.com/embed/t4xbk_0AW7M",
+      "thumbnail": "https://i.ytimg.com/vi/t4xbk_0AW7M/hqdefault.jpg",
+      "site_titles": [
+        "My Horse Won’t Stand Still!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Wxl7sqEn_J4",
+      "youtube_title": "How-to get on a tall horse",
+      "channel": "Jost Diederichs",
+      "youtube_url": "https://www.youtube.com/watch?v=Wxl7sqEn_J4",
+      "embed_url": "https://www.youtube.com/embed/Wxl7sqEn_J4",
+      "thumbnail": "https://i.ytimg.com/vi/Wxl7sqEn_J4/hqdefault.jpg",
+      "site_titles": [
+        "How-to get on a tall horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VOWUyQIeK7w",
+      "youtube_title": "Parelli Saddles-Mounting",
+      "channel": "Parelli Saddles",
+      "youtube_url": "https://www.youtube.com/watch?v=VOWUyQIeK7w",
+      "embed_url": "https://www.youtube.com/embed/VOWUyQIeK7w",
+      "thumbnail": "https://i.ytimg.com/vi/VOWUyQIeK7w/hqdefault.jpg",
+      "site_titles": [
+        "Parelli Saddles-Mounting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vBdXfiNXu7I",
+      "youtube_title": "How to Mount and Dismount a Horse (Like a Professional)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=vBdXfiNXu7I",
+      "embed_url": "https://www.youtube.com/embed/vBdXfiNXu7I",
+      "thumbnail": "https://i.ytimg.com/vi/vBdXfiNXu7I/hqdefault.jpg",
+      "site_titles": [
+        "How to Mount and Dismount a Horse (Like a Professional)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yO-9lOj0pHo",
+      "youtube_title": "Mounting Horse - Exercises and Advice  - Get Better Strength and Balance",
+      "channel": "Gaye DeRusso The Majestic Rider - Gaited Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=yO-9lOj0pHo",
+      "embed_url": "https://www.youtube.com/embed/yO-9lOj0pHo",
+      "thumbnail": "https://i.ytimg.com/vi/yO-9lOj0pHo/hqdefault.jpg",
+      "site_titles": [
+        "Mounting Horse - Exercises and Advice - Get Better Strength and Balance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r-fd4IIb10I",
+      "youtube_title": "Creating a Coachable Horse from the Mounting Block: the \"Lazy\" horse",
+      "channel": "HVF Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=r-fd4IIb10I",
+      "embed_url": "https://www.youtube.com/embed/r-fd4IIb10I",
+      "thumbnail": "https://i.ytimg.com/vi/r-fd4IIb10I/hqdefault.jpg",
+      "site_titles": [
+        "Creating a Coachable Horse from the Mounting Block: the \"Lazy\" horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G1jZy3ICTvw",
+      "youtube_title": "How to safely mount your horse at a mounting block",
+      "channel": "Blue Cross UK",
+      "youtube_url": "https://www.youtube.com/watch?v=G1jZy3ICTvw",
+      "embed_url": "https://www.youtube.com/embed/G1jZy3ICTvw",
+      "thumbnail": "https://i.ytimg.com/vi/G1jZy3ICTvw/hqdefault.jpg",
+      "site_titles": [
+        "How to safely mount your horse at a mounting block"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "06wOO4T4pNo",
+      "youtube_title": "Horse refusing to stand at mounting block meets Richard Maxwell | Your Horse",
+      "channel": "YourHorseOnline",
+      "youtube_url": "https://www.youtube.com/watch?v=06wOO4T4pNo",
+      "embed_url": "https://www.youtube.com/embed/06wOO4T4pNo",
+      "thumbnail": "https://i.ytimg.com/vi/06wOO4T4pNo/hqdefault.jpg",
+      "site_titles": [
+        "Horse refusing to stand at mounting block meets Richard Maxwell | Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8oJxILMO17E",
+      "youtube_title": "My horse walks off when I get on.",
+      "channel": "American Mustang School",
+      "youtube_url": "https://www.youtube.com/watch?v=8oJxILMO17E",
+      "embed_url": "https://www.youtube.com/embed/8oJxILMO17E",
+      "thumbnail": "https://i.ytimg.com/vi/8oJxILMO17E/hqdefault.jpg",
+      "site_titles": [
+        "My horse walks off when I get on."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ACrAms0_ZkQ",
+      "youtube_title": "How to teach a horse to stand still",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=ACrAms0_ZkQ",
+      "embed_url": "https://www.youtube.com/embed/ACrAms0_ZkQ",
+      "thumbnail": "https://i.ytimg.com/vi/ACrAms0_ZkQ/hqdefault.jpg",
+      "site_titles": [
+        "How to teach a horse to stand still"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CwPYXWEn2rI",
+      "youtube_title": "How To Mount a Horse - 2 Correct and Safe Ways",
+      "channel": "A Life With Horses - Meryl Lynn Straid",
+      "youtube_url": "https://www.youtube.com/watch?v=CwPYXWEn2rI",
+      "embed_url": "https://www.youtube.com/embed/CwPYXWEn2rI",
+      "thumbnail": "https://i.ytimg.com/vi/CwPYXWEn2rI/hqdefault.jpg",
+      "site_titles": [
+        "How To Mount a Horse - 2 Correct and Safe Ways"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8FJ1PYm9g4A",
+      "youtube_title": "The HISTORY behind mounting your horse from the LEFT!!",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=8FJ1PYm9g4A",
+      "embed_url": "https://www.youtube.com/embed/8FJ1PYm9g4A",
+      "thumbnail": "https://i.ytimg.com/vi/8FJ1PYm9g4A/hqdefault.jpg",
+      "site_titles": [
+        "The HISTORY behind mounting your horse from the LEFT!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "afbFhHqzq2s",
+      "youtube_title": "Very few people dismount correctly",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=afbFhHqzq2s",
+      "embed_url": "https://www.youtube.com/embed/afbFhHqzq2s",
+      "thumbnail": "https://i.ytimg.com/vi/afbFhHqzq2s/hqdefault.jpg",
+      "site_titles": [
+        "Very few people dismount correctly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lGwsfRNw4oU",
+      "youtube_title": "Mounting a young horse",
+      "channel": "johnmaddensalesinc",
+      "youtube_url": "https://www.youtube.com/watch?v=lGwsfRNw4oU",
+      "embed_url": "https://www.youtube.com/embed/lGwsfRNw4oU",
+      "thumbnail": "https://i.ytimg.com/vi/lGwsfRNw4oU/hqdefault.jpg",
+      "site_titles": [
+        "Mounting a young horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cfuRH383Lio",
+      "youtube_title": "Getting a horse to stand still while you get on",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=cfuRH383Lio",
+      "embed_url": "https://www.youtube.com/embed/cfuRH383Lio",
+      "thumbnail": "https://i.ytimg.com/vi/cfuRH383Lio/hqdefault.jpg",
+      "site_titles": [
+        "Getting a horse to stand still while you get on"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WDmD6eFbhJA",
+      "youtube_title": "„Pre-Flight-Check“ – Sicherheitstest für Reitpferde",
+      "channel": "Weinzierl Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=WDmD6eFbhJA",
+      "embed_url": "https://www.youtube.com/embed/WDmD6eFbhJA",
+      "thumbnail": "https://i.ytimg.com/vi/WDmD6eFbhJA/hqdefault.jpg",
+      "site_titles": [
+        "„Pre-Flight-Check“ – Sicherheitstest für Reitpferde"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QMS27qj3A6w",
+      "youtube_title": "Emergency Dismount with Julie Goodnight",
+      "channel": "CHA Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=QMS27qj3A6w",
+      "embed_url": "https://www.youtube.com/embed/QMS27qj3A6w",
+      "thumbnail": "https://i.ytimg.com/vi/QMS27qj3A6w/hqdefault.jpg",
+      "site_titles": [
+        "Emergency Dismount with Julie Goodnight"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H-rlfzB8HAw",
+      "youtube_title": "Putting weight in my 2 yr old horses stirrup!",
+      "channel": "Caleigh Hawley",
+      "youtube_url": "https://www.youtube.com/watch?v=H-rlfzB8HAw",
+      "embed_url": "https://www.youtube.com/embed/H-rlfzB8HAw",
+      "thumbnail": "https://i.ytimg.com/vi/H-rlfzB8HAw/hqdefault.jpg",
+      "site_titles": [
+        "Putting weight in my 2 yr old horses stirrup!"
       ],
       "sections": [
         "qa"
