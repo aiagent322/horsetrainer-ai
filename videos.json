@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2672,
+  "count": 2692,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45169,6 +45169,326 @@
       "thumbnail": "https://i.ytimg.com/vi/qd2pTmEXObo/hqdefault.jpg",
       "site_titles": [
         "Turn On The Forehand VS Turn On The Haunches 🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GInahkRQNcs",
+      "youtube_title": "To be in a \"forward\" seat or Two point",
+      "channel": "Ride With Excellence",
+      "youtube_url": "https://www.youtube.com/watch?v=GInahkRQNcs",
+      "embed_url": "https://www.youtube.com/embed/GInahkRQNcs",
+      "thumbnail": "https://i.ytimg.com/vi/GInahkRQNcs/hqdefault.jpg",
+      "site_titles": [
+        "To be in a \"forward\" seat or Two point"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2R_N4lfmvQo",
+      "youtube_title": "Horse Riding Position - Use A Two Point Seat To Help",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=2R_N4lfmvQo",
+      "embed_url": "https://www.youtube.com/embed/2R_N4lfmvQo",
+      "thumbnail": "https://i.ytimg.com/vi/2R_N4lfmvQo/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Position - Use A Two Point Seat To Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nrXjgFDKjOk",
+      "youtube_title": "Learn to Ride Without Stirrups",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=nrXjgFDKjOk",
+      "embed_url": "https://www.youtube.com/embed/nrXjgFDKjOk",
+      "thumbnail": "https://i.ytimg.com/vi/nrXjgFDKjOk/hqdefault.jpg",
+      "site_titles": [
+        "Learn to Ride Without Stirrups"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KdDhw9EGyTs",
+      "youtube_title": "Improve Your Balance for a Better Ride",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=KdDhw9EGyTs",
+      "embed_url": "https://www.youtube.com/embed/KdDhw9EGyTs",
+      "thumbnail": "https://i.ytimg.com/vi/KdDhw9EGyTs/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Balance for a Better Ride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OcI48jJuZ2I",
+      "youtube_title": "How to Identify and Correct your Posting Diagonal",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=OcI48jJuZ2I",
+      "embed_url": "https://www.youtube.com/embed/OcI48jJuZ2I",
+      "thumbnail": "https://i.ytimg.com/vi/OcI48jJuZ2I/hqdefault.jpg",
+      "site_titles": [
+        "How to Identify and Correct your Posting Diagonal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "og5ErtqZECo",
+      "youtube_title": "Relax Your Shoulders and Improve Riding with This Simple Arm Exercise",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=og5ErtqZECo",
+      "embed_url": "https://www.youtube.com/embed/og5ErtqZECo",
+      "thumbnail": "https://i.ytimg.com/vi/og5ErtqZECo/hqdefault.jpg",
+      "site_titles": [
+        "Relax Your Shoulders and Improve Riding with This Simple Arm Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zJaca2QQtfE",
+      "youtube_title": "How to Stop A Horse With Your Seat 🐎",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=zJaca2QQtfE",
+      "embed_url": "https://www.youtube.com/embed/zJaca2QQtfE",
+      "thumbnail": "https://i.ytimg.com/vi/zJaca2QQtfE/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop A Horse With Your Seat 🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "29tzSVH5ccw",
+      "youtube_title": "How to Sit in the Saddle and Move with your Horse",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=29tzSVH5ccw",
+      "embed_url": "https://www.youtube.com/embed/29tzSVH5ccw",
+      "thumbnail": "https://i.ytimg.com/vi/29tzSVH5ccw/hqdefault.jpg",
+      "site_titles": [
+        "How to Sit in the Saddle and Move with your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GFkamaZgat4",
+      "youtube_title": "Do You Have Knee or Ankle Pain When You Ride?",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=GFkamaZgat4",
+      "embed_url": "https://www.youtube.com/embed/GFkamaZgat4",
+      "thumbnail": "https://i.ytimg.com/vi/GFkamaZgat4/hqdefault.jpg",
+      "site_titles": [
+        "Do You Have Knee or Ankle Pain When You Ride?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZEqvZdbT4gk",
+      "youtube_title": "Knee Pain While Riding? Try This!!!",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=ZEqvZdbT4gk",
+      "embed_url": "https://www.youtube.com/embed/ZEqvZdbT4gk",
+      "thumbnail": "https://i.ytimg.com/vi/ZEqvZdbT4gk/hqdefault.jpg",
+      "site_titles": [
+        "Knee Pain While Riding? Try This!!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-k74iCzBFKY",
+      "youtube_title": "Why You Keep Leaning to One Side When Riding",
+      "channel": "Johanna J Equestrian Physio",
+      "youtube_url": "https://www.youtube.com/watch?v=-k74iCzBFKY",
+      "embed_url": "https://www.youtube.com/embed/-k74iCzBFKY",
+      "thumbnail": "https://i.ytimg.com/vi/-k74iCzBFKY/hqdefault.jpg",
+      "site_titles": [
+        "Why You Keep Leaning to One Side When Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kxuPbNEvV6s",
+      "youtube_title": "Are your elbows sticking out when horse riding? How to keep them by your sides!",
+      "channel": "Johanna J Equestrian Physio",
+      "youtube_url": "https://www.youtube.com/watch?v=kxuPbNEvV6s",
+      "embed_url": "https://www.youtube.com/embed/kxuPbNEvV6s",
+      "thumbnail": "https://i.ytimg.com/vi/kxuPbNEvV6s/hqdefault.jpg",
+      "site_titles": [
+        "Are your elbows sticking out when horse riding? How to keep them by your sides!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0sIUSbucDZg",
+      "youtube_title": "independent seat and hand",
+      "channel": "Deanna Phelan",
+      "youtube_url": "https://www.youtube.com/watch?v=0sIUSbucDZg",
+      "embed_url": "https://www.youtube.com/embed/0sIUSbucDZg",
+      "thumbnail": "https://i.ytimg.com/vi/0sIUSbucDZg/hqdefault.jpg",
+      "site_titles": [
+        "independent seat and hand"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "J84Rew4HxE8",
+      "youtube_title": "Winderen Knee Protect Solution - Innovative Stirrups with Double Shock Absorbers",
+      "channel": "Winderen Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=J84Rew4HxE8",
+      "embed_url": "https://www.youtube.com/embed/J84Rew4HxE8",
+      "thumbnail": "https://i.ytimg.com/vi/J84Rew4HxE8/hqdefault.jpg",
+      "site_titles": [
+        "Winderen Knee Protect Solution - Innovative Stirrups with Double Shock Absorbers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ST7N69whfbE",
+      "youtube_title": "Stop Gripping with your Knees!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=ST7N69whfbE",
+      "embed_url": "https://www.youtube.com/embed/ST7N69whfbE",
+      "thumbnail": "https://i.ytimg.com/vi/ST7N69whfbE/hqdefault.jpg",
+      "site_titles": [
+        "Stop Gripping with your Knees!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4n8RE5Ybqv0",
+      "youtube_title": "Canter! What to do with your seat, legs, shoulders, elbows, and more!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=4n8RE5Ybqv0",
+      "embed_url": "https://www.youtube.com/embed/4n8RE5Ybqv0",
+      "thumbnail": "https://i.ytimg.com/vi/4n8RE5Ybqv0/hqdefault.jpg",
+      "site_titles": [
+        "Canter! What to do with your seat, legs, shoulders, elbows, and more!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Hw3PE_8XdNg",
+      "youtube_title": "Two-Point Position",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=Hw3PE_8XdNg",
+      "embed_url": "https://www.youtube.com/embed/Hw3PE_8XdNg",
+      "thumbnail": "https://i.ytimg.com/vi/Hw3PE_8XdNg/hqdefault.jpg",
+      "site_titles": [
+        "Two-Point Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eU-RWI1HypY",
+      "youtube_title": "Fixing a Crooked Seat",
+      "channel": "Danee Rudy",
+      "youtube_url": "https://www.youtube.com/watch?v=eU-RWI1HypY",
+      "embed_url": "https://www.youtube.com/embed/eU-RWI1HypY",
+      "thumbnail": "https://i.ytimg.com/vi/eU-RWI1HypY/hqdefault.jpg",
+      "site_titles": [
+        "Fixing a Crooked Seat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iKUTuWTmMsU",
+      "youtube_title": "How to Stop Leaning Forward and Sit Back!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=iKUTuWTmMsU",
+      "embed_url": "https://www.youtube.com/embed/iKUTuWTmMsU",
+      "thumbnail": "https://i.ytimg.com/vi/iKUTuWTmMsU/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop Leaning Forward and Sit Back!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xMkKTQVzRYM",
+      "youtube_title": "Quick Tip: Correct Turned-Out Toes",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=xMkKTQVzRYM",
+      "embed_url": "https://www.youtube.com/embed/xMkKTQVzRYM",
+      "thumbnail": "https://i.ytimg.com/vi/xMkKTQVzRYM/hqdefault.jpg",
+      "site_titles": [
+        "Quick Tip: Correct Turned-Out Toes"
       ],
       "sections": [
         "qa"
