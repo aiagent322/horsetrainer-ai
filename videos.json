@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2398,
+  "count": 2411,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -156,7 +156,6 @@
       "reference_count": 50,
       "pages": [
         "famous-trainers/andrea-fappani.html",
-        "qa/choosing-a-trainer/how-do-you-find-a-qualified-trainer-for-a-specific-discipline-like-reining-cutti/index.html",
         "qa/competition/how-do-you-develop-the-reined-or-cow-horse-pattern-work-in-working-ranch-horse/index.html",
         "qa/dressage-lessons/what-if-i-only-have-a-western-horse-can-i-still-take-dressage-lessons/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
@@ -40821,6 +40820,214 @@
       "thumbnail": "https://i.ytimg.com/vi/iWnzFTEVSZ0/hqdefault.jpg",
       "site_titles": [
         "Farrier Tips | How To Stop a Horse Forging"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MPZaK5kkGr8",
+      "youtube_title": "Choosing The Right Trainer",
+      "channel": "Versatile Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=MPZaK5kkGr8",
+      "embed_url": "https://www.youtube.com/embed/MPZaK5kkGr8",
+      "thumbnail": "https://i.ytimg.com/vi/MPZaK5kkGr8/hqdefault.jpg",
+      "site_titles": [
+        "Choosing The Right Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KOrgT8LSvF0",
+      "youtube_title": "\"EIEIO's\" - How I Evaluate Training Methods // Foundations Mini-Series Part 1",
+      "channel": "Steph K. Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=KOrgT8LSvF0",
+      "embed_url": "https://www.youtube.com/embed/KOrgT8LSvF0",
+      "thumbnail": "https://i.ytimg.com/vi/KOrgT8LSvF0/hqdefault.jpg",
+      "site_titles": [
+        "\"EIEIO's\" - How I Evaluate Training Methods // Foundations Mini-Series Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RRw8m4UqD5w",
+      "youtube_title": "How To Find A Good Horse Trainer",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=RRw8m4UqD5w",
+      "embed_url": "https://www.youtube.com/embed/RRw8m4UqD5w",
+      "thumbnail": "https://i.ytimg.com/vi/RRw8m4UqD5w/hqdefault.jpg",
+      "site_titles": [
+        "How To Find A Good Horse Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wKS40Zafkds",
+      "youtube_title": "Horse Trainer: Red and Green Flags Part 1",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=wKS40Zafkds",
+      "embed_url": "https://www.youtube.com/embed/wKS40Zafkds",
+      "thumbnail": "https://i.ytimg.com/vi/wKS40Zafkds/hqdefault.jpg",
+      "site_titles": [
+        "Horse Trainer: Red and Green Flags Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ubhGExGHxwY",
+      "youtube_title": "What very FEW PEOPLE KNOW about the WEIGHT capacity of HORSES | How Much Weight Can a Horse Carry?",
+      "channel": "INSIDE HORSES",
+      "youtube_url": "https://www.youtube.com/watch?v=ubhGExGHxwY",
+      "embed_url": "https://www.youtube.com/embed/ubhGExGHxwY",
+      "thumbnail": "https://i.ytimg.com/vi/ubhGExGHxwY/hqdefault.jpg",
+      "site_titles": [
+        "What very FEW PEOPLE KNOW about the WEIGHT capacity of HORSES | How Much Weight Can a Horse Carry?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9mPk5_DgPXc",
+      "youtube_title": "What is cribbing, and how to stop your horse from cribbing",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=9mPk5_DgPXc",
+      "embed_url": "https://www.youtube.com/embed/9mPk5_DgPXc",
+      "thumbnail": "https://i.ytimg.com/vi/9mPk5_DgPXc/hqdefault.jpg",
+      "site_titles": [
+        "What is cribbing, and how to stop your horse from cribbing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3n8rswQzlw4",
+      "youtube_title": "The Rider's Weight vs. Horse's Weight",
+      "channel": "Andrea Clow",
+      "youtube_url": "https://www.youtube.com/watch?v=3n8rswQzlw4",
+      "embed_url": "https://www.youtube.com/embed/3n8rswQzlw4",
+      "thumbnail": "https://i.ytimg.com/vi/3n8rswQzlw4/hqdefault.jpg",
+      "site_titles": [
+        "The Rider's Weight vs. Horse's Weight"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7P-C77-YNA8",
+      "youtube_title": "Leasing a Horse: Pros and Cons",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=7P-C77-YNA8",
+      "embed_url": "https://www.youtube.com/embed/7P-C77-YNA8",
+      "thumbnail": "https://i.ytimg.com/vi/7P-C77-YNA8/hqdefault.jpg",
+      "site_titles": [
+        "Leasing a Horse: Pros and Cons"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "89gxgpMbX-Q",
+      "youtube_title": "Red Flags in Horse Trainers",
+      "channel": "Madison Nirenstein",
+      "youtube_url": "https://www.youtube.com/watch?v=89gxgpMbX-Q",
+      "embed_url": "https://www.youtube.com/embed/89gxgpMbX-Q",
+      "thumbnail": "https://i.ytimg.com/vi/89gxgpMbX-Q/hqdefault.jpg",
+      "site_titles": [
+        "Red Flags in Horse Trainers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X9b-MsJlf3c",
+      "youtube_title": "An introduction to Pat Parelli (natural horsemanship trainer)",
+      "channel": "countrychanneltv",
+      "youtube_url": "https://www.youtube.com/watch?v=X9b-MsJlf3c",
+      "embed_url": "https://www.youtube.com/embed/X9b-MsJlf3c",
+      "thumbnail": "https://i.ytimg.com/vi/X9b-MsJlf3c/hqdefault.jpg",
+      "site_titles": [
+        "An introduction to Pat Parelli (natural horsemanship trainer)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HKQjdYB2dtE",
+      "youtube_title": "Linzy Lemming- Proper Rider to Horse Weight",
+      "channel": "Animal Science 415",
+      "youtube_url": "https://www.youtube.com/watch?v=HKQjdYB2dtE",
+      "embed_url": "https://www.youtube.com/embed/HKQjdYB2dtE",
+      "thumbnail": "https://i.ytimg.com/vi/HKQjdYB2dtE/hqdefault.jpg",
+      "site_titles": [
+        "Linzy Lemming- Proper Rider to Horse Weight"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FSth80SQHBk",
+      "youtube_title": "Horse Trainer: Red and Green Flags Part 2",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=FSth80SQHBk",
+      "embed_url": "https://www.youtube.com/embed/FSth80SQHBk",
+      "thumbnail": "https://i.ytimg.com/vi/FSth80SQHBk/hqdefault.jpg",
+      "site_titles": [
+        "Horse Trainer: Red and Green Flags Part 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NfRiAOx6eU0",
+      "youtube_title": "Clinton Anderson | The Converse Cowboy (Full Interview)",
+      "channel": "The Converse Cowboy",
+      "youtube_url": "https://www.youtube.com/watch?v=NfRiAOx6eU0",
+      "embed_url": "https://www.youtube.com/embed/NfRiAOx6eU0",
+      "thumbnail": "https://i.ytimg.com/vi/NfRiAOx6eU0/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson | The Converse Cowboy (Full Interview)"
       ],
       "sections": [
         "qa"
