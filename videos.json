@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1688,
+  "count": 1779,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -29526,6 +29526,1462 @@
       "thumbnail": "https://i.ytimg.com/vi/DhN3YRCZCsM/hqdefault.jpg",
       "site_titles": [
         "From Fear to Friends: The Amazing Transformation of a Horse Around Cows"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AlU_Y0kVoSU",
+      "youtube_title": "2-Year-Old With 60 Days Of Training - Foundation Horse Training",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=AlU_Y0kVoSU",
+      "embed_url": "https://www.youtube.com/embed/AlU_Y0kVoSU",
+      "thumbnail": "https://i.ytimg.com/vi/AlU_Y0kVoSU/hqdefault.jpg",
+      "site_titles": [
+        "2-Year-Old With 60 Days Of Training - Foundation Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SDJuT08SX4Y",
+      "youtube_title": "How To Pick Good Cattle In The Cutting Pen!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=SDJuT08SX4Y",
+      "embed_url": "https://www.youtube.com/embed/SDJuT08SX4Y",
+      "thumbnail": "https://i.ytimg.com/vi/SDJuT08SX4Y/hqdefault.jpg",
+      "site_titles": [
+        "How To Pick Good Cattle In The Cutting Pen!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P6HDU7OvZYk",
+      "youtube_title": "How To Teach Your Cutting Horse Turn.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=P6HDU7OvZYk",
+      "embed_url": "https://www.youtube.com/embed/P6HDU7OvZYk",
+      "thumbnail": "https://i.ytimg.com/vi/P6HDU7OvZYk/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Cutting Horse Turn."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qw6OWcK-FL0",
+      "youtube_title": "How To Teach A Cutting Horse To Read A Cow Through Middle Of The Turn!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=qw6OWcK-FL0",
+      "embed_url": "https://www.youtube.com/embed/qw6OWcK-FL0",
+      "thumbnail": "https://i.ytimg.com/vi/qw6OWcK-FL0/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach A Cutting Horse To Read A Cow Through Middle Of The Turn!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zvfzlZdc7z8",
+      "youtube_title": "Two Elite Trainers. Two Approaches To Position On A Cow.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=zvfzlZdc7z8",
+      "embed_url": "https://www.youtube.com/embed/zvfzlZdc7z8",
+      "thumbnail": "https://i.ytimg.com/vi/zvfzlZdc7z8/hqdefault.jpg",
+      "site_titles": [
+        "Two Elite Trainers. Two Approaches To Position On A Cow."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lSdTrnFRpUg",
+      "youtube_title": "Master The Art Of Staying Locked In With The Cow",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=lSdTrnFRpUg",
+      "embed_url": "https://www.youtube.com/embed/lSdTrnFRpUg",
+      "thumbnail": "https://i.ytimg.com/vi/lSdTrnFRpUg/hqdefault.jpg",
+      "site_titles": [
+        "Master The Art Of Staying Locked In With The Cow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yRdXikamZp8",
+      "youtube_title": "Two Great Exercises To Fix The Shoulders And Your Turn On The Flag With Wes Ashlock.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=yRdXikamZp8",
+      "embed_url": "https://www.youtube.com/embed/yRdXikamZp8",
+      "thumbnail": "https://i.ytimg.com/vi/yRdXikamZp8/hqdefault.jpg",
+      "site_titles": [
+        "Two Great Exercises To Fix The Shoulders And Your Turn On The Flag With Wes Ashlock."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "maMXe6dHcGk",
+      "youtube_title": "How To Teach A Cutting Horse To Rate And Stop With A Cow - James Payne",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=maMXe6dHcGk",
+      "embed_url": "https://www.youtube.com/embed/maMXe6dHcGk",
+      "thumbnail": "https://i.ytimg.com/vi/maMXe6dHcGk/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach A Cutting Horse To Rate And Stop With A Cow - James Payne"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "j-Iqwob7Uww",
+      "youtube_title": "How To Keep Your Cutting Horse Soft Working Out Of The Herd With Geoffrey Sheehan",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=j-Iqwob7Uww",
+      "embed_url": "https://www.youtube.com/embed/j-Iqwob7Uww",
+      "thumbnail": "https://i.ytimg.com/vi/j-Iqwob7Uww/hqdefault.jpg",
+      "site_titles": [
+        "How To Keep Your Cutting Horse Soft Working Out Of The Herd With Geoffrey Sheehan"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2EIif2c6BKc",
+      "youtube_title": "Horse Stops Hard Working A Cow - Cutting Horse, Reined Cow Horse, Ranch Sorting & Ranch Versatility",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=2EIif2c6BKc",
+      "embed_url": "https://www.youtube.com/embed/2EIif2c6BKc",
+      "thumbnail": "https://i.ytimg.com/vi/2EIif2c6BKc/hqdefault.jpg",
+      "site_titles": [
+        "Horse Stops Hard Working A Cow - Cutting Horse, Reined Cow Horse, Ranch Sorting & Ranch Versatility"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZYsjH5Z7MXw",
+      "youtube_title": "How To Build Your Cutting Horse Turn On The Flag!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=ZYsjH5Z7MXw",
+      "embed_url": "https://www.youtube.com/embed/ZYsjH5Z7MXw",
+      "thumbnail": "https://i.ytimg.com/vi/ZYsjH5Z7MXw/hqdefault.jpg",
+      "site_titles": [
+        "How To Build Your Cutting Horse Turn On The Flag!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YikMh4IYe0Q",
+      "youtube_title": "What is Cutting?",
+      "channel": "NCHA Films",
+      "youtube_url": "https://www.youtube.com/watch?v=YikMh4IYe0Q",
+      "embed_url": "https://www.youtube.com/embed/YikMh4IYe0Q",
+      "thumbnail": "https://i.ytimg.com/vi/YikMh4IYe0Q/hqdefault.jpg",
+      "site_titles": [
+        "What is Cutting?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mdniPp26kJI",
+      "youtube_title": "Cutting Horse Training Problems, 3-yr-old, part 1",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=mdniPp26kJI",
+      "embed_url": "https://www.youtube.com/embed/mdniPp26kJI",
+      "thumbnail": "https://i.ytimg.com/vi/mdniPp26kJI/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Horse Training Problems, 3-yr-old, part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yqbol6TmAiQ",
+      "youtube_title": "How To Cut Cattle with Michael Cooper",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=yqbol6TmAiQ",
+      "embed_url": "https://www.youtube.com/embed/yqbol6TmAiQ",
+      "thumbnail": "https://i.ytimg.com/vi/yqbol6TmAiQ/hqdefault.jpg",
+      "site_titles": [
+        "How To Cut Cattle with Michael Cooper"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sT82F8fFx3w",
+      "youtube_title": "How To Start 2yr Old Cutting Horses On Cattle",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=sT82F8fFx3w",
+      "embed_url": "https://www.youtube.com/embed/sT82F8fFx3w",
+      "thumbnail": "https://i.ytimg.com/vi/sT82F8fFx3w/hqdefault.jpg",
+      "site_titles": [
+        "How To Start 2yr Old Cutting Horses On Cattle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aOPYnsAmMnw",
+      "youtube_title": "How To Sit On A Cutting Horse!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=aOPYnsAmMnw",
+      "embed_url": "https://www.youtube.com/embed/aOPYnsAmMnw",
+      "thumbnail": "https://i.ytimg.com/vi/aOPYnsAmMnw/hqdefault.jpg",
+      "site_titles": [
+        "How To Sit On A Cutting Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1eUP15hN3e4",
+      "youtube_title": "The Mind Game - How To Win A Cutting Horse Competition, With Jesse Lennox!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=1eUP15hN3e4",
+      "embed_url": "https://www.youtube.com/embed/1eUP15hN3e4",
+      "thumbnail": "https://i.ytimg.com/vi/1eUP15hN3e4/hqdefault.jpg",
+      "site_titles": [
+        "The Mind Game - How To Win A Cutting Horse Competition, With Jesse Lennox!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Nu_JBWNC10A",
+      "youtube_title": "How To Fix A Cutting Horse That Is Long On One Side Of The Cow with Jesse Lennox",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=Nu_JBWNC10A",
+      "embed_url": "https://www.youtube.com/embed/Nu_JBWNC10A",
+      "thumbnail": "https://i.ytimg.com/vi/Nu_JBWNC10A/hqdefault.jpg",
+      "site_titles": [
+        "How To Fix A Cutting Horse That Is Long On One Side Of The Cow with Jesse Lennox"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ngXZl7w5QFA",
+      "youtube_title": "When To Stop Stepping Outside The Cow When Training At Home!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=ngXZl7w5QFA",
+      "embed_url": "https://www.youtube.com/embed/ngXZl7w5QFA",
+      "thumbnail": "https://i.ytimg.com/vi/ngXZl7w5QFA/hqdefault.jpg",
+      "site_titles": [
+        "When To Stop Stepping Outside The Cow When Training At Home!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QoVwyDzm3Co",
+      "youtube_title": "How To Slow Down A Cutting Horse Before Competition!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=QoVwyDzm3Co",
+      "embed_url": "https://www.youtube.com/embed/QoVwyDzm3Co",
+      "thumbnail": "https://i.ytimg.com/vi/QoVwyDzm3Co/hqdefault.jpg",
+      "site_titles": [
+        "How To Slow Down A Cutting Horse Before Competition!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TNkA3raaY6c",
+      "youtube_title": "Three Key Things A Horse Has To Do, To Read A Cow Through The Turn with Shannon Hall!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=TNkA3raaY6c",
+      "embed_url": "https://www.youtube.com/embed/TNkA3raaY6c",
+      "thumbnail": "https://i.ytimg.com/vi/TNkA3raaY6c/hqdefault.jpg",
+      "site_titles": [
+        "Three Key Things A Horse Has To Do, To Read A Cow Through The Turn with Shannon Hall!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TkE2neyDRx0",
+      "youtube_title": "Cutting Horse Training - Herd Work",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=TkE2neyDRx0",
+      "embed_url": "https://www.youtube.com/embed/TkE2neyDRx0",
+      "thumbnail": "https://i.ytimg.com/vi/TkE2neyDRx0/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Horse Training - Herd Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FgY1eJwPxxY",
+      "youtube_title": "Cutting Horse Herd Work - Horse Training For Cutting Competition",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=FgY1eJwPxxY",
+      "embed_url": "https://www.youtube.com/embed/FgY1eJwPxxY",
+      "thumbnail": "https://i.ytimg.com/vi/FgY1eJwPxxY/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Horse Herd Work - Horse Training For Cutting Competition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9f3UT7f9T-o",
+      "youtube_title": "How To Use Your Feet When Riding A Cutting Horse, With Winston Hansma!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=9f3UT7f9T-o",
+      "embed_url": "https://www.youtube.com/embed/9f3UT7f9T-o",
+      "thumbnail": "https://i.ytimg.com/vi/9f3UT7f9T-o/hqdefault.jpg",
+      "site_titles": [
+        "How To Use Your Feet When Riding A Cutting Horse, With Winston Hansma!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pyarGpWhb78",
+      "youtube_title": "How To Train Cow Smart Cutting Horses",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=pyarGpWhb78",
+      "embed_url": "https://www.youtube.com/embed/pyarGpWhb78",
+      "thumbnail": "https://i.ytimg.com/vi/pyarGpWhb78/hqdefault.jpg",
+      "site_titles": [
+        "How To Train Cow Smart Cutting Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R1dMtA6fj0c",
+      "youtube_title": "Introducing a 2YO Filly To Cattle For The First Time Ever",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=R1dMtA6fj0c",
+      "embed_url": "https://www.youtube.com/embed/R1dMtA6fj0c",
+      "thumbnail": "https://i.ytimg.com/vi/R1dMtA6fj0c/hqdefault.jpg",
+      "site_titles": [
+        "Introducing a 2YO Filly To Cattle For The First Time Ever"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-mIP6Bwdxkk",
+      "youtube_title": "How To Teach A Horse To Read The Cow Through The Middle Of The Turn with John Mitchell!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=-mIP6Bwdxkk",
+      "embed_url": "https://www.youtube.com/embed/-mIP6Bwdxkk",
+      "thumbnail": "https://i.ytimg.com/vi/-mIP6Bwdxkk/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach A Horse To Read The Cow Through The Middle Of The Turn with John Mitchell!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "V41j0ws5S7k",
+      "youtube_title": "How To Improve Your Cutting Horse Stop With Geoffrey \"Spud\" Sheehan.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=V41j0ws5S7k",
+      "embed_url": "https://www.youtube.com/embed/V41j0ws5S7k",
+      "thumbnail": "https://i.ytimg.com/vi/V41j0ws5S7k/hqdefault.jpg",
+      "site_titles": [
+        "How To Improve Your Cutting Horse Stop With Geoffrey \"Spud\" Sheehan."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QyUjH9PWiCo",
+      "youtube_title": "Great Exercise For A Cutting Horse That Pushes Forward In the Turn.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=QyUjH9PWiCo",
+      "embed_url": "https://www.youtube.com/embed/QyUjH9PWiCo",
+      "thumbnail": "https://i.ytimg.com/vi/QyUjH9PWiCo/hqdefault.jpg",
+      "site_titles": [
+        "Great Exercise For A Cutting Horse That Pushes Forward In the Turn."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FPFXNCn0Hoc",
+      "youtube_title": "What Does “Settling The Herd” Mean At A Cutting? | Hanging Out At A Cutting W/ Keith",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=FPFXNCn0Hoc",
+      "embed_url": "https://www.youtube.com/embed/FPFXNCn0Hoc",
+      "thumbnail": "https://i.ytimg.com/vi/FPFXNCn0Hoc/hqdefault.jpg",
+      "site_titles": [
+        "What Does “Settling The Herd” Mean At A Cutting? | Hanging Out At A Cutting W/ Keith"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uN-CPT1r4gQ",
+      "youtube_title": "How To Start Horses On Cattle",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=uN-CPT1r4gQ",
+      "embed_url": "https://www.youtube.com/embed/uN-CPT1r4gQ",
+      "thumbnail": "https://i.ytimg.com/vi/uN-CPT1r4gQ/hqdefault.jpg",
+      "site_titles": [
+        "How To Start Horses On Cattle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pdK-G4QRGcM",
+      "youtube_title": "How To Soften Your Cutting Horse On Cattle!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=pdK-G4QRGcM",
+      "embed_url": "https://www.youtube.com/embed/pdK-G4QRGcM",
+      "thumbnail": "https://i.ytimg.com/vi/pdK-G4QRGcM/hqdefault.jpg",
+      "site_titles": [
+        "How To Soften Your Cutting Horse On Cattle!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UaDCYqlLy_Q",
+      "youtube_title": "How To Cow 2yr Old Cutting Horses Up With Jesse Lennox, Stage 2!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=UaDCYqlLy_Q",
+      "embed_url": "https://www.youtube.com/embed/UaDCYqlLy_Q",
+      "thumbnail": "https://i.ytimg.com/vi/UaDCYqlLy_Q/hqdefault.jpg",
+      "site_titles": [
+        "How To Cow 2yr Old Cutting Horses Up With Jesse Lennox, Stage 2!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K7mTJdDumgo",
+      "youtube_title": "Starting A Cutting Horse On Cattle!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=K7mTJdDumgo",
+      "embed_url": "https://www.youtube.com/embed/K7mTJdDumgo",
+      "thumbnail": "https://i.ytimg.com/vi/K7mTJdDumgo/hqdefault.jpg",
+      "site_titles": [
+        "Starting A Cutting Horse On Cattle!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fzYNhUEKyfo",
+      "youtube_title": "How To Control A Cow On Your Cutting Horse",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=fzYNhUEKyfo",
+      "embed_url": "https://www.youtube.com/embed/fzYNhUEKyfo",
+      "thumbnail": "https://i.ytimg.com/vi/fzYNhUEKyfo/hqdefault.jpg",
+      "site_titles": [
+        "How To Control A Cow On Your Cutting Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "49T2x5mo1U8",
+      "youtube_title": "The Pieces of Herdwork from Entering the Herd to Quitting",
+      "channel": "Sandy Collier",
+      "youtube_url": "https://www.youtube.com/watch?v=49T2x5mo1U8",
+      "embed_url": "https://www.youtube.com/embed/49T2x5mo1U8",
+      "thumbnail": "https://i.ytimg.com/vi/49T2x5mo1U8/hqdefault.jpg",
+      "site_titles": [
+        "The Pieces of Herdwork from Entering the Herd to Quitting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yCCB92kW22M",
+      "youtube_title": "How To Improve Your Ability To Read A Cow!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=yCCB92kW22M",
+      "embed_url": "https://www.youtube.com/embed/yCCB92kW22M",
+      "thumbnail": "https://i.ytimg.com/vi/yCCB92kW22M/hqdefault.jpg",
+      "site_titles": [
+        "How To Improve Your Ability To Read A Cow!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CmlMymUwVvQ",
+      "youtube_title": "Work Your Cutting Horses On Cattle That Match Their Skill Level!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=CmlMymUwVvQ",
+      "embed_url": "https://www.youtube.com/embed/CmlMymUwVvQ",
+      "thumbnail": "https://i.ytimg.com/vi/CmlMymUwVvQ/hqdefault.jpg",
+      "site_titles": [
+        "Work Your Cutting Horses On Cattle That Match Their Skill Level!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P8W5g7mWgcw",
+      "youtube_title": "How To Score Higher In A Cutting Horse Competition.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=P8W5g7mWgcw",
+      "embed_url": "https://www.youtube.com/embed/P8W5g7mWgcw",
+      "thumbnail": "https://i.ytimg.com/vi/P8W5g7mWgcw/hqdefault.jpg",
+      "site_titles": [
+        "How To Score Higher In A Cutting Horse Competition."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OWi5K0RWRd4",
+      "youtube_title": "James Payne - Pre Show Warm Up",
+      "channel": "Bluebonnet",
+      "youtube_url": "https://www.youtube.com/watch?v=OWi5K0RWRd4",
+      "embed_url": "https://www.youtube.com/embed/OWi5K0RWRd4",
+      "thumbnail": "https://i.ytimg.com/vi/OWi5K0RWRd4/hqdefault.jpg",
+      "site_titles": [
+        "James Payne - Pre Show Warm Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SAoriNNrMxo",
+      "youtube_title": "Work The Cow With Your Horse's Withers!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=SAoriNNrMxo",
+      "embed_url": "https://www.youtube.com/embed/SAoriNNrMxo",
+      "thumbnail": "https://i.ytimg.com/vi/SAoriNNrMxo/hqdefault.jpg",
+      "site_titles": [
+        "Work The Cow With Your Horse's Withers!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JQONmamAf7Y",
+      "youtube_title": "The Secret To Working Cutting Horses Around And Teaching Them to Stop with Geoffrey Sheehan",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=JQONmamAf7Y",
+      "embed_url": "https://www.youtube.com/embed/JQONmamAf7Y",
+      "thumbnail": "https://i.ytimg.com/vi/JQONmamAf7Y/hqdefault.jpg",
+      "site_titles": [
+        "The Secret To Working Cutting Horses Around And Teaching Them to Stop with Geoffrey Sheehan"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H8oUmPjAA18",
+      "youtube_title": "How To Control The Shoulders On A Cutting Horse Geoffrey Sheehan",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=H8oUmPjAA18",
+      "embed_url": "https://www.youtube.com/embed/H8oUmPjAA18",
+      "thumbnail": "https://i.ytimg.com/vi/H8oUmPjAA18/hqdefault.jpg",
+      "site_titles": [
+        "How To Control The Shoulders On A Cutting Horse Geoffrey Sheehan"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FEkhJe4RQ0c",
+      "youtube_title": "Help Your Cutting Horse Hunt For The Cow With Kenny Platt",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=FEkhJe4RQ0c",
+      "embed_url": "https://www.youtube.com/embed/FEkhJe4RQ0c",
+      "thumbnail": "https://i.ytimg.com/vi/FEkhJe4RQ0c/hqdefault.jpg",
+      "site_titles": [
+        "Help Your Cutting Horse Hunt For The Cow With Kenny Platt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T4GxNcZ5-3k",
+      "youtube_title": "NCHA Educational Series Herd Work",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=T4GxNcZ5-3k",
+      "embed_url": "https://www.youtube.com/embed/T4GxNcZ5-3k",
+      "thumbnail": "https://i.ytimg.com/vi/T4GxNcZ5-3k/hqdefault.jpg",
+      "site_titles": [
+        "NCHA Educational Series Herd Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cnZGNHOj3mM",
+      "youtube_title": "INSIDE THE JUDGES STAND: EPISODE 3 -  Herd Work",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=cnZGNHOj3mM",
+      "embed_url": "https://www.youtube.com/embed/cnZGNHOj3mM",
+      "thumbnail": "https://i.ytimg.com/vi/cnZGNHOj3mM/hqdefault.jpg",
+      "site_titles": [
+        "INSIDE THE JUDGES STAND: EPISODE 3 - Herd Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D0NwJUM9znk",
+      "youtube_title": "Educational Series: Deep Cut and Excessive Herd Help",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=D0NwJUM9znk",
+      "embed_url": "https://www.youtube.com/embed/D0NwJUM9znk",
+      "thumbnail": "https://i.ytimg.com/vi/D0NwJUM9znk/hqdefault.jpg",
+      "site_titles": [
+        "Educational Series: Deep Cut and Excessive Herd Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OW4AJSkHKnk",
+      "youtube_title": "The Key To Cutting Shape, How To Stop Faster & How To Help A Stiff Rider.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=OW4AJSkHKnk",
+      "embed_url": "https://www.youtube.com/embed/OW4AJSkHKnk",
+      "thumbnail": "https://i.ytimg.com/vi/OW4AJSkHKnk/hqdefault.jpg",
+      "site_titles": [
+        "The Key To Cutting Shape, How To Stop Faster & How To Help A Stiff Rider."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H7OzJWxtZRQ",
+      "youtube_title": "Cow Horse Misconceptions - Cutting Horses, Reined Cow Horses, Ranch Sorting, Ranch Versatility",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=H7OzJWxtZRQ",
+      "embed_url": "https://www.youtube.com/embed/H7OzJWxtZRQ",
+      "thumbnail": "https://i.ytimg.com/vi/H7OzJWxtZRQ/hqdefault.jpg",
+      "site_titles": [
+        "Cow Horse Misconceptions - Cutting Horses, Reined Cow Horses, Ranch Sorting, Ranch Versatility"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "btJG2XZfdeU",
+      "youtube_title": "How a Cutting Run Is Judged & Scored",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=btJG2XZfdeU",
+      "embed_url": "https://www.youtube.com/embed/btJG2XZfdeU",
+      "thumbnail": "https://i.ytimg.com/vi/btJG2XZfdeU/hqdefault.jpg",
+      "site_titles": [
+        "How a Cutting Run Is Judged & Scored"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lF5B6ErOMoQ",
+      "youtube_title": "Horse Training For A Solid Foundation - Western Riding, Reining & Cutting Horse Training.",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=lF5B6ErOMoQ",
+      "embed_url": "https://www.youtube.com/embed/lF5B6ErOMoQ",
+      "thumbnail": "https://i.ytimg.com/vi/lF5B6ErOMoQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training For A Solid Foundation - Western Riding, Reining & Cutting Horse Training."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Tm-gn84wSd8",
+      "youtube_title": "How To Score Higher In The Cutting Horse Pen with Steve Oehlhof",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=Tm-gn84wSd8",
+      "embed_url": "https://www.youtube.com/embed/Tm-gn84wSd8",
+      "thumbnail": "https://i.ytimg.com/vi/Tm-gn84wSd8/hqdefault.jpg",
+      "site_titles": [
+        "How To Score Higher In The Cutting Horse Pen with Steve Oehlhof"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hyb3Q2yQ8EQ",
+      "youtube_title": "Cow Work Exercises - Riding Around the Herd with Joe Wolter",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=hyb3Q2yQ8EQ",
+      "embed_url": "https://www.youtube.com/embed/hyb3Q2yQ8EQ",
+      "thumbnail": "https://i.ytimg.com/vi/hyb3Q2yQ8EQ/hqdefault.jpg",
+      "site_titles": [
+        "Cow Work Exercises - Riding Around the Herd with Joe Wolter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zqTgkqR-wuU",
+      "youtube_title": "Cutting Definitions With NCHA Futurity Winner Tarin Rice",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=zqTgkqR-wuU",
+      "embed_url": "https://www.youtube.com/embed/zqTgkqR-wuU",
+      "thumbnail": "https://i.ytimg.com/vi/zqTgkqR-wuU/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Definitions With NCHA Futurity Winner Tarin Rice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w7Haup9fAM0",
+      "youtube_title": "A Cutting Horse MUST Do This - Cutting Horse Training",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=w7Haup9fAM0",
+      "embed_url": "https://www.youtube.com/embed/w7Haup9fAM0",
+      "thumbnail": "https://i.ytimg.com/vi/w7Haup9fAM0/hqdefault.jpg",
+      "site_titles": [
+        "A Cutting Horse MUST Do This - Cutting Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oBO4UjfptPo",
+      "youtube_title": "Winning Insights: Jade Keller and the Importance of Good Turnback Help",
+      "channel": "Horse Radio Network",
+      "youtube_url": "https://www.youtube.com/watch?v=oBO4UjfptPo",
+      "embed_url": "https://www.youtube.com/embed/oBO4UjfptPo",
+      "thumbnail": "https://i.ytimg.com/vi/oBO4UjfptPo/hqdefault.jpg",
+      "site_titles": [
+        "Winning Insights: Jade Keller and the Importance of Good Turnback Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qaAZINB_Lfo",
+      "youtube_title": "A Judges Perspective: 2016 AQHA Senior Cutting World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=qaAZINB_Lfo",
+      "embed_url": "https://www.youtube.com/embed/qaAZINB_Lfo",
+      "thumbnail": "https://i.ytimg.com/vi/qaAZINB_Lfo/hqdefault.jpg",
+      "site_titles": [
+        "A Judges Perspective: 2016 AQHA Senior Cutting World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CO4L-YbemIY",
+      "youtube_title": "Horse Training Tips for Good Stops - Hindquarter Stops, Reining Horses, Cutting Horses",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=CO4L-YbemIY",
+      "embed_url": "https://www.youtube.com/embed/CO4L-YbemIY",
+      "thumbnail": "https://i.ytimg.com/vi/CO4L-YbemIY/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Tips for Good Stops - Hindquarter Stops, Reining Horses, Cutting Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hopjvU7i9Qs",
+      "youtube_title": "Judges Continuing Education: Rule 9 Loss Cow",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=hopjvU7i9Qs",
+      "embed_url": "https://www.youtube.com/embed/hopjvU7i9Qs",
+      "thumbnail": "https://i.ytimg.com/vi/hopjvU7i9Qs/hqdefault.jpg",
+      "site_titles": [
+        "Judges Continuing Education: Rule 9 Loss Cow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eQbLDYqIDjs",
+      "youtube_title": "INSIDE THE JUDGES STAND: EPISODE 9 - FORCED OFF A COW",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=eQbLDYqIDjs",
+      "embed_url": "https://www.youtube.com/embed/eQbLDYqIDjs",
+      "thumbnail": "https://i.ytimg.com/vi/eQbLDYqIDjs/hqdefault.jpg",
+      "site_titles": [
+        "INSIDE THE JUDGES STAND: EPISODE 9 - FORCED OFF A COW"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jYHG0K7UGl0",
+      "youtube_title": "Hindquarter Conformation Problems - Reining Horses, Cutting Horses, Performance Horse Training",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=jYHG0K7UGl0",
+      "embed_url": "https://www.youtube.com/embed/jYHG0K7UGl0",
+      "thumbnail": "https://i.ytimg.com/vi/jYHG0K7UGl0/hqdefault.jpg",
+      "site_titles": [
+        "Hindquarter Conformation Problems - Reining Horses, Cutting Horses, Performance Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-uY1vzSg9pY",
+      "youtube_title": "#130 Michael Walton on Cutting Horses & the Augusta Futurity: History, Bloodlines & Competition",
+      "channel": "Beyond the Chutes | Real Rodeo Stories",
+      "youtube_url": "https://www.youtube.com/watch?v=-uY1vzSg9pY",
+      "embed_url": "https://www.youtube.com/embed/-uY1vzSg9pY",
+      "thumbnail": "https://i.ytimg.com/vi/-uY1vzSg9pY/hqdefault.jpg",
+      "site_titles": [
+        "Michael Walton on Cutting Horses & the Augusta Futurity: History, Bloodlines & Competition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-UWuLJ_QYg0",
+      "youtube_title": "Make Sure Your 2yr Old Is Broke Enough To Work Cattle",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=-UWuLJ_QYg0",
+      "embed_url": "https://www.youtube.com/embed/-UWuLJ_QYg0",
+      "thumbnail": "https://i.ytimg.com/vi/-UWuLJ_QYg0/hqdefault.jpg",
+      "site_titles": [
+        "Make Sure Your 2yr Old Is Broke Enough To Work Cattle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CBaQ_tBZNr0",
+      "youtube_title": "Cutting Horse Insider 2010",
+      "channel": "westernbloodstock",
+      "youtube_url": "https://www.youtube.com/watch?v=CBaQ_tBZNr0",
+      "embed_url": "https://www.youtube.com/embed/CBaQ_tBZNr0",
+      "thumbnail": "https://i.ytimg.com/vi/CBaQ_tBZNr0/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Horse Insider 2010"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ntb8SbHGgzY",
+      "youtube_title": "How To Work 2yr Old Cutting Horses On Cattle.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=Ntb8SbHGgzY",
+      "embed_url": "https://www.youtube.com/embed/Ntb8SbHGgzY",
+      "thumbnail": "https://i.ytimg.com/vi/Ntb8SbHGgzY/hqdefault.jpg",
+      "site_titles": [
+        "How To Work 2yr Old Cutting Horses On Cattle."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P9vdmvQvcgg",
+      "youtube_title": "Performance horse conformation analysis - Reining, Cutting, Trail Riding",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=P9vdmvQvcgg",
+      "embed_url": "https://www.youtube.com/embed/P9vdmvQvcgg",
+      "thumbnail": "https://i.ytimg.com/vi/P9vdmvQvcgg/hqdefault.jpg",
+      "site_titles": [
+        "Performance horse conformation analysis - Reining, Cutting, Trail Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eZSmOoJVni4",
+      "youtube_title": "Cutting Horse - NCHA Derby Class - Run Critique",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=eZSmOoJVni4",
+      "embed_url": "https://www.youtube.com/embed/eZSmOoJVni4",
+      "thumbnail": "https://i.ytimg.com/vi/eZSmOoJVni4/hqdefault.jpg",
+      "site_titles": [
+        "Cutting Horse - NCHA Derby Class - Run Critique"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r5OOBqWsxEM",
+      "youtube_title": "Todd Bergen - How is the cutting turn different to the reining turn?",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=r5OOBqWsxEM",
+      "embed_url": "https://www.youtube.com/embed/r5OOBqWsxEM",
+      "thumbnail": "https://i.ytimg.com/vi/r5OOBqWsxEM/hqdefault.jpg",
+      "site_titles": [
+        "Todd Bergen - How is the cutting turn different to the reining turn?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GzAaeFt5PNg",
+      "youtube_title": "Judging 101: Hot Topics -- 2025 Judging Rules Update",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=GzAaeFt5PNg",
+      "embed_url": "https://www.youtube.com/embed/GzAaeFt5PNg",
+      "thumbnail": "https://i.ytimg.com/vi/GzAaeFt5PNg/hqdefault.jpg",
+      "site_titles": [
+        "Judging 101: Hot Topics -- 2025 Judging Rules Update"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QpxcO59q-m0",
+      "youtube_title": "How To Use Your Feet On A Cutting Horse With Clint Allen",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=QpxcO59q-m0",
+      "embed_url": "https://www.youtube.com/embed/QpxcO59q-m0",
+      "thumbnail": "https://i.ytimg.com/vi/QpxcO59q-m0/hqdefault.jpg",
+      "site_titles": [
+        "How To Use Your Feet On A Cutting Horse With Clint Allen"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kYg7xGrkBYU",
+      "youtube_title": "Important Tips for Choosing & Using Cutting Horse Spurs",
+      "channel": "Dennis Moreland Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=kYg7xGrkBYU",
+      "embed_url": "https://www.youtube.com/embed/kYg7xGrkBYU",
+      "thumbnail": "https://i.ytimg.com/vi/kYg7xGrkBYU/hqdefault.jpg",
+      "site_titles": [
+        "Important Tips for Choosing & Using Cutting Horse Spurs"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cCruvi36IVI",
+      "youtube_title": "How Cade Shepard Uses His Feet On A Cutting Horse",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=cCruvi36IVI",
+      "embed_url": "https://www.youtube.com/embed/cCruvi36IVI",
+      "thumbnail": "https://i.ytimg.com/vi/cCruvi36IVI/hqdefault.jpg",
+      "site_titles": [
+        "How Cade Shepard Uses His Feet On A Cutting Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "smDNs-8XGoQ",
+      "youtube_title": "Judges Continuing Education: Excessive Herd Help",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=smDNs-8XGoQ",
+      "embed_url": "https://www.youtube.com/embed/smDNs-8XGoQ",
+      "thumbnail": "https://i.ytimg.com/vi/smDNs-8XGoQ/hqdefault.jpg",
+      "site_titles": [
+        "Judges Continuing Education: Excessive Herd Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "A5HDn2CidwM",
+      "youtube_title": "How To Build Cow In Your Cutting Horse!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=A5HDn2CidwM",
+      "embed_url": "https://www.youtube.com/embed/A5HDn2CidwM",
+      "thumbnail": "https://i.ytimg.com/vi/A5HDn2CidwM/hqdefault.jpg",
+      "site_titles": [
+        "How To Build Cow In Your Cutting Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hUI7fnEWPUo",
+      "youtube_title": "What is a cutting horse competition? The NCHA explains",
+      "channel": "Fort Worth Report",
+      "youtube_url": "https://www.youtube.com/watch?v=hUI7fnEWPUo",
+      "embed_url": "https://www.youtube.com/embed/hUI7fnEWPUo",
+      "thumbnail": "https://i.ytimg.com/vi/hUI7fnEWPUo/hqdefault.jpg",
+      "site_titles": [
+        "What is a cutting horse competition? The NCHA explains"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SOnfU_HY2bI",
+      "youtube_title": "Cow Work Exercises - Riding Around the Herd with Joe Wolter",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=SOnfU_HY2bI",
+      "embed_url": "https://www.youtube.com/embed/SOnfU_HY2bI",
+      "thumbnail": "https://i.ytimg.com/vi/SOnfU_HY2bI/hqdefault.jpg",
+      "site_titles": [
+        "Cow Work Exercises - Riding Around the Herd with Joe Wolter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_oWaI4-Ckxo",
+      "youtube_title": "What is Ranch Cutting?",
+      "channel": "CW Elite Cow Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=_oWaI4-Ckxo",
+      "embed_url": "https://www.youtube.com/embed/_oWaI4-Ckxo",
+      "thumbnail": "https://i.ytimg.com/vi/_oWaI4-Ckxo/hqdefault.jpg",
+      "site_titles": [
+        "What is Ranch Cutting?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1ghzEl6wkp8",
+      "youtube_title": "Mastering Your Feet And Legs When Riding Cutting Horses",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=1ghzEl6wkp8",
+      "embed_url": "https://www.youtube.com/embed/1ghzEl6wkp8",
+      "thumbnail": "https://i.ytimg.com/vi/1ghzEl6wkp8/hqdefault.jpg",
+      "site_titles": [
+        "Mastering Your Feet And Legs When Riding Cutting Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a79xNvnuA9E",
+      "youtube_title": "How To Warm Up Cutting Horses To Work Cattle With Wes Ashlock.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=a79xNvnuA9E",
+      "embed_url": "https://www.youtube.com/embed/a79xNvnuA9E",
+      "thumbnail": "https://i.ytimg.com/vi/a79xNvnuA9E/hqdefault.jpg",
+      "site_titles": [
+        "How To Warm Up Cutting Horses To Work Cattle With Wes Ashlock."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sPsDJPXGEN4",
+      "youtube_title": "Educational Series: Excessive Herd Help",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=sPsDJPXGEN4",
+      "embed_url": "https://www.youtube.com/embed/sPsDJPXGEN4",
+      "thumbnail": "https://i.ytimg.com/vi/sPsDJPXGEN4/hqdefault.jpg",
+      "site_titles": [
+        "Educational Series: Excessive Herd Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1myJ1KtyG_c",
+      "youtube_title": "How To Prepare Your Horse For The NCHA Futurity With RL Chartier",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=1myJ1KtyG_c",
+      "embed_url": "https://www.youtube.com/embed/1myJ1KtyG_c",
+      "thumbnail": "https://i.ytimg.com/vi/1myJ1KtyG_c/hqdefault.jpg",
+      "site_titles": [
+        "How To Prepare Your Horse For The NCHA Futurity With RL Chartier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r20BeJGBZgU",
+      "youtube_title": "Trainers Talk: What it takes to win the NCHA Futurity",
+      "channel": "NCHAcutting",
+      "youtube_url": "https://www.youtube.com/watch?v=r20BeJGBZgU",
+      "embed_url": "https://www.youtube.com/embed/r20BeJGBZgU",
+      "thumbnail": "https://i.ytimg.com/vi/r20BeJGBZgU/hqdefault.jpg",
+      "site_titles": [
+        "Trainers Talk: What it takes to win the NCHA Futurity"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HH43OjHnxAg",
+      "youtube_title": "WHAT IS CUTTING - the basics explained",
+      "channel": "Grahame Ware",
+      "youtube_url": "https://www.youtube.com/watch?v=HH43OjHnxAg",
+      "embed_url": "https://www.youtube.com/embed/HH43OjHnxAg",
+      "thumbnail": "https://i.ytimg.com/vi/HH43OjHnxAg/hqdefault.jpg",
+      "site_titles": [
+        "WHAT IS CUTTING - the basics explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rMW8-FZwRX0",
+      "youtube_title": "Ranch Cutting Example Video",
+      "channel": "West Coast Ranch Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=rMW8-FZwRX0",
+      "embed_url": "https://www.youtube.com/embed/rMW8-FZwRX0",
+      "thumbnail": "https://i.ytimg.com/vi/rMW8-FZwRX0/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Cutting Example Video"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yG9-wrZQH-c",
+      "youtube_title": "How To Get Eye Appeal In Your Cutting Horses with Todd Graham",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=yG9-wrZQH-c",
+      "embed_url": "https://www.youtube.com/embed/yG9-wrZQH-c",
+      "thumbnail": "https://i.ytimg.com/vi/yG9-wrZQH-c/hqdefault.jpg",
+      "site_titles": [
+        "How To Get Eye Appeal In Your Cutting Horses with Todd Graham"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o5X9zthRLFU",
+      "youtube_title": "Sandy Collier Troubleshooting Herd Work Video Clip",
+      "channel": "jaynewaynedesign",
+      "youtube_url": "https://www.youtube.com/watch?v=o5X9zthRLFU",
+      "embed_url": "https://www.youtube.com/embed/o5X9zthRLFU",
+      "thumbnail": "https://i.ytimg.com/vi/o5X9zthRLFU/hqdefault.jpg",
+      "site_titles": [
+        "Sandy Collier Troubleshooting Herd Work Video Clip"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2z95GC-7avY",
+      "youtube_title": "Russ Westfall Reveals Why He Cows Up His Horses Without Turnback Help",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=2z95GC-7avY",
+      "embed_url": "https://www.youtube.com/embed/2z95GC-7avY",
+      "thumbnail": "https://i.ytimg.com/vi/2z95GC-7avY/hqdefault.jpg",
+      "site_titles": [
+        "Russ Westfall Reveals Why He Cows Up His Horses Without Turnback Help"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bI0qk7pNYU8",
+      "youtube_title": "How To Get A Horse Hooked Up To The Flag, with Rodrigo Taboga.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=bI0qk7pNYU8",
+      "embed_url": "https://www.youtube.com/embed/bI0qk7pNYU8",
+      "thumbnail": "https://i.ytimg.com/vi/bI0qk7pNYU8/hqdefault.jpg",
+      "site_titles": [
+        "How To Get A Horse Hooked Up To The Flag, with Rodrigo Taboga."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gBE0dSuz3TA",
+      "youtube_title": "🟢BEFORE YOU PUT YOUR HORSE ON CATTLE - Must know Tips and Insights to promote confidence in a horse",
+      "channel": "Bill Cameron International Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=gBE0dSuz3TA",
+      "embed_url": "https://www.youtube.com/embed/gBE0dSuz3TA",
+      "thumbnail": "https://i.ytimg.com/vi/gBE0dSuz3TA/hqdefault.jpg",
+      "site_titles": [
+        "🟢BEFORE YOU PUT YOUR HORSE ON CATTLE - Must know Tips and Insights to promote confidence in a horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4AdYYZsKWNs",
+      "youtube_title": "How To Train A Cutting Horses Mind with Adan and Ascencion Banuelos",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=4AdYYZsKWNs",
+      "embed_url": "https://www.youtube.com/embed/4AdYYZsKWNs",
+      "thumbnail": "https://i.ytimg.com/vi/4AdYYZsKWNs/hqdefault.jpg",
+      "site_titles": [
+        "How To Train A Cutting Horses Mind with Adan and Ascencion Banuelos"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8jG63bt1TbE",
+      "youtube_title": "DON\"T Stay On The Same Line Working The Flag On Your Cutting Horse",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=8jG63bt1TbE",
+      "embed_url": "https://www.youtube.com/embed/8jG63bt1TbE",
+      "thumbnail": "https://i.ytimg.com/vi/8jG63bt1TbE/hqdefault.jpg",
+      "site_titles": [
+        "DON\"T Stay On The Same Line Working The Flag On Your Cutting Horse"
       ],
       "sections": [
         "qa"
