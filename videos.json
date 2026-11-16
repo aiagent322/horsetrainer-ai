@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2263,
+  "count": 2300,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -331,9 +331,7 @@
         "qa/safety/my-horse-spooks-and-goes-sideways-what-can-be-done/index.html",
         "qa/safety/my-horse-spooks-at-barking-dogs-what-can-i-do/index.html",
         "qa/safety/my-horse-wants-to-go-sideways-when-spooked-what-can-i-do-about-that/index.html",
-        "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html",
-        "qa/trail/how-do-i-train-a-horse-that-spooks-on-the-trail/index.html",
-        "qa/trail/how-do-i-train-a-horse-to-remain-calm-when-a-slicker-or-rain-jacket-is-handled-f/index.html"
+        "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html"
       ]
     },
     {
@@ -962,8 +960,6 @@
       "reference_count": 11,
       "pages": [
         "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html",
-        "qa/trail/how-do-i-train-a-horse-for-the-back-through-straight-chute-obstacle/index.html",
-        "qa/trail/how-do-i-train-a-horse-to-back-through-an-l-shaped-obstacle-or-chute/index.html",
         "qa/western-horsemanship/how-do-i-develop-the-backup-required-in-a-western-horsemanship-pattern/index.html"
       ]
     },
@@ -38676,6 +38672,598 @@
       "thumbnail": "https://i.ytimg.com/vi/RIIOghTzAMQ/hqdefault.jpg",
       "site_titles": [
         "Advice For A Horse That Bites When Tightening The Cinch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zB6YGZdFgj8",
+      "youtube_title": "Hobble Training - Everyday Horsemanship",
+      "channel": "Craig Cameron Ride Smart Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=zB6YGZdFgj8",
+      "embed_url": "https://www.youtube.com/embed/zB6YGZdFgj8",
+      "thumbnail": "https://i.ytimg.com/vi/zB6YGZdFgj8/hqdefault.jpg",
+      "site_titles": [
+        "Hobble Training - Everyday Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iwKdaVHAR_U",
+      "youtube_title": "How to Train a Horse for Trail Riding",
+      "channel": "SaddleBox",
+      "youtube_url": "https://www.youtube.com/watch?v=iwKdaVHAR_U",
+      "embed_url": "https://www.youtube.com/embed/iwKdaVHAR_U",
+      "thumbnail": "https://i.ytimg.com/vi/iwKdaVHAR_U/hqdefault.jpg",
+      "site_titles": [
+        "How to Train a Horse for Trail Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cZCcslwk238",
+      "youtube_title": "Horse Training for the Ranch Classes - Ranch Reining, Ranch Pleasure, Ranch Trail",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=cZCcslwk238",
+      "embed_url": "https://www.youtube.com/embed/cZCcslwk238",
+      "thumbnail": "https://i.ytimg.com/vi/cZCcslwk238/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training for the Ranch Classes - Ranch Reining, Ranch Pleasure, Ranch Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "W3Gce0EGMKY",
+      "youtube_title": "Techniques to succeed in the ranch/trail class - Terry Myers 2025 The Horseman's Mission",
+      "channel": "The Horsemans Mission",
+      "youtube_url": "https://www.youtube.com/watch?v=W3Gce0EGMKY",
+      "embed_url": "https://www.youtube.com/embed/W3Gce0EGMKY",
+      "thumbnail": "https://i.ytimg.com/vi/W3Gce0EGMKY/hqdefault.jpg",
+      "site_titles": [
+        "Techniques to succeed in the ranch/trail class - Terry Myers 2025 The Horseman's Mission"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ChPs2eanV-0",
+      "youtube_title": "Trail Riding Tip #5 help horses not rush over obstacles",
+      "channel": "TPompei",
+      "youtube_url": "https://www.youtube.com/watch?v=ChPs2eanV-0",
+      "embed_url": "https://www.youtube.com/embed/ChPs2eanV-0",
+      "thumbnail": "https://i.ytimg.com/vi/ChPs2eanV-0/hqdefault.jpg",
+      "site_titles": [
+        "Trail Riding Tip help horses not rush over obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "u6MQeUd9a3M",
+      "youtube_title": "HORSE THAT REFUSES TO GO OUT FOR A RIDE(THE SOLUTION AND A TEMPORARY FIX)",
+      "channel": "Horse Training 101",
+      "youtube_url": "https://www.youtube.com/watch?v=u6MQeUd9a3M",
+      "embed_url": "https://www.youtube.com/embed/u6MQeUd9a3M",
+      "thumbnail": "https://i.ytimg.com/vi/u6MQeUd9a3M/hqdefault.jpg",
+      "site_titles": [
+        "HORSE THAT REFUSES TO GO OUT FOR A RIDE(THE SOLUTION AND A TEMPORARY FIX)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ChYgzL5Oqjk",
+      "youtube_title": "How to Fix a Buddy Sour Horse Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=ChYgzL5Oqjk",
+      "embed_url": "https://www.youtube.com/embed/ChYgzL5Oqjk",
+      "thumbnail": "https://i.ytimg.com/vi/ChYgzL5Oqjk/hqdefault.jpg",
+      "site_titles": [
+        "How to Fix a Buddy Sour Horse Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rkiiRwWRFN4",
+      "youtube_title": "Insider Secrets to Ranch Trail Course",
+      "channel": "Coach Shannon Pigott",
+      "youtube_url": "https://www.youtube.com/watch?v=rkiiRwWRFN4",
+      "embed_url": "https://www.youtube.com/embed/rkiiRwWRFN4",
+      "thumbnail": "https://i.ytimg.com/vi/rkiiRwWRFN4/hqdefault.jpg",
+      "site_titles": [
+        "Insider Secrets to Ranch Trail Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FtFdZJbTODQ",
+      "youtube_title": "Ride with me: working on stopping when your horse is rushing home",
+      "channel": "Finding Fiyero",
+      "youtube_url": "https://www.youtube.com/watch?v=FtFdZJbTODQ",
+      "embed_url": "https://www.youtube.com/embed/FtFdZJbTODQ",
+      "thumbnail": "https://i.ytimg.com/vi/FtFdZJbTODQ/hqdefault.jpg",
+      "site_titles": [
+        "Ride with me: working on stopping when your horse is rushing home"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1MJT0TUKoBI",
+      "youtube_title": "How to Improve your Back Up Obstacle",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=1MJT0TUKoBI",
+      "embed_url": "https://www.youtube.com/embed/1MJT0TUKoBI",
+      "thumbnail": "https://i.ytimg.com/vi/1MJT0TUKoBI/hqdefault.jpg",
+      "site_titles": [
+        "How to Improve your Back Up Obstacle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jba2m-v_IgM",
+      "youtube_title": "How to Handle Spooking on the Trail",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=jba2m-v_IgM",
+      "embed_url": "https://www.youtube.com/embed/jba2m-v_IgM",
+      "thumbnail": "https://i.ytimg.com/vi/jba2m-v_IgM/hqdefault.jpg",
+      "site_titles": [
+        "How to Handle Spooking on the Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t_Hhw9EEArs",
+      "youtube_title": "Horse Trail Obstacle Training - Bridge",
+      "channel": "theonesugarlady",
+      "youtube_url": "https://www.youtube.com/watch?v=t_Hhw9EEArs",
+      "embed_url": "https://www.youtube.com/embed/t_Hhw9EEArs",
+      "thumbnail": "https://i.ytimg.com/vi/t_Hhw9EEArs/hqdefault.jpg",
+      "site_titles": [
+        "Horse Trail Obstacle Training - Bridge"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-44rqpqxcdg",
+      "youtube_title": "Building Confidence In A Horse That Won't Cross Water",
+      "channel": "Carson James",
+      "youtube_url": "https://www.youtube.com/watch?v=-44rqpqxcdg",
+      "embed_url": "https://www.youtube.com/embed/-44rqpqxcdg",
+      "thumbnail": "https://i.ytimg.com/vi/-44rqpqxcdg/hqdefault.jpg",
+      "site_titles": [
+        "Building Confidence In A Horse That Won't Cross Water"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "13_bKG9ljRQ",
+      "youtube_title": "Elevated Bridge Obstacle. Can My Horse Cross It?",
+      "channel": "John Harrer",
+      "youtube_url": "https://www.youtube.com/watch?v=13_bKG9ljRQ",
+      "embed_url": "https://www.youtube.com/embed/13_bKG9ljRQ",
+      "thumbnail": "https://i.ytimg.com/vi/13_bKG9ljRQ/hqdefault.jpg",
+      "site_titles": [
+        "Elevated Bridge Obstacle. Can My Horse Cross It?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_35qSUFR-wg",
+      "youtube_title": "Desensitizing With A Rain Slicker",
+      "channel": "C Six Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=_35qSUFR-wg",
+      "embed_url": "https://www.youtube.com/embed/_35qSUFR-wg",
+      "thumbnail": "https://i.ytimg.com/vi/_35qSUFR-wg/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing With A Rain Slicker"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7OAtTETIhqc",
+      "youtube_title": "Trot and Poles: How to Use Pole Work to Improve Your Horse's Trot",
+      "channel": "Champions Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=7OAtTETIhqc",
+      "embed_url": "https://www.youtube.com/embed/7OAtTETIhqc",
+      "thumbnail": "https://i.ytimg.com/vi/7OAtTETIhqc/hqdefault.jpg",
+      "site_titles": [
+        "Trot and Poles: How to Use Pole Work to Improve Your Horse's Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qf93xTxOdOk",
+      "youtube_title": "My horse *REFUSED* to go through water!",
+      "channel": "Elphick.Event.Ponies",
+      "youtube_url": "https://www.youtube.com/watch?v=qf93xTxOdOk",
+      "embed_url": "https://www.youtube.com/embed/qf93xTxOdOk",
+      "thumbnail": "https://i.ytimg.com/vi/qf93xTxOdOk/hqdefault.jpg",
+      "site_titles": [
+        "My horse *REFUSED* to go through water!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6PRVlDeOA20",
+      "youtube_title": "Horse Training For Ranch Class Competition - Ranch Reining, Ranch Pleasure, Ranch Trail",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=6PRVlDeOA20",
+      "embed_url": "https://www.youtube.com/embed/6PRVlDeOA20",
+      "thumbnail": "https://i.ytimg.com/vi/6PRVlDeOA20/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training For Ranch Class Competition - Ranch Reining, Ranch Pleasure, Ranch Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c_PyiYzgxfg",
+      "youtube_title": "A Judge's Perspective: 2015 AQHYA Trail World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=c_PyiYzgxfg",
+      "embed_url": "https://www.youtube.com/embed/c_PyiYzgxfg",
+      "thumbnail": "https://i.ytimg.com/vi/c_PyiYzgxfg/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2015 AQHYA Trail World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zuZ7JkvZAck",
+      "youtube_title": "UNL Horse Judging - Judging Trail",
+      "channel": "Kathy Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=zuZ7JkvZAck",
+      "embed_url": "https://www.youtube.com/embed/zuZ7JkvZAck",
+      "thumbnail": "https://i.ytimg.com/vi/zuZ7JkvZAck/hqdefault.jpg",
+      "site_titles": [
+        "UNL Horse Judging - Judging Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Zh0UIES2BLM",
+      "youtube_title": "Behind the Clipboard: Ranch Trail",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=Zh0UIES2BLM",
+      "embed_url": "https://www.youtube.com/embed/Zh0UIES2BLM",
+      "thumbnail": "https://i.ytimg.com/vi/Zh0UIES2BLM/hqdefault.jpg",
+      "site_titles": [
+        "Behind the Clipboard: Ranch Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ixOICy3gWoQ",
+      "youtube_title": "A Judge's Perspective: 2016 AQHYA Trail World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=ixOICy3gWoQ",
+      "embed_url": "https://www.youtube.com/embed/ixOICy3gWoQ",
+      "thumbnail": "https://i.ytimg.com/vi/ixOICy3gWoQ/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2016 AQHYA Trail World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "M7xlt65-1VY",
+      "youtube_title": "Lunch & Learn Lecture: Judging Trail Classes",
+      "channel": "ExtensionHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=M7xlt65-1VY",
+      "embed_url": "https://www.youtube.com/embed/M7xlt65-1VY",
+      "thumbnail": "https://i.ytimg.com/vi/M7xlt65-1VY/hqdefault.jpg",
+      "site_titles": [
+        "Lunch & Learn Lecture: Judging Trail Classes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zj-DXj2Iuew",
+      "youtube_title": "Introduction to Ranch Trail | How Ranch Trail Scoring Really Works",
+      "channel": "Horse Stories",
+      "youtube_url": "https://www.youtube.com/watch?v=zj-DXj2Iuew",
+      "embed_url": "https://www.youtube.com/embed/zj-DXj2Iuew",
+      "thumbnail": "https://i.ytimg.com/vi/zj-DXj2Iuew/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Ranch Trail | How Ranch Trail Scoring Really Works"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LonqgT2RtjA",
+      "youtube_title": "How to Ride a Horse Up and Down Hills",
+      "channel": "Balance with Distinction",
+      "youtube_url": "https://www.youtube.com/watch?v=LonqgT2RtjA",
+      "embed_url": "https://www.youtube.com/embed/LonqgT2RtjA",
+      "thumbnail": "https://i.ytimg.com/vi/LonqgT2RtjA/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Horse Up and Down Hills"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NN4MwAZCFgw",
+      "youtube_title": "Retraining a race horse that is now a trail horse",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=NN4MwAZCFgw",
+      "embed_url": "https://www.youtube.com/embed/NN4MwAZCFgw",
+      "thumbnail": "https://i.ytimg.com/vi/NN4MwAZCFgw/hqdefault.jpg",
+      "site_titles": [
+        "Retraining a race horse that is now a trail horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PcuN2ha3vwQ",
+      "youtube_title": "Horse won't cross water",
+      "channel": "quicktalent",
+      "youtube_url": "https://www.youtube.com/watch?v=PcuN2ha3vwQ",
+      "embed_url": "https://www.youtube.com/embed/PcuN2ha3vwQ",
+      "thumbnail": "https://i.ytimg.com/vi/PcuN2ha3vwQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse won't cross water"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dZfLKV7tfVE",
+      "youtube_title": "This Horse Won't Walk Slow On A Trail Ride!",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=dZfLKV7tfVE",
+      "embed_url": "https://www.youtube.com/embed/dZfLKV7tfVE",
+      "thumbnail": "https://i.ytimg.com/vi/dZfLKV7tfVE/hqdefault.jpg",
+      "site_titles": [
+        "This Horse Won't Walk Slow On A Trail Ride!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sFgW3WLpgt8",
+      "youtube_title": "Riding Downhill on a Horse",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=sFgW3WLpgt8",
+      "embed_url": "https://www.youtube.com/embed/sFgW3WLpgt8",
+      "thumbnail": "https://i.ytimg.com/vi/sFgW3WLpgt8/hqdefault.jpg",
+      "site_titles": [
+        "Riding Downhill on a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uT62tLktkCM",
+      "youtube_title": "PRACTICE JUDGING:  TRAIL",
+      "channel": "videohorseworld01",
+      "youtube_url": "https://www.youtube.com/watch?v=uT62tLktkCM",
+      "embed_url": "https://www.youtube.com/embed/uT62tLktkCM",
+      "thumbnail": "https://i.ytimg.com/vi/uT62tLktkCM/hqdefault.jpg",
+      "site_titles": [
+        "PRACTICE JUDGING: TRAIL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R5TfOhMGiNE",
+      "youtube_title": "Groundwork Exercises for the Trail",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=R5TfOhMGiNE",
+      "embed_url": "https://www.youtube.com/embed/R5TfOhMGiNE",
+      "thumbnail": "https://i.ytimg.com/vi/R5TfOhMGiNE/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork Exercises for the Trail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0s6Pc-D-Cn8",
+      "youtube_title": "Trail Basics: The Gate",
+      "channel": "Laurel H",
+      "youtube_url": "https://www.youtube.com/watch?v=0s6Pc-D-Cn8",
+      "embed_url": "https://www.youtube.com/embed/0s6Pc-D-Cn8",
+      "thumbnail": "https://i.ytimg.com/vi/0s6Pc-D-Cn8/hqdefault.jpg",
+      "site_titles": [
+        "Trail Basics: The Gate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "85E0ygob6mM",
+      "youtube_title": "Prepare Horse for Lose Dog Encounter on Trail (Horse Training, desensitization)",
+      "channel": "Equine Web Development",
+      "youtube_url": "https://www.youtube.com/watch?v=85E0ygob6mM",
+      "embed_url": "https://www.youtube.com/embed/85E0ygob6mM",
+      "thumbnail": "https://i.ytimg.com/vi/85E0ygob6mM/hqdefault.jpg",
+      "site_titles": [
+        "Prepare Horse for Lose Dog Encounter on Trail (Horse Training, desensitization)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "33hIIhu09V0",
+      "youtube_title": "HORSEBACK TRAIL RIDING TIPS FOR SAFETY 🐴",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=33hIIhu09V0",
+      "embed_url": "https://www.youtube.com/embed/33hIIhu09V0",
+      "thumbnail": "https://i.ytimg.com/vi/33hIIhu09V0/hqdefault.jpg",
+      "site_titles": [
+        "HORSEBACK TRAIL RIDING TIPS FOR SAFETY 🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OkGD59hk1CY",
+      "youtube_title": "Judges Perspective Rookie Ranch Riding",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=OkGD59hk1CY",
+      "embed_url": "https://www.youtube.com/embed/OkGD59hk1CY",
+      "thumbnail": "https://i.ytimg.com/vi/OkGD59hk1CY/hqdefault.jpg",
+      "site_titles": [
+        "Judges Perspective Rookie Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fuuhh_k0FBc",
+      "youtube_title": "2025 Amateur Ranch Trail World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=fuuhh_k0FBc",
+      "embed_url": "https://www.youtube.com/embed/fuuhh_k0FBc",
+      "thumbnail": "https://i.ytimg.com/vi/fuuhh_k0FBc/hqdefault.jpg",
+      "site_titles": [
+        "2025 Amateur Ranch Trail World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UWKFcnJ9I5U",
+      "youtube_title": "How To Teach A Horse To ACCEPT Water! Pressure-Release And 2 Steps To Success!",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=UWKFcnJ9I5U",
+      "embed_url": "https://www.youtube.com/embed/UWKFcnJ9I5U",
+      "thumbnail": "https://i.ytimg.com/vi/UWKFcnJ9I5U/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach A Horse To ACCEPT Water! Pressure-Release And 2 Steps To Success!"
       ],
       "sections": [
         "qa"
