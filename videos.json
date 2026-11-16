@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2708,
+  "count": 2709,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45745,6 +45745,22 @@
       "thumbnail": "https://i.ytimg.com/vi/WaOUFStKxlk/hqdefault.jpg",
       "site_titles": [
         "Ranch Rail: Schritt für Schritt zum Extended Lope"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p5XpWS7wCSg",
+      "youtube_title": "2026 Youth Working Cow Horse Boxing World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=p5XpWS7wCSg",
+      "embed_url": "https://www.youtube.com/embed/p5XpWS7wCSg",
+      "thumbnail": "https://i.ytimg.com/vi/p5XpWS7wCSg/hqdefault.jpg",
+      "site_titles": [
+        "2026 Youth Working Cow Horse Boxing World Champion"
       ],
       "sections": [
         "qa"
