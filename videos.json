@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2590,
+  "count": 2609,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -78,7 +78,6 @@
       "pages": [
         "colt-starting/first-60-days-under-saddle/index.html",
         "groundwork/first-saddling-colt-starting/index.html",
-        "qa/desensitization-sacking-out/how-do-you-sack-out-a-young-horse-and-why-is-it-important/index.html",
         "qa/groundwork-longing/index.html",
         "qa/horse-care/my-horse-started-weaving-its-pretty-bad-so-quickly-what-is-the-cause-stress/index.html",
         "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
@@ -308,10 +307,6 @@
       ],
       "reference_count": 25,
       "pages": [
-        "qa/desensitization-sacking-out/how-do-i-build-confidence-in-a-fearful-or-anxious-horse/index.html",
-        "qa/desensitization-sacking-out/how-do-i-desensitize-a-spooky-horse-to-frightening-objects-and-situations/index.html",
-        "qa/desensitization-sacking-out/how-do-i-handle-a-horse-that-spooks-on-the-trail-and-get-it-more-confident/index.html",
-        "qa/desensitization-sacking-out/how-do-i-train-a-spooky-horse/index.html",
         "qa/lateral-work-suppling/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html"
       ]
@@ -43871,6 +43866,310 @@
       "thumbnail": "https://i.ytimg.com/vi/IO2ko4tKsco/hqdefault.jpg",
       "site_titles": [
         "Working Equitation- Sidepass Rail with Miguel Undabarrena (2026 USA WAWE Coach)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Eeu2OWUX_b8",
+      "youtube_title": "Confidence building exercises for nervous horses",
+      "channel": "The Whole Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=Eeu2OWUX_b8",
+      "embed_url": "https://www.youtube.com/embed/Eeu2OWUX_b8",
+      "thumbnail": "https://i.ytimg.com/vi/Eeu2OWUX_b8/hqdefault.jpg",
+      "site_titles": [
+        "Confidence building exercises for nervous horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BMce4EXDW2U",
+      "youtube_title": "COW-A-BUNGA! Desensitizing trail horses to cattle or cows",
+      "channel": "Half Ass Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=BMce4EXDW2U",
+      "embed_url": "https://www.youtube.com/embed/BMce4EXDW2U",
+      "thumbnail": "https://i.ytimg.com/vi/BMce4EXDW2U/hqdefault.jpg",
+      "site_titles": [
+        "COW-A-BUNGA! Desensitizing trail horses to cattle or cows"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5X0NZpIKO8Q",
+      "youtube_title": "Training Tip: Build Your Horse's Confidence Around Spooky Objects",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=5X0NZpIKO8Q",
+      "embed_url": "https://www.youtube.com/embed/5X0NZpIKO8Q",
+      "thumbnail": "https://i.ytimg.com/vi/5X0NZpIKO8Q/hqdefault.jpg",
+      "site_titles": [
+        "Training Tip: Build Your Horse's Confidence Around Spooky Objects"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pUc5qQKcIi8",
+      "youtube_title": "Acclimating A Horse To Road Noise And Traffic",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=pUc5qQKcIi8",
+      "embed_url": "https://www.youtube.com/embed/pUc5qQKcIi8",
+      "thumbnail": "https://i.ytimg.com/vi/pUc5qQKcIi8/hqdefault.jpg",
+      "site_titles": [
+        "Acclimating A Horse To Road Noise And Traffic"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vH1pA0dkooo",
+      "youtube_title": "Please Do This With Your Horses! How I Desensitize A Horse To A Plastic Bag (3 Steps)",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=vH1pA0dkooo",
+      "embed_url": "https://www.youtube.com/embed/vH1pA0dkooo",
+      "thumbnail": "https://i.ytimg.com/vi/vH1pA0dkooo/hqdefault.jpg",
+      "site_titles": [
+        "Please Do This With Your Horses! How I Desensitize A Horse To A Plastic Bag (3 Steps)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nY4-qlSi98E",
+      "youtube_title": "How To Desensitize Horse To Spray Bottles #goodtoknow #vet #medicine #educational #funfacts #hacks",
+      "channel": "Vetventures",
+      "youtube_url": "https://www.youtube.com/watch?v=nY4-qlSi98E",
+      "embed_url": "https://www.youtube.com/embed/nY4-qlSi98E",
+      "thumbnail": "https://i.ytimg.com/vi/nY4-qlSi98E/hqdefault.jpg",
+      "site_titles": [
+        "How To Desensitize Horse To Spray Bottles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3rVmUMNyjdY",
+      "youtube_title": "Virgil ,Bicycle training for trail horse",
+      "channel": "Lyn",
+      "youtube_url": "https://www.youtube.com/watch?v=3rVmUMNyjdY",
+      "embed_url": "https://www.youtube.com/embed/3rVmUMNyjdY",
+      "thumbnail": "https://i.ytimg.com/vi/3rVmUMNyjdY/hqdefault.jpg",
+      "site_titles": [
+        "Virgil ,Bicycle training for trail horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wyUn_-2UXr8",
+      "youtube_title": "Horses: Crowd Desensitization Washington State Horse Expo 2018",
+      "channel": "Equestry",
+      "youtube_url": "https://www.youtube.com/watch?v=wyUn_-2UXr8",
+      "embed_url": "https://www.youtube.com/embed/wyUn_-2UXr8",
+      "thumbnail": "https://i.ytimg.com/vi/wyUn_-2UXr8/hqdefault.jpg",
+      "site_titles": [
+        "Horses: Crowd Desensitization Washington State Horse Expo 2018"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "skp3mBg3ax0",
+      "youtube_title": "Sanpete Horse Training:  Desensitizing to plastic bags",
+      "channel": "Sanpete Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=skp3mBg3ax0",
+      "embed_url": "https://www.youtube.com/embed/skp3mBg3ax0",
+      "thumbnail": "https://i.ytimg.com/vi/skp3mBg3ax0/hqdefault.jpg",
+      "site_titles": [
+        "Sanpete Horse Training: Desensitizing to plastic bags"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xNYTNZ4Ky5Q",
+      "youtube_title": "How to Desensitize your Horse with a Tarp",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=xNYTNZ4Ky5Q",
+      "embed_url": "https://www.youtube.com/embed/xNYTNZ4Ky5Q",
+      "thumbnail": "https://i.ytimg.com/vi/xNYTNZ4Ky5Q/hqdefault.jpg",
+      "site_titles": [
+        "How to Desensitize your Horse with a Tarp"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NWBy_W-5jxs",
+      "youtube_title": "Young Horse - Sacking and Desensitizing - Video 1",
+      "channel": "Reesie McGuigan",
+      "youtube_url": "https://www.youtube.com/watch?v=NWBy_W-5jxs",
+      "embed_url": "https://www.youtube.com/embed/NWBy_W-5jxs",
+      "thumbnail": "https://i.ytimg.com/vi/NWBy_W-5jxs/hqdefault.jpg",
+      "site_titles": [
+        "Young Horse - Sacking and Desensitizing - Video 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xbK8hPWFH80",
+      "youtube_title": "Parelli - Extreme Friendly Game",
+      "channel": "TrueFC",
+      "youtube_url": "https://www.youtube.com/watch?v=xbK8hPWFH80",
+      "embed_url": "https://www.youtube.com/embed/xbK8hPWFH80",
+      "thumbnail": "https://i.ytimg.com/vi/xbK8hPWFH80/hqdefault.jpg",
+      "site_titles": [
+        "Parelli - Extreme Friendly Game"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "juQ0CaIQGEk",
+      "youtube_title": "Teaching horse to stand still, not kick while I touch back legs: steps to picking up back hooves!",
+      "channel": "Maddie's Mustang Mission",
+      "youtube_url": "https://www.youtube.com/watch?v=juQ0CaIQGEk",
+      "embed_url": "https://www.youtube.com/embed/juQ0CaIQGEk",
+      "thumbnail": "https://i.ytimg.com/vi/juQ0CaIQGEk/hqdefault.jpg",
+      "site_titles": [
+        "Teaching horse to stand still, not kick while I touch back legs: steps to picking up back hooves!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YWkUTDm4lYw",
+      "youtube_title": "Building Confidence in a Scared Horse",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=YWkUTDm4lYw",
+      "embed_url": "https://www.youtube.com/embed/YWkUTDm4lYw",
+      "thumbnail": "https://i.ytimg.com/vi/YWkUTDm4lYw/hqdefault.jpg",
+      "site_titles": [
+        "Building Confidence in a Scared Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CBdVXiiN538",
+      "youtube_title": "Understanding Your Horse's Nervous System States",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=CBdVXiiN538",
+      "embed_url": "https://www.youtube.com/embed/CBdVXiiN538",
+      "thumbnail": "https://i.ytimg.com/vi/CBdVXiiN538/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Your Horse's Nervous System States"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zG5DhgEbiDk",
+      "youtube_title": "Helping a horse gain confidence when spooking",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=zG5DhgEbiDk",
+      "embed_url": "https://www.youtube.com/embed/zG5DhgEbiDk",
+      "thumbnail": "https://i.ytimg.com/vi/zG5DhgEbiDk/hqdefault.jpg",
+      "site_titles": [
+        "Helping a horse gain confidence when spooking"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZbxCOanraTI",
+      "youtube_title": "Clinton Anderson: The Purpose of Lariats - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=ZbxCOanraTI",
+      "embed_url": "https://www.youtube.com/embed/ZbxCOanraTI",
+      "thumbnail": "https://i.ytimg.com/vi/ZbxCOanraTI/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: The Purpose of Lariats - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SoP6JG9O6lo",
+      "youtube_title": "Sacking Out and Desensitizing a Horse - Removing Fear Not Creating It",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=SoP6JG9O6lo",
+      "embed_url": "https://www.youtube.com/embed/SoP6JG9O6lo",
+      "thumbnail": "https://i.ytimg.com/vi/SoP6JG9O6lo/hqdefault.jpg",
+      "site_titles": [
+        "Sacking Out and Desensitizing a Horse - Removing Fear Not Creating It"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "it-Aa2RLcQg",
+      "youtube_title": "Desensitizing your Horse: Episode 1",
+      "channel": "Craig Cameron Ride Smart Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=it-Aa2RLcQg",
+      "embed_url": "https://www.youtube.com/embed/it-Aa2RLcQg",
+      "thumbnail": "https://i.ytimg.com/vi/it-Aa2RLcQg/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing your Horse: Episode 1"
       ],
       "sections": [
         "qa"
