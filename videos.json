@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1915,
+  "count": 2036,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -227,8 +227,6 @@
       "reference_count": 35,
       "pages": [
         "qa/counter-canter/how-does-counter-canter-help-prepare-a-horse-for-flying-changes/index.html",
-        "qa/hunter-jumper/what-is-a-flying-lead-change-and-how-is-it-developed-for-jumpers/index.html",
-        "qa/hunter-jumper/what-is-a-simple-lead-change-and-when-do-you-use-it/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
         "reining/developing-lead-changes/index.html",
         "videos/reining/index.html"
@@ -334,8 +332,6 @@
         "qa/desensitization-sacking-out/how-do-i-train-a-spooky-horse/index.html",
         "qa/groundwork-longing/how-do-i-use-groundwork-to-help-a-spooky-or-anxious-horse-become-calmer/index.html",
         "qa/groundwork-longing/how-do-i-use-groundwork-to-prepare-a-spooky-horse-for-riding/index.html",
-        "qa/hunter-jumper/how-do-you-build-confidence-in-a-horse-that-is-nervous-about-jumping/index.html",
-        "qa/hunter-jumper/how-do-you-fix-a-horse-that-spooks-at-fences/index.html",
         "qa/lateral-work-suppling/index.html",
         "qa/problem-solving-under-saddle/how-do-you-ride-a-horse-through-a-spook-safely-without-making-it-worse/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
@@ -585,7 +581,6 @@
       "pages": [
         "famous-trainers/clinton-anderson.html",
         "qa/horsemanship/index.html",
-        "qa/hunter-jumper/how-do-you-manage-a-hot-or-difficult-horse-in-jumper-competition/index.html",
         "qa/team-roping/how-do-you-fix-a-hot-rope-horse/index.html",
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
         "qa/trailer-loading/how-do-i-train-a-horse-to-load-in-a-trailer-calmly-and-reliably/index.html",
@@ -33136,6 +33131,1942 @@
       "thumbnail": "https://i.ytimg.com/vi/Ewl7oGPDgKA/hqdefault.jpg",
       "site_titles": [
         "Safely tie a horse to a trailer with a bank robber's knot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GkEPOsNiaSE",
+      "youtube_title": "What Are Equitation Judges Looking For?",
+      "channel": "Show Jumping Life",
+      "youtube_url": "https://www.youtube.com/watch?v=GkEPOsNiaSE",
+      "embed_url": "https://www.youtube.com/embed/GkEPOsNiaSE",
+      "thumbnail": "https://i.ytimg.com/vi/GkEPOsNiaSE/hqdefault.jpg",
+      "site_titles": [
+        "What Are Equitation Judges Looking For?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HAJJbd2ln5g",
+      "youtube_title": "What Are Hunter Judges Looking For?",
+      "channel": "Show Jumping Life",
+      "youtube_url": "https://www.youtube.com/watch?v=HAJJbd2ln5g",
+      "embed_url": "https://www.youtube.com/embed/HAJJbd2ln5g",
+      "thumbnail": "https://i.ytimg.com/vi/HAJJbd2ln5g/hqdefault.jpg",
+      "site_titles": [
+        "What Are Hunter Judges Looking For?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Xja5ahBDvOI",
+      "youtube_title": "Show Jumper Classes Explained: 3 Types of Show Jumper Classes",
+      "channel": "Top Flight Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Xja5ahBDvOI",
+      "embed_url": "https://www.youtube.com/embed/Xja5ahBDvOI",
+      "thumbnail": "https://i.ytimg.com/vi/Xja5ahBDvOI/hqdefault.jpg",
+      "site_titles": [
+        "Show Jumper Classes Explained: 3 Types of Show Jumper Classes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8u-j_G5hFl8",
+      "youtube_title": "RAWF 2011 Adult Amateur 36+ Hunter Division",
+      "channel": "MeganC",
+      "youtube_url": "https://www.youtube.com/watch?v=8u-j_G5hFl8",
+      "embed_url": "https://www.youtube.com/embed/8u-j_G5hFl8",
+      "thumbnail": "https://i.ytimg.com/vi/8u-j_G5hFl8/hqdefault.jpg",
+      "site_titles": [
+        "RAWF 2011 Adult Amateur 36+ Hunter Division"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5sI-hU1Dgfg",
+      "youtube_title": "Class 11   Adult Amateur Hunter 50 & Over Under Saddle",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=5sI-hU1Dgfg",
+      "embed_url": "https://www.youtube.com/embed/5sI-hU1Dgfg",
+      "thumbnail": "https://i.ytimg.com/vi/5sI-hU1Dgfg/hqdefault.jpg",
+      "site_titles": [
+        "Class 11 Adult Amateur Hunter 50 & Over Under Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DC_vsLoGnCA",
+      "youtube_title": "What Are Equitation Judges Looking For?",
+      "channel": "Show Jumping Life",
+      "youtube_url": "https://www.youtube.com/watch?v=DC_vsLoGnCA",
+      "embed_url": "https://www.youtube.com/embed/DC_vsLoGnCA",
+      "thumbnail": "https://i.ytimg.com/vi/DC_vsLoGnCA/hqdefault.jpg",
+      "site_titles": [
+        "What Are Equitation Judges Looking For?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oTnZ7-x6qd0",
+      "youtube_title": "How to improve your \"eye\" for the distance when jumping with Kirstin Kelly",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=oTnZ7-x6qd0",
+      "embed_url": "https://www.youtube.com/embed/oTnZ7-x6qd0",
+      "thumbnail": "https://i.ytimg.com/vi/oTnZ7-x6qd0/hqdefault.jpg",
+      "site_titles": [
+        "How to improve your \"eye\" for the distance when jumping with Kirstin Kelly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TZiStXaVlRQ",
+      "youtube_title": "Exercise Ride Green Jumper w/ Lateral Work June 2023",
+      "channel": "Abigail Karl",
+      "youtube_url": "https://www.youtube.com/watch?v=TZiStXaVlRQ",
+      "embed_url": "https://www.youtube.com/embed/TZiStXaVlRQ",
+      "thumbnail": "https://i.ytimg.com/vi/TZiStXaVlRQ/hqdefault.jpg",
+      "site_titles": [
+        "Exercise Ride Green Jumper w/ Lateral Work June 2023"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "79qv9w6tqss",
+      "youtube_title": "How to improve your jumping position.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=79qv9w6tqss",
+      "embed_url": "https://www.youtube.com/embed/79qv9w6tqss",
+      "thumbnail": "https://i.ytimg.com/vi/79qv9w6tqss/hqdefault.jpg",
+      "site_titles": [
+        "How to improve your jumping position."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O1-cIIji-fE",
+      "youtube_title": "Flatwork Training for Showjumping",
+      "channel": "British Showjumping",
+      "youtube_url": "https://www.youtube.com/watch?v=O1-cIIji-fE",
+      "embed_url": "https://www.youtube.com/embed/O1-cIIji-fE",
+      "thumbnail": "https://i.ytimg.com/vi/O1-cIIji-fE/hqdefault.jpg",
+      "site_titles": [
+        "Flatwork Training for Showjumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Th4FpBWOeu0",
+      "youtube_title": "Gymnastic and related distances.",
+      "channel": "Clear-Round-Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Th4FpBWOeu0",
+      "embed_url": "https://www.youtube.com/embed/Th4FpBWOeu0",
+      "thumbnail": "https://i.ytimg.com/vi/Th4FpBWOeu0/hqdefault.jpg",
+      "site_titles": [
+        "Gymnastic and related distances."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0CgSh2Q9MOM",
+      "youtube_title": "De-Spooking Your Horse Over Jumps",
+      "channel": "Connection Training",
+      "youtube_url": "https://www.youtube.com/watch?v=0CgSh2Q9MOM",
+      "embed_url": "https://www.youtube.com/embed/0CgSh2Q9MOM",
+      "thumbnail": "https://i.ytimg.com/vi/0CgSh2Q9MOM/hqdefault.jpg",
+      "site_titles": [
+        "De-Spooking Your Horse Over Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zDgj4_yT4Ys",
+      "youtube_title": "Highlands Cup 5* Grand Prix Jump-off – Major League Showjumping",
+      "channel": "ClipMyHorseTV International",
+      "youtube_url": "https://www.youtube.com/watch?v=zDgj4_yT4Ys",
+      "embed_url": "https://www.youtube.com/embed/zDgj4_yT4Ys",
+      "thumbnail": "https://i.ytimg.com/vi/zDgj4_yT4Ys/hqdefault.jpg",
+      "site_titles": [
+        "Highlands Cup 5* Grand Prix Jump-off – Major League Showjumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BejySqemp0c",
+      "youtube_title": "How To Find A Distance Jumping - Improve the Canter, Have the Right Canter",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=BejySqemp0c",
+      "embed_url": "https://www.youtube.com/embed/BejySqemp0c",
+      "thumbnail": "https://i.ytimg.com/vi/BejySqemp0c/hqdefault.jpg",
+      "site_titles": [
+        "How To Find A Distance Jumping - Improve the Canter, Have the Right Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OQlRDt0Lg1U",
+      "youtube_title": "Get a Tight Leg Position Over Jumps",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=OQlRDt0Lg1U",
+      "embed_url": "https://www.youtube.com/embed/OQlRDt0Lg1U",
+      "thumbnail": "https://i.ytimg.com/vi/OQlRDt0Lg1U/hqdefault.jpg",
+      "site_titles": [
+        "Get a Tight Leg Position Over Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Eg6bqdo1tcU",
+      "youtube_title": "Show Jumping Scoring Explained: Why Clear & Slow Always Beats Fast & 4 Faults",
+      "channel": "Marc Lewis | Inside Elite Sport",
+      "youtube_url": "https://www.youtube.com/watch?v=Eg6bqdo1tcU",
+      "embed_url": "https://www.youtube.com/embed/Eg6bqdo1tcU",
+      "thumbnail": "https://i.ytimg.com/vi/Eg6bqdo1tcU/hqdefault.jpg",
+      "site_titles": [
+        "Show Jumping Scoring Explained: Why Clear & Slow Always Beats Fast & 4 Faults"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dWkcZrYOo8g",
+      "youtube_title": "How to make the canter adjustable with use of canter poles with Kirstin Kelly",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=dWkcZrYOo8g",
+      "embed_url": "https://www.youtube.com/embed/dWkcZrYOo8g",
+      "thumbnail": "https://i.ytimg.com/vi/dWkcZrYOo8g/hqdefault.jpg",
+      "site_titles": [
+        "How to make the canter adjustable with use of canter poles with Kirstin Kelly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8YsU5U5Ho0U",
+      "youtube_title": "Eye Exercises: Learn How To Improve Your Distances To The Jump",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=8YsU5U5Ho0U",
+      "embed_url": "https://www.youtube.com/embed/8YsU5U5Ho0U",
+      "thumbnail": "https://i.ytimg.com/vi/8YsU5U5Ho0U/hqdefault.jpg",
+      "site_titles": [
+        "Eye Exercises: Learn How To Improve Your Distances To The Jump"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WlzGpCeba6Q",
+      "youtube_title": "How to Develop an Independent Seat",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=WlzGpCeba6Q",
+      "embed_url": "https://www.youtube.com/embed/WlzGpCeba6Q",
+      "thumbnail": "https://i.ytimg.com/vi/WlzGpCeba6Q/hqdefault.jpg",
+      "site_titles": [
+        "How to Develop an Independent Seat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aDuERGzPFnI",
+      "youtube_title": "How to build your jumping canter with Jock Paget | Horse&Rider",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=aDuERGzPFnI",
+      "embed_url": "https://www.youtube.com/embed/aDuERGzPFnI",
+      "thumbnail": "https://i.ytimg.com/vi/aDuERGzPFnI/hqdefault.jpg",
+      "site_titles": [
+        "How to build your jumping canter with Jock Paget | Horse&Rider"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vClRE0PvXJ8",
+      "youtube_title": "Inside the Mind of \"So Enchanted\": Pony Hunter Extraordinaire",
+      "channel": "EqPI - Equine Performance Identities",
+      "youtube_url": "https://www.youtube.com/watch?v=vClRE0PvXJ8",
+      "embed_url": "https://www.youtube.com/embed/vClRE0PvXJ8",
+      "thumbnail": "https://i.ytimg.com/vi/vClRE0PvXJ8/hqdefault.jpg",
+      "site_titles": [
+        "Inside the Mind of \"So Enchanted\": Pony Hunter Extraordinaire"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ueq5Zq4i-2Q",
+      "youtube_title": "846 SHOWGIRL Devon Braswell, Class 231 NAL Adult Hunter Finals",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=ueq5Zq4i-2Q",
+      "embed_url": "https://www.youtube.com/embed/ueq5Zq4i-2Q",
+      "thumbnail": "https://i.ytimg.com/vi/ueq5Zq4i-2Q/hqdefault.jpg",
+      "site_titles": [
+        "846 SHOWGIRL Devon Braswell, Class 231 NAL Adult Hunter Finals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2j_BEfmR8Wc",
+      "youtube_title": "Guy Williams – How to stop your horse standing off fences",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=2j_BEfmR8Wc",
+      "embed_url": "https://www.youtube.com/embed/2j_BEfmR8Wc",
+      "thumbnail": "https://i.ytimg.com/vi/2j_BEfmR8Wc/hqdefault.jpg",
+      "site_titles": [
+        "Guy Williams – How to stop your horse standing off fences"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vCgj6JCklbg",
+      "youtube_title": "Jump Schooling- Tips For Horses That Rush Fences  | GG Eventing |",
+      "channel": "GG Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=vCgj6JCklbg",
+      "embed_url": "https://www.youtube.com/embed/vCgj6JCklbg",
+      "thumbnail": "https://i.ytimg.com/vi/vCgj6JCklbg/hqdefault.jpg",
+      "site_titles": [
+        "Jump Schooling- Tips For Horses That Rush Fences | GG Eventing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DMXxiWg4OaA",
+      "youtube_title": "Problem Horse: Very Spooky!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=DMXxiWg4OaA",
+      "embed_url": "https://www.youtube.com/embed/DMXxiWg4OaA",
+      "thumbnail": "https://i.ytimg.com/vi/DMXxiWg4OaA/hqdefault.jpg",
+      "site_titles": [
+        "Problem Horse: Very Spooky!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zeEt-e2QxRs",
+      "youtube_title": "How to fix a horse that stops at jumps.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=zeEt-e2QxRs",
+      "embed_url": "https://www.youtube.com/embed/zeEt-e2QxRs",
+      "thumbnail": "https://i.ytimg.com/vi/zeEt-e2QxRs/hqdefault.jpg",
+      "site_titles": [
+        "How to fix a horse that stops at jumps."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OXqjjT-ttzM",
+      "youtube_title": "Teach A Horse To Jump - Part 1",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=OXqjjT-ttzM",
+      "embed_url": "https://www.youtube.com/embed/OXqjjT-ttzM",
+      "thumbnail": "https://i.ytimg.com/vi/OXqjjT-ttzM/hqdefault.jpg",
+      "site_titles": [
+        "Teach A Horse To Jump - Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o4saFhV7QyY",
+      "youtube_title": "Starting a Young Horse Over Jumps",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=o4saFhV7QyY",
+      "embed_url": "https://www.youtube.com/embed/o4saFhV7QyY",
+      "thumbnail": "https://i.ytimg.com/vi/o4saFhV7QyY/hqdefault.jpg",
+      "site_titles": [
+        "Starting a Young Horse Over Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2FBTWqh_vMY",
+      "youtube_title": "How To Jump A CROSS RAIL Perfectly (for beginners!)🏇 #equestriantips #crossrails #horseriding",
+      "channel": "Veronika Kochetova EQ🐴",
+      "youtube_url": "https://www.youtube.com/watch?v=2FBTWqh_vMY",
+      "embed_url": "https://www.youtube.com/embed/2FBTWqh_vMY",
+      "thumbnail": "https://i.ytimg.com/vi/2FBTWqh_vMY/hqdefault.jpg",
+      "site_titles": [
+        "How To Jump A CROSS RAIL Perfectly (for beginners!)🏇"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "e-j3ibljmF0",
+      "youtube_title": "How to start jumping bigger fences with Tim Stockdale | Horse&Rider",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=e-j3ibljmF0",
+      "embed_url": "https://www.youtube.com/embed/e-j3ibljmF0",
+      "thumbnail": "https://i.ytimg.com/vi/e-j3ibljmF0/hqdefault.jpg",
+      "site_titles": [
+        "How to start jumping bigger fences with Tim Stockdale | Horse&Rider"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SsqbvVQjFSc",
+      "youtube_title": "Pony Division Basics",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=SsqbvVQjFSc",
+      "embed_url": "https://www.youtube.com/embed/SsqbvVQjFSc",
+      "thumbnail": "https://i.ytimg.com/vi/SsqbvVQjFSc/hqdefault.jpg",
+      "site_titles": [
+        "Pony Division Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lcA4wDN_oJ8",
+      "youtube_title": "Getting Ready for a Hunter-Jumper Show",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=lcA4wDN_oJ8",
+      "embed_url": "https://www.youtube.com/embed/lcA4wDN_oJ8",
+      "thumbnail": "https://i.ytimg.com/vi/lcA4wDN_oJ8/hqdefault.jpg",
+      "site_titles": [
+        "Getting Ready for a Hunter-Jumper Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZULSvxeo4Wc",
+      "youtube_title": "Round Review: JJ Torano - Dover Saddlery/USEF Hunter Seat Medal Final",
+      "channel": "Pennsylvania National Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=ZULSvxeo4Wc",
+      "embed_url": "https://www.youtube.com/embed/ZULSvxeo4Wc",
+      "thumbnail": "https://i.ytimg.com/vi/ZULSvxeo4Wc/hqdefault.jpg",
+      "site_titles": [
+        "Round Review: JJ Torano - Dover Saddlery/USEF Hunter Seat Medal Final"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sgNG6WVko54",
+      "youtube_title": "BARN DIARIES: First Hunter Show! || prep, grooming, and lots of spiciness! || LCS RRP￼",
+      "channel": "𝐞𝐯𝐞.𝐞𝐯𝐞𝐧𝐭𝐢𝐧𝐠",
+      "youtube_url": "https://www.youtube.com/watch?v=sgNG6WVko54",
+      "embed_url": "https://www.youtube.com/embed/sgNG6WVko54",
+      "thumbnail": "https://i.ytimg.com/vi/sgNG6WVko54/hqdefault.jpg",
+      "site_titles": [
+        "BARN DIARIES: First Hunter Show! || prep, grooming, and lots of spiciness! || LCS RRP￼"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2JG1tdrCG3o",
+      "youtube_title": "PREPARING FOR MY FIRST HUNTER SHOW OF THE SEASON",
+      "channel": "DayByDay Vlogs",
+      "youtube_url": "https://www.youtube.com/watch?v=2JG1tdrCG3o",
+      "embed_url": "https://www.youtube.com/embed/2JG1tdrCG3o",
+      "thumbnail": "https://i.ytimg.com/vi/2JG1tdrCG3o/hqdefault.jpg",
+      "site_titles": [
+        "PREPARING FOR MY FIRST HUNTER SHOW OF THE SEASON"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rW4bw0d62Cs",
+      "youtube_title": "How to walk a Showjumping course? Tutorial with Bethany Lee | Guest Vlog",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=rW4bw0d62Cs",
+      "embed_url": "https://www.youtube.com/embed/rW4bw0d62Cs",
+      "thumbnail": "https://i.ytimg.com/vi/rW4bw0d62Cs/hqdefault.jpg",
+      "site_titles": [
+        "How to walk a Showjumping course? Tutorial with Bethany Lee | Guest Vlog"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jx9n12bsacY",
+      "youtube_title": "How to Ride a Bending Line Between Two Jumps",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=jx9n12bsacY",
+      "embed_url": "https://www.youtube.com/embed/jx9n12bsacY",
+      "thumbnail": "https://i.ytimg.com/vi/jx9n12bsacY/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Bending Line Between Two Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f3bnN2OAwIE",
+      "youtube_title": "TOP TIPS for Course Walks! #equestriantips #hunterjumper #showjumping #ridingcompetition",
+      "channel": "Justine Palmer",
+      "youtube_url": "https://www.youtube.com/watch?v=f3bnN2OAwIE",
+      "embed_url": "https://www.youtube.com/embed/f3bnN2OAwIE",
+      "thumbnail": "https://i.ytimg.com/vi/f3bnN2OAwIE/hqdefault.jpg",
+      "site_titles": [
+        "TOP TIPS for Course Walks!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v_wCm0T-QMY",
+      "youtube_title": "Walking Distances & Building a Safe Show Jump Course",
+      "channel": "Evention TV",
+      "youtube_url": "https://www.youtube.com/watch?v=v_wCm0T-QMY",
+      "embed_url": "https://www.youtube.com/embed/v_wCm0T-QMY",
+      "thumbnail": "https://i.ytimg.com/vi/v_wCm0T-QMY/hqdefault.jpg",
+      "site_titles": [
+        "Walking Distances & Building a Safe Show Jump Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vjiyT4yZLOc",
+      "youtube_title": "RSH Hunter V - 3'6\" Performance Hunter Warm-Up",
+      "channel": "Royal Sport Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=vjiyT4yZLOc",
+      "embed_url": "https://www.youtube.com/embed/vjiyT4yZLOc",
+      "thumbnail": "https://i.ytimg.com/vi/vjiyT4yZLOc/hqdefault.jpg",
+      "site_titles": [
+        "RSH Hunter V - 3'6\" Performance Hunter Warm-Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GE2JaJHmWBk",
+      "youtube_title": "The Secrets of Show Jumping Course Design with Paul Connor",
+      "channel": "The Equestrian Experience Podcast",
+      "youtube_url": "https://www.youtube.com/watch?v=GE2JaJHmWBk",
+      "embed_url": "https://www.youtube.com/embed/GE2JaJHmWBk",
+      "thumbnail": "https://i.ytimg.com/vi/GE2JaJHmWBk/hqdefault.jpg",
+      "site_titles": [
+        "The Secrets of Show Jumping Course Design with Paul Connor"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Mdxn8P1WDhs",
+      "youtube_title": "HOW TO SEE A DISTANCE",
+      "channel": "Holly Lenahan",
+      "youtube_url": "https://www.youtube.com/watch?v=Mdxn8P1WDhs",
+      "embed_url": "https://www.youtube.com/embed/Mdxn8P1WDhs",
+      "thumbnail": "https://i.ytimg.com/vi/Mdxn8P1WDhs/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO SEE A DISTANCE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Pj7lWOOppfo",
+      "youtube_title": "Laura Collett's simple gridwork exercise! ✨",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=Pj7lWOOppfo",
+      "embed_url": "https://www.youtube.com/embed/Pj7lWOOppfo",
+      "thumbnail": "https://i.ytimg.com/vi/Pj7lWOOppfo/hqdefault.jpg",
+      "site_titles": [
+        "Laura Collett's simple gridwork exercise! ✨"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4NY5WDi4HS8",
+      "youtube_title": "Simple grid work exercise",
+      "channel": "Old Granary Stables",
+      "youtube_url": "https://www.youtube.com/watch?v=4NY5WDi4HS8",
+      "embed_url": "https://www.youtube.com/embed/4NY5WDi4HS8",
+      "thumbnail": "https://i.ytimg.com/vi/4NY5WDi4HS8/hqdefault.jpg",
+      "site_titles": [
+        "Simple grid work exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IW6P3XCOnug",
+      "youtube_title": "Counting Strides in a Jump Course with Teresa Kackert",
+      "channel": "CHA Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=IW6P3XCOnug",
+      "embed_url": "https://www.youtube.com/embed/IW6P3XCOnug",
+      "thumbnail": "https://i.ytimg.com/vi/IW6P3XCOnug/hqdefault.jpg",
+      "site_titles": [
+        "Counting Strides in a Jump Course with Teresa Kackert"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QdgQeJibks8",
+      "youtube_title": "Guide to Horse Show Turnout | USHJA",
+      "channel": "United States Hunter Jumper Association | USHJA",
+      "youtube_url": "https://www.youtube.com/watch?v=QdgQeJibks8",
+      "embed_url": "https://www.youtube.com/embed/QdgQeJibks8",
+      "thumbnail": "https://i.ytimg.com/vi/QdgQeJibks8/hqdefault.jpg",
+      "site_titles": [
+        "Guide to Horse Show Turnout | USHJA"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8vKK4wDnlgo",
+      "youtube_title": "Winning Ride: Elli Yeager & Copperfield 39 Dudley B. Smith Equitation Championship at GLEF",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=8vKK4wDnlgo",
+      "embed_url": "https://www.youtube.com/embed/8vKK4wDnlgo",
+      "thumbnail": "https://i.ytimg.com/vi/8vKK4wDnlgo/hqdefault.jpg",
+      "site_titles": [
+        "Winning Ride: Elli Yeager & Copperfield 39 Dudley B. Smith Equitation Championship at GLEF"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VTIPtJRmop4",
+      "youtube_title": "How to Choose a Hunter Jumper Horse",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=VTIPtJRmop4",
+      "embed_url": "https://www.youtube.com/embed/VTIPtJRmop4",
+      "thumbnail": "https://i.ytimg.com/vi/VTIPtJRmop4/hqdefault.jpg",
+      "site_titles": [
+        "How to Choose a Hunter Jumper Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fgH5xDXcoE8",
+      "youtube_title": "Hunter Vs Jumper | Riding Style & Rules",
+      "channel": "Maya Bojan",
+      "youtube_url": "https://www.youtube.com/watch?v=fgH5xDXcoE8",
+      "embed_url": "https://www.youtube.com/embed/fgH5xDXcoE8",
+      "thumbnail": "https://i.ytimg.com/vi/fgH5xDXcoE8/hqdefault.jpg",
+      "site_titles": [
+        "Hunter Vs Jumper | Riding Style & Rules"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0jFnQFxbkYs",
+      "youtube_title": "Pony Hunter Model Clinic Highlights",
+      "channel": "Show Jumping Life",
+      "youtube_url": "https://www.youtube.com/watch?v=0jFnQFxbkYs",
+      "embed_url": "https://www.youtube.com/embed/0jFnQFxbkYs",
+      "thumbnail": "https://i.ytimg.com/vi/0jFnQFxbkYs/hqdefault.jpg",
+      "site_titles": [
+        "Pony Hunter Model Clinic Highlights"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vfF_ozrSRU4",
+      "youtube_title": "Exercises to Help Create the Perfect Distance",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=vfF_ozrSRU4",
+      "embed_url": "https://www.youtube.com/embed/vfF_ozrSRU4",
+      "thumbnail": "https://i.ytimg.com/vi/vfF_ozrSRU4/hqdefault.jpg",
+      "site_titles": [
+        "Exercises to Help Create the Perfect Distance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NeM9H6Aln3g",
+      "youtube_title": "Class 1 Small Pony Hunter US",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=NeM9H6Aln3g",
+      "embed_url": "https://www.youtube.com/embed/NeM9H6Aln3g",
+      "thumbnail": "https://i.ytimg.com/vi/NeM9H6Aln3g/hqdefault.jpg",
+      "site_titles": [
+        "Class 1 Small Pony Hunter US"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zRLPSa0WN2g",
+      "youtube_title": "PA National Horse Show 2008 A/O Hunters",
+      "channel": "Devon Reimer",
+      "youtube_url": "https://www.youtube.com/watch?v=zRLPSa0WN2g",
+      "embed_url": "https://www.youtube.com/embed/zRLPSa0WN2g",
+      "thumbnail": "https://i.ytimg.com/vi/zRLPSa0WN2g/hqdefault.jpg",
+      "site_titles": [
+        "PA National Horse Show 2008 A/O Hunters"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wpOh7L-p2ls",
+      "youtube_title": "Guy Williams – Using gymnastic gridwork effectively",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=wpOh7L-p2ls",
+      "embed_url": "https://www.youtube.com/embed/wpOh7L-p2ls",
+      "thumbnail": "https://i.ytimg.com/vi/wpOh7L-p2ls/hqdefault.jpg",
+      "site_titles": [
+        "Guy Williams – Using gymnastic gridwork effectively"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NsUApc1iwzw",
+      "youtube_title": "Hobby horse Hunter Jumper 101! EVERYTHING you need to know! Collab with a 2024 USA Champion!",
+      "channel": "Soleil Hobby Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=NsUApc1iwzw",
+      "embed_url": "https://www.youtube.com/embed/NsUApc1iwzw",
+      "thumbnail": "https://i.ytimg.com/vi/NsUApc1iwzw/hqdefault.jpg",
+      "site_titles": [
+        "Hobby horse Hunter Jumper 101! EVERYTHING you need to know! Collab with a 2024 USA Champion!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HkuPKgzK5L4",
+      "youtube_title": "A Judges Perspective: 2016 Select Hunt Seat Equitation World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=HkuPKgzK5L4",
+      "embed_url": "https://www.youtube.com/embed/HkuPKgzK5L4",
+      "thumbnail": "https://i.ytimg.com/vi/HkuPKgzK5L4/hqdefault.jpg",
+      "site_titles": [
+        "A Judges Perspective: 2016 Select Hunt Seat Equitation World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fYyOlbVfH0Q",
+      "youtube_title": "Gymnastic Work for Jumping Horses",
+      "channel": "Luciana Diniz",
+      "youtube_url": "https://www.youtube.com/watch?v=fYyOlbVfH0Q",
+      "embed_url": "https://www.youtube.com/embed/fYyOlbVfH0Q",
+      "thumbnail": "https://i.ytimg.com/vi/fYyOlbVfH0Q/hqdefault.jpg",
+      "site_titles": [
+        "Gymnastic Work for Jumping Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ceVBpDC_m0g",
+      "youtube_title": "What Are Hunter Judges Looking For",
+      "channel": "Show Jumping Life",
+      "youtube_url": "https://www.youtube.com/watch?v=ceVBpDC_m0g",
+      "embed_url": "https://www.youtube.com/embed/ceVBpDC_m0g",
+      "thumbnail": "https://i.ytimg.com/vi/ceVBpDC_m0g/hqdefault.jpg",
+      "site_titles": [
+        "What Are Hunter Judges Looking For"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QytzFOJsL8o",
+      "youtube_title": "Starting young horses over fences",
+      "channel": "AmbleFoot Farms",
+      "youtube_url": "https://www.youtube.com/watch?v=QytzFOJsL8o",
+      "embed_url": "https://www.youtube.com/embed/QytzFOJsL8o",
+      "thumbnail": "https://i.ytimg.com/vi/QytzFOJsL8o/hqdefault.jpg",
+      "site_titles": [
+        "Starting young horses over fences"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Za4UNUu2utw",
+      "youtube_title": "How to Set Up a Simple Cross Rail Horse Jump",
+      "channel": "The Budget Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Za4UNUu2utw",
+      "embed_url": "https://www.youtube.com/embed/Za4UNUu2utw",
+      "thumbnail": "https://i.ytimg.com/vi/Za4UNUu2utw/hqdefault.jpg",
+      "site_titles": [
+        "How to Set Up a Simple Cross Rail Horse Jump"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "29RV2RJOwpI",
+      "youtube_title": "Mastering the Jumping Position: Two-Point",
+      "channel": "Taurie Banks - Talkin'Bout Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=29RV2RJOwpI",
+      "embed_url": "https://www.youtube.com/embed/29RV2RJOwpI",
+      "thumbnail": "https://i.ytimg.com/vi/29RV2RJOwpI/hqdefault.jpg",
+      "site_titles": [
+        "Mastering the Jumping Position: Two-Point"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-NClW6deaDY",
+      "youtube_title": "Saturday Indoor Class 113 Small Pony Hunter",
+      "channel": "Capital Challenge Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=-NClW6deaDY",
+      "embed_url": "https://www.youtube.com/embed/-NClW6deaDY",
+      "thumbnail": "https://i.ytimg.com/vi/-NClW6deaDY/hqdefault.jpg",
+      "site_titles": [
+        "Saturday Indoor Class 113 Small Pony Hunter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-fgCNiDKSvU",
+      "youtube_title": "WIHS Grand Pony Hunter Champion - Lilly Ward",
+      "channel": "WashingtonHorseShow",
+      "youtube_url": "https://www.youtube.com/watch?v=-fgCNiDKSvU",
+      "embed_url": "https://www.youtube.com/embed/-fgCNiDKSvU",
+      "thumbnail": "https://i.ytimg.com/vi/-fgCNiDKSvU/hqdefault.jpg",
+      "site_titles": [
+        "WIHS Grand Pony Hunter Champion - Lilly Ward"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kpQYMPlW-cY",
+      "youtube_title": "2023 USEF Medal Finals- Hanna Dolan",
+      "channel": "Hanna Dolan",
+      "youtube_url": "https://www.youtube.com/watch?v=kpQYMPlW-cY",
+      "embed_url": "https://www.youtube.com/embed/kpQYMPlW-cY",
+      "thumbnail": "https://i.ytimg.com/vi/kpQYMPlW-cY/hqdefault.jpg",
+      "site_titles": [
+        "2023 USEF Medal Finals- Hanna Dolan"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Lmq5mhAVMo4",
+      "youtube_title": "Kisses (\"Farnley Forever & Always\") – Children's Pony Hunter",
+      "channel": "Tartan Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Lmq5mhAVMo4",
+      "embed_url": "https://www.youtube.com/embed/Lmq5mhAVMo4",
+      "thumbnail": "https://i.ytimg.com/vi/Lmq5mhAVMo4/hqdefault.jpg",
+      "site_titles": [
+        "Kisses (\"Farnley Forever & Always\") – Children's Pony Hunter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "azWE_k_xGGU",
+      "youtube_title": "DVD Trailer, Selecting Hunters & Jumpers",
+      "channel": "Cathy Dwyer",
+      "youtube_url": "https://www.youtube.com/watch?v=azWE_k_xGGU",
+      "embed_url": "https://www.youtube.com/embed/azWE_k_xGGU",
+      "thumbnail": "https://i.ytimg.com/vi/azWE_k_xGGU/hqdefault.jpg",
+      "site_titles": [
+        "DVD Trailer, Selecting Hunters & Jumpers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ItkwVa74vwI",
+      "youtube_title": "Jumping position on a horse + typical mistakes (two point seat, horse riding)",
+      "channel": "Johanna J Equestrian Physio",
+      "youtube_url": "https://www.youtube.com/watch?v=ItkwVa74vwI",
+      "embed_url": "https://www.youtube.com/embed/ItkwVa74vwI",
+      "thumbnail": "https://i.ytimg.com/vi/ItkwVa74vwI/hqdefault.jpg",
+      "site_titles": [
+        "Jumping position on a horse + typical mistakes (two point seat, horse riding)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JPwbdTJpa3M",
+      "youtube_title": "Hunter Over Fences - How to score a hunter round - what is hunter jumper",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=JPwbdTJpa3M",
+      "embed_url": "https://www.youtube.com/embed/JPwbdTJpa3M",
+      "thumbnail": "https://i.ytimg.com/vi/JPwbdTJpa3M/hqdefault.jpg",
+      "site_titles": [
+        "Hunter Over Fences - How to score a hunter round - what is hunter jumper"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eBy9B2YXkyU",
+      "youtube_title": "Tuesday Indoor Class 49 Regular Conformation Hunter",
+      "channel": "Capital Challenge Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=eBy9B2YXkyU",
+      "embed_url": "https://www.youtube.com/embed/eBy9B2YXkyU",
+      "thumbnail": "https://i.ytimg.com/vi/eBy9B2YXkyU/hqdefault.jpg",
+      "site_titles": [
+        "Tuesday Indoor Class 49 Regular Conformation Hunter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r2KBPmW7qIM",
+      "youtube_title": "2019 Dover Saddlery/USEF Hunter Seat Medal Final Winning Ride: Emma Fletcher",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=r2KBPmW7qIM",
+      "embed_url": "https://www.youtube.com/embed/r2KBPmW7qIM",
+      "thumbnail": "https://i.ytimg.com/vi/r2KBPmW7qIM/hqdefault.jpg",
+      "site_titles": [
+        "2019 Dover Saddlery/USEF Hunter Seat Medal Final Winning Ride: Emma Fletcher"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PSu3u90jzMg",
+      "youtube_title": "Showjumping -  Graham Gillespie does a course walk for the Grand Prix",
+      "channel": "British Showjumping",
+      "youtube_url": "https://www.youtube.com/watch?v=PSu3u90jzMg",
+      "embed_url": "https://www.youtube.com/embed/PSu3u90jzMg",
+      "thumbnail": "https://i.ytimg.com/vi/PSu3u90jzMg/hqdefault.jpg",
+      "site_titles": [
+        "Showjumping - Graham Gillespie does a course walk for the Grand Prix"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4EvdD-GfH64",
+      "youtube_title": "Teaching the Automatic Release Over Jumps - Part 1",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=4EvdD-GfH64",
+      "embed_url": "https://www.youtube.com/embed/4EvdD-GfH64",
+      "thumbnail": "https://i.ytimg.com/vi/4EvdD-GfH64/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the Automatic Release Over Jumps - Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8AFHRVUpY60",
+      "youtube_title": "Counting Strides and Walking a Jump Course",
+      "channel": "Equestrian Neightion",
+      "youtube_url": "https://www.youtube.com/watch?v=8AFHRVUpY60",
+      "embed_url": "https://www.youtube.com/embed/8AFHRVUpY60",
+      "thumbnail": "https://i.ytimg.com/vi/8AFHRVUpY60/hqdefault.jpg",
+      "site_titles": [
+        "Counting Strides and Walking a Jump Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DZ2JKLfj0C0",
+      "youtube_title": "How To See a Stride To A Jump with Kirstin Kelly.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=DZ2JKLfj0C0",
+      "embed_url": "https://www.youtube.com/embed/DZ2JKLfj0C0",
+      "thumbnail": "https://i.ytimg.com/vi/DZ2JKLfj0C0/hqdefault.jpg",
+      "site_titles": [
+        "How To See a Stride To A Jump with Kirstin Kelly."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "94ViHJq1cLM",
+      "youtube_title": "10/8/2025 Rolex Grand Prix",
+      "channel": "Gallagher Dublin Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=94ViHJq1cLM",
+      "embed_url": "https://www.youtube.com/embed/94ViHJq1cLM",
+      "thumbnail": "https://i.ytimg.com/vi/94ViHJq1cLM/hqdefault.jpg",
+      "site_titles": [
+        "10/8/2025 Rolex Grand Prix"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b6sO-emS5QQ",
+      "youtube_title": "Natural Horsemanship, jumping, cross-country",
+      "channel": "Irena Berezowska",
+      "youtube_url": "https://www.youtube.com/watch?v=b6sO-emS5QQ",
+      "embed_url": "https://www.youtube.com/embed/b6sO-emS5QQ",
+      "thumbnail": "https://i.ytimg.com/vi/b6sO-emS5QQ/hqdefault.jpg",
+      "site_titles": [
+        "Natural Horsemanship, jumping, cross-country"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t_cGRT3ph54",
+      "youtube_title": "Natural Horsemanship - Jumping/Loose Jumping",
+      "channel": "0xxRedVixenxx0",
+      "youtube_url": "https://www.youtube.com/watch?v=t_cGRT3ph54",
+      "embed_url": "https://www.youtube.com/embed/t_cGRT3ph54",
+      "thumbnail": "https://i.ytimg.com/vi/t_cGRT3ph54/hqdefault.jpg",
+      "site_titles": [
+        "Natural Horsemanship - Jumping/Loose Jumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rIOXEJviWUk",
+      "youtube_title": "Hunter Tack Vs. Jumper Tack",
+      "channel": "alwaysgetbackon",
+      "youtube_url": "https://www.youtube.com/watch?v=rIOXEJviWUk",
+      "embed_url": "https://www.youtube.com/embed/rIOXEJviWUk",
+      "thumbnail": "https://i.ytimg.com/vi/rIOXEJviWUk/hqdefault.jpg",
+      "site_titles": [
+        "Hunter Tack Vs. Jumper Tack"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RY9620Q54xc",
+      "youtube_title": "Adult Amateur Equitation Champion - Emily Perkins",
+      "channel": "Capital Challenge Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=RY9620Q54xc",
+      "embed_url": "https://www.youtube.com/embed/RY9620Q54xc",
+      "thumbnail": "https://i.ytimg.com/vi/RY9620Q54xc/hqdefault.jpg",
+      "site_titles": [
+        "Adult Amateur Equitation Champion - Emily Perkins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4nUJYabCNbU",
+      "youtube_title": "Flatwork for showjumpers - Video 1",
+      "channel": "Belgian Showjumping Academy",
+      "youtube_url": "https://www.youtube.com/watch?v=4nUJYabCNbU",
+      "embed_url": "https://www.youtube.com/embed/4nUJYabCNbU",
+      "thumbnail": "https://i.ytimg.com/vi/4nUJYabCNbU/hqdefault.jpg",
+      "site_titles": [
+        "Flatwork for showjumpers - Video 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1xhRs0BkGrE",
+      "youtube_title": "Training A Young or Green Horse Over Jumps",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=1xhRs0BkGrE",
+      "embed_url": "https://www.youtube.com/embed/1xhRs0BkGrE",
+      "thumbnail": "https://i.ytimg.com/vi/1xhRs0BkGrE/hqdefault.jpg",
+      "site_titles": [
+        "Training A Young or Green Horse Over Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7RDE4nu9S7I",
+      "youtube_title": "Stacia Madden: How to Perfect a Bending Line",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=7RDE4nu9S7I",
+      "embed_url": "https://www.youtube.com/embed/7RDE4nu9S7I",
+      "thumbnail": "https://i.ytimg.com/vi/7RDE4nu9S7I/hqdefault.jpg",
+      "site_titles": [
+        "Stacia Madden: How to Perfect a Bending Line"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I1Xqg3xSNa0",
+      "youtube_title": "one stride gymnastics,",
+      "channel": "Sandra Tilghman",
+      "youtube_url": "https://www.youtube.com/watch?v=I1Xqg3xSNa0",
+      "embed_url": "https://www.youtube.com/embed/I1Xqg3xSNa0",
+      "thumbnail": "https://i.ytimg.com/vi/I1Xqg3xSNa0/hqdefault.jpg",
+      "site_titles": [
+        "one stride gymnastics,"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UewpQ7FJ648",
+      "youtube_title": "Cavaletti Jumping Exercise #hunterjumper #showjumpers",
+      "channel": "Amanda Lemon Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=UewpQ7FJ648",
+      "embed_url": "https://www.youtube.com/embed/UewpQ7FJ648",
+      "thumbnail": "https://i.ytimg.com/vi/UewpQ7FJ648/hqdefault.jpg",
+      "site_titles": [
+        "Cavaletti Jumping Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RBwo7WYCCSA",
+      "youtube_title": "Guide to Conformation Classes | USHJA",
+      "channel": "United States Hunter Jumper Association | USHJA",
+      "youtube_url": "https://www.youtube.com/watch?v=RBwo7WYCCSA",
+      "embed_url": "https://www.youtube.com/embed/RBwo7WYCCSA",
+      "thumbnail": "https://i.ytimg.com/vi/RBwo7WYCCSA/hqdefault.jpg",
+      "site_titles": [
+        "Guide to Conformation Classes | USHJA"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LhLFAkpCnZE",
+      "youtube_title": "How to ride flying changes for jumpers with Kirstin Kelly.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=LhLFAkpCnZE",
+      "embed_url": "https://www.youtube.com/embed/LhLFAkpCnZE",
+      "thumbnail": "https://i.ytimg.com/vi/LhLFAkpCnZE/hqdefault.jpg",
+      "site_titles": [
+        "How to ride flying changes for jumpers with Kirstin Kelly."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VQKb-CanPN4",
+      "youtube_title": "gymnastics - bounce to one-stride",
+      "channel": "Leanne Murray",
+      "youtube_url": "https://www.youtube.com/watch?v=VQKb-CanPN4",
+      "embed_url": "https://www.youtube.com/embed/VQKb-CanPN4",
+      "thumbnail": "https://i.ytimg.com/vi/VQKb-CanPN4/hqdefault.jpg",
+      "site_titles": [
+        "gymnastics - bounce to one-stride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3ZniAYX4ATE",
+      "youtube_title": "Peter Plecher Shows How to Ride a Handy Hunter Course",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=3ZniAYX4ATE",
+      "embed_url": "https://www.youtube.com/embed/3ZniAYX4ATE",
+      "thumbnail": "https://i.ytimg.com/vi/3ZniAYX4ATE/hqdefault.jpg",
+      "site_titles": [
+        "Peter Plecher Shows How to Ride a Handy Hunter Course"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "638niYH0n3c",
+      "youtube_title": "How to see the distance to a jump",
+      "channel": "Padma Video",
+      "youtube_url": "https://www.youtube.com/watch?v=638niYH0n3c",
+      "embed_url": "https://www.youtube.com/embed/638niYH0n3c",
+      "thumbnail": "https://i.ytimg.com/vi/638niYH0n3c/hqdefault.jpg",
+      "site_titles": [
+        "How to see the distance to a jump"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kFHzJwR5QSs",
+      "youtube_title": "1 stride gymnastic with bounces",
+      "channel": "Airineek",
+      "youtube_url": "https://www.youtube.com/watch?v=kFHzJwR5QSs",
+      "embed_url": "https://www.youtube.com/embed/kFHzJwR5QSs",
+      "thumbnail": "https://i.ytimg.com/vi/kFHzJwR5QSs/hqdefault.jpg",
+      "site_titles": [
+        "1 stride gymnastic with bounces"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SFZEGE_QjN4",
+      "youtube_title": "Forward Five or Holding Six? Master Your Ride By Counting Strides",
+      "channel": "Walking & Talking with Karl Cook",
+      "youtube_url": "https://www.youtube.com/watch?v=SFZEGE_QjN4",
+      "embed_url": "https://www.youtube.com/embed/SFZEGE_QjN4",
+      "thumbnail": "https://i.ytimg.com/vi/SFZEGE_QjN4/hqdefault.jpg",
+      "site_titles": [
+        "Forward Five or Holding Six? Master Your Ride By Counting Strides"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6z9LvNqnsXA",
+      "youtube_title": "What to Expect When Becoming a Working Student",
+      "channel": "Nolan M. Cruz",
+      "youtube_url": "https://www.youtube.com/watch?v=6z9LvNqnsXA",
+      "embed_url": "https://www.youtube.com/embed/6z9LvNqnsXA",
+      "thumbnail": "https://i.ytimg.com/vi/6z9LvNqnsXA/hqdefault.jpg",
+      "site_titles": [
+        "What to Expect When Becoming a Working Student"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3WlaVGAnGuo",
+      "youtube_title": "NEW OTTB TRANSFIRMATION INTO A HUNTER JUMPER LESSON HORSE.",
+      "channel": "MHP Equestrian Videos",
+      "youtube_url": "https://www.youtube.com/watch?v=3WlaVGAnGuo",
+      "embed_url": "https://www.youtube.com/embed/3WlaVGAnGuo",
+      "thumbnail": "https://i.ytimg.com/vi/3WlaVGAnGuo/hqdefault.jpg",
+      "site_titles": [
+        "NEW OTTB TRANSFIRMATION INTO A HUNTER JUMPER LESSON HORSE."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9a6KB3hMUYI",
+      "youtube_title": "Stacia Madden Teaches Counter Canter Over Jumps",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=9a6KB3hMUYI",
+      "embed_url": "https://www.youtube.com/embed/9a6KB3hMUYI",
+      "thumbnail": "https://i.ytimg.com/vi/9a6KB3hMUYI/hqdefault.jpg",
+      "site_titles": [
+        "Stacia Madden Teaches Counter Canter Over Jumps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UJkgLMKbjU4",
+      "youtube_title": "Teaching the Automatic Release Over Jumps - Part 3",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=UJkgLMKbjU4",
+      "embed_url": "https://www.youtube.com/embed/UJkgLMKbjU4",
+      "thumbnail": "https://i.ytimg.com/vi/UJkgLMKbjU4/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the Automatic Release Over Jumps - Part 3"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aMrKMcAkUkA",
+      "youtube_title": "Two Point with Archie Cox",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=aMrKMcAkUkA",
+      "embed_url": "https://www.youtube.com/embed/aMrKMcAkUkA",
+      "thumbnail": "https://i.ytimg.com/vi/aMrKMcAkUkA/hqdefault.jpg",
+      "site_titles": [
+        "Two Point with Archie Cox"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CouSpW5MLJY",
+      "youtube_title": "Improve Your Half Seat: The Foundation of Show Jumping",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=CouSpW5MLJY",
+      "embed_url": "https://www.youtube.com/embed/CouSpW5MLJY",
+      "thumbnail": "https://i.ytimg.com/vi/CouSpW5MLJY/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Half Seat: The Foundation of Show Jumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8IL_ibtBuMo",
+      "youtube_title": "Hunt Seat Equitation: Two Point Position, provided by eXtension",
+      "channel": "ExtensionHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=8IL_ibtBuMo",
+      "embed_url": "https://www.youtube.com/embed/8IL_ibtBuMo",
+      "thumbnail": "https://i.ytimg.com/vi/8IL_ibtBuMo/hqdefault.jpg",
+      "site_titles": [
+        "Hunt Seat Equitation: Two Point Position, provided by eXtension"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eBOHiPVjBmk",
+      "youtube_title": "Ringside with Carleton Brooks: What Do Hunter Judges Look For?",
+      "channel": "Capital Challenge Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=eBOHiPVjBmk",
+      "embed_url": "https://www.youtube.com/embed/eBOHiPVjBmk",
+      "thumbnail": "https://i.ytimg.com/vi/eBOHiPVjBmk/hqdefault.jpg",
+      "site_titles": [
+        "Ringside with Carleton Brooks: What Do Hunter Judges Look For?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k4C25s7_ZNc",
+      "youtube_title": "Lucy Wiegersma – Starting the young horse jumping",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=k4C25s7_ZNc",
+      "embed_url": "https://www.youtube.com/embed/k4C25s7_ZNc",
+      "thumbnail": "https://i.ytimg.com/vi/k4C25s7_ZNc/hqdefault.jpg",
+      "site_titles": [
+        "Lucy Wiegersma – Starting the young horse jumping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ncbL_U7ZPYU",
+      "youtube_title": "How to Set Ground Poles",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=ncbL_U7ZPYU",
+      "embed_url": "https://www.youtube.com/embed/ncbL_U7ZPYU",
+      "thumbnail": "https://i.ytimg.com/vi/ncbL_U7ZPYU/hqdefault.jpg",
+      "site_titles": [
+        "How to Set Ground Poles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aDPLMyAyBNA",
+      "youtube_title": "5 Best ShowJumping Horse Breeds",
+      "channel": "Horse Racing Sense",
+      "youtube_url": "https://www.youtube.com/watch?v=aDPLMyAyBNA",
+      "embed_url": "https://www.youtube.com/embed/aDPLMyAyBNA",
+      "thumbnail": "https://i.ytimg.com/vi/aDPLMyAyBNA/hqdefault.jpg",
+      "site_titles": [
+        "5 Best ShowJumping Horse Breeds"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5kRWVbB_ffQ",
+      "youtube_title": "The Difference Between Hunters and Jumpers",
+      "channel": "Ann Glavan",
+      "youtube_url": "https://www.youtube.com/watch?v=5kRWVbB_ffQ",
+      "embed_url": "https://www.youtube.com/embed/5kRWVbB_ffQ",
+      "thumbnail": "https://i.ytimg.com/vi/5kRWVbB_ffQ/hqdefault.jpg",
+      "site_titles": [
+        "The Difference Between Hunters and Jumpers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HYE6BBZVq1c",
+      "youtube_title": "2'6 Jumper Course: Table II(2b) and jump-off",
+      "channel": "FleabittenJumperHB",
+      "youtube_url": "https://www.youtube.com/watch?v=HYE6BBZVq1c",
+      "embed_url": "https://www.youtube.com/embed/HYE6BBZVq1c",
+      "thumbnail": "https://i.ytimg.com/vi/HYE6BBZVq1c/hqdefault.jpg",
+      "site_titles": [
+        "2'6 Jumper Course: Table II(2b) and jump-off"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nLptSFSmpoM",
+      "youtube_title": "Learn the automatic release, opening rein and more on Riding and Jumping Mentor!",
+      "channel": "MarketstreetInc",
+      "youtube_url": "https://www.youtube.com/watch?v=nLptSFSmpoM",
+      "embed_url": "https://www.youtube.com/embed/nLptSFSmpoM",
+      "thumbnail": "https://i.ytimg.com/vi/nLptSFSmpoM/hqdefault.jpg",
+      "site_titles": [
+        "Learn the automatic release, opening rein and more on Riding and Jumping Mentor!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Aw7lOOSSdo4",
+      "youtube_title": "The difference between hunters, equitation, and show jumping | Equestrian Education | WisteriasWorld",
+      "channel": "Wisterias World",
+      "youtube_url": "https://www.youtube.com/watch?v=Aw7lOOSSdo4",
+      "embed_url": "https://www.youtube.com/embed/Aw7lOOSSdo4",
+      "thumbnail": "https://i.ytimg.com/vi/Aw7lOOSSdo4/hqdefault.jpg",
+      "site_titles": [
+        "The difference between hunters, equitation, and show jumping | Equestrian Education | WisteriasWorld"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p8r94Z7vaKs",
+      "youtube_title": "High Children's Jumper Table II Sec 2b (KHJA Horse Show 2019)",
+      "channel": "Sam Green",
+      "youtube_url": "https://www.youtube.com/watch?v=p8r94Z7vaKs",
+      "embed_url": "https://www.youtube.com/embed/p8r94Z7vaKs",
+      "thumbnail": "https://i.ytimg.com/vi/p8r94Z7vaKs/hqdefault.jpg",
+      "site_titles": [
+        "High Children's Jumper Table II Sec 2b (KHJA Horse Show 2019)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "al2U4Yn0eyE",
+      "youtube_title": "Watch the WEF Equitation Championship sponsored by Arion Sellier.",
+      "channel": "Wellington International",
+      "youtube_url": "https://www.youtube.com/watch?v=al2U4Yn0eyE",
+      "embed_url": "https://www.youtube.com/embed/al2U4Yn0eyE",
+      "thumbnail": "https://i.ytimg.com/vi/al2U4Yn0eyE/hqdefault.jpg",
+      "site_titles": [
+        "Watch the WEF Equitation Championship sponsored by Arion Sellier."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ygPyXfNAKAU",
+      "youtube_title": "Cavaletti Training: Ingrid Klimke's Best Exercises | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=ygPyXfNAKAU",
+      "embed_url": "https://www.youtube.com/embed/ygPyXfNAKAU",
+      "thumbnail": "https://i.ytimg.com/vi/ygPyXfNAKAU/hqdefault.jpg",
+      "site_titles": [
+        "Cavaletti Training: Ingrid Klimke's Best Exercises | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1O8J5wPeP7w",
+      "youtube_title": "Class 4:  Green Jumper Table II (c) Power and Speed 2'",
+      "channel": "asbncolor",
+      "youtube_url": "https://www.youtube.com/watch?v=1O8J5wPeP7w",
+      "embed_url": "https://www.youtube.com/embed/1O8J5wPeP7w",
+      "thumbnail": "https://i.ytimg.com/vi/1O8J5wPeP7w/hqdefault.jpg",
+      "site_titles": [
+        "Class 4: Green Jumper Table II (c) Power and Speed 2'"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ubgwa8jT7HI",
+      "youtube_title": "Olivia Sweetnam Wins the Marshall & Sterling/USEF Pony Medal Finals",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=ubgwa8jT7HI",
+      "embed_url": "https://www.youtube.com/embed/ubgwa8jT7HI",
+      "thumbnail": "https://i.ytimg.com/vi/ubgwa8jT7HI/hqdefault.jpg",
+      "site_titles": [
+        "Olivia Sweetnam Wins the Marshall & Sterling/USEF Pony Medal Finals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N8QM8yn473Q",
+      "youtube_title": "Division B - Jumper Table 2'3 to 2'6",
+      "channel": "Meggilyn",
+      "youtube_url": "https://www.youtube.com/watch?v=N8QM8yn473Q",
+      "embed_url": "https://www.youtube.com/embed/N8QM8yn473Q",
+      "thumbnail": "https://i.ytimg.com/vi/N8QM8yn473Q/hqdefault.jpg",
+      "site_titles": [
+        "Division B - Jumper Table 2'3 to 2'6"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QSsYngna6Rw",
+      "youtube_title": "Michael Hughes Wins the Show Jumping Talent Search Finals East",
+      "channel": "US Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=QSsYngna6Rw",
+      "embed_url": "https://www.youtube.com/embed/QSsYngna6Rw",
+      "thumbnail": "https://i.ytimg.com/vi/QSsYngna6Rw/hqdefault.jpg",
+      "site_titles": [
+        "Michael Hughes Wins the Show Jumping Talent Search Finals East"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SoHPCOq6Z2Y",
+      "youtube_title": "The USHJA #JumpingSeatMedal Gymnastics Phase Explained with Course Designer Ken Krome",
+      "channel": "Capital Challenge Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=SoHPCOq6Z2Y",
+      "embed_url": "https://www.youtube.com/embed/SoHPCOq6Z2Y",
+      "thumbnail": "https://i.ytimg.com/vi/SoHPCOq6Z2Y/hqdefault.jpg",
+      "site_titles": [
+        "The USHJA Gymnastics Phase Explained with Course Designer Ken Krome"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VbICYvq0iDc",
+      "youtube_title": "Top 5 USHJA Hunter Derby Jumps. What is a Hunter Derby?",
+      "channel": "MHP Equestrian Videos",
+      "youtube_url": "https://www.youtube.com/watch?v=VbICYvq0iDc",
+      "embed_url": "https://www.youtube.com/embed/VbICYvq0iDc",
+      "thumbnail": "https://i.ytimg.com/vi/VbICYvq0iDc/hqdefault.jpg",
+      "site_titles": [
+        "Top 5 USHJA Hunter Derby Jumps. What is a Hunter Derby?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ScT8fUS1C90",
+      "youtube_title": "Learn How To Choose A Hunter Prospect by Peter Pletcher",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=ScT8fUS1C90",
+      "embed_url": "https://www.youtube.com/embed/ScT8fUS1C90",
+      "thumbnail": "https://i.ytimg.com/vi/ScT8fUS1C90/hqdefault.jpg",
+      "site_titles": [
+        "Learn How To Choose A Hunter Prospect by Peter Pletcher"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "W3p0kHAKFJg",
+      "youtube_title": "Cherrybrook Starboy - WIHS winner - Large Pony Hunter",
+      "channel": "Buncher SportHorses, LLC",
+      "youtube_url": "https://www.youtube.com/watch?v=W3p0kHAKFJg",
+      "embed_url": "https://www.youtube.com/embed/W3p0kHAKFJg",
+      "thumbnail": "https://i.ytimg.com/vi/W3p0kHAKFJg/hqdefault.jpg",
+      "site_titles": [
+        "Cherrybrook Starboy - WIHS winner - Large Pony Hunter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uPwUxHw9tvs",
+      "youtube_title": "Winning Round: Olivia Sweetnam and Goldmark - $10,000 Pony Hunter Winners Stake",
+      "channel": "Pennsylvania National Horse Show",
+      "youtube_url": "https://www.youtube.com/watch?v=uPwUxHw9tvs",
+      "embed_url": "https://www.youtube.com/embed/uPwUxHw9tvs",
+      "thumbnail": "https://i.ytimg.com/vi/uPwUxHw9tvs/hqdefault.jpg",
+      "site_titles": [
+        "Winning Round: Olivia Sweetnam and Goldmark - $10,000 Pony Hunter Winners Stake"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LM6s92HKy-w",
+      "youtube_title": "Winning 3'3\" Large Junior Hunter 16-17, Pennsylvania National Horse Show 2023",
+      "channel": "Grace Shipman",
+      "youtube_url": "https://www.youtube.com/watch?v=LM6s92HKy-w",
+      "embed_url": "https://www.youtube.com/embed/LM6s92HKy-w",
+      "thumbnail": "https://i.ytimg.com/vi/LM6s92HKy-w/hqdefault.jpg",
+      "site_titles": [
+        "Winning 3'3\" Large Junior Hunter 16-17, Pennsylvania National Horse Show 2023"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5Wx5Cw5zl8o",
+      "youtube_title": "Pre-Purchase Exam for a Horse",
+      "channel": "HorseCity",
+      "youtube_url": "https://www.youtube.com/watch?v=5Wx5Cw5zl8o",
+      "embed_url": "https://www.youtube.com/embed/5Wx5Cw5zl8o",
+      "thumbnail": "https://i.ytimg.com/vi/5Wx5Cw5zl8o/hqdefault.jpg",
+      "site_titles": [
+        "Pre-Purchase Exam for a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UM4xA6CjtCs",
+      "youtube_title": "Flat Work for Jumpers - Training with Kate Cavanagh",
+      "channel": "Show Circuit",
+      "youtube_url": "https://www.youtube.com/watch?v=UM4xA6CjtCs",
+      "embed_url": "https://www.youtube.com/embed/UM4xA6CjtCs",
+      "thumbnail": "https://i.ytimg.com/vi/UM4xA6CjtCs/hqdefault.jpg",
+      "site_titles": [
+        "Flat Work for Jumpers - Training with Kate Cavanagh"
       ],
       "sections": [
         "qa"
