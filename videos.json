@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2846,
+  "count": 2857,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -47953,6 +47953,182 @@
       "thumbnail": "https://i.ytimg.com/vi/aJFIKd3ZOk4/hqdefault.jpg",
       "site_titles": [
         "What is Horse Arena Footing? The sand and footing recipe explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aVj9rbDfB_0",
+      "youtube_title": "Pack and Balance a load on a horse or mule",
+      "channel": "High Desert Trail Riders BCH",
+      "youtube_url": "https://www.youtube.com/watch?v=aVj9rbDfB_0",
+      "embed_url": "https://www.youtube.com/embed/aVj9rbDfB_0",
+      "thumbnail": "https://i.ytimg.com/vi/aVj9rbDfB_0/hqdefault.jpg",
+      "site_titles": [
+        "Pack and Balance a load on a horse or mule"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VpRuaBzkJVc",
+      "youtube_title": "Fitting a Decker pack saddle to a mule",
+      "channel": "Royal Tine Guide School",
+      "youtube_url": "https://www.youtube.com/watch?v=VpRuaBzkJVc",
+      "embed_url": "https://www.youtube.com/embed/VpRuaBzkJVc",
+      "thumbnail": "https://i.ytimg.com/vi/VpRuaBzkJVc/hqdefault.jpg",
+      "site_titles": [
+        "Fitting a Decker pack saddle to a mule"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "l4Fg8-5EhHQ",
+      "youtube_title": "Tying Horses Together in a Pack String",
+      "channel": "Mather Outdoors",
+      "youtube_url": "https://www.youtube.com/watch?v=l4Fg8-5EhHQ",
+      "embed_url": "https://www.youtube.com/embed/l4Fg8-5EhHQ",
+      "thumbnail": "https://i.ytimg.com/vi/l4Fg8-5EhHQ/hqdefault.jpg",
+      "site_titles": [
+        "Tying Horses Together in a Pack String"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T1DXrixqGkY",
+      "youtube_title": "How to tie a horse or mule to a HIGHLINE-PRUSSIC SWIVEL",
+      "channel": "Hayden Powell",
+      "youtube_url": "https://www.youtube.com/watch?v=T1DXrixqGkY",
+      "embed_url": "https://www.youtube.com/embed/T1DXrixqGkY",
+      "thumbnail": "https://i.ytimg.com/vi/T1DXrixqGkY/hqdefault.jpg",
+      "site_titles": [
+        "How to tie a horse or mule to a HIGHLINE-PRUSSIC SWIVEL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5vtHE_0f9wE",
+      "youtube_title": "Pack Horse Training - Teaching Halter Trained Horse Cheyenne To Carry A Pack Saddle",
+      "channel": "West Taylor Science Based Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=5vtHE_0f9wE",
+      "embed_url": "https://www.youtube.com/embed/5vtHE_0f9wE",
+      "thumbnail": "https://i.ytimg.com/vi/5vtHE_0f9wE/hqdefault.jpg",
+      "site_titles": [
+        "Pack Horse Training - Teaching Halter Trained Horse Cheyenne To Carry A Pack Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WvZsI3Iw60U",
+      "youtube_title": "What are the Different Types of Panniers?",
+      "channel": "North 40 Outfitters",
+      "youtube_url": "https://www.youtube.com/watch?v=WvZsI3Iw60U",
+      "embed_url": "https://www.youtube.com/embed/WvZsI3Iw60U",
+      "thumbnail": "https://i.ytimg.com/vi/WvZsI3Iw60U/hqdefault.jpg",
+      "site_titles": [
+        "What are the Different Types of Panniers?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HEu-5rpW3PU",
+      "youtube_title": "How much weight should an equine carry - with Steve Edwards",
+      "channel": "Mountain Ridge Gear",
+      "youtube_url": "https://www.youtube.com/watch?v=HEu-5rpW3PU",
+      "embed_url": "https://www.youtube.com/embed/HEu-5rpW3PU",
+      "thumbnail": "https://i.ytimg.com/vi/HEu-5rpW3PU/hqdefault.jpg",
+      "site_titles": [
+        "How much weight should an equine carry - with Steve Edwards"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1zIFcQVu_t4",
+      "youtube_title": "Tying the Diamond hitch on a mule",
+      "channel": "Royal Tine Guide School",
+      "youtube_url": "https://www.youtube.com/watch?v=1zIFcQVu_t4",
+      "embed_url": "https://www.youtube.com/embed/1zIFcQVu_t4",
+      "thumbnail": "https://i.ytimg.com/vi/1zIFcQVu_t4/hqdefault.jpg",
+      "site_titles": [
+        "Tying the Diamond hitch on a mule"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Sbq5Zg4Cldc",
+      "youtube_title": "Sawbuck vs. Decker Pack Saddles ",
+      "channel": "Ask Drewry",
+      "youtube_url": "https://www.youtube.com/watch?v=Sbq5Zg4Cldc",
+      "embed_url": "https://www.youtube.com/embed/Sbq5Zg4Cldc",
+      "thumbnail": "https://i.ytimg.com/vi/Sbq5Zg4Cldc/hqdefault.jpg",
+      "site_titles": [
+        "Sawbuck vs. Decker Pack Saddles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X9xrX-xEibc",
+      "youtube_title": "Horse Packing – 5 things you NEED to know",
+      "channel": "Jake Harvath",
+      "youtube_url": "https://www.youtube.com/watch?v=X9xrX-xEibc",
+      "embed_url": "https://www.youtube.com/embed/X9xrX-xEibc",
+      "thumbnail": "https://i.ytimg.com/vi/X9xrX-xEibc/hqdefault.jpg",
+      "site_titles": [
+        "Horse Packing – 5 things you NEED to know"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ktxAivottUI",
+      "youtube_title": "Mules Are WAY BETTER THAN HORSES - An Outfitter's Perspective",
+      "channel": "Cliff Gray",
+      "youtube_url": "https://www.youtube.com/watch?v=ktxAivottUI",
+      "embed_url": "https://www.youtube.com/embed/ktxAivottUI",
+      "thumbnail": "https://i.ytimg.com/vi/ktxAivottUI/hqdefault.jpg",
+      "site_titles": [
+        "Mules Are WAY BETTER THAN HORSES - An Outfitter's Perspective"
       ],
       "sections": [
         "qa"
