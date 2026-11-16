@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2300,
+  "count": 2324,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -84,11 +84,6 @@
         "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
         "qa/horse-care/now-my-cribber-is-starting-to-suck-wind-and-the-leather-choker-isnt-working-what/index.html",
         "qa/mounting-dismounting/why-is-putting-weight-in-the-stirrups-a-good-idea-before-mounting-a-young-horse/index.html",
-        "qa/safety/what-are-some-tips-for-young-horses-that-have-begun-to-buck/index.html",
-        "qa/safety/what-are-the-basics-to-getting-a-young-horse-to-not-buck/index.html",
-        "qa/safety/what-are-the-best-tips-for-preventing-bucking-with-a-green-horse/index.html",
-        "qa/safety/why-is-it-important-to-be-careful-when-dismounting-during-the-first-few-rides-on/index.html",
-        "qa/safety/why-is-using-a-body-rope-on-a-foal-or-young-horse-so-risky-and-how-can-it-create/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
         "qa/training-principles/how-do-you-know-when-a-young-horse-is-ready-to-advance-to-the-next-stage-of-trai/index.html",
         "qa/training-principles/index.html",
@@ -326,12 +321,7 @@
         "qa/desensitization-sacking-out/how-do-i-handle-a-horse-that-spooks-on-the-trail-and-get-it-more-confident/index.html",
         "qa/desensitization-sacking-out/how-do-i-train-a-spooky-horse/index.html",
         "qa/lateral-work-suppling/index.html",
-        "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
-        "qa/safety/my-horse-is-spooky-under-saddle-and-even-when-getting-saddled-what-can-we-do/index.html",
-        "qa/safety/my-horse-spooks-and-goes-sideways-what-can-be-done/index.html",
-        "qa/safety/my-horse-spooks-at-barking-dogs-what-can-i-do/index.html",
-        "qa/safety/my-horse-wants-to-go-sideways-when-spooked-what-can-i-do-about-that/index.html",
-        "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html"
+        "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html"
       ]
     },
     {
@@ -39264,6 +39254,390 @@
       "thumbnail": "https://i.ytimg.com/vi/UWKFcnJ9I5U/hqdefault.jpg",
       "site_titles": [
         "How To Teach A Horse To ACCEPT Water! Pressure-Release And 2 Steps To Success!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VfuT8Ld3634",
+      "youtube_title": "Ask the Vet - What is Kissing Spine?",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=VfuT8Ld3634",
+      "embed_url": "https://www.youtube.com/embed/VfuT8Ld3634",
+      "thumbnail": "https://i.ytimg.com/vi/VfuT8Ld3634/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Vet - What is Kissing Spine?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2Vhyi5hsW38",
+      "youtube_title": "How are Horses with Kissing Spines Treated?",
+      "channel": "The Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=2Vhyi5hsW38",
+      "embed_url": "https://www.youtube.com/embed/2Vhyi5hsW38",
+      "thumbnail": "https://i.ytimg.com/vi/2Vhyi5hsW38/hqdefault.jpg",
+      "site_titles": [
+        "How are Horses with Kissing Spines Treated?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oNvpHr3JCK0",
+      "youtube_title": "HOW TO FALL OFF A HORSE",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=oNvpHr3JCK0",
+      "embed_url": "https://www.youtube.com/embed/oNvpHr3JCK0",
+      "thumbnail": "https://i.ytimg.com/vi/oNvpHr3JCK0/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO FALL OFF A HORSE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IaiRI0Y2N3w",
+      "youtube_title": "Front leg restraint on a horse",
+      "channel": "Maureen Webb",
+      "youtube_url": "https://www.youtube.com/watch?v=IaiRI0Y2N3w",
+      "embed_url": "https://www.youtube.com/embed/IaiRI0Y2N3w",
+      "thumbnail": "https://i.ytimg.com/vi/IaiRI0Y2N3w/hqdefault.jpg",
+      "site_titles": [
+        "Front leg restraint on a horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IhFAT4GOnKk",
+      "youtube_title": "The Cold-Backed Horse",
+      "channel": "Dr Kate Fenner",
+      "youtube_url": "https://www.youtube.com/watch?v=IhFAT4GOnKk",
+      "embed_url": "https://www.youtube.com/embed/IhFAT4GOnKk",
+      "thumbnail": "https://i.ytimg.com/vi/IhFAT4GOnKk/hqdefault.jpg",
+      "site_titles": [
+        "The Cold-Backed Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3LvzuW-m-kU",
+      "youtube_title": "D/C YOUNG HORSE PROBLEM BEHAVIOR | Rearing & Striking Solved",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=3LvzuW-m-kU",
+      "embed_url": "https://www.youtube.com/embed/3LvzuW-m-kU",
+      "thumbnail": "https://i.ytimg.com/vi/3LvzuW-m-kU/hqdefault.jpg",
+      "site_titles": [
+        "D/C YOUNG HORSE PROBLEM BEHAVIOR | Rearing & Striking Solved"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GUpiYZrMVGo",
+      "youtube_title": "It’s your job to set your horse up to safely handle traffic #applythemethod ",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=GUpiYZrMVGo",
+      "embed_url": "https://www.youtube.com/embed/GUpiYZrMVGo",
+      "thumbnail": "https://i.ytimg.com/vi/GUpiYZrMVGo/hqdefault.jpg",
+      "site_titles": [
+        "It’s your job to set your horse up to safely handle traffic"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Djhlz90JzfY",
+      "youtube_title": "Horses That Spook - What To Do",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Djhlz90JzfY",
+      "embed_url": "https://www.youtube.com/embed/Djhlz90JzfY",
+      "thumbnail": "https://i.ytimg.com/vi/Djhlz90JzfY/hqdefault.jpg",
+      "site_titles": [
+        "Horses That Spook - What To Do"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g3a0y18fs-M",
+      "youtube_title": "To Make Your Horse STOP BUCKING after jumps😤🏇 #equestriantips #showjumping #horsegirl",
+      "channel": "Veronika Kochetova EQ🐴",
+      "youtube_url": "https://www.youtube.com/watch?v=g3a0y18fs-M",
+      "embed_url": "https://www.youtube.com/embed/g3a0y18fs-M",
+      "thumbnail": "https://i.ytimg.com/vi/g3a0y18fs-M/hqdefault.jpg",
+      "site_titles": [
+        "To Make Your Horse STOP BUCKING after jumps😤🏇"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jriYCetmgQk",
+      "youtube_title": "Rider Losing Confidence with Spooky Horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=jriYCetmgQk",
+      "embed_url": "https://www.youtube.com/embed/jriYCetmgQk",
+      "thumbnail": "https://i.ytimg.com/vi/jriYCetmgQk/hqdefault.jpg",
+      "site_titles": [
+        "Rider Losing Confidence with Spooky Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iVZSCs2CqWs",
+      "youtube_title": "Unexpected Bucking from a Green Horse",
+      "channel": "horse-pros",
+      "youtube_url": "https://www.youtube.com/watch?v=iVZSCs2CqWs",
+      "embed_url": "https://www.youtube.com/embed/iVZSCs2CqWs",
+      "thumbnail": "https://i.ytimg.com/vi/iVZSCs2CqWs/hqdefault.jpg",
+      "site_titles": [
+        "Unexpected Bucking from a Green Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rojbYCEvgt8",
+      "youtube_title": "Horse Training For Control - How To Prevent Bucking, Bolting And Violent Spooking",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=rojbYCEvgt8",
+      "embed_url": "https://www.youtube.com/embed/rojbYCEvgt8",
+      "thumbnail": "https://i.ytimg.com/vi/rojbYCEvgt8/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training For Control - How To Prevent Bucking, Bolting And Violent Spooking"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "knwzW-1iOeY",
+      "youtube_title": "His First Trail Ride and We're Doing It ALONE!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=knwzW-1iOeY",
+      "embed_url": "https://www.youtube.com/embed/knwzW-1iOeY",
+      "thumbnail": "https://i.ytimg.com/vi/knwzW-1iOeY/hqdefault.jpg",
+      "site_titles": [
+        "His First Trail Ride and We're Doing It ALONE!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fK_JQ6ZDL54",
+      "youtube_title": "The Two Places Your Horse Can Never See You",
+      "channel": "The Equine Code",
+      "youtube_url": "https://www.youtube.com/watch?v=fK_JQ6ZDL54",
+      "embed_url": "https://www.youtube.com/embed/fK_JQ6ZDL54",
+      "thumbnail": "https://i.ytimg.com/vi/fK_JQ6ZDL54/hqdefault.jpg",
+      "site_titles": [
+        "The Two Places Your Horse Can Never See You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cGKWtda7ySk",
+      "youtube_title": "FROM FEAR TO TRUST | Helping an Abused Horse Heal ",
+      "channel": "Stephan Oser - Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=cGKWtda7ySk",
+      "embed_url": "https://www.youtube.com/embed/cGKWtda7ySk",
+      "thumbnail": "https://i.ytimg.com/vi/cGKWtda7ySk/hqdefault.jpg",
+      "site_titles": [
+        "FROM FEAR TO TRUST | Helping an Abused Horse Heal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y4lg5mH5IJw",
+      "youtube_title": "Here is Something You Can Do to Help Your Horse if it Has Tight Shoulders",
+      "channel": "Sport Horse Chiropractic | Dr. Mike Adney",
+      "youtube_url": "https://www.youtube.com/watch?v=Y4lg5mH5IJw",
+      "embed_url": "https://www.youtube.com/embed/Y4lg5mH5IJw",
+      "thumbnail": "https://i.ytimg.com/vi/Y4lg5mH5IJw/hqdefault.jpg",
+      "site_titles": [
+        "Here is Something You Can Do to Help Your Horse if it Has Tight Shoulders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "V07PNP1HAgI",
+      "youtube_title": "How To Control a Runaway Horse",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=V07PNP1HAgI",
+      "embed_url": "https://www.youtube.com/embed/V07PNP1HAgI",
+      "thumbnail": "https://i.ytimg.com/vi/V07PNP1HAgI/hqdefault.jpg",
+      "site_titles": [
+        "How To Control a Runaway Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bjvIVYyppnQ",
+      "youtube_title": "Training A Foal To Lead - The First Lesson",
+      "channel": "Homestead Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=bjvIVYyppnQ",
+      "embed_url": "https://www.youtube.com/embed/bjvIVYyppnQ",
+      "thumbnail": "https://i.ytimg.com/vi/bjvIVYyppnQ/hqdefault.jpg",
+      "site_titles": [
+        "Training A Foal To Lead - The First Lesson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "y044lpZsYxs",
+      "youtube_title": "What's In a Horse First Aid Kit",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=y044lpZsYxs",
+      "embed_url": "https://www.youtube.com/embed/y044lpZsYxs",
+      "thumbnail": "https://i.ytimg.com/vi/y044lpZsYxs/hqdefault.jpg",
+      "site_titles": [
+        "What's In a Horse First Aid Kit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "57MFnxLL1_0",
+      "youtube_title": "How to Ride a Buck",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=57MFnxLL1_0",
+      "embed_url": "https://www.youtube.com/embed/57MFnxLL1_0",
+      "thumbnail": "https://i.ytimg.com/vi/57MFnxLL1_0/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Buck"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3xIX-nZmLhA",
+      "youtube_title": "How To Canter On A Horse Without Fear",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=3xIX-nZmLhA",
+      "embed_url": "https://www.youtube.com/embed/3xIX-nZmLhA",
+      "thumbnail": "https://i.ytimg.com/vi/3xIX-nZmLhA/hqdefault.jpg",
+      "site_titles": [
+        "How To Canter On A Horse Without Fear"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rLlqlX_MWjE",
+      "youtube_title": "Restraints: Twitch",
+      "channel": "MyHorseUniversity",
+      "youtube_url": "https://www.youtube.com/watch?v=rLlqlX_MWjE",
+      "embed_url": "https://www.youtube.com/embed/rLlqlX_MWjE",
+      "thumbnail": "https://i.ytimg.com/vi/rLlqlX_MWjE/hqdefault.jpg",
+      "site_titles": [
+        "Restraints: Twitch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B6rqfRlq4FM",
+      "youtube_title": "How to safely mount & Dismount on a green young horse Ashgrove Equestrian Services",
+      "channel": "Travelers Working Kelpie Stud",
+      "youtube_url": "https://www.youtube.com/watch?v=B6rqfRlq4FM",
+      "embed_url": "https://www.youtube.com/embed/B6rqfRlq4FM",
+      "thumbnail": "https://i.ytimg.com/vi/B6rqfRlq4FM/hqdefault.jpg",
+      "site_titles": [
+        "How to safely mount & Dismount on a green young horse Ashgrove Equestrian Services"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jBINl8SS-pk",
+      "youtube_title": "Cowboy Knives",
+      "channel": "Dry Creek Wrangler School",
+      "youtube_url": "https://www.youtube.com/watch?v=jBINl8SS-pk",
+      "embed_url": "https://www.youtube.com/embed/jBINl8SS-pk",
+      "thumbnail": "https://i.ytimg.com/vi/jBINl8SS-pk/hqdefault.jpg",
+      "site_titles": [
+        "Cowboy Knives"
       ],
       "sections": [
         "qa"
