@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2453,
+  "count": 2469,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -216,7 +216,6 @@
       ],
       "reference_count": 35,
       "pages": [
-        "qa/counter-canter/how-does-counter-canter-help-prepare-a-horse-for-flying-changes/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
         "reining/developing-lead-changes/index.html",
         "videos/reining/index.html"
@@ -41698,6 +41697,262 @@
       "thumbnail": "https://i.ytimg.com/vi/QGtqkdvMl54/hqdefault.jpg",
       "site_titles": [
         "Full Video: Ghost Runs 1 reveals where I lost time ⏱ 👀 | Mounted Shooting lesson 1 🔫🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cVnxsxX8_DI",
+      "youtube_title": "Daniel Timson | Boost your dressage score- Part 7: counter canter | HorseandRider UK",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=cVnxsxX8_DI",
+      "embed_url": "https://www.youtube.com/embed/cVnxsxX8_DI",
+      "thumbnail": "https://i.ytimg.com/vi/cVnxsxX8_DI/hqdefault.jpg",
+      "site_titles": [
+        "Daniel Timson | Boost your dressage score- Part 7: counter canter | HorseandRider UK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8mT8JEwcbhs",
+      "youtube_title": "How to Introduce the Counter-Canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=8mT8JEwcbhs",
+      "embed_url": "https://www.youtube.com/embed/8mT8JEwcbhs",
+      "thumbnail": "https://i.ytimg.com/vi/8mT8JEwcbhs/hqdefault.jpg",
+      "site_titles": [
+        "How to Introduce the Counter-Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VBMAUDlH7fA",
+      "youtube_title": "Counter Canter explained - How To Ride It Without Your Horse Breaking",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=VBMAUDlH7fA",
+      "embed_url": "https://www.youtube.com/embed/VBMAUDlH7fA",
+      "thumbnail": "https://i.ytimg.com/vi/VBMAUDlH7fA/hqdefault.jpg",
+      "site_titles": [
+        "Counter Canter explained - How To Ride It Without Your Horse Breaking"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IaBZIN8MK9Y",
+      "youtube_title": "HOW TO: COUNTER CANTER AND LEAD CHANGE PREPARATION – EXERCISES AND COMMON PROBLEMS",
+      "channel": "WICKS Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=IaBZIN8MK9Y",
+      "embed_url": "https://www.youtube.com/embed/IaBZIN8MK9Y",
+      "thumbnail": "https://i.ytimg.com/vi/IaBZIN8MK9Y/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO: COUNTER CANTER AND LEAD CHANGE PREPARATION – EXERCISES AND COMMON PROBLEMS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZejX--OSD8c",
+      "youtube_title": "George Williams: Exercises to Develop the Collected and Counter Canter",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=ZejX--OSD8c",
+      "embed_url": "https://www.youtube.com/embed/ZejX--OSD8c",
+      "thumbnail": "https://i.ytimg.com/vi/ZejX--OSD8c/hqdefault.jpg",
+      "site_titles": [
+        "George Williams: Exercises to Develop the Collected and Counter Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ATgoFIfRp8U",
+      "youtube_title": "EXERCISES TO HELP IMPROVE YOUR HORSES QUALITY OF CANTER| Equestrian Training",
+      "channel": "EJM Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=ATgoFIfRp8U",
+      "embed_url": "https://www.youtube.com/embed/ATgoFIfRp8U",
+      "thumbnail": "https://i.ytimg.com/vi/ATgoFIfRp8U/hqdefault.jpg",
+      "site_titles": [
+        "EXERCISES TO HELP IMPROVE YOUR HORSES QUALITY OF CANTER| Equestrian Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TcdEv-x8XAE",
+      "youtube_title": "Matt Hicks | Shoulder-in at Canter | HorseandRider UK",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=TcdEv-x8XAE",
+      "embed_url": "https://www.youtube.com/embed/TcdEv-x8XAE",
+      "thumbnail": "https://i.ytimg.com/vi/TcdEv-x8XAE/hqdefault.jpg",
+      "site_titles": [
+        "Matt Hicks | Shoulder-in at Canter | HorseandRider UK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nQS_TRoa20I",
+      "youtube_title": "Counter Canter Lead exercise - Dressage Training",
+      "channel": "Hayley Watson-Greaves - WG Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=nQS_TRoa20I",
+      "embed_url": "https://www.youtube.com/embed/nQS_TRoa20I",
+      "thumbnail": "https://i.ytimg.com/vi/nQS_TRoa20I/hqdefault.jpg",
+      "site_titles": [
+        "Counter Canter Lead exercise - Dressage Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OLCezZdgKEg",
+      "youtube_title": "Horse training Western Pleasure Counter Canter",
+      "channel": "Robert Westcott",
+      "youtube_url": "https://www.youtube.com/watch?v=OLCezZdgKEg",
+      "embed_url": "https://www.youtube.com/embed/OLCezZdgKEg",
+      "thumbnail": "https://i.ytimg.com/vi/OLCezZdgKEg/hqdefault.jpg",
+      "site_titles": [
+        "Horse training Western Pleasure Counter Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2U6TUpE2PaY",
+      "youtube_title": "3 Exercises To Improve Your Counter Canter",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=2U6TUpE2PaY",
+      "embed_url": "https://www.youtube.com/embed/2U6TUpE2PaY",
+      "thumbnail": "https://i.ytimg.com/vi/2U6TUpE2PaY/hqdefault.jpg",
+      "site_titles": [
+        "3 Exercises To Improve Your Counter Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1YpArXQ1bhc",
+      "youtube_title": "HOW DO I RIDE COUNTER CANTER? - Dressage Mastery TV Episode 292",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=1YpArXQ1bhc",
+      "embed_url": "https://www.youtube.com/embed/1YpArXQ1bhc",
+      "thumbnail": "https://i.ytimg.com/vi/1YpArXQ1bhc/hqdefault.jpg",
+      "site_titles": [
+        "HOW DO I RIDE COUNTER CANTER? - Dressage Mastery TV Episode 292"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qi_t7iSfk-Q",
+      "youtube_title": "Common Mistakes in Counter Canter | HorseandRider UK",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=qi_t7iSfk-Q",
+      "embed_url": "https://www.youtube.com/embed/qi_t7iSfk-Q",
+      "thumbnail": "https://i.ytimg.com/vi/qi_t7iSfk-Q/hqdefault.jpg",
+      "site_titles": [
+        "Common Mistakes in Counter Canter | HorseandRider UK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1LhKCmKCWo4",
+      "youtube_title": "COUNTER CANTER",
+      "channel": "Remount Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=1LhKCmKCWo4",
+      "embed_url": "https://www.youtube.com/embed/1LhKCmKCWo4",
+      "thumbnail": "https://i.ytimg.com/vi/1LhKCmKCWo4/hqdefault.jpg",
+      "site_titles": [
+        "COUNTER CANTER"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k7IlFKkHYkw",
+      "youtube_title": "What Is Counter Canter? How To Ride The Counter Canter In Dressage",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=k7IlFKkHYkw",
+      "embed_url": "https://www.youtube.com/embed/k7IlFKkHYkw",
+      "thumbnail": "https://i.ytimg.com/vi/k7IlFKkHYkw/hqdefault.jpg",
+      "site_titles": [
+        "What Is Counter Canter? How To Ride The Counter Canter In Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9uW89oayxKM",
+      "youtube_title": "Canter & Trot Rider Position + Counter Canter | 5 Year Old KWPN Dressage",
+      "channel": "DIY Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=9uW89oayxKM",
+      "embed_url": "https://www.youtube.com/embed/9uW89oayxKM",
+      "thumbnail": "https://i.ytimg.com/vi/9uW89oayxKM/hqdefault.jpg",
+      "site_titles": [
+        "Canter & Trot Rider Position + Counter Canter | 5 Year Old KWPN Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oGupZb7Yhaw",
+      "youtube_title": "Counter Canter Made Simple 🐴✨ Build Strength & Balance",
+      "channel": "Ridely",
+      "youtube_url": "https://www.youtube.com/watch?v=oGupZb7Yhaw",
+      "embed_url": "https://www.youtube.com/embed/oGupZb7Yhaw",
+      "thumbnail": "https://i.ytimg.com/vi/oGupZb7Yhaw/hqdefault.jpg",
+      "site_titles": [
+        "Counter Canter Made Simple 🐴✨ Build Strength & Balance"
       ],
       "sections": [
         "qa"
