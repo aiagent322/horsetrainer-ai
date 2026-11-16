@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2800,
+  "count": 2811,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -47217,6 +47217,182 @@
       "thumbnail": "https://i.ytimg.com/vi/Nw2M7H4pABM/hqdefault.jpg",
       "site_titles": [
         "Easy Groundwork Exercises for Young Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "s9mo9nq71SI",
+      "youtube_title": "Trailer loading issues? Pressure or Release???  In the Middle is \"feel\", this is true horsemanship.",
+      "channel": "Michael Peace - Think Equus",
+      "youtube_url": "https://www.youtube.com/watch?v=s9mo9nq71SI",
+      "embed_url": "https://www.youtube.com/embed/s9mo9nq71SI",
+      "thumbnail": "https://i.ytimg.com/vi/s9mo9nq71SI/hqdefault.jpg",
+      "site_titles": [
+        "Trailer loading issues? Pressure or Release??? In the Middle is \"feel\", this is true horsemanship."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9cLoiaf_sG0",
+      "youtube_title": "What to do when your horse is tense & uncomfortable  #trtmethod #horse #groundwork #equestrian",
+      "channel": "TRT method",
+      "youtube_url": "https://www.youtube.com/watch?v=9cLoiaf_sG0",
+      "embed_url": "https://www.youtube.com/embed/9cLoiaf_sG0",
+      "thumbnail": "https://i.ytimg.com/vi/9cLoiaf_sG0/hqdefault.jpg",
+      "site_titles": [
+        "What to do when your horse is tense & uncomfortable"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mbX3UvaG0-0",
+      "youtube_title": "Why Your Horse Pushes Into Pressure (Fix This Fast)",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=mbX3UvaG0-0",
+      "embed_url": "https://www.youtube.com/embed/mbX3UvaG0-0",
+      "thumbnail": "https://i.ytimg.com/vi/mbX3UvaG0-0/hqdefault.jpg",
+      "site_titles": [
+        "Why Your Horse Pushes Into Pressure (Fix This Fast)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w9CTkCr9f5Q",
+      "youtube_title": "High headed or poll resistance. Softening Poll Resistance",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=w9CTkCr9f5Q",
+      "embed_url": "https://www.youtube.com/embed/w9CTkCr9f5Q",
+      "thumbnail": "https://i.ytimg.com/vi/w9CTkCr9f5Q/hqdefault.jpg",
+      "site_titles": [
+        "High headed or poll resistance. Softening Poll Resistance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BwzvC4YaqEs",
+      "youtube_title": "Master Horse Lateral Flexion: Rider's Leg & Rein Secrets #shorts",
+      "channel": "Remount Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=BwzvC4YaqEs",
+      "embed_url": "https://www.youtube.com/embed/BwzvC4YaqEs",
+      "thumbnail": "https://i.ytimg.com/vi/BwzvC4YaqEs/hqdefault.jpg",
+      "site_titles": [
+        "Master Horse Lateral Flexion: Rider's Leg & Rein Secrets"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ANVx3ZLbl50",
+      "youtube_title": "Mustang Dudley — Learning to Give into Halter Pressure and Start Leading",
+      "channel": "CZ Mustangs",
+      "youtube_url": "https://www.youtube.com/watch?v=ANVx3ZLbl50",
+      "embed_url": "https://www.youtube.com/embed/ANVx3ZLbl50",
+      "thumbnail": "https://i.ytimg.com/vi/ANVx3ZLbl50/hqdefault.jpg",
+      "site_titles": [
+        "Mustang Dudley — Learning to Give into Halter Pressure and Start Leading"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "28IU_2myN1c",
+      "youtube_title": "Pressure: backing up your horse",
+      "channel": "AshevilleVideo",
+      "youtube_url": "https://www.youtube.com/watch?v=28IU_2myN1c",
+      "embed_url": "https://www.youtube.com/embed/28IU_2myN1c",
+      "thumbnail": "https://i.ytimg.com/vi/28IU_2myN1c/hqdefault.jpg",
+      "site_titles": [
+        "Pressure: backing up your horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nzQtmQswmJ4",
+      "youtube_title": "Exercises to Help Loosen a Stiff Horse, Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=nzQtmQswmJ4",
+      "embed_url": "https://www.youtube.com/embed/nzQtmQswmJ4",
+      "thumbnail": "https://i.ytimg.com/vi/nzQtmQswmJ4/hqdefault.jpg",
+      "site_titles": [
+        "Exercises to Help Loosen a Stiff Horse, Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HsSal_A964w",
+      "youtube_title": "How to Apply Pressure So Your Horse Doesn't Resist",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=HsSal_A964w",
+      "embed_url": "https://www.youtube.com/embed/HsSal_A964w",
+      "thumbnail": "https://i.ytimg.com/vi/HsSal_A964w/hqdefault.jpg",
+      "site_titles": [
+        "How to Apply Pressure So Your Horse Doesn't Resist"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "--W2UZRxswQ",
+      "youtube_title": "#trainingtiptuesday Yielding to Pressure with Richard Winters Horsemanship 🌟 #horsemanship",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=--W2UZRxswQ",
+      "embed_url": "https://www.youtube.com/embed/--W2UZRxswQ",
+      "thumbnail": "https://i.ytimg.com/vi/--W2UZRxswQ/hqdefault.jpg",
+      "site_titles": [
+        "Yielding to Pressure with Richard Winters Horsemanship 🌟"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-LUOVdgqKYU",
+      "youtube_title": "Blue Allen Eliminate the Brace in your Horse",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=-LUOVdgqKYU",
+      "embed_url": "https://www.youtube.com/embed/-LUOVdgqKYU",
+      "thumbnail": "https://i.ytimg.com/vi/-LUOVdgqKYU/hqdefault.jpg",
+      "site_titles": [
+        "Blue Allen Eliminate the Brace in your Horse"
       ],
       "sections": [
         "qa"
