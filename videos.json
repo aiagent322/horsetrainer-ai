@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 712,
+  "count": 837,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -225,17 +225,8 @@
         "qa/neck-reining/how-does-collection-relate-to-neck-reining-and-why-do-more-collected-horses-typi/index.html",
         "qa/neck-reining/what-is-the-difference-between-a-horse-that-neck-reins-from-the-rein-contact-and/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
-        "qa/reining/how-do-i-keep-from-over-cueing-my-horse-in-reining/index.html",
-        "qa/reining/how-important-is-balance-in-reining/index.html",
         "qa/reining/index.html",
-        "qa/reining/what-are-the-most-common-beginner-reining-rider-mistakes/index.html",
-        "qa/reining/what-makes-good-reining-circles/index.html",
-        "qa/reining/what-should-a-non-pro-focus-on-in-reining-lessons/index.html",
-        "qa/reining/why-do-i-lose-my-balance-in-the-reining-stop/index.html",
-        "qa/reining/why-do-non-pro-riders-struggle-with-timing-in-reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
-        "qa/reining/why-does-my-horse-brace-in-the-stop/index.html",
-        "qa/reining/why-is-softness-so-important-in-reining/index.html",
         "qa/training-principles/how-do-you-develop-a-horse-that-is-light-and-responsive-to-the-aids-over-time/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-response-to-the-half-halt-as-a-fundamental-training/index.html",
         "qa/training-principles/what-is-the-importance-of-feel-and-timing-in-riding/index.html",
@@ -327,8 +318,6 @@
         "qa/lead-changes/what-physical-and-training-prerequisites-must-be-in-place-before-teaching-flying/index.html",
         "qa/lead-changes/what-role-does-the-figure-eight-play-in-lead-change-training-and-how-do-you-ride/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
-        "qa/reining/how-do-i-train-flying-lead-changes-and-fix-a-horse-that-swaps-late-behind/index.html",
-        "qa/reining/why-does-my-horse-change-in-front-but-not-behind-in-the-lead-change/index.html",
         "qa/training-principles/how-do-you-develop-the-flying-lead-change-and-what-preparation-is-required/index.html",
         "qa/training-principles/how-do-you-introduce-simple-lead-changes-and-why-are-they-important-in-a-horses/index.html",
         "qa/working-cow-horse/why-does-lead-change-quality-matter-in-working-cow-horse/index.html",
@@ -391,8 +380,6 @@
         "qa/natural-horsemanship/what-is-martin-blacks-approach-to-starting-colts/index.html",
         "qa/obstacle-training/can-obstacle-training-help-young-horses/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
-        "qa/reining/is-a-cheaper-green-prospect-a-bad-idea-for-a-beginner/index.html",
-        "qa/reining/what-riding-skills-should-i-have-before-starting-reining-lessons/index.html",
         "qa/starting-young-horses/how-do-you-know-when-a-young-horse-is-genuinely-ready-to-progress-to-the-next-st/index.html",
         "qa/starting-young-horses/how-does-the-approach-to-starting-horses-differ-between-western-performance-engl/index.html",
         "qa/starting-young-horses/how-long-does-it-take-to-start-a-young-horse-under-saddle/index.html",
@@ -538,11 +525,7 @@
         "qa/neck-reining/what-does-a-fully-finished-neck-reining-horse-look-like-and-feel-like-to-ride/index.html",
         "qa/neck-reining/what-is-neck-reining-and-how-does-it-differ-from-direct-reining/index.html",
         "qa/neck-reining/when-and-why-would-you-go-back-to-two-handed-riding-on-a-neck-reining-horse/index.html",
-        "qa/neck-reining/why-does-the-quality-of-a-horses-neck-rein-often-fall-apart-at-the-lope-and-how/index.html",
-        "qa/reining/how-do-i-keep-my-hands-quiet-in-reining/index.html",
-        "qa/reining/how-do-i-learn-to-ride-with-one-hand-in-reining/index.html",
-        "qa/reining/how-do-you-teach-a-reining-horse-to-guide-better/index.html",
-        "qa/reining/should-beginners-ride-two-handed-or-one-handed-in-reining/index.html"
+        "qa/neck-reining/why-does-the-quality-of-a-horses-neck-rein-often-fall-apart-at-the-lope-and-how/index.html"
       ]
     },
     {
@@ -575,9 +558,6 @@
       "reference_count": 17,
       "pages": [
         "qa/mounted-shooting/how-do-i-build-my-horses-speed-and-rate-between-balloons-without-sacrificing-con/index.html",
-        "qa/reining/how-do-beginners-learn-speed-control-in-reining/index.html",
-        "qa/reining/how-much-speed-should-a-reining-horse-show-in-fast-circles/index.html",
-        "qa/reining/why-does-my-horse-speed-up-in-the-small-slow-circle/index.html",
         "qa/speed/at-a-high-speed-gallop-should-you-allow-the-horse-to-change-leads/index.html",
         "qa/speed/how-do-i-approach-the-start-line-in-speed-events-to-maximize-my-time/index.html",
         "qa/speed/how-do-i-develop-a-horses-rate-and-acceleration-for-speed-events/index.html",
@@ -627,22 +607,6 @@
       "reference_count": 21,
       "pages": [
         "qa/ranch-riding/index.html",
-        "qa/reining/how-do-i-keep-from-confusing-a-trained-reining-horse/index.html",
-        "qa/reining/how-do-i-tell-if-my-reining-lessons-are-working/index.html",
-        "qa/reining/how-do-i-warm-up-for-a-reining-class-at-a-show/index.html",
-        "qa/reining/how-do-non-pros-avoid-developing-bad-habits-in-reining/index.html",
-        "qa/reining/how-do-you-avoid-burning-out-a-young-reining-horse/index.html",
-        "qa/reining/how-do-you-school-a-reining-pattern-without-making-the-horse-hot/index.html",
-        "qa/reining/how-early-should-i-get-on-before-my-reining-class/index.html",
-        "qa/reining/how-fit-should-a-reining-horse-be/index.html",
-        "qa/reining/how-long-does-it-take-to-learn-reining/index.html",
-        "qa/reining/how-long-does-it-take-to-train-a-reining-horse/index.html",
-        "qa/reining/how-often-should-a-non-pro-take-reining-lessons/index.html",
-        "qa/reining/how-often-should-i-run-a-full-reining-pattern-in-practice/index.html",
-        "qa/reining/reining-is-harder-than-people-think-why-is-it-so-hard-to-get-good-at/index.html",
-        "qa/reining/should-you-school-hard-at-a-reining-show/index.html",
-        "qa/reining/what-is-the-difference-between-schooling-and-showing-a-reining-pattern/index.html",
-        "qa/reining/why-are-horses-trained-in-brazil-for-reining-six-months-ahead-of-horses-trained/index.html",
         "qa/working-cow-horse/how-do-you-prepare-the-reining-phase-for-a-working-cow-horse-show/index.html",
         "qa/working-cow-horse/how-does-poor-pattern-preparation-in-the-reining-phase-hurt-a-working-cow-horse/index.html",
         "qa/working-western-rail/index.html",
@@ -686,21 +650,6 @@
         "qa/horsemanship/how-do-i-memorize-and-ride-a-western-horsemanship-pattern-correctly-under-pressu/index.html",
         "qa/ranch-riding/how-do-i-ride-the-ranch-riding-pattern-to-maximize-my-score/index.html",
         "qa/ranch-riding/what-are-the-most-common-pattern-errors-in-ranch-riding-and-how-do-i-avoid-them/index.html",
-        "qa/reining/can-a-beginner-learn-reining/index.html",
-        "qa/reining/can-i-learn-reining-on-a-lesson-horse/index.html",
-        "qa/reining/can-older-riders-learn-reining/index.html",
-        "qa/reining/do-i-need-show-experience-before-taking-reining-lessons/index.html",
-        "qa/reining/how-do-i-avoid-getting-lost-in-a-reining-pattern/index.html",
-        "qa/reining/how-do-i-know-if-a-reining-horse-fits-my-skill-level/index.html",
-        "qa/reining/how-do-i-know-if-i-am-ready-for-reining-maneuvers/index.html",
-        "qa/reining/how-do-i-learn-to-guide-a-reining-horse-through-a-pattern/index.html",
-        "qa/reining/how-do-i-prepare-for-my-first-reining-pattern-class/index.html",
-        "qa/reining/how-does-a-beginner-learn-a-reining-pattern/index.html",
-        "qa/reining/is-reining-hard-to-learn/index.html",
-        "qa/reining/should-beginners-practice-full-reining-patterns/index.html",
-        "qa/reining/what-is-the-best-way-to-memorize-a-reining-pattern/index.html",
-        "qa/reining/what-should-a-rider-learn-before-showing-in-reining/index.html",
-        "qa/reining/what-should-i-expect-at-my-first-reining-lesson/index.html",
         "qa/reining/why-is-the-center-of-the-arena-so-important-in-reining/index.html",
         "qa/western-horsemanship/how-do-i-memorize-and-ride-a-western-horsemanship-pattern-correctly-under-pressu/index.html"
       ]
@@ -813,7 +762,6 @@
         "qa/collection/index.html",
         "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
-        "qa/reining/how-much-collection-does-a-reining-horse-need/index.html",
         "qa/starting-young-horses/how-do-you-develop-collection-in-a-young-horse-without-forcing-it/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-in-self-carriage/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-topline-and-why-is-it-important-to-training-progress/index.html",
@@ -853,19 +801,7 @@
       "reference_count": 15,
       "pages": [
         "qa/competition/index.html",
-        "qa/reining/what-are-common-beginner-penalties-in-reining/index.html",
-        "qa/reining/what-are-common-spin-penalties-in-a-reining-competition/index.html",
-        "qa/reining/what-class-should-a-beginner-enter-first-in-reining-competition/index.html",
-        "qa/reining/what-happens-if-i-miss-a-lead-change-in-reining/index.html",
-        "qa/reining/what-happens-if-my-horse-breaks-gait-in-a-reining-pattern/index.html",
-        "qa/reining/what-is-a-70-in-reining/index.html",
-        "qa/reining/what-is-a-minus-maneuver-in-reining/index.html",
         "qa/reining/what-is-a-rookie-reining-class/index.html",
-        "qa/reining/what-is-a-zero-maneuver-in-reining/index.html",
-        "qa/reining/what-makes-a-good-backup-in-reining/index.html",
-        "qa/reining/what-should-i-learn-from-my-reining-score/index.html",
-        "qa/reining/when-is-a-beginner-ready-to-show-in-reining/index.html",
-        "qa/reining/why-is-pattern-accuracy-important-in-reining/index.html",
         "reining/nrha-competition-guide/index.html"
       ]
     },
@@ -896,18 +832,7 @@
       ],
       "reference_count": 15,
       "pages": [
-        "qa/reining/how-do-i-school-a-reining-pattern-without-making-my-horse-anticipate/index.html",
-        "qa/reining/how-do-you-develop-the-rundown-and-introduce-speed-before-asking-for-the-sliding/index.html",
-        "qa/reining/how-do-you-warm-up-a-reining-horse-at-a-show/index.html",
-        "qa/reining/how-fast-should-a-young-reining-horse-run-into-the-stop/index.html",
-        "qa/reining/how-many-times-should-you-run-a-full-reining-pattern-in-practice/index.html",
-        "qa/reining/how-much-practice-does-a-non-pro-need-between-reining-lessons/index.html",
         "qa/reining/index.html",
-        "qa/reining/what-makes-a-good-sliding-stop/index.html",
-        "qa/reining/what-should-i-work-on-between-reining-lessons/index.html",
-        "qa/reining/why-do-horses-tend-to-try-and-change-leads-in-a-rundown/index.html",
-        "qa/reining/why-does-a-reining-horse-anticipate-the-pattern/index.html",
-        "qa/reining/why-does-my-reining-horse-turn-before-i-ask/index.html",
         "qa/working-cow-horse/what-should-i-work-on-between-working-cow-horse-lessons/index.html",
         "qa/working-cow-horse/why-does-my-horse-anticipate-the-cattle-work/index.html",
         "reining/teaching-the-sliding-stop/index.html"
@@ -946,10 +871,6 @@
         "qa/horsemanship/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
         "qa/lead-changes/what-is-the-riders-position-and-body-aid-for-asking-a-flying-lead-change/index.html",
         "qa/neck-reining/how-does-body-position-and-weight-aid-the-neck-reining-horse/index.html",
-        "qa/reining/how-do-i-sit-a-reining-stop/index.html",
-        "qa/reining/what-does-it-mean-to-ride-from-your-seat-in-reining/index.html",
-        "qa/reining/why-do-i-feel-behind-my-horse-in-fast-circles/index.html",
-        "qa/reining/why-do-reining-trainers-tend-to-ride-too-far-forward/index.html",
         "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
         "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
         "qa/training-principles/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
@@ -989,18 +910,6 @@
       "reference_count": 14,
       "pages": [
         "qa/competition/index.html",
-        "qa/reining/how-do-i-handle-nerves-before-a-reining-class/index.html",
-        "qa/reining/is-speed-always-rewarded-in-reining/index.html",
-        "qa/reining/should-a-beginner-ride-a-finished-reining-horse/index.html",
-        "qa/reining/what-do-reining-judges-reward/index.html",
-        "qa/reining/what-is-a-plus-half-maneuver-in-reining/index.html",
-        "qa/reining/what-is-the-difference-between-an-open-reining-horse-and-a-non-pro-horse/index.html",
-        "qa/reining/what-makes-a-reining-horse-good-for-a-non-pro/index.html",
-        "qa/reining/what-makes-a-reining-horse-too-advanced-for-a-beginner/index.html",
-        "qa/reining/what-makes-a-reining-horse-valuable/index.html",
-        "qa/reining/what-should-a-reining-horse-know-before-its-first-show/index.html",
-        "qa/reining/what-should-you-look-for-when-buying-a-reining-horse/index.html",
-        "qa/reining/with-judges-watching-hundreds-of-horses-a-day-what-does-it-take-to-draw-their-at/index.html",
         "reining/nrha-competition-guide/index.html"
       ]
     },
@@ -1072,18 +981,10 @@
       "reference_count": 13,
       "pages": [
         "qa/reining/can-an-older-reining-horse-be-a-good-teacher/index.html",
-        "qa/reining/can-youth-riders-learn-reining-safely/index.html",
-        "qa/reining/how-do-you-know-if-a-reining-horse-fits-the-rider/index.html",
         "qa/reining/is-an-older-reining-horse-a-good-teacher/index.html",
-        "qa/reining/is-it-better-to-lease-a-reining-horse-before-buying/index.html",
-        "qa/reining/should-a-beginner-buy-a-finished-reining-horse-or-a-prospect/index.html",
         "qa/reining/what-are-the-main-reining-maneuvers/index.html",
         "qa/reining/what-is-a-schoolmaster-reining-horse/index.html",
-        "qa/reining/what-is-reining-for-beginners/index.html",
-        "qa/reining/what-is-the-difference-between-a-reining-prospect-and-a-finished-reining-horse/index.html",
-        "qa/reining/what-kind-of-reining-horse-is-best-for-a-youth-rider/index.html",
-        "qa/reining/what-makes-reining-different-from-regular-western-riding/index.html",
-        "qa/reining/why-has-exhibiting-their-horse-so-low-headed-it-does-not-look-natural-for-reiner/index.html"
+        "qa/reining/what-makes-reining-different-from-regular-western-riding/index.html"
       ]
     },
     {
@@ -1114,16 +1015,7 @@
       "reference_count": 12,
       "pages": [
         "qa/competition/index.html",
-        "qa/reining/how-do-i-read-my-reining-score-sheet/index.html",
-        "qa/reining/how-fast-should-a-reining-horse-back-up-in-the-show-pen/index.html",
-        "qa/reining/what-does-a-beginner-need-to-know-about-reining-scores/index.html",
-        "qa/reining/what-happens-if-i-go-off-pattern-in-reining/index.html",
         "qa/reining/what-is-a-green-reining-rider-class/index.html",
-        "qa/reining/what-is-a-minus-half-maneuver-in-reining/index.html",
-        "qa/reining/what-is-under-spinning-in-reining/index.html",
-        "qa/reining/what-maneuvers-are-evaluated-in-ranch-reining-and-how-are-they-scored/index.html",
-        "qa/reining/what-mistakes-hurt-a-reining-score-the-most/index.html",
-        "qa/reining/when-is-a-reining-horse-ready-to-show/index.html",
         "reining/nrha-competition-guide/index.html"
       ]
     },
@@ -1189,10 +1081,8 @@
       "reference_count": 11,
       "pages": [
         "qa/ranch-riding/index.html",
-        "qa/reining/can-any-horse-learn-reining/index.html",
         "qa/reining/what-are-the-most-important-qualities-in-a-reining-horse/index.html",
         "qa/reining/what-does-a-good-reining-horse-need-to-know/index.html",
-        "qa/reining/what-does-broke-enough-to-rein-really-mean/index.html",
         "qa/versatility-ranch-horse/how-do-you-develop-the-reining-maneuvers-required-for-versatility-ranch-horse/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-cow-horse/what-body-control-does-a-cow-horse-need-before-seeing-cattle/index.html",
@@ -1224,8 +1114,6 @@
       "pages": [
         "qa/driving/how-is-the-transition-from-longeing-to-ground-driving-best-done-starting-on-a-ci/index.html",
         "qa/reining/how-do-you-keep-a-reining-horse-honest/index.html",
-        "qa/reining/why-does-my-reining-horse-get-dull/index.html",
-        "qa/reining/why-does-my-reining-horse-overreact-to-my-leg/index.html",
         "qa/training-principles/how-do-you-develop-a-correct-circle-and-why-is-circle-work-foundational-to-train/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-correctly-on-a-circle-at-all-three-g/index.html",
         "qa/training-principles/index.html"
@@ -1261,7 +1149,6 @@
         "qa/obstacle-training/how-do-you-teach-a-horse-to-back-through-an-l-shape/index.html",
         "qa/obstacle-training/how-do-you-teach-a-horse-to-back-through-obstacles/index.html",
         "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html",
-        "qa/reining/why-does-my-horse-back-crooked/index.html",
         "qa/trail/how-do-i-train-a-horse-for-the-back-through-straight-chute-obstacle/index.html",
         "qa/trail/how-do-i-train-a-horse-to-back-through-an-l-shaped-obstacle-or-chute/index.html",
         "qa/training-principles/how-do-you-develop-a-correct-and-consistent-backup-from-both-the-ground-and-the/index.html",
@@ -1298,7 +1185,6 @@
         "qa/gaits/index.html",
         "qa/horsemanship/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
         "qa/natural-horsemanship/what-does-a-good-first-ride-look-like-in-natural-horsemanship/index.html",
-        "qa/reining/how-do-i-know-if-i-had-a-good-first-reining-ride/index.html",
         "qa/starting-young-horses/what-happens-in-the-days-and-weeks-after-the-first-ride-and-how-do-you-build-on/index.html",
         "qa/starting-young-horses/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
         "qa/starting-young-horses/what-should-the-first-rides-on-a-young-horse-look-like/index.html",
@@ -1333,16 +1219,6 @@
       ],
       "reference_count": 11,
       "pages": [
-        "qa/reining/how-do-i-keep-from-over-riding-in-the-reining-show-pen/index.html",
-        "qa/reining/how-do-i-know-where-to-change-leads-in-a-reining-pattern/index.html",
-        "qa/reining/how-do-i-know-where-to-place-my-circles-in-a-reining-pattern/index.html",
-        "qa/reining/how-do-i-know-where-to-stop-in-a-reining-pattern/index.html",
-        "qa/reining/how-do-you-prepare-a-reining-horse-for-its-first-show/index.html",
-        "qa/reining/how-long-before-a-non-pro-is-ready-to-show-in-reining/index.html",
-        "qa/reining/what-does-pattern-placement-mean-in-reining/index.html",
-        "qa/reining/what-is-more-important-in-reining-avoiding-penalties-or-chasing-plus-maneuvers/index.html",
-        "qa/reining/what-should-i-do-if-my-horse-makes-a-mistake-in-the-reining-pattern/index.html",
-        "qa/reining/what-should-my-goal-be-at-my-first-reining-show/index.html",
         "reining/teaching-the-sliding-stop/index.html"
       ]
     },
@@ -1370,7 +1246,6 @@
       ],
       "reference_count": 10,
       "pages": [
-        "qa/reining/how-do-i-train-a-horse-to-back-up-correctly-in-a-reining-pattern/index.html",
         "qa/team-roping/how-do-i-train-a-rope-horse-to-have-a-reliable-stop/index.html",
         "qa/team-roping/what-kind-of-stop-does-a-rope-horse-need/index.html",
         "qa/working-cow-horse/how-do-i-develop-a-deep-correct-stop-in-my-cow-horse-that-holds-up-under-the-pre/index.html",
@@ -1438,7 +1313,6 @@
         "problem-horse/no-whoa-runaway-horse/index.html",
         "qa/mounting-dismounting/how-does-anderson-teach-the-one-rein-stop-as-it-applies-to-the-moment-of-mountin/index.html",
         "qa/natural-horsemanship/how-do-you-develop-the-first-stop-on-a-colt/index.html",
-        "qa/reining/what-are-the-foundations-required-before-teaching-a-horse-the-sliding-stop/index.html",
         "qa/reining/what-is-the-safest-way-to-start-reining/index.html",
         "qa/safety/index.html",
         "qa/training-principles/what-do-you-do-when-a-horse-wont-stop/index.html",
@@ -1551,10 +1425,7 @@
       ],
       "reference_count": 8,
       "pages": [
-        "qa/reining/how-do-i-learn-to-turn-around-in-reining-without-making-the-horse-dizzy/index.html",
         "qa/reining/index.html",
-        "qa/reining/what-is-the-difference-between-a-spin-and-just-turning-in-circles/index.html",
-        "qa/reining/why-does-my-horse-walk-forward-in-the-spin/index.html",
         "qa/working-cow-horse/how-does-the-spin-apply-to-cow-horse-work/index.html",
         "reining/spinning-fundamentals/index.html",
         "reining/spins-and-rollbacks/index.html",
@@ -1669,10 +1540,6 @@
       "reference_count": 7,
       "pages": [
         "qa/lead-changes/how-do-i-train-circles-and-lead-changes-for-ranch-reining/index.html",
-        "qa/reining/how-do-i-train-a-rollback-and-what-common-mistakes-should-i-avoid/index.html",
-        "qa/reining/how-do-i-train-spins-and-rollbacks-for-ranch-reining/index.html",
-        "qa/reining/what-are-common-rollback-mistakes-in-reining/index.html",
-        "qa/reining/what-makes-a-good-rollback-in-reining/index.html",
         "reining/rollbacks-step-by-step/index.html",
         "videos/reining/index.html"
       ]
@@ -1696,10 +1563,6 @@
       ],
       "reference_count": 7,
       "pages": [
-        "qa/reining/describe-the-correct-technique-for-a-rollback-from-a-gallop/index.html",
-        "qa/reining/should-a-rollback-be-fast/index.html",
-        "qa/reining/why-does-my-horse-jump-out-of-the-rollback/index.html",
-        "qa/reining/why-is-the-stop-so-important-before-the-rollback/index.html",
         "reining/rollbacks-step-by-step/index.html",
         "reining/spins-and-rollbacks/index.html",
         "videos/reining/index.html"
@@ -1935,7 +1798,6 @@
         "problem-horse/head-tossing-causes-and-fixes/index.html",
         "qa/horse-care/index.html",
         "qa/reining/can-dental-problems-affect-a-reining-horse/index.html",
-        "qa/reining/why-does-my-reining-horse-open-its-mouth/index.html",
         "qa/team-roping/how-can-dental-problems-affect-a-rope-horses-training/index.html"
       ]
     },
@@ -1955,11 +1817,7 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/how-do-i-keep-from-leaning-forward-in-a-reining-stop/index.html",
-        "qa/reining/how-do-you-stop-a-spin-cleanly/index.html",
-        "qa/reining/how-do-you-teach-a-horse-to-stop-straight/index.html",
-        "qa/reining/index.html",
-        "qa/reining/what-are-the-keys-to-a-rundown-and-slide-stop-in-a-reining-pattern/index.html"
+        "qa/reining/index.html"
       ]
     },
     {
@@ -1981,10 +1839,6 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/how-do-sliding-plates-contribute-to-the-sliding-stop-and-what-training-considera/index.html",
-        "qa/reining/how-do-you-ask-for-the-first-sliding-stops-and-what-should-you-look-for/index.html",
-        "qa/reining/what-is-the-easiest-reining-maneuver-for-a-beginner-to-learn/index.html",
-        "qa/reining/why-are-so-many-reiners-not-shoeing-their-horses-front-feet/index.html",
         "reining/teaching-the-sliding-stop/index.html"
       ]
     },
@@ -2005,10 +1859,6 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/how-do-i-develop-correct-large-fast-and-small-slow-circles-in-a-reining-pattern/index.html",
-        "qa/reining/how-do-i-learn-to-slow-down-without-pulling-in-reining/index.html",
-        "qa/reining/how-do-i-transition-from-the-fast-large-circle-to-a-slow-small-circle/index.html",
-        "qa/reining/what-is-the-difference-between-large-fast-circles-and-small-slow-circles-in-rein/index.html",
         "qa/working-cow-horse/how-does-rate-control-prepare-a-cow-horse-for-cattle/index.html"
       ]
     },
@@ -2033,7 +1883,6 @@
         "colt-starting/building-a-forward-horse/index.html",
         "colt-starting/developing-the-stop/index.html",
         "qa/groundwork-longing/index.html",
-        "qa/reining/what-foundation-should-a-young-reining-horse-have-before-learning-maneuvers/index.html",
         "qa/reining/what-should-a-yearling-reining-prospect-learn/index.html"
       ]
     },
@@ -2057,10 +1906,6 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/in-a-rundown-for-a-turnaround-in-reining-how-fast-should-we-gallop/index.html",
-        "qa/reining/what-is-a-good-rundown-in-reining/index.html",
-        "qa/reining/what-makes-a-good-reining-stop/index.html",
-        "qa/reining/why-does-a-reining-horse-stop-crooked/index.html",
         "videos/reining/index.html"
       ]
     },
@@ -2082,8 +1927,6 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/how-do-i-rate-my-horse-galloping-in-a-big-circle/index.html",
-        "qa/reining/why-do-so-many-trainers-lean-in-when-running-big-circles-and-drop-a-shoulder-too/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-western-rail/index.html",
         "reining/reining-circles-large-and-small/index.html"
@@ -2107,8 +1950,6 @@
       ],
       "reference_count": 5,
       "pages": [
-        "qa/reining/why-does-my-horse-drop-its-shoulder-in-circles/index.html",
-        "qa/reining/why-does-my-reining-horse-drop-its-shoulder/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-western-rail/index.html",
         "reining/reining-circles-large-and-small/index.html"
@@ -2176,8 +2017,6 @@
       "reference_count": 4,
       "pages": [
         "qa/counter-canter/index.html",
-        "qa/reining/how-do-you-teach-clean-flying-lead-changes/index.html",
-        "qa/reining/why-does-my-horse-refuse-a-flying-lead-change/index.html",
         "reining/developing-lead-changes/index.html"
       ]
     },
@@ -2220,10 +2059,7 @@
       ],
       "reference_count": 4,
       "pages": [
-        "colt-starting/developing-the-stop/index.html",
-        "qa/reining/how-do-i-correct-a-horse-that-anticipates-the-stop-and-gets-heavy-on-the-forehan/index.html",
-        "qa/reining/how-do-you-stop-a-reining-horse-from-anticipating-the-lead-change/index.html",
-        "qa/reining/why-does-my-reining-horse-anticipate-the-stop/index.html"
+        "colt-starting/developing-the-stop/index.html"
       ]
     },
     {
@@ -2246,9 +2082,7 @@
       "reference_count": 4,
       "pages": [
         "colt-starting/developing-the-stop/index.html",
-        "problem-horse/no-whoa-runaway-horse/index.html",
-        "qa/reining/should-beginners-learn-the-sliding-stop-first-in-reining/index.html",
-        "qa/reining/what-reining-maneuver-should-a-beginner-learn-first/index.html"
+        "problem-horse/no-whoa-runaway-horse/index.html"
       ]
     },
     {
@@ -2340,8 +2174,7 @@
       "pages": [
         "famous-trainers/andrea-fappani.html",
         "qa/lead-changes/index.html",
-        "qa/reining/how-do-you-keep-a-reining-horse-from-anticipating-the-lead-change/index.html",
-        "qa/reining/why-does-my-horse-rush-through-the-lead-change/index.html"
+        "qa/reining/how-do-you-keep-a-reining-horse-from-anticipating-the-lead-change/index.html"
       ]
     },
     {
@@ -2387,9 +2220,6 @@
       ],
       "reference_count": 4,
       "pages": [
-        "qa/reining/how-is-reining-judged/index.html",
-        "qa/reining/what-is-a-rollback-in-reining/index.html",
-        "qa/reining/why-is-it-hard-to-rollback-into-your-own-tracks/index.html",
         "reining/rollbacks-step-by-step/index.html"
       ]
     },
@@ -2656,9 +2486,7 @@
       ],
       "reference_count": 3,
       "pages": [
-        "problem-horse/no-whoa-runaway-horse/index.html",
-        "qa/reining/can-a-beginner-still-score-well-in-reining-without-big-stops/index.html",
-        "qa/reining/how-do-i-train-a-horse-for-ranch-reining-stops-without-developing-the-extreme-sl/index.html"
+        "problem-horse/no-whoa-runaway-horse/index.html"
       ]
     },
     {
@@ -2807,8 +2635,6 @@
       ],
       "reference_count": 3,
       "pages": [
-        "qa/reining/how-do-you-keep-a-horse-from-anticipating-the-stop/index.html",
-        "qa/reining/should-a-reining-horse-stop-from-the-riders-seat-or-reins/index.html",
         "qa/working-cow-horse/why-does-a-cow-horse-need-a-strong-reining-foundation/index.html"
       ]
     },
@@ -2917,11 +2743,7 @@
         "qa"
       ],
       "reference_count": 3,
-      "pages": [
-        "qa/reining/how-do-you-make-a-reining-spin-faster/index.html",
-        "qa/reining/what-is-the-correct-way-to-train-a-spin-and-how-do-i-build-speed-without-losing/index.html",
-        "qa/reining/what-is-the-hardest-reining-maneuver-for-beginners-to-learn/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "fIKx0VZGM00",
@@ -2941,7 +2763,6 @@
       "reference_count": 3,
       "pages": [
         "qa/lead-changes/index.html",
-        "qa/reining/what-makes-a-good-reining-lead-change/index.html",
         "videos/reining/index.html"
       ]
     },
@@ -2963,7 +2784,6 @@
       "reference_count": 3,
       "pages": [
         "qa/counter-canter/index.html",
-        "qa/reining/when-is-a-horse-ready-to-learn-flying-lead-changes/index.html",
         "reining/developing-lead-changes/index.html"
       ]
     },
@@ -3135,9 +2955,7 @@
       ],
       "reference_count": 3,
       "pages": [
-        "qa/lead-changes/index.html",
-        "qa/reining/should-a-reining-horse-change-leads-in-the-center-of-the-arena/index.html",
-        "qa/reining/why-does-my-horse-change-leads-before-the-center-in-reining/index.html"
+        "qa/lead-changes/index.html"
       ]
     },
     {
@@ -3156,8 +2974,6 @@
       ],
       "reference_count": 3,
       "pages": [
-        "qa/reining/what-does-a-planted-pivot-foot-mean-in-reining/index.html",
-        "qa/reining/what-makes-a-good-reining-spin/index.html",
         "reining/spinning-fundamentals/index.html"
       ]
     },
@@ -3246,7 +3062,6 @@
       "reference_count": 3,
       "pages": [
         "qa/counter-canter/index.html",
-        "qa/reining/how-do-beginners-learn-flying-lead-changes-in-reining/index.html",
         "reining/developing-lead-changes/index.html"
       ]
     },
@@ -4240,7 +4055,6 @@
       ],
       "reference_count": 2,
       "pages": [
-        "qa/reining/why-do-reining-horses-start-to-kick-out-when-changing-leads-and-what-can-be-done/index.html",
         "videos/reining/index.html"
       ]
     },
@@ -4602,7 +4416,6 @@
       ],
       "reference_count": 2,
       "pages": [
-        "qa/reining/should-beginners-learn-spins-first-in-reining/index.html",
         "reining/spinning-fundamentals/index.html"
       ]
     },
@@ -4803,8 +4616,7 @@
       ],
       "reference_count": 2,
       "pages": [
-        "qa/reining/can-too-much-spin-practice-sour-a-reining-horse/index.html",
-        "qa/reining/what-is-over-spinning-in-reining/index.html"
+        "qa/reining/can-too-much-spin-practice-sour-a-reining-horse/index.html"
       ]
     },
     {
@@ -5108,8 +4920,7 @@
       ],
       "reference_count": 2,
       "pages": [
-        "groundwork/backing-on-the-ground/index.html",
-        "qa/reining/how-do-you-improve-a-reining-horses-backup/index.html"
+        "groundwork/backing-on-the-ground/index.html"
       ]
     },
     {
@@ -5127,10 +4938,7 @@
         "qa"
       ],
       "reference_count": 2,
-      "pages": [
-        "qa/reining/how-do-you-teach-a-horse-to-rollback-correctly/index.html",
-        "qa/reining/why-does-my-horse-get-stuck-in-the-rollback/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "v-6d1rVWFv0",
@@ -5227,10 +5035,7 @@
         "qa"
       ],
       "reference_count": 2,
-      "pages": [
-        "qa/reining/how-do-i-learn-to-lope-a-correct-circle-in-reining/index.html",
-        "qa/reining/why-does-my-horse-make-egg-shaped-circles/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "SfvFeJajdJc",
@@ -5286,10 +5091,7 @@
         "qa"
       ],
       "reference_count": 2,
-      "pages": [
-        "qa/reining/how-do-you-keep-a-horse-from-anticipating-rollbacks/index.html",
-        "qa/reining/why-do-people-tend-to-rush-the-rollback/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "lI8zEc-Ph_8",
@@ -7830,9 +7632,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/why-does-my-reining-horse-lose-forward-motion/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "MeAObERWXhY",
@@ -8460,9 +8260,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/why-does-my-horse-lose-rhythm-in-the-spin/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "qFyehxFnXqs",
@@ -9486,9 +9284,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/does-a-reining-horse-need-a-huge-sliding-stop/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "ipxZcbXCn6A",
@@ -10710,9 +10506,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/what-do-judges-want-to-see-from-beginner-reining-riders/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "ja3QdD6uWys",
@@ -11268,9 +11062,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/what-is-a-counter-canter-and-why-does-it-help-lead-changes-in-reining/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "jdCmUAcvGWo",
@@ -11664,9 +11456,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/why-does-my-reining-horse-ignore-my-leg/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "WbXAfXPIyzs",
@@ -11808,9 +11598,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/what-does-cadence-mean-in-reining-circles/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "mJG7uHIxkG8",
@@ -12600,9 +12388,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/why-does-my-horse-back-up-in-the-spin/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "mXKDIVEVMrQ",
@@ -12690,9 +12476,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/reining/why-does-my-horse-brace-when-backing-up/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "Ypapr59cE88",
@@ -14307,6 +14091,2006 @@
       "thumbnail": "https://i.ytimg.com/vi/EX_kJpNS1C8/hqdefault.jpg",
       "site_titles": [
         "Trevor Brazile Works on a Head Horse's Facing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WYkGRna8qh4",
+      "youtube_title": "LEARN TO RIDE A REINER Ep.01",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=WYkGRna8qh4",
+      "embed_url": "https://www.youtube.com/embed/WYkGRna8qh4",
+      "thumbnail": "https://i.ytimg.com/vi/WYkGRna8qh4/hqdefault.jpg",
+      "site_titles": [
+        "LEARN TO RIDE A REINER Ep.01"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "J9ga96RQPgQ",
+      "youtube_title": "Reining Basics & Using Reining Horses to Teach",
+      "channel": "CHA Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=J9ga96RQPgQ",
+      "embed_url": "https://www.youtube.com/embed/J9ga96RQPgQ",
+      "thumbnail": "https://i.ytimg.com/vi/J9ga96RQPgQ/hqdefault.jpg",
+      "site_titles": [
+        "Reining Basics & Using Reining Horses to Teach"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xMHqq9IDxT0",
+      "youtube_title": "Tips to improve your Reined Work Score narrated by Sandy Collier",
+      "channel": "Marleen Dierkes",
+      "youtube_url": "https://www.youtube.com/watch?v=xMHqq9IDxT0",
+      "embed_url": "https://www.youtube.com/embed/xMHqq9IDxT0",
+      "thumbnail": "https://i.ytimg.com/vi/xMHqq9IDxT0/hqdefault.jpg",
+      "site_titles": [
+        "Tips to improve your Reined Work Score narrated by Sandy Collier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5AC0aeR4B10",
+      "youtube_title": "THAT FIRST TIME ON A REINING HORSE",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=5AC0aeR4B10",
+      "embed_url": "https://www.youtube.com/embed/5AC0aeR4B10",
+      "thumbnail": "https://i.ytimg.com/vi/5AC0aeR4B10/hqdefault.jpg",
+      "site_titles": [
+        "THAT FIRST TIME ON A REINING HORSE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PlpbMd_FjQU",
+      "youtube_title": "TRAINING YOUR HORSE FOR A ROLLBACK",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=PlpbMd_FjQU",
+      "embed_url": "https://www.youtube.com/embed/PlpbMd_FjQU",
+      "thumbnail": "https://i.ytimg.com/vi/PlpbMd_FjQU/hqdefault.jpg",
+      "site_titles": [
+        "TRAINING YOUR HORSE FOR A ROLLBACK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ts-CJBUcf2E",
+      "youtube_title": "Tim McQuay – Best Advice for Beginning Reiners",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=ts-CJBUcf2E",
+      "embed_url": "https://www.youtube.com/embed/ts-CJBUcf2E",
+      "thumbnail": "https://i.ytimg.com/vi/ts-CJBUcf2E/hqdefault.jpg",
+      "site_titles": [
+        "Tim McQuay – Best Advice for Beginning Reiners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R7-IIU2C99E",
+      "youtube_title": "Tim McQuay – Positives and Negatives in Reining",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=R7-IIU2C99E",
+      "embed_url": "https://www.youtube.com/embed/R7-IIU2C99E",
+      "thumbnail": "https://i.ytimg.com/vi/R7-IIU2C99E/hqdefault.jpg",
+      "site_titles": [
+        "Tim McQuay – Positives and Negatives in Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VMzJTTTejFU",
+      "youtube_title": "Making a Handy Horse:  The Beginning of a Rollback (Episode 109) - Herm Gailey",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=VMzJTTTejFU",
+      "embed_url": "https://www.youtube.com/embed/VMzJTTTejFU",
+      "thumbnail": "https://i.ytimg.com/vi/VMzJTTTejFU/hqdefault.jpg",
+      "site_titles": [
+        "Making a Handy Horse: The Beginning of a Rollback (Episode 109) - Herm Gailey"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2hJKP_n5NGQ",
+      "youtube_title": "Pete Kyle – Advice for Beginning Reiners",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=2hJKP_n5NGQ",
+      "embed_url": "https://www.youtube.com/embed/2hJKP_n5NGQ",
+      "thumbnail": "https://i.ytimg.com/vi/2hJKP_n5NGQ/hqdefault.jpg",
+      "site_titles": [
+        "Pete Kyle – Advice for Beginning Reiners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HrQgGUPYa5U",
+      "youtube_title": "HOW TO TEACH YOUR HORSE TO CONNECT IN A SLIDING STOP",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=HrQgGUPYa5U",
+      "embed_url": "https://www.youtube.com/embed/HrQgGUPYa5U",
+      "thumbnail": "https://i.ytimg.com/vi/HrQgGUPYa5U/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO TEACH YOUR HORSE TO CONNECT IN A SLIDING STOP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Th22MqRMnmE",
+      "youtube_title": "How to Train LEAD CHANGES - My favorite approach",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=Th22MqRMnmE",
+      "embed_url": "https://www.youtube.com/embed/Th22MqRMnmE",
+      "thumbnail": "https://i.ytimg.com/vi/Th22MqRMnmE/hqdefault.jpg",
+      "site_titles": [
+        "How to Train LEAD CHANGES - My favorite approach"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FLTuN5b126c",
+      "youtube_title": "Transitioning From A Large Fast To Small Slow Circle",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=FLTuN5b126c",
+      "embed_url": "https://www.youtube.com/embed/FLTuN5b126c",
+      "thumbnail": "https://i.ytimg.com/vi/FLTuN5b126c/hqdefault.jpg",
+      "site_titles": [
+        "Transitioning From A Large Fast To Small Slow Circle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Og_lzX0yff0",
+      "youtube_title": "HOW TO RUN YOUR HORSES IN A LARGE FAST CIRCLE",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=Og_lzX0yff0",
+      "embed_url": "https://www.youtube.com/embed/Og_lzX0yff0",
+      "thumbnail": "https://i.ytimg.com/vi/Og_lzX0yff0/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO RUN YOUR HORSES IN A LARGE FAST CIRCLE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Bk6Z-bIBu2U",
+      "youtube_title": "What to expect if you buy a reining horse",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Bk6Z-bIBu2U",
+      "embed_url": "https://www.youtube.com/embed/Bk6Z-bIBu2U",
+      "thumbnail": "https://i.ytimg.com/vi/Bk6Z-bIBu2U/hqdefault.jpg",
+      "site_titles": [
+        "What to expect if you buy a reining horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-vXWSewDPx0",
+      "youtube_title": "HOW TO PREPARE FOR NRHA PATTERN #1",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=-vXWSewDPx0",
+      "embed_url": "https://www.youtube.com/embed/-vXWSewDPx0",
+      "thumbnail": "https://i.ytimg.com/vi/-vXWSewDPx0/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO PREPARE FOR NRHA PATTERN"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WWmhUEE_Y30",
+      "youtube_title": "TRAINING TIPS 15: Learn How to Run Down Straight.",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=WWmhUEE_Y30",
+      "embed_url": "https://www.youtube.com/embed/WWmhUEE_Y30",
+      "thumbnail": "https://i.ytimg.com/vi/WWmhUEE_Y30/hqdefault.jpg",
+      "site_titles": [
+        "TRAINING TIPS 15: Learn How to Run Down Straight."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "238Gl1baEm8",
+      "youtube_title": "Circling Your Horse - Tom McCutcheon",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=238Gl1baEm8",
+      "embed_url": "https://www.youtube.com/embed/238Gl1baEm8",
+      "thumbnail": "https://i.ytimg.com/vi/238Gl1baEm8/hqdefault.jpg",
+      "site_titles": [
+        "Circling Your Horse - Tom McCutcheon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X7U3YodEPFQ",
+      "youtube_title": "Tips for showing a reining horse - how to prep your horse for the BEST experience",
+      "channel": "Luca Fappani Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=X7U3YodEPFQ",
+      "embed_url": "https://www.youtube.com/embed/X7U3YodEPFQ",
+      "thumbnail": "https://i.ytimg.com/vi/X7U3YodEPFQ/hqdefault.jpg",
+      "site_titles": [
+        "Tips for showing a reining horse - how to prep your horse for the BEST experience"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "arxMxcsMtag",
+      "youtube_title": "How to Use Leg Cues on Your Horse Part 1",
+      "channel": "SBH Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=arxMxcsMtag",
+      "embed_url": "https://www.youtube.com/embed/arxMxcsMtag",
+      "thumbnail": "https://i.ytimg.com/vi/arxMxcsMtag/hqdefault.jpg",
+      "site_titles": [
+        "How to Use Leg Cues on Your Horse Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "34mAk8dj8nA",
+      "youtube_title": "WHAT TO DO WHEN YOU HORSE IS LEANING TO THE STOP",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=34mAk8dj8nA",
+      "embed_url": "https://www.youtube.com/embed/34mAk8dj8nA",
+      "thumbnail": "https://i.ytimg.com/vi/34mAk8dj8nA/hqdefault.jpg",
+      "site_titles": [
+        "WHAT TO DO WHEN YOU HORSE IS LEANING TO THE STOP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "h9rEbs-yhFQ",
+      "youtube_title": "Horse Riding with Confidence: Essential Skills for Understanding Leg Pressure!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=h9rEbs-yhFQ",
+      "embed_url": "https://www.youtube.com/embed/h9rEbs-yhFQ",
+      "thumbnail": "https://i.ytimg.com/vi/h9rEbs-yhFQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding with Confidence: Essential Skills for Understanding Leg Pressure!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q0Ml2bQiSOY",
+      "youtube_title": "Keeping my horse focused on me - Reining with Luca Fappani",
+      "channel": "Luca Fappani Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=q0Ml2bQiSOY",
+      "embed_url": "https://www.youtube.com/embed/q0Ml2bQiSOY",
+      "thumbnail": "https://i.ytimg.com/vi/q0Ml2bQiSOY/hqdefault.jpg",
+      "site_titles": [
+        "Keeping my horse focused on me - Reining with Luca Fappani"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n2ZlmKCLSZw",
+      "youtube_title": "THE PROPER WAY TO HOLD YOUR REINS",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=n2ZlmKCLSZw",
+      "embed_url": "https://www.youtube.com/embed/n2ZlmKCLSZw",
+      "thumbnail": "https://i.ytimg.com/vi/n2ZlmKCLSZw/hqdefault.jpg",
+      "site_titles": [
+        "THE PROPER WAY TO HOLD YOUR REINS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7qnF0Om7Wjg",
+      "youtube_title": "Three tips to improve your reining",
+      "channel": "Stock Horse of Texas Association",
+      "youtube_url": "https://www.youtube.com/watch?v=7qnF0Om7Wjg",
+      "embed_url": "https://www.youtube.com/embed/7qnF0Om7Wjg",
+      "thumbnail": "https://i.ytimg.com/vi/7qnF0Om7Wjg/hqdefault.jpg",
+      "site_titles": [
+        "Three tips to improve your reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FGlCUQ8h01U",
+      "youtube_title": "Selecting the Right Reining Trainer - Q&A",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=FGlCUQ8h01U",
+      "embed_url": "https://www.youtube.com/embed/FGlCUQ8h01U",
+      "thumbnail": "https://i.ytimg.com/vi/FGlCUQ8h01U/hqdefault.jpg",
+      "site_titles": [
+        "Selecting the Right Reining Trainer - Q&A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fyfNnGFm-mo",
+      "youtube_title": "SNEAK PEAK – My \"Pre-Lead Change\" Drill for training 2yos",
+      "channel": "Luca Fappani Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=fyfNnGFm-mo",
+      "embed_url": "https://www.youtube.com/embed/fyfNnGFm-mo",
+      "thumbnail": "https://i.ytimg.com/vi/fyfNnGFm-mo/hqdefault.jpg",
+      "site_titles": [
+        "SNEAK PEAK – My \"Pre-Lead Change\" Drill for training 2yos"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dMnojVokYok",
+      "youtube_title": "INCREASE SPEED IN YOUR FAST CIRCLES THE RIGHT WAY",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=dMnojVokYok",
+      "embed_url": "https://www.youtube.com/embed/dMnojVokYok",
+      "thumbnail": "https://i.ytimg.com/vi/dMnojVokYok/hqdefault.jpg",
+      "site_titles": [
+        "INCREASE SPEED IN YOUR FAST CIRCLES THE RIGHT WAY"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jTZZFKIMDFg",
+      "youtube_title": "Training the sliding stop",
+      "channel": "Todd Martin Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=jTZZFKIMDFg",
+      "embed_url": "https://www.youtube.com/embed/jTZZFKIMDFg",
+      "thumbnail": "https://i.ytimg.com/vi/jTZZFKIMDFg/hqdefault.jpg",
+      "site_titles": [
+        "Training the sliding stop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ifMwvarZH3Q",
+      "youtube_title": "Setting Up Your Reining Pattern",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=ifMwvarZH3Q",
+      "embed_url": "https://www.youtube.com/embed/ifMwvarZH3Q",
+      "thumbnail": "https://i.ytimg.com/vi/ifMwvarZH3Q/hqdefault.jpg",
+      "site_titles": [
+        "Setting Up Your Reining Pattern"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eCp775NalHo",
+      "youtube_title": "HOW TO TEACH A REINING HORSE TO CIRCLE",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=eCp775NalHo",
+      "embed_url": "https://www.youtube.com/embed/eCp775NalHo",
+      "thumbnail": "https://i.ytimg.com/vi/eCp775NalHo/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO TEACH A REINING HORSE TO CIRCLE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b_W3ZMxmqdg",
+      "youtube_title": "The Secret to Holding the Reins Like a Pro 🤫🏆",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=b_W3ZMxmqdg",
+      "embed_url": "https://www.youtube.com/embed/b_W3ZMxmqdg",
+      "thumbnail": "https://i.ytimg.com/vi/b_W3ZMxmqdg/hqdefault.jpg",
+      "site_titles": [
+        "The Secret to Holding the Reins Like a Pro 🤫🏆"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3RzEw6-_Uj4",
+      "youtube_title": "Stock Horse of Texas Class Descriptions: Ranch Reining",
+      "channel": "Stock Horse of Texas Association",
+      "youtube_url": "https://www.youtube.com/watch?v=3RzEw6-_Uj4",
+      "embed_url": "https://www.youtube.com/embed/3RzEw6-_Uj4",
+      "thumbnail": "https://i.ytimg.com/vi/3RzEw6-_Uj4/hqdefault.jpg",
+      "site_titles": [
+        "Stock Horse of Texas Class Descriptions: Ranch Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rJWuPfqU8kw",
+      "youtube_title": "Want Matt Mills to Review YOUR Reining Pattern?",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=rJWuPfqU8kw",
+      "embed_url": "https://www.youtube.com/embed/rJWuPfqU8kw",
+      "thumbnail": "https://i.ytimg.com/vi/rJWuPfqU8kw/hqdefault.jpg",
+      "site_titles": [
+        "Want Matt Mills to Review YOUR Reining Pattern?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZSuWCjYFTS8",
+      "youtube_title": "Perfecting Your Circle  - Stage 4:  Speed - Martin Padilla, NRHA Professional Trainer",
+      "channel": "Padilla Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=ZSuWCjYFTS8",
+      "embed_url": "https://www.youtube.com/embed/ZSuWCjYFTS8",
+      "thumbnail": "https://i.ytimg.com/vi/ZSuWCjYFTS8/hqdefault.jpg",
+      "site_titles": [
+        "Perfecting Your Circle - Stage 4: Speed - Martin Padilla, NRHA Professional Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "47gdCYRc81Y",
+      "youtube_title": "HOW JUDGES SCORE REINING #shorts #reining #horses",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=47gdCYRc81Y",
+      "embed_url": "https://www.youtube.com/embed/47gdCYRc81Y",
+      "thumbnail": "https://i.ytimg.com/vi/47gdCYRc81Y/hqdefault.jpg",
+      "site_titles": [
+        "HOW JUDGES SCORE REINING"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TwmhZPCa11w",
+      "youtube_title": "Riding reining pattern # 5",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=TwmhZPCa11w",
+      "embed_url": "https://www.youtube.com/embed/TwmhZPCa11w",
+      "thumbnail": "https://i.ytimg.com/vi/TwmhZPCa11w/hqdefault.jpg",
+      "site_titles": [
+        "Riding reining pattern # 5"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LjrnY-cfhv8",
+      "youtube_title": "Champion Horse Training Tip: Recognize Anticipation",
+      "channel": "HorseTrainingChannel",
+      "youtube_url": "https://www.youtube.com/watch?v=LjrnY-cfhv8",
+      "embed_url": "https://www.youtube.com/embed/LjrnY-cfhv8",
+      "thumbnail": "https://i.ytimg.com/vi/LjrnY-cfhv8/hqdefault.jpg",
+      "site_titles": [
+        "Champion Horse Training Tip: Recognize Anticipation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uYE7XKfbmDg",
+      "youtube_title": "START THE SLIDE STOP #MPHorseTraining #teaching #whoa #horsetraining #tips #horseriding #horsevideo",
+      "channel": "Mankins Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=uYE7XKfbmDg",
+      "embed_url": "https://www.youtube.com/embed/uYE7XKfbmDg",
+      "thumbnail": "https://i.ytimg.com/vi/uYE7XKfbmDg/hqdefault.jpg",
+      "site_titles": [
+        "START THE SLIDE STOP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TdzwNCvnkhk",
+      "youtube_title": "TRAINING TIPS 06: THE BACKUP",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=TdzwNCvnkhk",
+      "embed_url": "https://www.youtube.com/embed/TdzwNCvnkhk",
+      "thumbnail": "https://i.ytimg.com/vi/TdzwNCvnkhk/hqdefault.jpg",
+      "site_titles": [
+        "TRAINING TIPS 06: THE BACKUP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iVReUVJ1Bog",
+      "youtube_title": "KEY Elements to Training the Rollback",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=iVReUVJ1Bog",
+      "embed_url": "https://www.youtube.com/embed/iVReUVJ1Bog",
+      "thumbnail": "https://i.ytimg.com/vi/iVReUVJ1Bog/hqdefault.jpg",
+      "site_titles": [
+        "KEY Elements to Training the Rollback"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1Esd7sS_0Vw",
+      "youtube_title": "Everything you need for Flying Leads Changes",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=1Esd7sS_0Vw",
+      "embed_url": "https://www.youtube.com/embed/1Esd7sS_0Vw",
+      "thumbnail": "https://i.ytimg.com/vi/1Esd7sS_0Vw/hqdefault.jpg",
+      "site_titles": [
+        "Everything you need for Flying Leads Changes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rFOPeBvzGvQ",
+      "youtube_title": "Gabriel Diano - Rollbacks",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=rFOPeBvzGvQ",
+      "embed_url": "https://www.youtube.com/embed/rFOPeBvzGvQ",
+      "thumbnail": "https://i.ytimg.com/vi/rFOPeBvzGvQ/hqdefault.jpg",
+      "site_titles": [
+        "Gabriel Diano - Rollbacks"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "idq0FEeD4BU",
+      "youtube_title": "Perfecting Your Circles!  Body Control - Stage 3. Part 2 of 2.",
+      "channel": "Padilla Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=idq0FEeD4BU",
+      "embed_url": "https://www.youtube.com/embed/idq0FEeD4BU",
+      "thumbnail": "https://i.ytimg.com/vi/idq0FEeD4BU/hqdefault.jpg",
+      "site_titles": [
+        "Perfecting Your Circles! Body Control - Stage 3. Part 2 of 2."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wrIDWUko7k8",
+      "youtube_title": "How different rein pulls and legs cues effect how the horse moves",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=wrIDWUko7k8",
+      "embed_url": "https://www.youtube.com/embed/wrIDWUko7k8",
+      "thumbnail": "https://i.ytimg.com/vi/wrIDWUko7k8/hqdefault.jpg",
+      "site_titles": [
+        "How different rein pulls and legs cues effect how the horse moves"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G2yfnI-uVss",
+      "youtube_title": "How to Warm Up for Your Horse Show - 5 Tips",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=G2yfnI-uVss",
+      "embed_url": "https://www.youtube.com/embed/G2yfnI-uVss",
+      "thumbnail": "https://i.ytimg.com/vi/G2yfnI-uVss/hqdefault.jpg",
+      "site_titles": [
+        "How to Warm Up for Your Horse Show - 5 Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c84lDyF1eHg",
+      "youtube_title": "Farrier Quick Takes (Chad Chance): Use Of Sliding Plates On Reining Horses",
+      "channel": "American Farriers Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=c84lDyF1eHg",
+      "embed_url": "https://www.youtube.com/embed/c84lDyF1eHg",
+      "thumbnail": "https://i.ytimg.com/vi/c84lDyF1eHg/hqdefault.jpg",
+      "site_titles": [
+        "Farrier Quick Takes (Chad Chance): Use Of Sliding Plates On Reining Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XNQeN0C76MI",
+      "youtube_title": "Training Tips for Stopping Your Horse - Reining Horse, Reined Cow Horse, Cutting Horse Stop",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=XNQeN0C76MI",
+      "embed_url": "https://www.youtube.com/embed/XNQeN0C76MI",
+      "thumbnail": "https://i.ytimg.com/vi/XNQeN0C76MI/hqdefault.jpg",
+      "site_titles": [
+        "Training Tips for Stopping Your Horse - Reining Horse, Reined Cow Horse, Cutting Horse Stop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SUoKSTnp1ho",
+      "youtube_title": "Afraid of the Run Down? Here's How to Fix It 🐎💡",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=SUoKSTnp1ho",
+      "embed_url": "https://www.youtube.com/embed/SUoKSTnp1ho",
+      "thumbnail": "https://i.ytimg.com/vi/SUoKSTnp1ho/hqdefault.jpg",
+      "site_titles": [
+        "Afraid of the Run Down? Here's How to Fix It 🐎💡"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_wS-orqRbvg",
+      "youtube_title": "How to Train Your Horse to Stop & Back Up - Reining & Cutting Horse Stop",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=_wS-orqRbvg",
+      "embed_url": "https://www.youtube.com/embed/_wS-orqRbvg",
+      "thumbnail": "https://i.ytimg.com/vi/_wS-orqRbvg/hqdefault.jpg",
+      "site_titles": [
+        "How to Train Your Horse to Stop & Back Up - Reining & Cutting Horse Stop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0zV5xRsAgjk",
+      "youtube_title": "Horse Riding Lessons Correcting Your Horses Anticipation",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=0zV5xRsAgjk",
+      "embed_url": "https://www.youtube.com/embed/0zV5xRsAgjk",
+      "thumbnail": "https://i.ytimg.com/vi/0zV5xRsAgjk/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Lessons Correcting Your Horses Anticipation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "izGeT-HKWjE",
+      "youtube_title": "What to do when your horse anticipates or is anxious about the turnaround or lead change",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=izGeT-HKWjE",
+      "embed_url": "https://www.youtube.com/embed/izGeT-HKWjE",
+      "thumbnail": "https://i.ytimg.com/vi/izGeT-HKWjE/hqdefault.jpg",
+      "site_titles": [
+        "What to do when your horse anticipates or is anxious about the turnaround or lead change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6jyvffGT_ec",
+      "youtube_title": "How To Do A Warm Up for Your Horse Show",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=6jyvffGT_ec",
+      "embed_url": "https://www.youtube.com/embed/6jyvffGT_ec",
+      "thumbnail": "https://i.ytimg.com/vi/6jyvffGT_ec/hqdefault.jpg",
+      "site_titles": [
+        "How To Do A Warm Up for Your Horse Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CIs-ALecios",
+      "youtube_title": "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 6",
+      "channel": "Horse Show Pattern Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=CIs-ALecios",
+      "embed_url": "https://www.youtube.com/embed/CIs-ALecios",
+      "thumbnail": "https://i.ytimg.com/vi/CIs-ALecios/hqdefault.jpg",
+      "site_titles": [
+        "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 6"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gMgR3_Dxc4g",
+      "youtube_title": "Stefano Calcagnini - Teaching the Stop",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=gMgR3_Dxc4g",
+      "embed_url": "https://www.youtube.com/embed/gMgR3_Dxc4g",
+      "thumbnail": "https://i.ytimg.com/vi/gMgR3_Dxc4g/hqdefault.jpg",
+      "site_titles": [
+        "Stefano Calcagnini - Teaching the Stop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "j_3ce598v9s",
+      "youtube_title": "How to Ride a Rollback Turn",
+      "channel": "HorseCity",
+      "youtube_url": "https://www.youtube.com/watch?v=j_3ce598v9s",
+      "embed_url": "https://www.youtube.com/embed/j_3ce598v9s",
+      "thumbnail": "https://i.ytimg.com/vi/j_3ce598v9s/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Rollback Turn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "loqnqIZm-uE",
+      "youtube_title": "Stop Moving Your Hands!!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=loqnqIZm-uE",
+      "embed_url": "https://www.youtube.com/embed/loqnqIZm-uE",
+      "thumbnail": "https://i.ytimg.com/vi/loqnqIZm-uE/hqdefault.jpg",
+      "site_titles": [
+        "Stop Moving Your Hands!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R7iCjHwEU_M",
+      "youtube_title": "4 Ways to Prepare for a Flying Lead Change",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=R7iCjHwEU_M",
+      "embed_url": "https://www.youtube.com/embed/R7iCjHwEU_M",
+      "thumbnail": "https://i.ytimg.com/vi/R7iCjHwEU_M/hqdefault.jpg",
+      "site_titles": [
+        "4 Ways to Prepare for a Flying Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hv-hnMzbM9s",
+      "youtube_title": "Freeing Horses Front-End While Stopping - Pete Kyle",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=hv-hnMzbM9s",
+      "embed_url": "https://www.youtube.com/embed/hv-hnMzbM9s",
+      "thumbnail": "https://i.ytimg.com/vi/hv-hnMzbM9s/hqdefault.jpg",
+      "site_titles": [
+        "Freeing Horses Front-End While Stopping - Pete Kyle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2Yb4oOTfjBU",
+      "youtube_title": "What the judge wants to see - Reining with Jan Boogaerts Part 1",
+      "channel": "equinestream",
+      "youtube_url": "https://www.youtube.com/watch?v=2Yb4oOTfjBU",
+      "embed_url": "https://www.youtube.com/embed/2Yb4oOTfjBU",
+      "thumbnail": "https://i.ytimg.com/vi/2Yb4oOTfjBU/hqdefault.jpg",
+      "site_titles": [
+        "What the judge wants to see - Reining with Jan Boogaerts Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pOI6_F1WZ0M",
+      "youtube_title": "Learning To Show A Reining Horse In 45 MINUTES!",
+      "channel": "Valentina Cowgirl",
+      "youtube_url": "https://www.youtube.com/watch?v=pOI6_F1WZ0M",
+      "embed_url": "https://www.youtube.com/embed/pOI6_F1WZ0M",
+      "thumbnail": "https://i.ytimg.com/vi/pOI6_F1WZ0M/hqdefault.jpg",
+      "site_titles": [
+        "Learning To Show A Reining Horse In 45 MINUTES!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "m96gLwVkmVo",
+      "youtube_title": "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 2",
+      "channel": "Horse Show Pattern Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=m96gLwVkmVo",
+      "embed_url": "https://www.youtube.com/embed/m96gLwVkmVo",
+      "thumbnail": "https://i.ytimg.com/vi/m96gLwVkmVo/hqdefault.jpg",
+      "site_titles": [
+        "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZPDqsZQQumg",
+      "youtube_title": "Getting a Horse Soft in the Face. Live Coaching Session With a 2 Year Old",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=ZPDqsZQQumg",
+      "embed_url": "https://www.youtube.com/embed/ZPDqsZQQumg",
+      "thumbnail": "https://i.ytimg.com/vi/ZPDqsZQQumg/hqdefault.jpg",
+      "site_titles": [
+        "Getting a Horse Soft in the Face. Live Coaching Session With a 2 Year Old"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kyLyjaWMtSA",
+      "youtube_title": "Reining Horses - Buying a Reining Horse",
+      "channel": "Sandra Donovan",
+      "youtube_url": "https://www.youtube.com/watch?v=kyLyjaWMtSA",
+      "embed_url": "https://www.youtube.com/embed/kyLyjaWMtSA",
+      "thumbnail": "https://i.ytimg.com/vi/kyLyjaWMtSA/hqdefault.jpg",
+      "site_titles": [
+        "Reining Horses - Buying a Reining Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T8gk-662z_M",
+      "youtube_title": "How to Keep Your Hands Still When Riding Your Horse - Lendon Gray",
+      "channel": "Ridely",
+      "youtube_url": "https://www.youtube.com/watch?v=T8gk-662z_M",
+      "embed_url": "https://www.youtube.com/embed/T8gk-662z_M",
+      "thumbnail": "https://i.ytimg.com/vi/T8gk-662z_M/hqdefault.jpg",
+      "site_titles": [
+        "How to Keep Your Hands Still When Riding Your Horse - Lendon Gray"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0GYGuIhW_m0",
+      "youtube_title": "Dell Hendricks Teaching A Horse To Circle For Your Rein Work",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=0GYGuIhW_m0",
+      "embed_url": "https://www.youtube.com/embed/0GYGuIhW_m0",
+      "thumbnail": "https://i.ytimg.com/vi/0GYGuIhW_m0/hqdefault.jpg",
+      "site_titles": [
+        "Dell Hendricks Teaching A Horse To Circle For Your Rein Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wshIZr1aYyM",
+      "youtube_title": "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 9",
+      "channel": "Horse Show Pattern Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=wshIZr1aYyM",
+      "embed_url": "https://www.youtube.com/embed/wshIZr1aYyM",
+      "thumbnail": "https://i.ytimg.com/vi/wshIZr1aYyM/hqdefault.jpg",
+      "site_titles": [
+        "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 9"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P3R4E3x11c0",
+      "youtube_title": "TRAINING TIPS 10: FIXING THE RUNDOWN",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=P3R4E3x11c0",
+      "embed_url": "https://www.youtube.com/embed/P3R4E3x11c0",
+      "thumbnail": "https://i.ytimg.com/vi/P3R4E3x11c0/hqdefault.jpg",
+      "site_titles": [
+        "TRAINING TIPS 10: FIXING THE RUNDOWN"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lKNevZ8GwfI",
+      "youtube_title": "What to Look For In A First Reining Horse",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=lKNevZ8GwfI",
+      "embed_url": "https://www.youtube.com/embed/lKNevZ8GwfI",
+      "thumbnail": "https://i.ytimg.com/vi/lKNevZ8GwfI/hqdefault.jpg",
+      "site_titles": [
+        "What to Look For In A First Reining Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TbGIff9uAow",
+      "youtube_title": "What the judge wants to see - Reining with Jan Boogaerts Part 2",
+      "channel": "equinestream",
+      "youtube_url": "https://www.youtube.com/watch?v=TbGIff9uAow",
+      "embed_url": "https://www.youtube.com/embed/TbGIff9uAow",
+      "thumbnail": "https://i.ytimg.com/vi/TbGIff9uAow/hqdefault.jpg",
+      "site_titles": [
+        "What the judge wants to see - Reining with Jan Boogaerts Part 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JXvT_4am9vk",
+      "youtube_title": "What to look for in a reining horse prospect",
+      "channel": "Dell Hendricks",
+      "youtube_url": "https://www.youtube.com/watch?v=JXvT_4am9vk",
+      "embed_url": "https://www.youtube.com/embed/JXvT_4am9vk",
+      "thumbnail": "https://i.ytimg.com/vi/JXvT_4am9vk/hqdefault.jpg",
+      "site_titles": [
+        "What to look for in a reining horse prospect"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QRYtMhjb7A4",
+      "youtube_title": "UNL Horse Judging - Judging Reining",
+      "channel": "Kathy Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=QRYtMhjb7A4",
+      "embed_url": "https://www.youtube.com/embed/QRYtMhjb7A4",
+      "thumbnail": "https://i.ytimg.com/vi/QRYtMhjb7A4/hqdefault.jpg",
+      "site_titles": [
+        "UNL Horse Judging - Judging Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "S4GqM0vhMNo",
+      "youtube_title": "What to Look For in a Reining Horse Prospect",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=S4GqM0vhMNo",
+      "embed_url": "https://www.youtube.com/embed/S4GqM0vhMNo",
+      "thumbnail": "https://i.ytimg.com/vi/S4GqM0vhMNo/hqdefault.jpg",
+      "site_titles": [
+        "What to Look For in a Reining Horse Prospect"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Rp60R2iO9PU",
+      "youtube_title": "What to Look For When Buying a Horse",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=Rp60R2iO9PU",
+      "embed_url": "https://www.youtube.com/embed/Rp60R2iO9PU",
+      "thumbnail": "https://i.ytimg.com/vi/Rp60R2iO9PU/hqdefault.jpg",
+      "site_titles": [
+        "What to Look For When Buying a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-3W-FvabqZ8",
+      "youtube_title": "Flying Lead Change Prep",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=-3W-FvabqZ8",
+      "embed_url": "https://www.youtube.com/embed/-3W-FvabqZ8",
+      "thumbnail": "https://i.ytimg.com/vi/-3W-FvabqZ8/hqdefault.jpg",
+      "site_titles": [
+        "Flying Lead Change Prep"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HXtoS_ZoSbo",
+      "youtube_title": "How To Rollback Into The Correct Lead - Foundation Horse Training For Reining, Cutting, Performance",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=HXtoS_ZoSbo",
+      "embed_url": "https://www.youtube.com/embed/HXtoS_ZoSbo",
+      "thumbnail": "https://i.ytimg.com/vi/HXtoS_ZoSbo/hqdefault.jpg",
+      "site_titles": [
+        "How To Rollback Into The Correct Lead - Foundation Horse Training For Reining, Cutting, Performance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MmzwaEy_S0w",
+      "youtube_title": "Stop Making These Mistakes! FIX Spins & Stops With This SIMPLE Trick",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=MmzwaEy_S0w",
+      "embed_url": "https://www.youtube.com/embed/MmzwaEy_S0w",
+      "thumbnail": "https://i.ytimg.com/vi/MmzwaEy_S0w/hqdefault.jpg",
+      "site_titles": [
+        "Stop Making These Mistakes! FIX Spins & Stops With This SIMPLE Trick"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ny2uOFIZQlQ",
+      "youtube_title": "Reining Horse Sliding Stops",
+      "channel": "HighwindFarm",
+      "youtube_url": "https://www.youtube.com/watch?v=Ny2uOFIZQlQ",
+      "embed_url": "https://www.youtube.com/embed/Ny2uOFIZQlQ",
+      "thumbnail": "https://i.ytimg.com/vi/Ny2uOFIZQlQ/hqdefault.jpg",
+      "site_titles": [
+        "Reining Horse Sliding Stops"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sH2ZJ7O73Ms",
+      "youtube_title": "HORSE SHOPPING RED FLAGS 🚩 (watch before buying)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=sH2ZJ7O73Ms",
+      "embed_url": "https://www.youtube.com/embed/sH2ZJ7O73Ms",
+      "thumbnail": "https://i.ytimg.com/vi/sH2ZJ7O73Ms/hqdefault.jpg",
+      "site_titles": [
+        "HORSE SHOPPING RED FLAGS 🚩 (watch before buying)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OcVCyltQJxE",
+      "youtube_title": "What is a Reining Horse Trainer?",
+      "channel": "Beyond the Farm, Sydney Mitchell",
+      "youtube_url": "https://www.youtube.com/watch?v=OcVCyltQJxE",
+      "embed_url": "https://www.youtube.com/embed/OcVCyltQJxE",
+      "thumbnail": "https://i.ytimg.com/vi/OcVCyltQJxE/hqdefault.jpg",
+      "site_titles": [
+        "What is a Reining Horse Trainer?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n9U6SlCy2dA",
+      "youtube_title": "Our First Reining Show",
+      "channel": "DLB Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=n9U6SlCy2dA",
+      "embed_url": "https://www.youtube.com/embed/n9U6SlCy2dA",
+      "thumbnail": "https://i.ytimg.com/vi/n9U6SlCy2dA/hqdefault.jpg",
+      "site_titles": [
+        "Our First Reining Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-PviUlkgIXE",
+      "youtube_title": "A Judge's Perspective: 2017 AQHA World Senior Reining World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=-PviUlkgIXE",
+      "embed_url": "https://www.youtube.com/embed/-PviUlkgIXE",
+      "thumbnail": "https://i.ytimg.com/vi/-PviUlkgIXE/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2017 AQHA World Senior Reining World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H18fhGd12zI",
+      "youtube_title": "How to Improve your Rollback Scores?",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=H18fhGd12zI",
+      "embed_url": "https://www.youtube.com/embed/H18fhGd12zI",
+      "thumbnail": "https://i.ytimg.com/vi/H18fhGd12zI/hqdefault.jpg",
+      "site_titles": [
+        "How to Improve your Rollback Scores?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mXWKWrYSNyg",
+      "youtube_title": "Pivot Foot While Spinning - Tom McCutcheon",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=mXWKWrYSNyg",
+      "embed_url": "https://www.youtube.com/embed/mXWKWrYSNyg",
+      "thumbnail": "https://i.ytimg.com/vi/mXWKWrYSNyg/hqdefault.jpg",
+      "site_titles": [
+        "Pivot Foot While Spinning - Tom McCutcheon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uv58CNZjT8M",
+      "youtube_title": "This 12 Minutes Fencing Session to Maximize Stopping",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=uv58CNZjT8M",
+      "embed_url": "https://www.youtube.com/embed/uv58CNZjT8M",
+      "thumbnail": "https://i.ytimg.com/vi/uv58CNZjT8M/hqdefault.jpg",
+      "site_titles": [
+        "This 12 Minutes Fencing Session to Maximize Stopping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ve5_n-yGn8c",
+      "youtube_title": "TRAINING TIPS 13: THE RUNDOWN",
+      "channel": "Jim Greendyk Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=Ve5_n-yGn8c",
+      "embed_url": "https://www.youtube.com/embed/Ve5_n-yGn8c",
+      "thumbnail": "https://i.ytimg.com/vi/Ve5_n-yGn8c/hqdefault.jpg",
+      "site_titles": [
+        "TRAINING TIPS 13: THE RUNDOWN"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qkmGyoH1HHQ",
+      "youtube_title": "Exercise for Starting Small Slow Circles",
+      "channel": "Jesse Chase",
+      "youtube_url": "https://www.youtube.com/watch?v=qkmGyoH1HHQ",
+      "embed_url": "https://www.youtube.com/embed/qkmGyoH1HHQ",
+      "thumbnail": "https://i.ytimg.com/vi/qkmGyoH1HHQ/hqdefault.jpg",
+      "site_titles": [
+        "Exercise for Starting Small Slow Circles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nDwk-L654LU",
+      "youtube_title": "What's the Score: Amateur Reining",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=nDwk-L654LU",
+      "embed_url": "https://www.youtube.com/embed/nDwk-L654LU",
+      "thumbnail": "https://i.ytimg.com/vi/nDwk-L654LU/hqdefault.jpg",
+      "site_titles": [
+        "What's the Score: Amateur Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zCqAmU95bno",
+      "youtube_title": "How does scoring work at a reining competition?",
+      "channel": "Ag-Gear",
+      "youtube_url": "https://www.youtube.com/watch?v=zCqAmU95bno",
+      "embed_url": "https://www.youtube.com/embed/zCqAmU95bno",
+      "thumbnail": "https://i.ytimg.com/vi/zCqAmU95bno/hqdefault.jpg",
+      "site_titles": [
+        "How does scoring work at a reining competition?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y0GzsI_3AvI",
+      "youtube_title": "What are the pattern at a reining horse event?",
+      "channel": "Ag-Gear",
+      "youtube_url": "https://www.youtube.com/watch?v=Y0GzsI_3AvI",
+      "embed_url": "https://www.youtube.com/embed/Y0GzsI_3AvI",
+      "thumbnail": "https://i.ytimg.com/vi/Y0GzsI_3AvI/hqdefault.jpg",
+      "site_titles": [
+        "What are the pattern at a reining horse event?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1krLA1uIG5c",
+      "youtube_title": "How To Make Your Horse Spin On The Correct PIVOT FOOT - The MILLION DOLLAR Question ANSWERED!",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=1krLA1uIG5c",
+      "embed_url": "https://www.youtube.com/embed/1krLA1uIG5c",
+      "thumbnail": "https://i.ytimg.com/vi/1krLA1uIG5c/hqdefault.jpg",
+      "site_titles": [
+        "How To Make Your Horse Spin On The Correct PIVOT FOOT - The MILLION DOLLAR Question ANSWERED!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qbhQbufChEg",
+      "youtube_title": "Ride Like a Pro: Slow Down Without Pulling the Reins 💪🏾〽️",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=qbhQbufChEg",
+      "embed_url": "https://www.youtube.com/embed/qbhQbufChEg",
+      "thumbnail": "https://i.ytimg.com/vi/qbhQbufChEg/hqdefault.jpg",
+      "site_titles": [
+        "Ride Like a Pro: Slow Down Without Pulling the Reins 💪🏾〽️"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H481VzniY2w",
+      "youtube_title": "HOW TO GET YOUR HORSE TO CRAVE A SLOW LOPE.",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=H481VzniY2w",
+      "embed_url": "https://www.youtube.com/embed/H481VzniY2w",
+      "thumbnail": "https://i.ytimg.com/vi/H481VzniY2w/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO GET YOUR HORSE TO CRAVE A SLOW LOPE."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5IJmEcI7BlY",
+      "youtube_title": "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 7",
+      "channel": "Horse Show Pattern Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=5IJmEcI7BlY",
+      "embed_url": "https://www.youtube.com/embed/5IJmEcI7BlY",
+      "thumbnail": "https://i.ytimg.com/vi/5IJmEcI7BlY/hqdefault.jpg",
+      "site_titles": [
+        "HORSE SHOW PATTERN PRO: AQHA, APHA and NRHA Reining Pattern 7"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LkRNUQjATZo",
+      "youtube_title": "First Time Changing Leads on a Reining Horse - NRHA Million Dollar Rider, Luca Fappani",
+      "channel": "Luca Fappani Performance Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=LkRNUQjATZo",
+      "embed_url": "https://www.youtube.com/embed/LkRNUQjATZo",
+      "thumbnail": "https://i.ytimg.com/vi/LkRNUQjATZo/hqdefault.jpg",
+      "site_titles": [
+        "First Time Changing Leads on a Reining Horse - NRHA Million Dollar Rider, Luca Fappani"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FpktXVtvEK4",
+      "youtube_title": "Circle Tips in Reining Judges Tips with Morgan Lybbert",
+      "channel": "Stock Horse of Texas Association",
+      "youtube_url": "https://www.youtube.com/watch?v=FpktXVtvEK4",
+      "embed_url": "https://www.youtube.com/embed/FpktXVtvEK4",
+      "thumbnail": "https://i.ytimg.com/vi/FpktXVtvEK4/hqdefault.jpg",
+      "site_titles": [
+        "Circle Tips in Reining Judges Tips with Morgan Lybbert"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "doqt_oGHE1A",
+      "youtube_title": "Martin Larcombe - Teach the Lead Change",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=doqt_oGHE1A",
+      "embed_url": "https://www.youtube.com/embed/doqt_oGHE1A",
+      "thumbnail": "https://i.ytimg.com/vi/doqt_oGHE1A/hqdefault.jpg",
+      "site_titles": [
+        "Martin Larcombe - Teach the Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "M3kkpqcBV60",
+      "youtube_title": "Cade McCutcheon – How to Keep a Horse From Running Off in the Rundowns",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=M3kkpqcBV60",
+      "embed_url": "https://www.youtube.com/embed/M3kkpqcBV60",
+      "thumbnail": "https://i.ytimg.com/vi/M3kkpqcBV60/hqdefault.jpg",
+      "site_titles": [
+        "Cade McCutcheon – How to Keep a Horse From Running Off in the Rundowns"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1ijebAJRPFY",
+      "youtube_title": "You be the judge on NRHA Inside Reining TV",
+      "channel": "ContinentalSaddlery",
+      "youtube_url": "https://www.youtube.com/watch?v=1ijebAJRPFY",
+      "embed_url": "https://www.youtube.com/embed/1ijebAJRPFY",
+      "thumbnail": "https://i.ytimg.com/vi/1ijebAJRPFY/hqdefault.jpg",
+      "site_titles": [
+        "You be the judge on NRHA Inside Reining TV"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zqcwc0vEl9M",
+      "youtube_title": "Inside Reining \"You Be The Judge\" judges score from #1308",
+      "channel": "Sandbur Productions",
+      "youtube_url": "https://www.youtube.com/watch?v=zqcwc0vEl9M",
+      "embed_url": "https://www.youtube.com/embed/zqcwc0vEl9M",
+      "thumbnail": "https://i.ytimg.com/vi/zqcwc0vEl9M/hqdefault.jpg",
+      "site_titles": [
+        "Inside Reining \"You Be The Judge\" judges score from"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Gfagmi_J8Ls",
+      "youtube_title": "HOW TO CORRECT A HORSE THAT PIVOTS ON THE WRONG FOOT IN THE SPIN",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=Gfagmi_J8Ls",
+      "embed_url": "https://www.youtube.com/embed/Gfagmi_J8Ls",
+      "thumbnail": "https://i.ytimg.com/vi/Gfagmi_J8Ls/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO CORRECT A HORSE THAT PIVOTS ON THE WRONG FOOT IN THE SPIN"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-yPRO6NPV-k",
+      "youtube_title": "2024 APHA World Show - Ranch Reining",
+      "channel": "Kennedy",
+      "youtube_url": "https://www.youtube.com/watch?v=-yPRO6NPV-k",
+      "embed_url": "https://www.youtube.com/embed/-yPRO6NPV-k",
+      "thumbnail": "https://i.ytimg.com/vi/-yPRO6NPV-k/hqdefault.jpg",
+      "site_titles": [
+        "2024 APHA World Show - Ranch Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7xJTYxnrVbU",
+      "youtube_title": "Horse Training To Lope Slow - How To Train A Horse To Lope Slow With Complete Control",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=7xJTYxnrVbU",
+      "embed_url": "https://www.youtube.com/embed/7xJTYxnrVbU",
+      "thumbnail": "https://i.ytimg.com/vi/7xJTYxnrVbU/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training To Lope Slow - How To Train A Horse To Lope Slow With Complete Control"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yZQlCRuQlQg",
+      "youtube_title": "Guy Williams – Teaching your horse how to change legs",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=yZQlCRuQlQg",
+      "embed_url": "https://www.youtube.com/embed/yZQlCRuQlQg",
+      "thumbnail": "https://i.ytimg.com/vi/yZQlCRuQlQg/hqdefault.jpg",
+      "site_titles": [
+        "Guy Williams – Teaching your horse how to change legs"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7zkWXMbkgWE",
+      "youtube_title": "Good Performance Horse Conformation - Reining, Cutting, Cow Horse",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=7zkWXMbkgWE",
+      "embed_url": "https://www.youtube.com/embed/7zkWXMbkgWE",
+      "thumbnail": "https://i.ytimg.com/vi/7zkWXMbkgWE/hqdefault.jpg",
+      "site_titles": [
+        "Good Performance Horse Conformation - Reining, Cutting, Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t_tf4i75k7M",
+      "youtube_title": "How to Teach Your Horse to Stop Better Part 1",
+      "channel": "SBH Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=t_tf4i75k7M",
+      "embed_url": "https://www.youtube.com/embed/t_tf4i75k7M",
+      "thumbnail": "https://i.ytimg.com/vi/t_tf4i75k7M/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse to Stop Better Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7I-Fo-FE0JY",
+      "youtube_title": "5 steps for a better STOP (works on any horse)",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=7I-Fo-FE0JY",
+      "embed_url": "https://www.youtube.com/embed/7I-Fo-FE0JY",
+      "thumbnail": "https://i.ytimg.com/vi/7I-Fo-FE0JY/hqdefault.jpg",
+      "site_titles": [
+        "5 steps for a better STOP (works on any horse)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xRZD_HnN3wQ",
+      "youtube_title": "Todd Crawford  How to Take a Lead & Change Leads",
+      "channel": "Bluebonnet",
+      "youtube_url": "https://www.youtube.com/watch?v=xRZD_HnN3wQ",
+      "embed_url": "https://www.youtube.com/embed/xRZD_HnN3wQ",
+      "thumbnail": "https://i.ytimg.com/vi/xRZD_HnN3wQ/hqdefault.jpg",
+      "site_titles": [
+        "Todd Crawford How to Take a Lead & Change Leads"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O9asRDEGJrU",
+      "youtube_title": "Stop Overusing Your Inside Rein—Here’s What to Do Instead",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=O9asRDEGJrU",
+      "embed_url": "https://www.youtube.com/embed/O9asRDEGJrU",
+      "thumbnail": "https://i.ytimg.com/vi/O9asRDEGJrU/hqdefault.jpg",
+      "site_titles": [
+        "Stop Overusing Your Inside Rein—Here’s What to Do Instead"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Z4n0YO0Egl4",
+      "youtube_title": "Shoeing For A Living (J.D. Downs): Using Sliding Plates On Reiners (Part I)",
+      "channel": "American Farriers Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=Z4n0YO0Egl4",
+      "embed_url": "https://www.youtube.com/embed/Z4n0YO0Egl4",
+      "thumbnail": "https://i.ytimg.com/vi/Z4n0YO0Egl4/hqdefault.jpg",
+      "site_titles": [
+        "Shoeing For A Living (J.D. Downs): Using Sliding Plates On Reiners (Part I)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6FkNjP0vVNE",
+      "youtube_title": "Nick Valentine - Taking Off in the Rundown",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=6FkNjP0vVNE",
+      "embed_url": "https://www.youtube.com/embed/6FkNjP0vVNE",
+      "thumbnail": "https://i.ytimg.com/vi/6FkNjP0vVNE/hqdefault.jpg",
+      "site_titles": [
+        "Nick Valentine - Taking Off in the Rundown"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4u5UU3IzR-I",
+      "youtube_title": "6 Rein-Handling Tips in 6 Minutes (SNAFFLE BITS ONLY)",
+      "channel": "Keith Hosman",
+      "youtube_url": "https://www.youtube.com/watch?v=4u5UU3IzR-I",
+      "embed_url": "https://www.youtube.com/embed/4u5UU3IzR-I",
+      "thumbnail": "https://i.ytimg.com/vi/4u5UU3IzR-I/hqdefault.jpg",
+      "site_titles": [
+        "6 Rein-Handling Tips in 6 Minutes (SNAFFLE BITS ONLY)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eK4q5obJu88",
+      "youtube_title": "Nick Valentine - Teach the Lead Change",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=eK4q5obJu88",
+      "embed_url": "https://www.youtube.com/embed/eK4q5obJu88",
+      "thumbnail": "https://i.ytimg.com/vi/eK4q5obJu88/hqdefault.jpg",
+      "site_titles": [
+        "Nick Valentine - Teach the Lead Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AKbPLE2a9CM",
+      "youtube_title": "Shoulder control - Keeping your horse's shoulder up on the circle",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=AKbPLE2a9CM",
+      "embed_url": "https://www.youtube.com/embed/AKbPLE2a9CM",
+      "thumbnail": "https://i.ytimg.com/vi/AKbPLE2a9CM/hqdefault.jpg",
+      "site_titles": [
+        "Shoulder control - Keeping your horse's shoulder up on the circle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Rcvlsf8bf_8",
+      "youtube_title": "Th simplest way to approach the “brace” in your horse. ",
+      "channel": "Kerry Kuhn Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Rcvlsf8bf_8",
+      "embed_url": "https://www.youtube.com/embed/Rcvlsf8bf_8",
+      "thumbnail": "https://i.ytimg.com/vi/Rcvlsf8bf_8/hqdefault.jpg",
+      "site_titles": [
+        "Th simplest way to approach the “brace” in your horse."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ALs_TJpkYPk",
+      "youtube_title": "Jared Leclair - Lead Changes How To",
+      "channel": "ProEquineProducts",
+      "youtube_url": "https://www.youtube.com/watch?v=ALs_TJpkYPk",
+      "embed_url": "https://www.youtube.com/embed/ALs_TJpkYPk",
+      "thumbnail": "https://i.ytimg.com/vi/ALs_TJpkYPk/hqdefault.jpg",
+      "site_titles": [
+        "Jared Leclair - Lead Changes How To"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LMi0FEMblgU",
+      "youtube_title": "How to keep your horse from falling in, on a circle.",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=LMi0FEMblgU",
+      "embed_url": "https://www.youtube.com/embed/LMi0FEMblgU",
+      "thumbnail": "https://i.ytimg.com/vi/LMi0FEMblgU/hqdefault.jpg",
+      "site_titles": [
+        "How to keep your horse from falling in, on a circle."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ur_QqmMv_4E",
+      "youtube_title": "How to Get the Best From Your Horse with Good Rein and Leg Cues",
+      "channel": "Dennis Moreland Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=ur_QqmMv_4E",
+      "embed_url": "https://www.youtube.com/embed/ur_QqmMv_4E",
+      "thumbnail": "https://i.ytimg.com/vi/ur_QqmMv_4E/hqdefault.jpg",
+      "site_titles": [
+        "How to Get the Best From Your Horse with Good Rein and Leg Cues"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F51FVIS0zRI",
+      "youtube_title": "Horse Training Tip #1 Keep Your Horse From Dropping His Shoulder",
+      "channel": "TheAllAroundHorse",
+      "youtube_url": "https://www.youtube.com/watch?v=F51FVIS0zRI",
+      "embed_url": "https://www.youtube.com/embed/F51FVIS0zRI",
+      "thumbnail": "https://i.ytimg.com/vi/F51FVIS0zRI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Tip Keep Your Horse From Dropping His Shoulder"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BrBxLjWfYw4",
+      "youtube_title": "How to Build Responsiveness in a dull horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=BrBxLjWfYw4",
+      "embed_url": "https://www.youtube.com/embed/BrBxLjWfYw4",
+      "thumbnail": "https://i.ytimg.com/vi/BrBxLjWfYw4/hqdefault.jpg",
+      "site_titles": [
+        "How to Build Responsiveness in a dull horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2wR-_BCEPik",
+      "youtube_title": "As Much as Necessary and as Little as Possible-A Guide to Rein and Leg Cues",
+      "channel": "Dennis Moreland Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=2wR-_BCEPik",
+      "embed_url": "https://www.youtube.com/embed/2wR-_BCEPik",
+      "thumbnail": "https://i.ytimg.com/vi/2wR-_BCEPik/hqdefault.jpg",
+      "site_titles": [
+        "As Much as Necessary and as Little as Possible-A Guide to Rein and Leg Cues"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gLOzn-E4PvM",
+      "youtube_title": "If Your Horse Leans or Gets Heavy, This Is Why",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=gLOzn-E4PvM",
+      "embed_url": "https://www.youtube.com/embed/gLOzn-E4PvM",
+      "thumbnail": "https://i.ytimg.com/vi/gLOzn-E4PvM/hqdefault.jpg",
+      "site_titles": [
+        "If Your Horse Leans or Gets Heavy, This Is Why"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qdN2mmnchPA",
+      "youtube_title": "How to fix a horse that opens its mouth",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=qdN2mmnchPA",
+      "embed_url": "https://www.youtube.com/embed/qdN2mmnchPA",
+      "thumbnail": "https://i.ytimg.com/vi/qdN2mmnchPA/hqdefault.jpg",
+      "site_titles": [
+        "How to fix a horse that opens its mouth"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JKSxGmRqIPA",
+      "youtube_title": "Mark Langley advice on horses with pinned ears",
+      "channel": "Mark Langley",
+      "youtube_url": "https://www.youtube.com/watch?v=JKSxGmRqIPA",
+      "embed_url": "https://www.youtube.com/embed/JKSxGmRqIPA",
+      "thumbnail": "https://i.ytimg.com/vi/JKSxGmRqIPA/hqdefault.jpg",
+      "site_titles": [
+        "Mark Langley advice on horses with pinned ears"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8FY8FcaQY5Q",
+      "youtube_title": "Is your horse leaning on the bit?",
+      "channel": "Deanna Corby",
+      "youtube_url": "https://www.youtube.com/watch?v=8FY8FcaQY5Q",
+      "embed_url": "https://www.youtube.com/embed/8FY8FcaQY5Q",
+      "thumbnail": "https://i.ytimg.com/vi/8FY8FcaQY5Q/hqdefault.jpg",
+      "site_titles": [
+        "Is your horse leaning on the bit?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iANLtapKFJM",
+      "youtube_title": "Softening A Horses Face - Tom McCutcheon",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=iANLtapKFJM",
+      "embed_url": "https://www.youtube.com/embed/iANLtapKFJM",
+      "thumbnail": "https://i.ytimg.com/vi/iANLtapKFJM/hqdefault.jpg",
+      "site_titles": [
+        "Softening A Horses Face - Tom McCutcheon"
       ],
       "sections": [
         "qa"
