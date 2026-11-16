@@ -20,3 +20,7 @@
 /reining                         /reining/                               301
 /dressage                        /dressage/                              301
 /mustangs/                       /mustang/                               301
+
+# Video library pages retired by the 2026-11-16 reining rebuild
+/videos/library/versatility-ranch-horse/   /videos/library/ranch-riding/   301
+/videos/watch/perfecting-your-circle-stage-1-preparing-your-horses-mind/   /videos/library/reining/   301
