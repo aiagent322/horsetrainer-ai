@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2411,
+  "count": 2437,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -555,7 +555,6 @@
         "qa/horsemanship/index.html",
         "qa/team-roping/how-do-you-fix-a-hot-rope-horse/index.html",
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
-        "qa/trailer-loading/how-do-i-train-a-horse-to-load-in-a-trailer-calmly-and-reliably/index.html",
         "qa/training-principles-psychology/index.html",
         "videos/problem-horse/index.html"
       ]
@@ -41028,6 +41027,422 @@
       "thumbnail": "https://i.ytimg.com/vi/NfRiAOx6eU0/hqdefault.jpg",
       "site_titles": [
         "Clinton Anderson | The Converse Cowboy (Full Interview)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q3aKWWB9ZMA",
+      "youtube_title": "Clinton Anderson Walkabout Tour: Trailer loading",
+      "channel": "Misscountrycharm",
+      "youtube_url": "https://www.youtube.com/watch?v=q3aKWWB9ZMA",
+      "embed_url": "https://www.youtube.com/embed/q3aKWWB9ZMA",
+      "thumbnail": "https://i.ytimg.com/vi/q3aKWWB9ZMA/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson Walkabout Tour: Trailer loading"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ehQqPKR_zE8",
+      "youtube_title": "How to Load a Horse on a Trailer",
+      "channel": "Springhill Equine Veterinary Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=ehQqPKR_zE8",
+      "embed_url": "https://www.youtube.com/embed/ehQqPKR_zE8",
+      "thumbnail": "https://i.ytimg.com/vi/ehQqPKR_zE8/hqdefault.jpg",
+      "site_titles": [
+        "How to Load a Horse on a Trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PdBGD21MGPo",
+      "youtube_title": "Curing a horse that rushes off the trailer",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=PdBGD21MGPo",
+      "embed_url": "https://www.youtube.com/embed/PdBGD21MGPo",
+      "thumbnail": "https://i.ytimg.com/vi/PdBGD21MGPo/hqdefault.jpg",
+      "site_titles": [
+        "Curing a horse that rushes off the trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KjWwidbvkpg",
+      "youtube_title": "Pawing In The Trailer / Tied To The Trailer | Horse Help - Michael Gascon",
+      "channel": "Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=KjWwidbvkpg",
+      "embed_url": "https://www.youtube.com/embed/KjWwidbvkpg",
+      "thumbnail": "https://i.ytimg.com/vi/KjWwidbvkpg/hqdefault.jpg",
+      "site_titles": [
+        "Pawing In The Trailer / Tied To The Trailer | Horse Help - Michael Gascon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8rHUwTacwhE",
+      "youtube_title": "Teach your horse to SELF LOAD on the trailer!",
+      "channel": "Deanna Corby",
+      "youtube_url": "https://www.youtube.com/watch?v=8rHUwTacwhE",
+      "embed_url": "https://www.youtube.com/embed/8rHUwTacwhE",
+      "thumbnail": "https://i.ytimg.com/vi/8rHUwTacwhE/hqdefault.jpg",
+      "site_titles": [
+        "Teach your horse to SELF LOAD on the trailer!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZZo_M9hOdZ4",
+      "youtube_title": "Trailer Loading a Young Horse the Calm Way | Trust & Curiosity",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=ZZo_M9hOdZ4",
+      "embed_url": "https://www.youtube.com/embed/ZZo_M9hOdZ4",
+      "thumbnail": "https://i.ytimg.com/vi/ZZo_M9hOdZ4/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Loading a Young Horse the Calm Way | Trust & Curiosity"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eOGP6qwICxA",
+      "youtube_title": "Loading for Life - teach your horse to self-load",
+      "channel": "Russell Higgins Foundation Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=eOGP6qwICxA",
+      "embed_url": "https://www.youtube.com/embed/eOGP6qwICxA",
+      "thumbnail": "https://i.ytimg.com/vi/eOGP6qwICxA/hqdefault.jpg",
+      "site_titles": [
+        "Loading for Life - teach your horse to self-load"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PmdcmxEeeKw",
+      "youtube_title": "Trailer loading ( single horse)  1st time",
+      "channel": "CT's touch horses/dogs",
+      "youtube_url": "https://www.youtube.com/watch?v=PmdcmxEeeKw",
+      "embed_url": "https://www.youtube.com/embed/PmdcmxEeeKw",
+      "thumbnail": "https://i.ytimg.com/vi/PmdcmxEeeKw/hqdefault.jpg",
+      "site_titles": [
+        "Trailer loading ( single horse) 1st time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vWsKnjtOtok",
+      "youtube_title": "Pat Parelli Solves a Trailer Loading Problem in Minutes | Ep. 1 The Horse Tamer (Dallas & Luna)",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=vWsKnjtOtok",
+      "embed_url": "https://www.youtube.com/embed/vWsKnjtOtok",
+      "thumbnail": "https://i.ytimg.com/vi/vWsKnjtOtok/hqdefault.jpg",
+      "site_titles": [
+        "Pat Parelli Solves a Trailer Loading Problem in Minutes | Ep. 1 The Horse Tamer (Dallas & Luna)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1R4kXPvK92s",
+      "youtube_title": "Trailer Loading a Horse with A History of Refusing to Load",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=1R4kXPvK92s",
+      "embed_url": "https://www.youtube.com/embed/1R4kXPvK92s",
+      "thumbnail": "https://i.ytimg.com/vi/1R4kXPvK92s/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Loading a Horse with A History of Refusing to Load"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mCPjXgJP6sM",
+      "youtube_title": "Trailer Loading  While Staying Below Threshold",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=mCPjXgJP6sM",
+      "embed_url": "https://www.youtube.com/embed/mCPjXgJP6sM",
+      "thumbnail": "https://i.ytimg.com/vi/mCPjXgJP6sM/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Loading While Staying Below Threshold"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EC7zt7uH6uI",
+      "youtube_title": "Day 2 trailer loading Andalusian clips",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=EC7zt7uH6uI",
+      "embed_url": "https://www.youtube.com/embed/EC7zt7uH6uI",
+      "thumbnail": "https://i.ytimg.com/vi/EC7zt7uH6uI/hqdefault.jpg",
+      "site_titles": [
+        "Day 2 trailer loading Andalusian clips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cv27p6kswU0",
+      "youtube_title": "Loading a hard to load horse",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=cv27p6kswU0",
+      "embed_url": "https://www.youtube.com/embed/cv27p6kswU0",
+      "thumbnail": "https://i.ytimg.com/vi/cv27p6kswU0/hqdefault.jpg",
+      "site_titles": [
+        "Loading a hard to load horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rENqnuli0jI",
+      "youtube_title": "Teaching the foal to load.",
+      "channel": "Robert M. Miller Communications",
+      "youtube_url": "https://www.youtube.com/watch?v=rENqnuli0jI",
+      "embed_url": "https://www.youtube.com/embed/rENqnuli0jI",
+      "thumbnail": "https://i.ytimg.com/vi/rENqnuli0jI/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the foal to load."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xuepjBawmDI",
+      "youtube_title": "Horse Won't Load in the Trailer",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=xuepjBawmDI",
+      "embed_url": "https://www.youtube.com/embed/xuepjBawmDI",
+      "thumbnail": "https://i.ytimg.com/vi/xuepjBawmDI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Won't Load in the Trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mN9QBC7VSKc",
+      "youtube_title": "Trailer Loading, the Parelli way",
+      "channel": "Carlos Osorio",
+      "youtube_url": "https://www.youtube.com/watch?v=mN9QBC7VSKc",
+      "embed_url": "https://www.youtube.com/embed/mN9QBC7VSKc",
+      "thumbnail": "https://i.ytimg.com/vi/mN9QBC7VSKc/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Loading, the Parelli way"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iAXqvXKhhp4",
+      "youtube_title": "Loading Preparation Exercises WITHOUT a Trailer",
+      "channel": "Connection Training",
+      "youtube_url": "https://www.youtube.com/watch?v=iAXqvXKhhp4",
+      "embed_url": "https://www.youtube.com/embed/iAXqvXKhhp4",
+      "thumbnail": "https://i.ytimg.com/vi/iAXqvXKhhp4/hqdefault.jpg",
+      "site_titles": [
+        "Loading Preparation Exercises WITHOUT a Trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4YG3DabpdQA",
+      "youtube_title": "The horse kept pulling back at the trailer",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=4YG3DabpdQA",
+      "embed_url": "https://www.youtube.com/embed/4YG3DabpdQA",
+      "thumbnail": "https://i.ytimg.com/vi/4YG3DabpdQA/hqdefault.jpg",
+      "site_titles": [
+        "The horse kept pulling back at the trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bKsuFyNpH4k",
+      "youtube_title": "The Trailer Wasn't the Problem... this was",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=bKsuFyNpH4k",
+      "embed_url": "https://www.youtube.com/embed/bKsuFyNpH4k",
+      "thumbnail": "https://i.ytimg.com/vi/bKsuFyNpH4k/hqdefault.jpg",
+      "site_titles": [
+        "The Trailer Wasn't the Problem... this was"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dtEmxmwX7Jc",
+      "youtube_title": "Essential Tips for Loading a Young Horse",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=dtEmxmwX7Jc",
+      "embed_url": "https://www.youtube.com/embed/dtEmxmwX7Jc",
+      "thumbnail": "https://i.ytimg.com/vi/dtEmxmwX7Jc/hqdefault.jpg",
+      "site_titles": [
+        "Essential Tips for Loading a Young Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vyOT_CiMpa0",
+      "youtube_title": "Joey's Parelli Video Level Three Trailer Loading",
+      "channel": "TPompei",
+      "youtube_url": "https://www.youtube.com/watch?v=vyOT_CiMpa0",
+      "embed_url": "https://www.youtube.com/embed/vyOT_CiMpa0",
+      "thumbnail": "https://i.ytimg.com/vi/vyOT_CiMpa0/hqdefault.jpg",
+      "site_titles": [
+        "Joey's Parelli Video Level Three Trailer Loading"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VP_hS-Y0uSM",
+      "youtube_title": "Trailer loading tips",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=VP_hS-Y0uSM",
+      "embed_url": "https://www.youtube.com/embed/VP_hS-Y0uSM",
+      "thumbnail": "https://i.ytimg.com/vi/VP_hS-Y0uSM/hqdefault.jpg",
+      "site_titles": [
+        "Trailer loading tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jOOHmN3-7bo",
+      "youtube_title": "Trailer Training using the Clinton Anderson Method",
+      "channel": "SwingOak Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=jOOHmN3-7bo",
+      "embed_url": "https://www.youtube.com/embed/jOOHmN3-7bo",
+      "thumbnail": "https://i.ytimg.com/vi/jOOHmN3-7bo/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Training using the Clinton Anderson Method"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ViPQIdg73zg",
+      "youtube_title": "Trailer loading a horse on your own (example 2-year-old): Pressure and release.",
+      "channel": "FreeHorseTrainingForever",
+      "youtube_url": "https://www.youtube.com/watch?v=ViPQIdg73zg",
+      "embed_url": "https://www.youtube.com/embed/ViPQIdg73zg",
+      "thumbnail": "https://i.ytimg.com/vi/ViPQIdg73zg/hqdefault.jpg",
+      "site_titles": [
+        "Trailer loading a horse on your own (example 2-year-old): Pressure and release."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZEB6P2wuSs4",
+      "youtube_title": "Safely Loading the Horse in the Trailer with Donovan Dobbs",
+      "channel": "CHA Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=ZEB6P2wuSs4",
+      "embed_url": "https://www.youtube.com/embed/ZEB6P2wuSs4",
+      "thumbnail": "https://i.ytimg.com/vi/ZEB6P2wuSs4/hqdefault.jpg",
+      "site_titles": [
+        "Safely Loading the Horse in the Trailer with Donovan Dobbs"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9yrhp1dHv2s",
+      "youtube_title": "He Won't STAY In The TRAILER!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=9yrhp1dHv2s",
+      "embed_url": "https://www.youtube.com/embed/9yrhp1dHv2s",
+      "thumbnail": "https://i.ytimg.com/vi/9yrhp1dHv2s/hqdefault.jpg",
+      "site_titles": [
+        "He Won't STAY In The TRAILER!"
       ],
       "sections": [
         "qa"
