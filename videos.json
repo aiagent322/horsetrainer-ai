@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2571,
+  "count": 2590,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -159,7 +159,6 @@
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
-        "qa/working-equitation/how-do-i-train-my-horse-for-the-dressage-phase-of-working-equitation/index.html",
         "videos/reining/index.html"
       ]
     },
@@ -390,8 +389,6 @@
       "reference_count": 17,
       "pages": [
         "qa/western-pleasure/index.html",
-        "qa/working-equitation/how-do-i-train-for-the-speed-phase-and-how-does-it-differ-from-ease-of-handling/index.html",
-        "qa/working-equitation/what-is-the-speed-phase-of-working-equitation-and-how-do-you-prepare-horse-and-r/index.html",
         "qa/working-western-rail/index.html",
         "reining/reining-circles-large-and-small/index.html"
       ]
@@ -572,8 +569,7 @@
       ],
       "reference_count": 10,
       "pages": [
-        "qa/collection/index.html",
-        "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
+        "qa/collection/index.html"
       ]
     },
     {
@@ -43571,6 +43567,310 @@
       "thumbnail": "https://i.ytimg.com/vi/2SFYVZlj8OM/hqdefault.jpg",
       "site_titles": [
         "How to Sit in the Saddle When You Ride a Horse- by Klay Klemic of Rising K Ranch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T-2-0sKsCik",
+      "youtube_title": "Mastering THE GATE in Working Equitation - Forward, Reverse, Push & Pull",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=T-2-0sKsCik",
+      "embed_url": "https://www.youtube.com/embed/T-2-0sKsCik",
+      "thumbnail": "https://i.ytimg.com/vi/T-2-0sKsCik/hqdefault.jpg",
+      "site_titles": [
+        "Mastering THE GATE in Working Equitation - Forward, Reverse, Push & Pull"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aoK-izaLJYU",
+      "youtube_title": "USA Working Equitation",
+      "channel": "USAWE - USA Working Equitation",
+      "youtube_url": "https://www.youtube.com/watch?v=aoK-izaLJYU",
+      "embed_url": "https://www.youtube.com/embed/aoK-izaLJYU",
+      "thumbnail": "https://i.ytimg.com/vi/aoK-izaLJYU/hqdefault.jpg",
+      "site_titles": [
+        "USA Working Equitation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WPrwwhrWePQ",
+      "youtube_title": "Teaching cow clinic at Working Equitation show Eugene Oregon with Polish Arabian Stallion Kalaloch",
+      "channel": "Kenton Wright Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=WPrwwhrWePQ",
+      "embed_url": "https://www.youtube.com/embed/WPrwwhrWePQ",
+      "thumbnail": "https://i.ytimg.com/vi/WPrwwhrWePQ/hqdefault.jpg",
+      "site_titles": [
+        "Teaching cow clinic at Working Equitation show Eugene Oregon with Polish Arabian Stallion Kalaloch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WJ_aC4Slcn4",
+      "youtube_title": "Master the Garrocha in Working Equitation with Miguel Undabarrena",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=WJ_aC4Slcn4",
+      "embed_url": "https://www.youtube.com/embed/WJ_aC4Slcn4",
+      "thumbnail": "https://i.ytimg.com/vi/WJ_aC4Slcn4/hqdefault.jpg",
+      "site_titles": [
+        "Master the Garrocha in Working Equitation with Miguel Undabarrena"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rK50f2o1Xzs",
+      "youtube_title": "Sarah Pinney - Working Equitation - Ease of Handling",
+      "channel": "Alanna Light",
+      "youtube_url": "https://www.youtube.com/watch?v=rK50f2o1Xzs",
+      "embed_url": "https://www.youtube.com/embed/rK50f2o1Xzs",
+      "thumbnail": "https://i.ytimg.com/vi/rK50f2o1Xzs/hqdefault.jpg",
+      "site_titles": [
+        "Sarah Pinney - Working Equitation - Ease of Handling"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5PFC8Tvy3jU",
+      "youtube_title": "Advanced Horsemanship Garrocha Pole - Part 2",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=5PFC8Tvy3jU",
+      "embed_url": "https://www.youtube.com/embed/5PFC8Tvy3jU",
+      "thumbnail": "https://i.ytimg.com/vi/5PFC8Tvy3jU/hqdefault.jpg",
+      "site_titles": [
+        "Advanced Horsemanship Garrocha Pole - Part 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zR1YsCc7tb4",
+      "youtube_title": "How to Ride the Water Obstacle in Working Equitation",
+      "channel": "USAWE - USA Working Equitation",
+      "youtube_url": "https://www.youtube.com/watch?v=zR1YsCc7tb4",
+      "embed_url": "https://www.youtube.com/embed/zR1YsCc7tb4",
+      "thumbnail": "https://i.ytimg.com/vi/zR1YsCc7tb4/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride the Water Obstacle in Working Equitation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "efX-03QKbLE",
+      "youtube_title": "Gate exercise for June 2026",
+      "channel": "Virtual Working Equitation",
+      "youtube_url": "https://www.youtube.com/watch?v=efX-03QKbLE",
+      "embed_url": "https://www.youtube.com/embed/efX-03QKbLE",
+      "thumbnail": "https://i.ytimg.com/vi/efX-03QKbLE/hqdefault.jpg",
+      "site_titles": [
+        "Gate exercise for June 2026"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kfyN4Q0PGbc",
+      "youtube_title": "How Working Equitation Improves your Dressage Exercises | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=kfyN4Q0PGbc",
+      "embed_url": "https://www.youtube.com/embed/kfyN4Q0PGbc",
+      "thumbnail": "https://i.ytimg.com/vi/kfyN4Q0PGbc/hqdefault.jpg",
+      "site_titles": [
+        "How Working Equitation Improves your Dressage Exercises | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3jkGOEWGFLw",
+      "youtube_title": "What Is Working Equitation?",
+      "channel": "Lynne Macleod",
+      "youtube_url": "https://www.youtube.com/watch?v=3jkGOEWGFLw",
+      "embed_url": "https://www.youtube.com/embed/3jkGOEWGFLw",
+      "thumbnail": "https://i.ytimg.com/vi/3jkGOEWGFLw/hqdefault.jpg",
+      "site_titles": [
+        "What Is Working Equitation?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ujCmRQzlW2E",
+      "youtube_title": "Birth of Working Equitation in the U.S. | Julie Alonzo’s Story & Rise to USA Chef d’Equipe",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=ujCmRQzlW2E",
+      "embed_url": "https://www.youtube.com/embed/ujCmRQzlW2E",
+      "thumbnail": "https://i.ytimg.com/vi/ujCmRQzlW2E/hqdefault.jpg",
+      "site_titles": [
+        "Birth of Working Equitation in the U.S. | Julie Alonzo’s Story & Rise to USA Chef d’Equipe"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bP4K4NOl5uo",
+      "youtube_title": "5 Beginner tips for your first Working Equitation Show!",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=bP4K4NOl5uo",
+      "embed_url": "https://www.youtube.com/embed/bP4K4NOl5uo",
+      "thumbnail": "https://i.ytimg.com/vi/bP4K4NOl5uo/hqdefault.jpg",
+      "site_titles": [
+        "5 Beginner tips for your first Working Equitation Show!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Jpcmv-DrRFs",
+      "youtube_title": "Working Equitation Double Slalom Explained!",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Jpcmv-DrRFs",
+      "embed_url": "https://www.youtube.com/embed/Jpcmv-DrRFs",
+      "thumbnail": "https://i.ytimg.com/vi/Jpcmv-DrRFs/hqdefault.jpg",
+      "site_titles": [
+        "Working Equitation Double Slalom Explained!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nYaSrkVlRRI",
+      "youtube_title": "Working Equitation obstacles demonstration",
+      "channel": "Pakefield Riding School",
+      "youtube_url": "https://www.youtube.com/watch?v=nYaSrkVlRRI",
+      "embed_url": "https://www.youtube.com/embed/nYaSrkVlRRI",
+      "thumbnail": "https://i.ytimg.com/vi/nYaSrkVlRRI/hqdefault.jpg",
+      "site_titles": [
+        "Working Equitation obstacles demonstration"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1XwskcMUFck",
+      "youtube_title": "The Pen in Working Equitation w/ US Team Coach Miguel Undabarrena",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=1XwskcMUFck",
+      "embed_url": "https://www.youtube.com/embed/1XwskcMUFck",
+      "thumbnail": "https://i.ytimg.com/vi/1XwskcMUFck/hqdefault.jpg",
+      "site_titles": [
+        "The Pen in Working Equitation w/ US Team Coach Miguel Undabarrena"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0ida5-TuSLQ",
+      "youtube_title": "Working equitation speed phase - novice and inter A speed winners comparison ",
+      "channel": "Tessa Halsall",
+      "youtube_url": "https://www.youtube.com/watch?v=0ida5-TuSLQ",
+      "embed_url": "https://www.youtube.com/embed/0ida5-TuSLQ",
+      "thumbnail": "https://i.ytimg.com/vi/0ida5-TuSLQ/hqdefault.jpg",
+      "site_titles": [
+        "Working equitation speed phase - novice and inter A speed winners comparison"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dB-naPT2Xgo",
+      "youtube_title": "An Introduction to Working Equitation by Pedro Torres | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=dB-naPT2Xgo",
+      "embed_url": "https://www.youtube.com/embed/dB-naPT2Xgo",
+      "thumbnail": "https://i.ytimg.com/vi/dB-naPT2Xgo/hqdefault.jpg",
+      "site_titles": [
+        "An Introduction to Working Equitation by Pedro Torres | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vmTc2mvRtY0",
+      "youtube_title": "Working Equitation - die Einsteigerklasse",
+      "channel": "EQUIVA",
+      "youtube_url": "https://www.youtube.com/watch?v=vmTc2mvRtY0",
+      "embed_url": "https://www.youtube.com/embed/vmTc2mvRtY0",
+      "thumbnail": "https://i.ytimg.com/vi/vmTc2mvRtY0/hqdefault.jpg",
+      "site_titles": [
+        "Working Equitation - die Einsteigerklasse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IO2ko4tKsco",
+      "youtube_title": "Working Equitation- Sidepass Rail with Miguel Undabarrena (2026 USA WAWE Coach)",
+      "channel": "Working Equitation Cross Training",
+      "youtube_url": "https://www.youtube.com/watch?v=IO2ko4tKsco",
+      "embed_url": "https://www.youtube.com/embed/IO2ko4tKsco",
+      "thumbnail": "https://i.ytimg.com/vi/IO2ko4tKsco/hqdefault.jpg",
+      "site_titles": [
+        "Working Equitation- Sidepass Rail with Miguel Undabarrena (2026 USA WAWE Coach)"
       ],
       "sections": [
         "qa"
