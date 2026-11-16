@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2207,
+  "count": 2231,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -328,7 +328,6 @@
         "qa/desensitization-sacking-out/how-do-i-handle-a-horse-that-spooks-on-the-trail-and-get-it-more-confident/index.html",
         "qa/desensitization-sacking-out/how-do-i-train-a-spooky-horse/index.html",
         "qa/lateral-work-suppling/index.html",
-        "qa/problem-solving-under-saddle/how-do-you-ride-a-horse-through-a-spook-safely-without-making-it-worse/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
         "qa/safety/my-horse-is-spooky-under-saddle-and-even-when-getting-saddled-what-can-we-do/index.html",
         "qa/safety/my-horse-spooks-and-goes-sideways-what-can-be-done/index.html",
@@ -37786,6 +37785,390 @@
       "thumbnail": "https://i.ytimg.com/vi/_PYQaOyQkEU/hqdefault.jpg",
       "site_titles": [
         "Andre Coelho: Barrel Racing Body Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uEuYDeEx1LA",
+      "youtube_title": "Top Tips for Riding Correct Corners",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=uEuYDeEx1LA",
+      "embed_url": "https://www.youtube.com/embed/uEuYDeEx1LA",
+      "thumbnail": "https://i.ytimg.com/vi/uEuYDeEx1LA/hqdefault.jpg",
+      "site_titles": [
+        "Top Tips for Riding Correct Corners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RmjqHXN5fbw",
+      "youtube_title": "Gareth Mare' on how to stop a horse rearing",
+      "channel": "Heartfelt Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=RmjqHXN5fbw",
+      "embed_url": "https://www.youtube.com/embed/RmjqHXN5fbw",
+      "thumbnail": "https://i.ytimg.com/vi/RmjqHXN5fbw/hqdefault.jpg",
+      "site_titles": [
+        "Gareth Mare' on how to stop a horse rearing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fmibZ4wAKe8",
+      "youtube_title": "How to Help a Horse that Wants to Go to the Gate Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=fmibZ4wAKe8",
+      "embed_url": "https://www.youtube.com/embed/fmibZ4wAKe8",
+      "thumbnail": "https://i.ytimg.com/vi/fmibZ4wAKe8/hqdefault.jpg",
+      "site_titles": [
+        "How to Help a Horse that Wants to Go to the Gate Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U_JihgLtAxU",
+      "youtube_title": "Managing a Horse who Anticipates",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=U_JihgLtAxU",
+      "embed_url": "https://www.youtube.com/embed/U_JihgLtAxU",
+      "thumbnail": "https://i.ytimg.com/vi/U_JihgLtAxU/hqdefault.jpg",
+      "site_titles": [
+        "Managing a Horse who Anticipates"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sdz1IUs6ac8",
+      "youtube_title": "Bucking In The Canter, Solutions, Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=sdz1IUs6ac8",
+      "embed_url": "https://www.youtube.com/embed/sdz1IUs6ac8",
+      "thumbnail": "https://i.ytimg.com/vi/sdz1IUs6ac8/hqdefault.jpg",
+      "site_titles": [
+        "Bucking In The Canter, Solutions, Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UsFM18hoxTU",
+      "youtube_title": "How to Fix Drifting Through the Outside Shoulder",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=UsFM18hoxTU",
+      "embed_url": "https://www.youtube.com/embed/UsFM18hoxTU",
+      "thumbnail": "https://i.ytimg.com/vi/UsFM18hoxTU/hqdefault.jpg",
+      "site_titles": [
+        "How to Fix Drifting Through the Outside Shoulder"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ClJYuuiEa7Q",
+      "youtube_title": "Help for Cinchy or Girthy horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=ClJYuuiEa7Q",
+      "embed_url": "https://www.youtube.com/embed/ClJYuuiEa7Q",
+      "thumbnail": "https://i.ytimg.com/vi/ClJYuuiEa7Q/hqdefault.jpg",
+      "site_titles": [
+        "Help for Cinchy or Girthy horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-s-X-s2XklM",
+      "youtube_title": "Solving Trail Problems - The Horse that Jigs Home",
+      "channel": "Charles Wilhelm",
+      "youtube_url": "https://www.youtube.com/watch?v=-s-X-s2XklM",
+      "embed_url": "https://www.youtube.com/embed/-s-X-s2XklM",
+      "thumbnail": "https://i.ytimg.com/vi/-s-X-s2XklM/hqdefault.jpg",
+      "site_titles": [
+        "Solving Trail Problems - The Horse that Jigs Home"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Sj4yLtB0LQg",
+      "youtube_title": "An Exercise to Help Relieve Separation Anxiety",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=Sj4yLtB0LQg",
+      "embed_url": "https://www.youtube.com/embed/Sj4yLtB0LQg",
+      "thumbnail": "https://i.ytimg.com/vi/Sj4yLtB0LQg/hqdefault.jpg",
+      "site_titles": [
+        "An Exercise to Help Relieve Separation Anxiety"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uXwYkDBI8Vc",
+      "youtube_title": "How To Reduce Anxiety While Trail Riding",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=uXwYkDBI8Vc",
+      "embed_url": "https://www.youtube.com/embed/uXwYkDBI8Vc",
+      "thumbnail": "https://i.ytimg.com/vi/uXwYkDBI8Vc/hqdefault.jpg",
+      "site_titles": [
+        "How To Reduce Anxiety While Trail Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gvzOEb7dZ8A",
+      "youtube_title": "One Rein Stop; Runaway Bolting Horse",
+      "channel": "Chris Adderson For The Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=gvzOEb7dZ8A",
+      "embed_url": "https://www.youtube.com/embed/gvzOEb7dZ8A",
+      "thumbnail": "https://i.ytimg.com/vi/gvzOEb7dZ8A/hqdefault.jpg",
+      "site_titles": [
+        "One Rein Stop; Runaway Bolting Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-P1Q98T0FwM",
+      "youtube_title": "Helping a horse that won't move under saddle",
+      "channel": "Mendoza Horsemanship - Mobile Services",
+      "youtube_url": "https://www.youtube.com/watch?v=-P1Q98T0FwM",
+      "embed_url": "https://www.youtube.com/embed/-P1Q98T0FwM",
+      "thumbnail": "https://i.ytimg.com/vi/-P1Q98T0FwM/hqdefault.jpg",
+      "site_titles": [
+        "Helping a horse that won't move under saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ruhhLwYzWm4",
+      "youtube_title": "Correcting Gate Sour",
+      "channel": "Skip Slusher Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=ruhhLwYzWm4",
+      "embed_url": "https://www.youtube.com/embed/ruhhLwYzWm4",
+      "thumbnail": "https://i.ytimg.com/vi/ruhhLwYzWm4/hqdefault.jpg",
+      "site_titles": [
+        "Correcting Gate Sour"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1ScvtSc2i9U",
+      "youtube_title": "Clinton Anderson: How to Correct a Horse That Jigs - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=1ScvtSc2i9U",
+      "embed_url": "https://www.youtube.com/embed/1ScvtSc2i9U",
+      "thumbnail": "https://i.ytimg.com/vi/1ScvtSc2i9U/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: How to Correct a Horse That Jigs - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dV3Ouqu790M",
+      "youtube_title": "Loping - Fixing a horse that kicks out | Colt starting Series - Nala's Journey Part 8",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=dV3Ouqu790M",
+      "embed_url": "https://www.youtube.com/embed/dV3Ouqu790M",
+      "thumbnail": "https://i.ytimg.com/vi/dV3Ouqu790M/hqdefault.jpg",
+      "site_titles": [
+        "Loping - Fixing a horse that kicks out | Colt starting Series - Nala's Journey Part 8"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tx4dJaDERKU",
+      "youtube_title": "A tip for helping your horse deal with the spooky end of the arena",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=tx4dJaDERKU",
+      "embed_url": "https://www.youtube.com/embed/tx4dJaDERKU",
+      "thumbnail": "https://i.ytimg.com/vi/tx4dJaDERKU/hqdefault.jpg",
+      "site_titles": [
+        "A tip for helping your horse deal with the spooky end of the arena"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qlMOq8Sy7ZA",
+      "youtube_title": "Helping a cold backed horse to gain confidence",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=qlMOq8Sy7ZA",
+      "embed_url": "https://www.youtube.com/embed/qlMOq8Sy7ZA",
+      "thumbnail": "https://i.ytimg.com/vi/qlMOq8Sy7ZA/hqdefault.jpg",
+      "site_titles": [
+        "Helping a cold backed horse to gain confidence"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jrO7Lk2Oa0U",
+      "youtube_title": "Clinton Anderson: How to Get Your Horse to Go Forward - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=jrO7Lk2Oa0U",
+      "embed_url": "https://www.youtube.com/embed/jrO7Lk2Oa0U",
+      "thumbnail": "https://i.ytimg.com/vi/jrO7Lk2Oa0U/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: How to Get Your Horse to Go Forward - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iUb1I9MHbh0",
+      "youtube_title": "How to Make Smooth Transitions - Even on a Forward Horse",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=iUb1I9MHbh0",
+      "embed_url": "https://www.youtube.com/embed/iUb1I9MHbh0",
+      "thumbnail": "https://i.ytimg.com/vi/iUb1I9MHbh0/hqdefault.jpg",
+      "site_titles": [
+        "How to Make Smooth Transitions - Even on a Forward Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zDjmKwfezFo",
+      "youtube_title": "Trail Tip With Luke Brown - Circling objects your horse is afraid of.",
+      "channel": "Luke Brown at Reata Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=zDjmKwfezFo",
+      "embed_url": "https://www.youtube.com/embed/zDjmKwfezFo",
+      "thumbnail": "https://i.ytimg.com/vi/zDjmKwfezFo/hqdefault.jpg",
+      "site_titles": [
+        "Trail Tip With Luke Brown - Circling objects your horse is afraid of."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fDpG813J9dk",
+      "youtube_title": "WHAT TO DO WHEN A HORSE BUCKS/CROW HOPS",
+      "channel": "Horse Training 101",
+      "youtube_url": "https://www.youtube.com/watch?v=fDpG813J9dk",
+      "embed_url": "https://www.youtube.com/embed/fDpG813J9dk",
+      "thumbnail": "https://i.ytimg.com/vi/fDpG813J9dk/hqdefault.jpg",
+      "site_titles": [
+        "WHAT TO DO WHEN A HORSE BUCKS/CROW HOPS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v0Txhk1rQEA",
+      "youtube_title": "Solving The Root Causes Of Horse Bucking, Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=v0Txhk1rQEA",
+      "embed_url": "https://www.youtube.com/embed/v0Txhk1rQEA",
+      "thumbnail": "https://i.ytimg.com/vi/v0Txhk1rQEA/hqdefault.jpg",
+      "site_titles": [
+        "Solving The Root Causes Of Horse Bucking, Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "L5ygBo3tAA0",
+      "youtube_title": "Resolving Ear Pinning Under Saddle... the solution isn't what you think.",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=L5ygBo3tAA0",
+      "embed_url": "https://www.youtube.com/embed/L5ygBo3tAA0",
+      "thumbnail": "https://i.ytimg.com/vi/L5ygBo3tAA0/hqdefault.jpg",
+      "site_titles": [
+        "Resolving Ear Pinning Under Saddle... the solution isn't what you think."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rQFcNb0XB8o",
+      "youtube_title": "Your Horse won't go Forward?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=rQFcNb0XB8o",
+      "embed_url": "https://www.youtube.com/embed/rQFcNb0XB8o",
+      "thumbnail": "https://i.ytimg.com/vi/rQFcNb0XB8o/hqdefault.jpg",
+      "site_titles": [
+        "Your Horse won't go Forward?"
       ],
       "sections": [
         "qa"
