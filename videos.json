@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2654,
+  "count": 2672,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -44881,6 +44881,294 @@
       "thumbnail": "https://i.ytimg.com/vi/Ixz-HdxmrxE/hqdefault.jpg",
       "site_titles": [
         "English Tack and Equipment"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IxDWecimZC4",
+      "youtube_title": "Introducing the Turn on the Haunches (aka. walk pirouette)",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=IxDWecimZC4",
+      "embed_url": "https://www.youtube.com/embed/IxDWecimZC4",
+      "thumbnail": "https://i.ytimg.com/vi/IxDWecimZC4/hqdefault.jpg",
+      "site_titles": [
+        "Introducing the Turn on the Haunches (aka. walk pirouette)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6WzNLwlix8w",
+      "youtube_title": "Alex lesson on Chip 6/11/13- Spiral in/Spiral out",
+      "channel": "Mags Lombard",
+      "youtube_url": "https://www.youtube.com/watch?v=6WzNLwlix8w",
+      "embed_url": "https://www.youtube.com/embed/6WzNLwlix8w",
+      "thumbnail": "https://i.ytimg.com/vi/6WzNLwlix8w/hqdefault.jpg",
+      "site_titles": [
+        "Alex lesson on Chip 6/11/13- Spiral in/Spiral out"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gmS9MUDGe4U",
+      "youtube_title": "Starting lateral work - Real Life Young Horse Dressage Training - Leg Yield, Turn on the Forehand",
+      "channel": "HeartHorse Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=gmS9MUDGe4U",
+      "embed_url": "https://www.youtube.com/embed/gmS9MUDGe4U",
+      "thumbnail": "https://i.ytimg.com/vi/gmS9MUDGe4U/hqdefault.jpg",
+      "site_titles": [
+        "Starting lateral work - Real Life Young Horse Dressage Training - Leg Yield, Turn on the Forehand"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DWyfnEAu1kA",
+      "youtube_title": "The Turn on the Forehand",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=DWyfnEAu1kA",
+      "embed_url": "https://www.youtube.com/embed/DWyfnEAu1kA",
+      "thumbnail": "https://i.ytimg.com/vi/DWyfnEAu1kA/hqdefault.jpg",
+      "site_titles": [
+        "The Turn on the Forehand"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cFlgsts5aHw",
+      "youtube_title": "How To Soften A Stiff Horse With Clayton Edsall",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=cFlgsts5aHw",
+      "embed_url": "https://www.youtube.com/embed/cFlgsts5aHw",
+      "thumbnail": "https://i.ytimg.com/vi/cFlgsts5aHw/hqdefault.jpg",
+      "site_titles": [
+        "How To Soften A Stiff Horse With Clayton Edsall"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Od_prdupEN8",
+      "youtube_title": "Using Groundwork to Prepare a Young Horse to Move Off Your Legs - Episode 40 (Herm Gailey)",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=Od_prdupEN8",
+      "embed_url": "https://www.youtube.com/embed/Od_prdupEN8",
+      "thumbnail": "https://i.ytimg.com/vi/Od_prdupEN8/hqdefault.jpg",
+      "site_titles": [
+        "Using Groundwork to Prepare a Young Horse to Move Off Your Legs - Episode 40 (Herm Gailey)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7GGhmSePpdY",
+      "youtube_title": "PIVOT! Learn How to Pivot the Front and Hind End of Your Horse",
+      "channel": "The Midwest Cowgirl",
+      "youtube_url": "https://www.youtube.com/watch?v=7GGhmSePpdY",
+      "embed_url": "https://www.youtube.com/embed/7GGhmSePpdY",
+      "thumbnail": "https://i.ytimg.com/vi/7GGhmSePpdY/hqdefault.jpg",
+      "site_titles": [
+        "PIVOT! Learn How to Pivot the Front and Hind End of Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PLy4r70tSIQ",
+      "youtube_title": "4 WAYS To HELP Your Horse Turnaround BETTER & FASTER",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=PLy4r70tSIQ",
+      "embed_url": "https://www.youtube.com/embed/PLy4r70tSIQ",
+      "thumbnail": "https://i.ytimg.com/vi/PLy4r70tSIQ/hqdefault.jpg",
+      "site_titles": [
+        "4 WAYS To HELP Your Horse Turnaround BETTER & FASTER"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d6PCluNj2cM",
+      "youtube_title": "Make your pivots PERFECT for the show ring (simple fixes) // Wild Lily Horsemanship",
+      "channel": "Wild Lily Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=d6PCluNj2cM",
+      "embed_url": "https://www.youtube.com/embed/d6PCluNj2cM",
+      "thumbnail": "https://i.ytimg.com/vi/d6PCluNj2cM/hqdefault.jpg",
+      "site_titles": [
+        "Make your pivots PERFECT for the show ring (simple fixes) // Wild Lily Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B0idB5bpYLI",
+      "youtube_title": "Teaching Lateral Flexion",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=B0idB5bpYLI",
+      "embed_url": "https://www.youtube.com/embed/B0idB5bpYLI",
+      "thumbnail": "https://i.ytimg.com/vi/B0idB5bpYLI/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Lateral Flexion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qfy6-o-aC5Q",
+      "youtube_title": "How to Turn Your Horse",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=qfy6-o-aC5Q",
+      "embed_url": "https://www.youtube.com/embed/qfy6-o-aC5Q",
+      "thumbnail": "https://i.ytimg.com/vi/qfy6-o-aC5Q/hqdefault.jpg",
+      "site_titles": [
+        "How to Turn Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sTR1DsiZRws",
+      "youtube_title": "Lungeing on the Horse's Stiff Side",
+      "channel": "janearmour",
+      "youtube_url": "https://www.youtube.com/watch?v=sTR1DsiZRws",
+      "embed_url": "https://www.youtube.com/embed/sTR1DsiZRws",
+      "thumbnail": "https://i.ytimg.com/vi/sTR1DsiZRws/hqdefault.jpg",
+      "site_titles": [
+        "Lungeing on the Horse's Stiff Side"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SE1pILiyEkY",
+      "youtube_title": "How is your Haunches-In?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=SE1pILiyEkY",
+      "embed_url": "https://www.youtube.com/embed/SE1pILiyEkY",
+      "thumbnail": "https://i.ytimg.com/vi/SE1pILiyEkY/hqdefault.jpg",
+      "site_titles": [
+        "How is your Haunches-In?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "z7z9pjYSDpI",
+      "youtube_title": "Why Your Leg Yield Isn't Working (And How to Fix It)",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=z7z9pjYSDpI",
+      "embed_url": "https://www.youtube.com/embed/z7z9pjYSDpI",
+      "thumbnail": "https://i.ytimg.com/vi/z7z9pjYSDpI/hqdefault.jpg",
+      "site_titles": [
+        "Why Your Leg Yield Isn't Working (And How to Fix It)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KNamHhDcb5Q",
+      "youtube_title": "Turn on the Forehand Trouble Shooting",
+      "channel": "Tilefield Equestrian - Amanda Barton",
+      "youtube_url": "https://www.youtube.com/watch?v=KNamHhDcb5Q",
+      "embed_url": "https://www.youtube.com/embed/KNamHhDcb5Q",
+      "thumbnail": "https://i.ytimg.com/vi/KNamHhDcb5Q/hqdefault.jpg",
+      "site_titles": [
+        "Turn on the Forehand Trouble Shooting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uAx7XsfoK8g",
+      "youtube_title": "Straightness: Identify and Correct the Hollow and Stiff side",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=uAx7XsfoK8g",
+      "embed_url": "https://www.youtube.com/embed/uAx7XsfoK8g",
+      "thumbnail": "https://i.ytimg.com/vi/uAx7XsfoK8g/hqdefault.jpg",
+      "site_titles": [
+        "Straightness: Identify and Correct the Hollow and Stiff side"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "T4ott6NCtVg",
+      "youtube_title": "Leg Yield: How to Teach In-hand Lateral Work Using Clicker Training and a Target",
+      "channel": "Connection Training",
+      "youtube_url": "https://www.youtube.com/watch?v=T4ott6NCtVg",
+      "embed_url": "https://www.youtube.com/embed/T4ott6NCtVg",
+      "thumbnail": "https://i.ytimg.com/vi/T4ott6NCtVg/hqdefault.jpg",
+      "site_titles": [
+        "Leg Yield: How to Teach In-hand Lateral Work Using Clicker Training and a Target"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qd2pTmEXObo",
+      "youtube_title": "Turn On The Forehand VS Turn On The Haunches 🐴",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=qd2pTmEXObo",
+      "embed_url": "https://www.youtube.com/embed/qd2pTmEXObo",
+      "thumbnail": "https://i.ytimg.com/vi/qd2pTmEXObo/hqdefault.jpg",
+      "site_titles": [
+        "Turn On The Forehand VS Turn On The Haunches 🐴"
       ],
       "sections": [
         "qa"
