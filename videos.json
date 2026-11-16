@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 928,
+  "count": 1066,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -92,13 +92,6 @@
         "qa/horsemanship/should-i-start-my-horse-under-saddle-in-large-circles-at-least-60-feet-in-diamet/index.html",
         "qa/horsemanship/what-are-the-keys-to-halter-breaking-a-young-horse/index.html",
         "qa/mounting-dismounting/why-is-putting-weight-in-the-stirrups-a-good-idea-before-mounting-a-young-horse/index.html",
-        "qa/natural-horsemanship/how-do-you-develop-the-first-steering-on-a-colt/index.html",
-        "qa/natural-horsemanship/how-do-you-handle-a-buck-or-explosive-response-in-the-first-rides-on-a-colt/index.html",
-        "qa/natural-horsemanship/how-do-you-know-when-a-colt-is-genuinely-ready-for-its-first-ride/index.html",
-        "qa/natural-horsemanship/how-do-you-prepare-a-colt-mentally-before-the-first-ride/index.html",
-        "qa/natural-horsemanship/what-are-the-most-common-mistakes-in-starting-colts/index.html",
-        "qa/natural-horsemanship/what-did-traditional-horse-breaking-look-like-before-natural-horsemanship/index.html",
-        "qa/natural-horsemanship/what-is-the-natural-horsemanship-approach-to-starting-a-colt/index.html",
         "qa/safety/what-are-some-tips-for-young-horses-that-have-begun-to-buck/index.html",
         "qa/safety/what-are-the-basics-to-getting-a-young-horse-to-not-buck/index.html",
         "qa/safety/what-are-the-best-tips-for-preventing-bucking-with-a-green-horse/index.html",
@@ -202,12 +195,6 @@
         "qa/equipment/what-is-the-difference-between-a-show-shank-curb-and-a-long-shank-curb-and-how-d/index.html",
         "qa/horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/horsemanship/what-is-the-importance-of-feel-and-timing-in-riding/index.html",
-        "qa/natural-horsemanship/how-are-feel-timing-and-balance-connected-to-each-other/index.html",
-        "qa/natural-horsemanship/how-does-feel-differ-from-technique-in-horse-training/index.html",
-        "qa/natural-horsemanship/what-does-it-feel-like-when-you-have-good-timing-versus-poor-timing-in-horse-tra/index.html",
-        "qa/natural-horsemanship/what-does-it-look-like-when-a-rider-has-exceptional-feel/index.html",
-        "qa/natural-horsemanship/what-does-timing-mean-in-natural-horsemanship/index.html",
-        "qa/natural-horsemanship/what-is-timing-in-natural-horsemanship-and-why-is-it-the-most-important-skill/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
@@ -338,8 +325,6 @@
         "qa/groundwork-longing/is-lunging-bad-for-young-horses/index.html",
         "qa/horsemanship/what-are-the-tips-for-trailer-loading-a-young-horse/index.html",
         "qa/horsemanship/when-should-you-start-wearing-spurs-on-a-young-horse-in-training/index.html",
-        "qa/natural-horsemanship/what-does-the-natural-horsemanship-tradition-say-about-the-timeline-for-starting/index.html",
-        "qa/natural-horsemanship/what-is-martin-blacks-approach-to-starting-colts/index.html",
         "qa/obstacle-training/can-obstacle-training-help-young-horses/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
         "qa/training-principles/how-do-you-determine-the-right-training-pace-for-an-individual-green-horse/index.html",
@@ -404,7 +389,6 @@
         "qa/hunter-jumper/how-do-you-build-confidence-in-a-horse-that-is-nervous-about-jumping/index.html",
         "qa/hunter-jumper/how-do-you-fix-a-horse-that-spooks-at-fences/index.html",
         "qa/lateral-work-suppling/index.html",
-        "qa/natural-horsemanship/how-does-natural-horsemanship-address-a-spooky-horse/index.html",
         "qa/obstacle-training/how-do-you-teach-a-horse-to-stand-calmly-by-a-mailbox/index.html",
         "qa/problem-solving-under-saddle/how-do-you-ride-a-horse-through-a-spook-safely-without-making-it-worse/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
@@ -1120,7 +1104,6 @@
         "colt-starting/first-60-days-under-saddle/index.html",
         "qa/gaits/index.html",
         "qa/horsemanship/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
-        "qa/natural-horsemanship/what-does-a-good-first-ride-look-like-in-natural-horsemanship/index.html",
         "qa/training-principles/how-do-you-handle-a-horses-first-trotting-session-under-saddle/index.html",
         "qa/training-principles/why-is-it-important-to-keep-your-horse-from-being-bored-during-the-first-few-rid/index.html",
         "qa/wild-horse-training/what-does-the-first-ride-on-a-wild-horse-look-like/index.html"
@@ -1245,7 +1228,6 @@
         "problem-horse/bolting/index.html",
         "problem-horse/no-whoa-runaway-horse/index.html",
         "qa/mounting-dismounting/how-does-anderson-teach-the-one-rein-stop-as-it-applies-to-the-moment-of-mountin/index.html",
-        "qa/natural-horsemanship/how-do-you-develop-the-first-stop-on-a-colt/index.html",
         "qa/reining/what-is-the-safest-way-to-start-reining/index.html",
         "qa/safety/index.html",
         "qa/training-principles/what-do-you-do-when-a-horse-wont-stop/index.html",
@@ -17475,6 +17457,2214 @@
       "thumbnail": "https://i.ytimg.com/vi/zOUjUB8e1qM/hqdefault.jpg",
       "site_titles": [
         "Tighten the Cinch Correctly & Neck Reining Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wXDkczgEHQQ",
+      "youtube_title": "The Importance of Feel — Horsemanship",
+      "channel": "Dressage Horsemanship by Kenda",
+      "youtube_url": "https://www.youtube.com/watch?v=wXDkczgEHQQ",
+      "embed_url": "https://www.youtube.com/embed/wXDkczgEHQQ",
+      "thumbnail": "https://i.ytimg.com/vi/wXDkczgEHQQ/hqdefault.jpg",
+      "site_titles": [
+        "The Importance of Feel — Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BC0qxZxhAJw",
+      "youtube_title": "Natural Horsemanship Versus Traditional Horse Training (Episode 162) - Herm Gailey",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=BC0qxZxhAJw",
+      "embed_url": "https://www.youtube.com/embed/BC0qxZxhAJw",
+      "thumbnail": "https://i.ytimg.com/vi/BC0qxZxhAJw/hqdefault.jpg",
+      "site_titles": [
+        "Natural Horsemanship Versus Traditional Horse Training (Episode 162) - Herm Gailey"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NxohNgdlouU",
+      "youtube_title": "What is feel in  horsemanship - Hair Skin Muscle Bone - Rick Gore Horsemanship",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=NxohNgdlouU",
+      "embed_url": "https://www.youtube.com/embed/NxohNgdlouU",
+      "thumbnail": "https://i.ytimg.com/vi/NxohNgdlouU/hqdefault.jpg",
+      "site_titles": [
+        "What is feel in horsemanship - Hair Skin Muscle Bone - Rick Gore Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YeYJ1f1dvAs",
+      "youtube_title": "Horsemanship cannot be quantified by titles - ask your horse.",
+      "channel": "Vaquero Ontario",
+      "youtube_url": "https://www.youtube.com/watch?v=YeYJ1f1dvAs",
+      "embed_url": "https://www.youtube.com/embed/YeYJ1f1dvAs",
+      "thumbnail": "https://i.ytimg.com/vi/YeYJ1f1dvAs/hqdefault.jpg",
+      "site_titles": [
+        "Horsemanship cannot be quantified by titles - ask your horse."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zXGLMEpXAr0",
+      "youtube_title": "Round Pen Basics: Control",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=zXGLMEpXAr0",
+      "embed_url": "https://www.youtube.com/embed/zXGLMEpXAr0",
+      "thumbnail": "https://i.ytimg.com/vi/zXGLMEpXAr0/hqdefault.jpg",
+      "site_titles": [
+        "Round Pen Basics: Control"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "syXenEXBcAc",
+      "youtube_title": "Monty Roberts remembers Queen Elizabeth II",
+      "channel": "FOX 11 Los Angeles",
+      "youtube_url": "https://www.youtube.com/watch?v=syXenEXBcAc",
+      "embed_url": "https://www.youtube.com/embed/syXenEXBcAc",
+      "thumbnail": "https://i.ytimg.com/vi/syXenEXBcAc/hqdefault.jpg",
+      "site_titles": [
+        "Monty Roberts remembers Queen Elizabeth II"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bLdLCDU6fd8",
+      "youtube_title": "Ray Hunt: Colt Starting, San Antonio, TX aroudn 1982",
+      "channel": "MikeThomasHorsemen",
+      "youtube_url": "https://www.youtube.com/watch?v=bLdLCDU6fd8",
+      "embed_url": "https://www.youtube.com/embed/bLdLCDU6fd8",
+      "thumbnail": "https://i.ytimg.com/vi/bLdLCDU6fd8/hqdefault.jpg",
+      "site_titles": [
+        "Ray Hunt: Colt Starting, San Antonio, TX aroudn 1982"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3DBCGKHgWFY",
+      "youtube_title": "Ray Hunt Colt Starting, San Antonio, TX",
+      "channel": "MikeThomasHorsemen",
+      "youtube_url": "https://www.youtube.com/watch?v=3DBCGKHgWFY",
+      "embed_url": "https://www.youtube.com/embed/3DBCGKHgWFY",
+      "thumbnail": "https://i.ytimg.com/vi/3DBCGKHgWFY/hqdefault.jpg",
+      "site_titles": [
+        "Ray Hunt Colt Starting, San Antonio, TX"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zYNVBeoJrXI",
+      "youtube_title": "Tom Dorrance on knowing when to quit asking the horse",
+      "channel": "Arash Blookbashi",
+      "youtube_url": "https://www.youtube.com/watch?v=zYNVBeoJrXI",
+      "embed_url": "https://www.youtube.com/embed/zYNVBeoJrXI",
+      "thumbnail": "https://i.ytimg.com/vi/zYNVBeoJrXI/hqdefault.jpg",
+      "site_titles": [
+        "Tom Dorrance on knowing when to quit asking the horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pjBondpRaz4",
+      "youtube_title": "The Vaquero",
+      "channel": "Rick Lamb",
+      "youtube_url": "https://www.youtube.com/watch?v=pjBondpRaz4",
+      "embed_url": "https://www.youtube.com/embed/pjBondpRaz4",
+      "thumbnail": "https://i.ytimg.com/vi/pjBondpRaz4/hqdefault.jpg",
+      "site_titles": [
+        "The Vaquero"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D0gmCsTxz6s",
+      "youtube_title": "7 Clinics with Buck Brannaman - what Buck Learned from “Ray Hunt”",
+      "channel": "Arash Blookbashi",
+      "youtube_url": "https://www.youtube.com/watch?v=D0gmCsTxz6s",
+      "embed_url": "https://www.youtube.com/embed/D0gmCsTxz6s",
+      "thumbnail": "https://i.ytimg.com/vi/D0gmCsTxz6s/hqdefault.jpg",
+      "site_titles": [
+        "7 Clinics with Buck Brannaman - what Buck Learned from “Ray Hunt”"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7tNqYhmGf1Q",
+      "youtube_title": "Sneak Preview of \"Through The Corral Fence with Tom Dorrance\"",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=7tNqYhmGf1Q",
+      "embed_url": "https://www.youtube.com/embed/7tNqYhmGf1Q",
+      "thumbnail": "https://i.ytimg.com/vi/7tNqYhmGf1Q/hqdefault.jpg",
+      "site_titles": [
+        "Sneak Preview of \"Through The Corral Fence with Tom Dorrance\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GTJwfyHgaMQ",
+      "youtube_title": "Horsemanship: The Lesson of Tom Dorrance's Glove (Episode 239) - Herm Gailey",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=GTJwfyHgaMQ",
+      "embed_url": "https://www.youtube.com/embed/GTJwfyHgaMQ",
+      "thumbnail": "https://i.ytimg.com/vi/GTJwfyHgaMQ/hqdefault.jpg",
+      "site_titles": [
+        "Horsemanship: The Lesson of Tom Dorrance's Glove (Episode 239) - Herm Gailey"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H4k_cEi9nqY",
+      "youtube_title": "The Unsurpassed Original Horse Clinician: Tom Dorrance",
+      "channel": "Broomtail Country",
+      "youtube_url": "https://www.youtube.com/watch?v=H4k_cEi9nqY",
+      "embed_url": "https://www.youtube.com/embed/H4k_cEi9nqY",
+      "thumbnail": "https://i.ytimg.com/vi/H4k_cEi9nqY/hqdefault.jpg",
+      "site_titles": [
+        "The Unsurpassed Original Horse Clinician: Tom Dorrance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "u8h-6SOzYFM",
+      "youtube_title": "Sneak Preview of Building a Foundation with Tom Dorrance Colt Starting and Beyond",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=u8h-6SOzYFM",
+      "embed_url": "https://www.youtube.com/embed/u8h-6SOzYFM",
+      "thumbnail": "https://i.ytimg.com/vi/u8h-6SOzYFM/hqdefault.jpg",
+      "site_titles": [
+        "Sneak Preview of Building a Foundation with Tom Dorrance Colt Starting and Beyond"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "m_iS7P4WtaU",
+      "youtube_title": "Fundamentals of Horsemanship -- Pressure and Release",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=m_iS7P4WtaU",
+      "embed_url": "https://www.youtube.com/embed/m_iS7P4WtaU",
+      "thumbnail": "https://i.ytimg.com/vi/m_iS7P4WtaU/hqdefault.jpg",
+      "site_titles": [
+        "Fundamentals of Horsemanship -- Pressure and Release"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wb05NyTQ9r8",
+      "youtube_title": "How To Actually Develop Feel | Classical Dressage Explained",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=wb05NyTQ9r8",
+      "embed_url": "https://www.youtube.com/embed/wb05NyTQ9r8",
+      "thumbnail": "https://i.ytimg.com/vi/wb05NyTQ9r8/hqdefault.jpg",
+      "site_titles": [
+        "How To Actually Develop Feel | Classical Dressage Explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9kSKfzcIkWA",
+      "youtube_title": "Your Bucking Horse Isn't Being Disobedient—Here's Why | Ep. 5 The Horse Tamer (Grace & Bella)",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=9kSKfzcIkWA",
+      "embed_url": "https://www.youtube.com/embed/9kSKfzcIkWA",
+      "thumbnail": "https://i.ytimg.com/vi/9kSKfzcIkWA/hqdefault.jpg",
+      "site_titles": [
+        "Your Bucking Horse Isn't Being Disobedient—Here's Why | Ep. 5 The Horse Tamer (Grace & Bella)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tDfuC3yC1Tw",
+      "youtube_title": "Is Your Horse Reacting or Responding? The Pat Parelli Difference",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=tDfuC3yC1Tw",
+      "embed_url": "https://www.youtube.com/embed/tDfuC3yC1Tw",
+      "thumbnail": "https://i.ytimg.com/vi/tDfuC3yC1Tw/hqdefault.jpg",
+      "site_titles": [
+        "Is Your Horse Reacting or Responding? The Pat Parelli Difference"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "52heP0T1iH4",
+      "youtube_title": "Struggling with Rein Length and Contact?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=52heP0T1iH4",
+      "embed_url": "https://www.youtube.com/embed/52heP0T1iH4",
+      "thumbnail": "https://i.ytimg.com/vi/52heP0T1iH4/hqdefault.jpg",
+      "site_titles": [
+        "Struggling with Rein Length and Contact?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XsKUxLi_eP8",
+      "youtube_title": "Nervous system regulation is the key to outstanding results and success with horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=XsKUxLi_eP8",
+      "embed_url": "https://www.youtube.com/embed/XsKUxLi_eP8",
+      "thumbnail": "https://i.ytimg.com/vi/XsKUxLi_eP8/hqdefault.jpg",
+      "site_titles": [
+        "Nervous system regulation is the key to outstanding results and success with horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5l5yLZLGOW8",
+      "youtube_title": "Fixing a  problem under saddle with groundwork",
+      "channel": "Brendon Clark",
+      "youtube_url": "https://www.youtube.com/watch?v=5l5yLZLGOW8",
+      "embed_url": "https://www.youtube.com/embed/5l5yLZLGOW8",
+      "thumbnail": "https://i.ytimg.com/vi/5l5yLZLGOW8/hqdefault.jpg",
+      "site_titles": [
+        "Fixing a problem under saddle with groundwork"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RlJBbrPsWIA",
+      "youtube_title": "With Pressure And Release Horse Training, Release Is NOT Reward",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=RlJBbrPsWIA",
+      "embed_url": "https://www.youtube.com/embed/RlJBbrPsWIA",
+      "thumbnail": "https://i.ytimg.com/vi/RlJBbrPsWIA/hqdefault.jpg",
+      "site_titles": [
+        "With Pressure And Release Horse Training, Release Is NOT Reward"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N2rSbY8CcuU",
+      "youtube_title": "Buck Brannaman Clinic, Soft Feel",
+      "channel": "MikeThomasHorsemen",
+      "youtube_url": "https://www.youtube.com/watch?v=N2rSbY8CcuU",
+      "embed_url": "https://www.youtube.com/embed/N2rSbY8CcuU",
+      "thumbnail": "https://i.ytimg.com/vi/N2rSbY8CcuU/hqdefault.jpg",
+      "site_titles": [
+        "Buck Brannaman Clinic, Soft Feel"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YmmG3Jd2AB0",
+      "youtube_title": "Lunging for Respect, Stage 1 With Donald",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=YmmG3Jd2AB0",
+      "embed_url": "https://www.youtube.com/embed/YmmG3Jd2AB0",
+      "thumbnail": "https://i.ytimg.com/vi/YmmG3Jd2AB0/hqdefault.jpg",
+      "site_titles": [
+        "Lunging for Respect, Stage 1 With Donald"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D09XuvQVQTI",
+      "youtube_title": "Clinton Anderson Presents: Change For A Bucking Problem",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=D09XuvQVQTI",
+      "embed_url": "https://www.youtube.com/embed/D09XuvQVQTI",
+      "thumbnail": "https://i.ytimg.com/vi/D09XuvQVQTI/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson Presents: Change For A Bucking Problem"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dANdwjHWdYA",
+      "youtube_title": "The 3 Energies Every Horse Feels (Push • Block • Draw)",
+      "channel": "Mind Your Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=dANdwjHWdYA",
+      "embed_url": "https://www.youtube.com/embed/dANdwjHWdYA",
+      "thumbnail": "https://i.ytimg.com/vi/dANdwjHWdYA/hqdefault.jpg",
+      "site_titles": [
+        "The 3 Energies Every Horse Feels (Push • Block • Draw)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ScpTZQtV6hA",
+      "youtube_title": "How Does Groundwork Relate To Riding?",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=ScpTZQtV6hA",
+      "embed_url": "https://www.youtube.com/embed/ScpTZQtV6hA",
+      "thumbnail": "https://i.ytimg.com/vi/ScpTZQtV6hA/hqdefault.jpg",
+      "site_titles": [
+        "How Does Groundwork Relate To Riding?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "x4ysFTBNFXA",
+      "youtube_title": "Unbroke Horse: Connecting Reins to Hips/Shoulders to Hips",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=x4ysFTBNFXA",
+      "embed_url": "https://www.youtube.com/embed/x4ysFTBNFXA",
+      "thumbnail": "https://i.ytimg.com/vi/x4ysFTBNFXA/hqdefault.jpg",
+      "site_titles": [
+        "Unbroke Horse: Connecting Reins to Hips/Shoulders to Hips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N5X7iss69II",
+      "youtube_title": "Martin Black - The Two Rein",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=N5X7iss69II",
+      "embed_url": "https://www.youtube.com/embed/N5X7iss69II",
+      "thumbnail": "https://i.ytimg.com/vi/N5X7iss69II/hqdefault.jpg",
+      "site_titles": [
+        "Martin Black - The Two Rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NFmRus56miQ",
+      "youtube_title": "Martin Black - The Bridle",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=NFmRus56miQ",
+      "embed_url": "https://www.youtube.com/embed/NFmRus56miQ",
+      "thumbnail": "https://i.ytimg.com/vi/NFmRus56miQ/hqdefault.jpg",
+      "site_titles": [
+        "Martin Black - The Bridle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "plNpDlP0aME",
+      "youtube_title": "EP 36: Deep Roots in Horsemanship: Martin Black's Legacy",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=plNpDlP0aME",
+      "embed_url": "https://www.youtube.com/embed/plNpDlP0aME",
+      "thumbnail": "https://i.ytimg.com/vi/plNpDlP0aME/hqdefault.jpg",
+      "site_titles": [
+        "EP 36: Deep Roots in Horsemanship: Martin Black's Legacy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0vTJugnHwos",
+      "youtube_title": "Part I: Monty Roberts on Violence-Free Training and Horse Protection--Episode 20",
+      "channel": "Animal Wellness Action",
+      "youtube_url": "https://www.youtube.com/watch?v=0vTJugnHwos",
+      "embed_url": "https://www.youtube.com/embed/0vTJugnHwos",
+      "thumbnail": "https://i.ytimg.com/vi/0vTJugnHwos/hqdefault.jpg",
+      "site_titles": [
+        "Part I: Monty Roberts on Violence-Free Training and Horse Protection--Episode 20"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MoeuBCc7TgA",
+      "youtube_title": "Incredible Transformation of a Bucking Horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=MoeuBCc7TgA",
+      "embed_url": "https://www.youtube.com/embed/MoeuBCc7TgA",
+      "thumbnail": "https://i.ytimg.com/vi/MoeuBCc7TgA/hqdefault.jpg",
+      "site_titles": [
+        "Incredible Transformation of a Bucking Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VxO4LUBKh2A",
+      "youtube_title": "The Principles of Training Season 3 Episode 8: \"Catching a Hard to Catch Horse\"",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=VxO4LUBKh2A",
+      "embed_url": "https://www.youtube.com/embed/VxO4LUBKh2A",
+      "thumbnail": "https://i.ytimg.com/vi/VxO4LUBKh2A/hqdefault.jpg",
+      "site_titles": [
+        "The Principles of Training Season 3 Episode 8: \"Catching a Hard to Catch Horse\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gyV185Iw1qE",
+      "youtube_title": "The Truth About Pulling on a Snaffle Bit",
+      "channel": "A Davis HORSEMANSHIP As An ART",
+      "youtube_url": "https://www.youtube.com/watch?v=gyV185Iw1qE",
+      "embed_url": "https://www.youtube.com/embed/gyV185Iw1qE",
+      "thumbnail": "https://i.ytimg.com/vi/gyV185Iw1qE/hqdefault.jpg",
+      "site_titles": [
+        "The Truth About Pulling on a Snaffle Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FGjXiSR0Qu4",
+      "youtube_title": "How To Lead So Your Horse Will Willingly Follow",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=FGjXiSR0Qu4",
+      "embed_url": "https://www.youtube.com/embed/FGjXiSR0Qu4",
+      "thumbnail": "https://i.ytimg.com/vi/FGjXiSR0Qu4/hqdefault.jpg",
+      "site_titles": [
+        "How To Lead So Your Horse Will Willingly Follow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ymzHNpi9Mvg",
+      "youtube_title": "Trailer loading  - Ray Hunt",
+      "channel": "Keith Valley",
+      "youtube_url": "https://www.youtube.com/watch?v=ymzHNpi9Mvg",
+      "embed_url": "https://www.youtube.com/embed/ymzHNpi9Mvg",
+      "thumbnail": "https://i.ytimg.com/vi/ymzHNpi9Mvg/hqdefault.jpg",
+      "site_titles": [
+        "Trailer loading - Ray Hunt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hhD8ZN_ML7M",
+      "youtube_title": "Training horse not to walk off when mounting - Clinton Anderson",
+      "channel": "HorseCity",
+      "youtube_url": "https://www.youtube.com/watch?v=hhD8ZN_ML7M",
+      "embed_url": "https://www.youtube.com/embed/hhD8ZN_ML7M",
+      "thumbnail": "https://i.ytimg.com/vi/hhD8ZN_ML7M/hqdefault.jpg",
+      "site_titles": [
+        "Training horse not to walk off when mounting - Clinton Anderson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hP08cJqOdw8",
+      "youtube_title": "The Parelli Levels Program",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=hP08cJqOdw8",
+      "embed_url": "https://www.youtube.com/embed/hP08cJqOdw8",
+      "thumbnail": "https://i.ytimg.com/vi/hP08cJqOdw8/hqdefault.jpg",
+      "site_titles": [
+        "The Parelli Levels Program"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4pkQpJpZMYY",
+      "youtube_title": "Pt 1 - Pressure & Release With Buddy - Explaining Feel, Softness & Timing",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=4pkQpJpZMYY",
+      "embed_url": "https://www.youtube.com/embed/4pkQpJpZMYY",
+      "thumbnail": "https://i.ytimg.com/vi/4pkQpJpZMYY/hqdefault.jpg",
+      "site_titles": [
+        "Pt 1 - Pressure & Release With Buddy - Explaining Feel, Softness & Timing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LgBNBiv5_Yk",
+      "youtube_title": "Bitting and Bridling - with Ray Hunt",
+      "channel": "Vaquero Ontario",
+      "youtube_url": "https://www.youtube.com/watch?v=LgBNBiv5_Yk",
+      "embed_url": "https://www.youtube.com/embed/LgBNBiv5_Yk",
+      "thumbnail": "https://i.ytimg.com/vi/LgBNBiv5_Yk/hqdefault.jpg",
+      "site_titles": [
+        "Bitting and Bridling - with Ray Hunt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ckVQhlnAhRY",
+      "youtube_title": "Timing your release can encourage your horse to go faster or slower",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=ckVQhlnAhRY",
+      "embed_url": "https://www.youtube.com/embed/ckVQhlnAhRY",
+      "thumbnail": "https://i.ytimg.com/vi/ckVQhlnAhRY/hqdefault.jpg",
+      "site_titles": [
+        "Timing your release can encourage your horse to go faster or slower"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wbOl0Vc4faY",
+      "youtube_title": "California vaquero bridle horse",
+      "channel": "Jeff Sanders Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=wbOl0Vc4faY",
+      "embed_url": "https://www.youtube.com/embed/wbOl0Vc4faY",
+      "thumbnail": "https://i.ytimg.com/vi/wbOl0Vc4faY/hqdefault.jpg",
+      "site_titles": [
+        "California vaquero bridle horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "frFgEArK3MQ",
+      "youtube_title": "Avoiding stored trauma in horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=frFgEArK3MQ",
+      "embed_url": "https://www.youtube.com/embed/frFgEArK3MQ",
+      "thumbnail": "https://i.ytimg.com/vi/frFgEArK3MQ/hqdefault.jpg",
+      "site_titles": [
+        "Avoiding stored trauma in horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kZr-aV71ysE",
+      "youtube_title": "Lunging for Respect Stage Three: An Advanced Level Exercise",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=kZr-aV71ysE",
+      "embed_url": "https://www.youtube.com/embed/kZr-aV71ysE",
+      "thumbnail": "https://i.ytimg.com/vi/kZr-aV71ysE/hqdefault.jpg",
+      "site_titles": [
+        "Lunging for Respect Stage Three: An Advanced Level Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "C90glQdvwfw",
+      "youtube_title": "Horses Explained: The Horse’s Brain",
+      "channel": "World Horse Welfare Education",
+      "youtube_url": "https://www.youtube.com/watch?v=C90glQdvwfw",
+      "embed_url": "https://www.youtube.com/embed/C90glQdvwfw",
+      "thumbnail": "https://i.ytimg.com/vi/C90glQdvwfw/hqdefault.jpg",
+      "site_titles": [
+        "Horses Explained: The Horse’s Brain"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ovSjju2-HmQ",
+      "youtube_title": "The Truth Behind Natural Horsemanship",
+      "channel": "Susan Harden I Live and Breathe Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=ovSjju2-HmQ",
+      "embed_url": "https://www.youtube.com/embed/ovSjju2-HmQ",
+      "thumbnail": "https://i.ytimg.com/vi/ovSjju2-HmQ/hqdefault.jpg",
+      "site_titles": [
+        "The Truth Behind Natural Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1qT3nTgmly4",
+      "youtube_title": "Clarifying Learning Theory Terminology in Order to Enhance \"Fair\" Horse Training",
+      "channel": "MyHorseUniversity",
+      "youtube_url": "https://www.youtube.com/watch?v=1qT3nTgmly4",
+      "embed_url": "https://www.youtube.com/embed/1qT3nTgmly4",
+      "thumbnail": "https://i.ytimg.com/vi/1qT3nTgmly4/hqdefault.jpg",
+      "site_titles": [
+        "Clarifying Learning Theory Terminology in Order to Enhance \"Fair\" Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "S5Fptmd3RKI",
+      "youtube_title": "Warwick Schiller: The Evolution of Horsemanship",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=S5Fptmd3RKI",
+      "embed_url": "https://www.youtube.com/embed/S5Fptmd3RKI",
+      "thumbnail": "https://i.ytimg.com/vi/S5Fptmd3RKI/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: The Evolution of Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CB-WrOL6caI",
+      "youtube_title": "Part 2:  Natural Horsemanship Versus Traditional Horse Training (Episode 163) - Herm Gailey",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=CB-WrOL6caI",
+      "embed_url": "https://www.youtube.com/embed/CB-WrOL6caI",
+      "thumbnail": "https://i.ytimg.com/vi/CB-WrOL6caI/hqdefault.jpg",
+      "site_titles": [
+        "Part 2: Natural Horsemanship Versus Traditional Horse Training (Episode 163) - Herm Gailey"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-tkcyr8SD70",
+      "youtube_title": "Snaffle To Bridle: How And When To Take The Next Step",
+      "channel": "Bucking K Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=-tkcyr8SD70",
+      "embed_url": "https://www.youtube.com/embed/-tkcyr8SD70",
+      "thumbnail": "https://i.ytimg.com/vi/-tkcyr8SD70/hqdefault.jpg",
+      "site_titles": [
+        "Snaffle To Bridle: How And When To Take The Next Step"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QrO6xIFBkKc",
+      "youtube_title": "Natural Horsemanship Basics",
+      "channel": "kjatkinson73",
+      "youtube_url": "https://www.youtube.com/watch?v=QrO6xIFBkKc",
+      "embed_url": "https://www.youtube.com/embed/QrO6xIFBkKc",
+      "thumbnail": "https://i.ytimg.com/vi/QrO6xIFBkKc/hqdefault.jpg",
+      "site_titles": [
+        "Natural Horsemanship Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0TT87Bj6Kyc",
+      "youtube_title": "Natural Horsemanship at it's best",
+      "channel": "Hannah",
+      "youtube_url": "https://www.youtube.com/watch?v=0TT87Bj6Kyc",
+      "embed_url": "https://www.youtube.com/embed/0TT87Bj6Kyc",
+      "thumbnail": "https://i.ytimg.com/vi/0TT87Bj6Kyc/hqdefault.jpg",
+      "site_titles": [
+        "Natural Horsemanship at it's best"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PrKSd4g5by4",
+      "youtube_title": "Horse Training - Understanding Pressure and Release 1",
+      "channel": "Norm Glenn Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=PrKSd4g5by4",
+      "embed_url": "https://www.youtube.com/embed/PrKSd4g5by4",
+      "thumbnail": "https://i.ytimg.com/vi/PrKSd4g5by4/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training - Understanding Pressure and Release 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "alLFNyb6YEo",
+      "youtube_title": "Why the Savvy String Matters | Parelli Essentials",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=alLFNyb6YEo",
+      "embed_url": "https://www.youtube.com/embed/alLFNyb6YEo",
+      "thumbnail": "https://i.ytimg.com/vi/alLFNyb6YEo/hqdefault.jpg",
+      "site_titles": [
+        "Why the Savvy String Matters | Parelli Essentials"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oiBoOjOEntA",
+      "youtube_title": "5 Principles You MUST KNOW When Training With Pressure",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=oiBoOjOEntA",
+      "embed_url": "https://www.youtube.com/embed/oiBoOjOEntA",
+      "thumbnail": "https://i.ytimg.com/vi/oiBoOjOEntA/hqdefault.jpg",
+      "site_titles": [
+        "5 Principles You MUST KNOW When Training With Pressure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "33cgTu8_lZE",
+      "youtube_title": "Parelli 7Games in 4Minutes",
+      "channel": "patricia mock",
+      "youtube_url": "https://www.youtube.com/watch?v=33cgTu8_lZE",
+      "embed_url": "https://www.youtube.com/embed/33cgTu8_lZE",
+      "thumbnail": "https://i.ytimg.com/vi/33cgTu8_lZE/hqdefault.jpg",
+      "site_titles": [
+        "Parelli 7Games in 4Minutes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lX_OdwD7Po8",
+      "youtube_title": "Never Do These Horrible Natural Horsemanship Exercises Again (If You Like Your Horse)",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=lX_OdwD7Po8",
+      "embed_url": "https://www.youtube.com/embed/lX_OdwD7Po8",
+      "thumbnail": "https://i.ytimg.com/vi/lX_OdwD7Po8/hqdefault.jpg",
+      "site_titles": [
+        "Never Do These Horrible Natural Horsemanship Exercises Again (If You Like Your Horse)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BbxKotNcDTk",
+      "youtube_title": "5 MORE Horrible Natural Horsemanship Exercises You Should Never Do Again!",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=BbxKotNcDTk",
+      "embed_url": "https://www.youtube.com/embed/BbxKotNcDTk",
+      "thumbnail": "https://i.ytimg.com/vi/BbxKotNcDTk/hqdefault.jpg",
+      "site_titles": [
+        "5 MORE Horrible Natural Horsemanship Exercises You Should Never Do Again!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G76sOQ8d0DY",
+      "youtube_title": "California Vaquero Bridle horse: Basic Rein Handling",
+      "channel": "Jeff Sanders Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=G76sOQ8d0DY",
+      "embed_url": "https://www.youtube.com/embed/G76sOQ8d0DY",
+      "thumbnail": "https://i.ytimg.com/vi/G76sOQ8d0DY/hqdefault.jpg",
+      "site_titles": [
+        "California Vaquero Bridle horse: Basic Rein Handling"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IH9BwrjtbbE",
+      "youtube_title": "Ray Hunt on working with horses ",
+      "channel": "Arash Blookbashi",
+      "youtube_url": "https://www.youtube.com/watch?v=IH9BwrjtbbE",
+      "embed_url": "https://www.youtube.com/embed/IH9BwrjtbbE",
+      "thumbnail": "https://i.ytimg.com/vi/IH9BwrjtbbE/hqdefault.jpg",
+      "site_titles": [
+        "Ray Hunt on working with horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iisjlhCUXDM",
+      "youtube_title": "Tom Dorrance - Feel, Timing and Balance",
+      "channel": "John Saint Ryan",
+      "youtube_url": "https://www.youtube.com/watch?v=iisjlhCUXDM",
+      "embed_url": "https://www.youtube.com/embed/iisjlhCUXDM",
+      "thumbnail": "https://i.ytimg.com/vi/iisjlhCUXDM/hqdefault.jpg",
+      "site_titles": [
+        "Tom Dorrance - Feel, Timing and Balance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K9LuYDzDj6A",
+      "youtube_title": "How Native Americans Broke Wild Horses (Comanche/Flathead Tribes)",
+      "channel": "Frontier Life",
+      "youtube_url": "https://www.youtube.com/watch?v=K9LuYDzDj6A",
+      "embed_url": "https://www.youtube.com/embed/K9LuYDzDj6A",
+      "thumbnail": "https://i.ytimg.com/vi/K9LuYDzDj6A/hqdefault.jpg",
+      "site_titles": [
+        "How Native Americans Broke Wild Horses (Comanche/Flathead Tribes)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pySZLo1VE6E",
+      "youtube_title": "Understanding Horse Behavior: What Your Horse’s Ears Are Actually Saying",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=pySZLo1VE6E",
+      "embed_url": "https://www.youtube.com/embed/pySZLo1VE6E",
+      "thumbnail": "https://i.ytimg.com/vi/pySZLo1VE6E/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Horse Behavior: What Your Horse’s Ears Are Actually Saying"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6_K0os5FSsE",
+      "youtube_title": "IS YOUR HORSE TRYING TO SAY THIS? 17 HIDDEN FACIAL EXPRESSIONS! 🐎",
+      "channel": "What Your Horse Knows",
+      "youtube_url": "https://www.youtube.com/watch?v=6_K0os5FSsE",
+      "embed_url": "https://www.youtube.com/embed/6_K0os5FSsE",
+      "thumbnail": "https://i.ytimg.com/vi/6_K0os5FSsE/hqdefault.jpg",
+      "site_titles": [
+        "IS YOUR HORSE TRYING TO SAY THIS? 17 HIDDEN FACIAL EXPRESSIONS! 🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0gNQis-u7FA",
+      "youtube_title": "The Biggest Misunderstanding In The Horse World - Posture Vs Conformation",
+      "channel": "Tara Osborn",
+      "youtube_url": "https://www.youtube.com/watch?v=0gNQis-u7FA",
+      "embed_url": "https://www.youtube.com/embed/0gNQis-u7FA",
+      "thumbnail": "https://i.ytimg.com/vi/0gNQis-u7FA/hqdefault.jpg",
+      "site_titles": [
+        "The Biggest Misunderstanding In The Horse World - Posture Vs Conformation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MUlb3jLLHQU",
+      "youtube_title": "Clinton Reacts: A Healthy Respect for How Powerful Horses Are",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=MUlb3jLLHQU",
+      "embed_url": "https://www.youtube.com/embed/MUlb3jLLHQU",
+      "thumbnail": "https://i.ytimg.com/vi/MUlb3jLLHQU/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Reacts: A Healthy Respect for How Powerful Horses Are"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2KTnNc2nmrM",
+      "youtube_title": "Best Start for the Unbroke Horse Series: Simplifying Cues - Legs and Reins",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=2KTnNc2nmrM",
+      "embed_url": "https://www.youtube.com/embed/2KTnNc2nmrM",
+      "thumbnail": "https://i.ytimg.com/vi/2KTnNc2nmrM/hqdefault.jpg",
+      "site_titles": [
+        "Best Start for the Unbroke Horse Series: Simplifying Cues - Legs and Reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-5PYv9oxSgk",
+      "youtube_title": "Why do horses lick & chew? The science behind it!",
+      "channel": "Equus Empeiria - Dr Nadine Lindblom",
+      "youtube_url": "https://www.youtube.com/watch?v=-5PYv9oxSgk",
+      "embed_url": "https://www.youtube.com/embed/-5PYv9oxSgk",
+      "thumbnail": "https://i.ytimg.com/vi/-5PYv9oxSgk/hqdefault.jpg",
+      "site_titles": [
+        "Why do horses lick & chew? The science behind it!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c2shb7m939w",
+      "youtube_title": "The Truth About Licking and Chewing (It's Not What Natural Horsemanship Told You)",
+      "channel": "The Horse’s Language with James",
+      "youtube_url": "https://www.youtube.com/watch?v=c2shb7m939w",
+      "embed_url": "https://www.youtube.com/embed/c2shb7m939w",
+      "thumbnail": "https://i.ytimg.com/vi/c2shb7m939w/hqdefault.jpg",
+      "site_titles": [
+        "The Truth About Licking and Chewing (It's Not What Natural Horsemanship Told You)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y9vsoTsw5ss",
+      "youtube_title": "Groundwork Exercises - What to do when you can't ride...",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=Y9vsoTsw5ss",
+      "embed_url": "https://www.youtube.com/embed/Y9vsoTsw5ss",
+      "thumbnail": "https://i.ytimg.com/vi/Y9vsoTsw5ss/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork Exercises - What to do when you can't ride..."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G4ejzl9k61s",
+      "youtube_title": "Training Tip Tuesday- Timing and Release",
+      "channel": "Phil Haugen Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=G4ejzl9k61s",
+      "embed_url": "https://www.youtube.com/embed/G4ejzl9k61s",
+      "thumbnail": "https://i.ytimg.com/vi/G4ejzl9k61s/hqdefault.jpg",
+      "site_titles": [
+        "Training Tip Tuesday- Timing and Release"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H0gDOzwv_yM",
+      "youtube_title": "Ada, Kai and the Future of Horsemanship",
+      "channel": "Parelli Foundation",
+      "youtube_url": "https://www.youtube.com/watch?v=H0gDOzwv_yM",
+      "embed_url": "https://www.youtube.com/embed/H0gDOzwv_yM",
+      "thumbnail": "https://i.ytimg.com/vi/H0gDOzwv_yM/hqdefault.jpg",
+      "site_titles": [
+        "Ada, Kai and the Future of Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kt51Dj2pUxU",
+      "youtube_title": "Getting the horses mind and body together",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=Kt51Dj2pUxU",
+      "embed_url": "https://www.youtube.com/embed/Kt51Dj2pUxU",
+      "thumbnail": "https://i.ytimg.com/vi/Kt51Dj2pUxU/hqdefault.jpg",
+      "site_titles": [
+        "Getting the horses mind and body together"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zA0_SVH2As4",
+      "youtube_title": "How to Teach Your Horse to Yield to Pressure",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=zA0_SVH2As4",
+      "embed_url": "https://www.youtube.com/embed/zA0_SVH2As4",
+      "thumbnail": "https://i.ytimg.com/vi/zA0_SVH2As4/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse to Yield to Pressure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uNzD18hUyNY",
+      "youtube_title": "Buck Brannaman Disk 1 - GROUNDWORK",
+      "channel": "Bit of Britain",
+      "youtube_url": "https://www.youtube.com/watch?v=uNzD18hUyNY",
+      "embed_url": "https://www.youtube.com/embed/uNzD18hUyNY",
+      "thumbnail": "https://i.ytimg.com/vi/uNzD18hUyNY/hqdefault.jpg",
+      "site_titles": [
+        "Buck Brannaman Disk 1 - GROUNDWORK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tFW2hbWzmNs",
+      "youtube_title": "Best Start for the Unbroke Horse Series: Ground Training - Pressure and Release",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=tFW2hbWzmNs",
+      "embed_url": "https://www.youtube.com/embed/tFW2hbWzmNs",
+      "thumbnail": "https://i.ytimg.com/vi/tFW2hbWzmNs/hqdefault.jpg",
+      "site_titles": [
+        "Best Start for the Unbroke Horse Series: Ground Training - Pressure and Release"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hOLmcg1Oegs",
+      "youtube_title": "The Hackamore: A Signal Device, Not a Leverage Device",
+      "channel": "Martin Black",
+      "youtube_url": "https://www.youtube.com/watch?v=hOLmcg1Oegs",
+      "embed_url": "https://www.youtube.com/embed/hOLmcg1Oegs",
+      "thumbnail": "https://i.ytimg.com/vi/hOLmcg1Oegs/hqdefault.jpg",
+      "site_titles": [
+        "The Hackamore: A Signal Device, Not a Leverage Device"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "u3DZUo12UfU",
+      "youtube_title": "The Proven System Behind Extraordinary Horse Results",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=u3DZUo12UfU",
+      "embed_url": "https://www.youtube.com/embed/u3DZUo12UfU",
+      "thumbnail": "https://i.ytimg.com/vi/u3DZUo12UfU/hqdefault.jpg",
+      "site_titles": [
+        "The Proven System Behind Extraordinary Horse Results"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d8LUCACwMsE",
+      "youtube_title": "Bit Basics: The Spade Bit",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=d8LUCACwMsE",
+      "embed_url": "https://www.youtube.com/embed/d8LUCACwMsE",
+      "thumbnail": "https://i.ytimg.com/vi/d8LUCACwMsE/hqdefault.jpg",
+      "site_titles": [
+        "Bit Basics: The Spade Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2HDZeG4H7so",
+      "youtube_title": "Tom Dorrance - Three main areas the horse needs to develop confidence ",
+      "channel": "Arash Blookbashi",
+      "youtube_url": "https://www.youtube.com/watch?v=2HDZeG4H7so",
+      "embed_url": "https://www.youtube.com/embed/2HDZeG4H7so",
+      "thumbnail": "https://i.ytimg.com/vi/2HDZeG4H7so/hqdefault.jpg",
+      "site_titles": [
+        "Tom Dorrance - Three main areas the horse needs to develop confidence"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q35zIaKSaiQ",
+      "youtube_title": "Buck in Spain by Ranch Academy.",
+      "channel": "Natalia Estrada",
+      "youtube_url": "https://www.youtube.com/watch?v=Q35zIaKSaiQ",
+      "embed_url": "https://www.youtube.com/embed/Q35zIaKSaiQ",
+      "thumbnail": "https://i.ytimg.com/vi/Q35zIaKSaiQ/hqdefault.jpg",
+      "site_titles": [
+        "Buck in Spain by Ranch Academy."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "j7wqPM_xCmk",
+      "youtube_title": "Eclectic Conversations - Tom Dorrance - More Than a Horseman - Steve Dorrance",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=j7wqPM_xCmk",
+      "embed_url": "https://www.youtube.com/embed/j7wqPM_xCmk",
+      "thumbnail": "https://i.ytimg.com/vi/j7wqPM_xCmk/hqdefault.jpg",
+      "site_titles": [
+        "Eclectic Conversations - Tom Dorrance - More Than a Horseman - Steve Dorrance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EtsMaGG3reg",
+      "youtube_title": "Groundwork with Feel with Buck Brannaman",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=EtsMaGG3reg",
+      "embed_url": "https://www.youtube.com/embed/EtsMaGG3reg",
+      "thumbnail": "https://i.ytimg.com/vi/EtsMaGG3reg/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork with Feel with Buck Brannaman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oPsfR-7zNqE",
+      "youtube_title": "Groundwork with Feel with Buck Brannaman",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=oPsfR-7zNqE",
+      "embed_url": "https://www.youtube.com/embed/oPsfR-7zNqE",
+      "thumbnail": "https://i.ytimg.com/vi/oPsfR-7zNqE/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork with Feel with Buck Brannaman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BEPkftIqXQA",
+      "youtube_title": "Balancing Sensitizing and Desensitizing Exercises With Your Horse",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=BEPkftIqXQA",
+      "embed_url": "https://www.youtube.com/embed/BEPkftIqXQA",
+      "thumbnail": "https://i.ytimg.com/vi/BEPkftIqXQA/hqdefault.jpg",
+      "site_titles": [
+        "Balancing Sensitizing and Desensitizing Exercises With Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Rasvmrr4J0c",
+      "youtube_title": "Clinton Reacts: Never Let a Horse Break Up With You",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=Rasvmrr4J0c",
+      "embed_url": "https://www.youtube.com/embed/Rasvmrr4J0c",
+      "thumbnail": "https://i.ytimg.com/vi/Rasvmrr4J0c/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Reacts: Never Let a Horse Break Up With You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3gb0W16_SpY",
+      "youtube_title": "1575:  Basics of Monty Roberts' Language of Equus, by USRider",
+      "channel": "Horse Radio Network",
+      "youtube_url": "https://www.youtube.com/watch?v=3gb0W16_SpY",
+      "embed_url": "https://www.youtube.com/embed/3gb0W16_SpY",
+      "thumbnail": "https://i.ytimg.com/vi/3gb0W16_SpY/hqdefault.jpg",
+      "site_titles": [
+        "1575: Basics of Monty Roberts' Language of Equus, by USRider"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QhR_7lkNmvM",
+      "youtube_title": "John Lyons: Guide the horse through natural movement",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=QhR_7lkNmvM",
+      "embed_url": "https://www.youtube.com/embed/QhR_7lkNmvM",
+      "thumbnail": "https://i.ytimg.com/vi/QhR_7lkNmvM/hqdefault.jpg",
+      "site_titles": [
+        "John Lyons: Guide the horse through natural movement"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XXWySyQTBaY",
+      "youtube_title": "Active vs Reactive",
+      "channel": "Johnlyons2009",
+      "youtube_url": "https://www.youtube.com/watch?v=XXWySyQTBaY",
+      "embed_url": "https://www.youtube.com/embed/XXWySyQTBaY",
+      "thumbnail": "https://i.ytimg.com/vi/XXWySyQTBaY/hqdefault.jpg",
+      "site_titles": [
+        "Active vs Reactive"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qSoeD9dsUg0",
+      "youtube_title": "Horse Training with John Lyons - The Head Shy Horse",
+      "channel": "horsemediagroup",
+      "youtube_url": "https://www.youtube.com/watch?v=qSoeD9dsUg0",
+      "embed_url": "https://www.youtube.com/embed/qSoeD9dsUg0",
+      "thumbnail": "https://i.ytimg.com/vi/qSoeD9dsUg0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training with John Lyons - The Head Shy Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WhmokdWUe4U",
+      "youtube_title": "Monty Roberts on Join-Up",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=WhmokdWUe4U",
+      "embed_url": "https://www.youtube.com/embed/WhmokdWUe4U",
+      "thumbnail": "https://i.ytimg.com/vi/WhmokdWUe4U/hqdefault.jpg",
+      "site_titles": [
+        "Monty Roberts on Join-Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "y9nIc-vg-hs",
+      "youtube_title": "Martin Black Starting Colts",
+      "channel": "Martin Black",
+      "youtube_url": "https://www.youtube.com/watch?v=y9nIc-vg-hs",
+      "embed_url": "https://www.youtube.com/embed/y9nIc-vg-hs",
+      "thumbnail": "https://i.ytimg.com/vi/y9nIc-vg-hs/hqdefault.jpg",
+      "site_titles": [
+        "Martin Black Starting Colts"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7PVV53m8RHE",
+      "youtube_title": "Generational Colt Starting with Martin Black.",
+      "channel": "Martin Black",
+      "youtube_url": "https://www.youtube.com/watch?v=7PVV53m8RHE",
+      "embed_url": "https://www.youtube.com/embed/7PVV53m8RHE",
+      "thumbnail": "https://i.ytimg.com/vi/7PVV53m8RHE/hqdefault.jpg",
+      "site_titles": [
+        "Generational Colt Starting with Martin Black."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QqTIrjSdzGU",
+      "youtube_title": "How your Weight Influences How Your Horse Moves with Martin Black",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=QqTIrjSdzGU",
+      "embed_url": "https://www.youtube.com/embed/QqTIrjSdzGU",
+      "thumbnail": "https://i.ytimg.com/vi/QqTIrjSdzGU/hqdefault.jpg",
+      "site_titles": [
+        "How your Weight Influences How Your Horse Moves with Martin Black"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IJBxKLdwyYE",
+      "youtube_title": "Why You Should Stop Patting Your Horse | Martin Black on Western Horse Training Part 1",
+      "channel": "NOËLLE FLOYD",
+      "youtube_url": "https://www.youtube.com/watch?v=IJBxKLdwyYE",
+      "embed_url": "https://www.youtube.com/embed/IJBxKLdwyYE",
+      "thumbnail": "https://i.ytimg.com/vi/IJBxKLdwyYE/hqdefault.jpg",
+      "site_titles": [
+        "Why You Should Stop Patting Your Horse | Martin Black on Western Horse Training Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "azZaXTp2RqU",
+      "youtube_title": "Willing Partners - Hollywood Gladiator Join-Up",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=azZaXTp2RqU",
+      "embed_url": "https://www.youtube.com/embed/azZaXTp2RqU",
+      "thumbnail": "https://i.ytimg.com/vi/azZaXTp2RqU/hqdefault.jpg",
+      "site_titles": [
+        "Willing Partners - Hollywood Gladiator Join-Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5wEh_UlSM28",
+      "youtube_title": "275: Learning Horsemanship Without Violence, by HandsOnGloves",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=5wEh_UlSM28",
+      "embed_url": "https://www.youtube.com/embed/5wEh_UlSM28",
+      "thumbnail": "https://i.ytimg.com/vi/5wEh_UlSM28/hqdefault.jpg",
+      "site_titles": [
+        "275: Learning Horsemanship Without Violence, by HandsOnGloves"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "79xLTDmkLyI",
+      "youtube_title": "Your Horse Follows 8 Rules—Here's What They Are",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=79xLTDmkLyI",
+      "embed_url": "https://www.youtube.com/embed/79xLTDmkLyI",
+      "thumbnail": "https://i.ytimg.com/vi/79xLTDmkLyI/hqdefault.jpg",
+      "site_titles": [
+        "Your Horse Follows 8 Rules—Here's What They Are"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LfpQoiHcp-Q",
+      "youtube_title": "Humans are from Mars, Horses are from Venus: A Path to True Partnership | Pat Parelli | TEDxOcala",
+      "channel": "TEDx Talks",
+      "youtube_url": "https://www.youtube.com/watch?v=LfpQoiHcp-Q",
+      "embed_url": "https://www.youtube.com/embed/LfpQoiHcp-Q",
+      "thumbnail": "https://i.ytimg.com/vi/LfpQoiHcp-Q/hqdefault.jpg",
+      "site_titles": [
+        "Humans are from Mars, Horses are from Venus: A Path to True Partnership | Pat Parelli | TEDxOcala"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dI2waPnUiOg",
+      "youtube_title": "Three Ways to Train Your Horse to Respond to Pressure",
+      "channel": "Bar SZ Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=dI2waPnUiOg",
+      "embed_url": "https://www.youtube.com/embed/dI2waPnUiOg",
+      "thumbnail": "https://i.ytimg.com/vi/dI2waPnUiOg/hqdefault.jpg",
+      "site_titles": [
+        "Three Ways to Train Your Horse to Respond to Pressure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uwDLKsIJOrw",
+      "youtube_title": "Perfectionist mindset -  Ray Hunt",
+      "channel": "Keith Valley",
+      "youtube_url": "https://www.youtube.com/watch?v=uwDLKsIJOrw",
+      "embed_url": "https://www.youtube.com/embed/uwDLKsIJOrw",
+      "thumbnail": "https://i.ytimg.com/vi/uwDLKsIJOrw/hqdefault.jpg",
+      "site_titles": [
+        "Perfectionist mindset - Ray Hunt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8TAiTrzKkmU",
+      "youtube_title": "Untold History and Horsemanship with Martin Black (Part 1)",
+      "channel": "Jake Harvath",
+      "youtube_url": "https://www.youtube.com/watch?v=8TAiTrzKkmU",
+      "embed_url": "https://www.youtube.com/embed/8TAiTrzKkmU",
+      "thumbnail": "https://i.ytimg.com/vi/8TAiTrzKkmU/hqdefault.jpg",
+      "site_titles": [
+        "Untold History and Horsemanship with Martin Black (Part 1)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zPVR-KSb4Yc",
+      "youtube_title": "Monty Roberts, the man who listens to horses",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=zPVR-KSb4Yc",
+      "embed_url": "https://www.youtube.com/embed/zPVR-KSb4Yc",
+      "thumbnail": "https://i.ytimg.com/vi/zPVR-KSb4Yc/hqdefault.jpg",
+      "site_titles": [
+        "Monty Roberts, the man who listens to horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oOutbHNh1kc",
+      "youtube_title": "Book Review: Think Harmony With Horses By Ray Hunt",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=oOutbHNh1kc",
+      "embed_url": "https://www.youtube.com/embed/oOutbHNh1kc",
+      "thumbnail": "https://i.ytimg.com/vi/oOutbHNh1kc/hqdefault.jpg",
+      "site_titles": [
+        "Book Review: Think Harmony With Horses By Ray Hunt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q3hJXGe9od4",
+      "youtube_title": "Helping the Horse Use his Mind | Tom Dorrance True Unity part 6",
+      "channel": "Susan Harden I Live and Breathe Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=Q3hJXGe9od4",
+      "embed_url": "https://www.youtube.com/embed/Q3hJXGe9od4",
+      "thumbnail": "https://i.ytimg.com/vi/Q3hJXGe9od4/hqdefault.jpg",
+      "site_titles": [
+        "Helping the Horse Use his Mind | Tom Dorrance True Unity part 6"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XNavurm5LVs",
+      "youtube_title": "Willing Communication Between Horse and Human | Tom Dorrance True Unity part 1",
+      "channel": "Susan Harden I Live and Breathe Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=XNavurm5LVs",
+      "embed_url": "https://www.youtube.com/embed/XNavurm5LVs",
+      "thumbnail": "https://i.ytimg.com/vi/XNavurm5LVs/hqdefault.jpg",
+      "site_titles": [
+        "Willing Communication Between Horse and Human | Tom Dorrance True Unity part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SCUhp2QifLg",
+      "youtube_title": "Find & Eliminate RESISTANCE - The MOST Important Part of Pressure & Release Training - PART 1",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=SCUhp2QifLg",
+      "embed_url": "https://www.youtube.com/embed/SCUhp2QifLg",
+      "thumbnail": "https://i.ytimg.com/vi/SCUhp2QifLg/hqdefault.jpg",
+      "site_titles": [
+        "Find & Eliminate RESISTANCE - The MOST Important Part of Pressure & Release Training - PART 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lRx-4no7TNY",
+      "youtube_title": "Correcting and Punishing Your Horse",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=lRx-4no7TNY",
+      "embed_url": "https://www.youtube.com/embed/lRx-4no7TNY",
+      "thumbnail": "https://i.ytimg.com/vi/lRx-4no7TNY/hqdefault.jpg",
+      "site_titles": [
+        "Correcting and Punishing Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bM8LMNnLSJY",
+      "youtube_title": "Buckaroo Traditions Gathering!",
+      "channel": "3:10 Ranch Life",
+      "youtube_url": "https://www.youtube.com/watch?v=bM8LMNnLSJY",
+      "embed_url": "https://www.youtube.com/embed/bM8LMNnLSJY",
+      "thumbnail": "https://i.ytimg.com/vi/bM8LMNnLSJY/hqdefault.jpg",
+      "site_titles": [
+        "Buckaroo Traditions Gathering!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NAAplAdL2CY",
+      "youtube_title": "Buck - Official Trailer",
+      "channel": "Madman Films",
+      "youtube_url": "https://www.youtube.com/watch?v=NAAplAdL2CY",
+      "embed_url": "https://www.youtube.com/embed/NAAplAdL2CY",
+      "thumbnail": "https://i.ytimg.com/vi/NAAplAdL2CY/hqdefault.jpg",
+      "site_titles": [
+        "Buck - Official Trailer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "C3LFWn6VTnc",
+      "youtube_title": "Fitting the Hackamore with Martin Black",
+      "channel": "Martin Black",
+      "youtube_url": "https://www.youtube.com/watch?v=C3LFWn6VTnc",
+      "embed_url": "https://www.youtube.com/embed/C3LFWn6VTnc",
+      "thumbnail": "https://i.ytimg.com/vi/C3LFWn6VTnc/hqdefault.jpg",
+      "site_titles": [
+        "Fitting the Hackamore with Martin Black"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZHSTX5zEhkA",
+      "youtube_title": "Monty creates a totally new way to learn Join-Up",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=ZHSTX5zEhkA",
+      "embed_url": "https://www.youtube.com/embed/ZHSTX5zEhkA",
+      "thumbnail": "https://i.ytimg.com/vi/ZHSTX5zEhkA/hqdefault.jpg",
+      "site_titles": [
+        "Monty creates a totally new way to learn Join-Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Nie2tzJ2HvE",
+      "youtube_title": "Improve the Balance and Flexibility of a Mare: Groundwork and Under Saddle",
+      "channel": "Ronan Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Nie2tzJ2HvE",
+      "embed_url": "https://www.youtube.com/embed/Nie2tzJ2HvE",
+      "thumbnail": "https://i.ytimg.com/vi/Nie2tzJ2HvE/hqdefault.jpg",
+      "site_titles": [
+        "Improve the Balance and Flexibility of a Mare: Groundwork and Under Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4trxtGpALZ0",
+      "youtube_title": "What does horse WELFARE mean to YOU? Clinic with Tristan Tucker",
+      "channel": "TRT method",
+      "youtube_url": "https://www.youtube.com/watch?v=4trxtGpALZ0",
+      "embed_url": "https://www.youtube.com/embed/4trxtGpALZ0",
+      "thumbnail": "https://i.ytimg.com/vi/4trxtGpALZ0/hqdefault.jpg",
+      "site_titles": [
+        "What does horse WELFARE mean to YOU? Clinic with Tristan Tucker"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XQBRiilHMhs",
+      "youtube_title": "Californio, Buckaroo, Vaquero - Art of the Traditional Vaquero Two  Rein video",
+      "channel": "Jeff Sanders Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=XQBRiilHMhs",
+      "embed_url": "https://www.youtube.com/embed/XQBRiilHMhs",
+      "thumbnail": "https://i.ytimg.com/vi/XQBRiilHMhs/hqdefault.jpg",
+      "site_titles": [
+        "Californio, Buckaroo, Vaquero - Art of the Traditional Vaquero Two Rein video"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UBBoaokO4K4",
+      "youtube_title": "Keeping it real and humble | Tom Dorrance True Unity part 10",
+      "channel": "Susan Harden I Live and Breathe Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=UBBoaokO4K4",
+      "embed_url": "https://www.youtube.com/embed/UBBoaokO4K4",
+      "thumbnail": "https://i.ytimg.com/vi/UBBoaokO4K4/hqdefault.jpg",
+      "site_titles": [
+        "Keeping it real and humble | Tom Dorrance True Unity part 10"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7OWtrI413_I",
+      "youtube_title": "Being with Your Horse | Tom Dorrance True Unity part 2",
+      "channel": "Susan Harden I Live and Breathe Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=7OWtrI413_I",
+      "embed_url": "https://www.youtube.com/embed/7OWtrI413_I",
+      "thumbnail": "https://i.ytimg.com/vi/7OWtrI413_I/hqdefault.jpg",
+      "site_titles": [
+        "Being with Your Horse | Tom Dorrance True Unity part 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7kSMJM5CoqU",
+      "youtube_title": "Warwick Schiller: The Journey of Connection with Horses",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=7kSMJM5CoqU",
+      "embed_url": "https://www.youtube.com/embed/7kSMJM5CoqU",
+      "thumbnail": "https://i.ytimg.com/vi/7kSMJM5CoqU/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: The Journey of Connection with Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "y7AIYzGpSDM",
+      "youtube_title": "How One Reining Horse Changed Warwick Schiller’s Entire Approach",
+      "channel": "omer azualyi -",
+      "youtube_url": "https://www.youtube.com/watch?v=y7AIYzGpSDM",
+      "embed_url": "https://www.youtube.com/embed/y7AIYzGpSDM",
+      "thumbnail": "https://i.ytimg.com/vi/y7AIYzGpSDM/hqdefault.jpg",
+      "site_titles": [
+        "How One Reining Horse Changed Warwick Schiller’s Entire Approach"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5y-ODivj5UI",
+      "youtube_title": "Creating Space with Connection",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=5y-ODivj5UI",
+      "embed_url": "https://www.youtube.com/embed/5y-ODivj5UI",
+      "thumbnail": "https://i.ytimg.com/vi/5y-ODivj5UI/hqdefault.jpg",
+      "site_titles": [
+        "Creating Space with Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7Pr5QRopg18",
+      "youtube_title": "Why it's important to get horses to respond to  to respond to your energy (at least for me)...",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=7Pr5QRopg18",
+      "embed_url": "https://www.youtube.com/embed/7Pr5QRopg18",
+      "thumbnail": "https://i.ytimg.com/vi/7Pr5QRopg18/hqdefault.jpg",
+      "site_titles": [
+        "Why it's important to get horses to respond to to respond to your energy (at least for me)..."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G5zZeq1pqFE",
+      "youtube_title": "Exposure to New Ideas with Tom Dorrance - Streaming Video",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=G5zZeq1pqFE",
+      "embed_url": "https://www.youtube.com/embed/G5zZeq1pqFE",
+      "thumbnail": "https://i.ytimg.com/vi/G5zZeq1pqFE/hqdefault.jpg",
+      "site_titles": [
+        "Exposure to New Ideas with Tom Dorrance - Streaming Video"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HXTnHWAobTY",
+      "youtube_title": "Interview:  Ray Hunt with Bill Windsor of Lawless America",
+      "channel": "lawlessamerica",
+      "youtube_url": "https://www.youtube.com/watch?v=HXTnHWAobTY",
+      "embed_url": "https://www.youtube.com/embed/HXTnHWAobTY",
+      "thumbnail": "https://i.ytimg.com/vi/HXTnHWAobTY/hqdefault.jpg",
+      "site_titles": [
+        "Interview: Ray Hunt with Bill Windsor of Lawless America"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LZbIntspyKk",
+      "youtube_title": "Eclectic Conversations - Tom Dorrance - More Than A Horseman - John Saint Ryan",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=LZbIntspyKk",
+      "embed_url": "https://www.youtube.com/embed/LZbIntspyKk",
+      "thumbnail": "https://i.ytimg.com/vi/LZbIntspyKk/hqdefault.jpg",
+      "site_titles": [
+        "Eclectic Conversations - Tom Dorrance - More Than A Horseman - John Saint Ryan"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fs4HyVeN7mk",
+      "youtube_title": "Traditional Training vs. Autonomous Horsemanship core differences",
+      "channel": "Stormy May",
+      "youtube_url": "https://www.youtube.com/watch?v=fs4HyVeN7mk",
+      "embed_url": "https://www.youtube.com/embed/fs4HyVeN7mk",
+      "thumbnail": "https://i.ytimg.com/vi/fs4HyVeN7mk/hqdefault.jpg",
+      "site_titles": [
+        "Traditional Training vs. Autonomous Horsemanship core differences"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5zuX-OCoULg",
+      "youtube_title": "The Future Isn't Anti-Tradition (With Jillian Kreinbring, M.S.)",
+      "channel": "Emotional Horsemanship by Lockie Phillips",
+      "youtube_url": "https://www.youtube.com/watch?v=5zuX-OCoULg",
+      "embed_url": "https://www.youtube.com/embed/5zuX-OCoULg",
+      "thumbnail": "https://i.ytimg.com/vi/5zuX-OCoULg/hqdefault.jpg",
+      "site_titles": [
+        "The Future Isn't Anti-Tradition (With Jillian Kreinbring, M.S.)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BxVGJycZYBo",
+      "youtube_title": "Ben Longwell: On Horsemanship, riding with purpose & the Vaquero tradition",
+      "channel": "Confident Rider",
+      "youtube_url": "https://www.youtube.com/watch?v=BxVGJycZYBo",
+      "embed_url": "https://www.youtube.com/embed/BxVGJycZYBo",
+      "thumbnail": "https://i.ytimg.com/vi/BxVGJycZYBo/hqdefault.jpg",
+      "site_titles": [
+        "Ben Longwell: On Horsemanship, riding with purpose & the Vaquero tradition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mrFzgsK1PTo",
+      "youtube_title": "Ray Hunt was a great Horseman - but he was also a showman",
+      "channel": "Vaquero Ontario",
+      "youtube_url": "https://www.youtube.com/watch?v=mrFzgsK1PTo",
+      "embed_url": "https://www.youtube.com/embed/mrFzgsK1PTo",
+      "thumbnail": "https://i.ytimg.com/vi/mrFzgsK1PTo/hqdefault.jpg",
+      "site_titles": [
+        "Ray Hunt was a great Horseman - but he was also a showman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "enYo0r-4OoE",
+      "youtube_title": "7 Clinics with Buck Brannaman - SNEAK PEEK \"Circle Exercise\"",
+      "channel": "7ClinicsBB",
+      "youtube_url": "https://www.youtube.com/watch?v=enYo0r-4OoE",
+      "embed_url": "https://www.youtube.com/embed/enYo0r-4OoE",
+      "thumbnail": "https://i.ytimg.com/vi/enYo0r-4OoE/hqdefault.jpg",
+      "site_titles": [
+        "7 Clinics with Buck Brannaman - SNEAK PEEK \"Circle Exercise\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qi_06USMats",
+      "youtube_title": "Clinton Anderson: Method Progression",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=qi_06USMats",
+      "embed_url": "https://www.youtube.com/embed/qi_06USMats",
+      "thumbnail": "https://i.ytimg.com/vi/qi_06USMats/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Method Progression"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KhchqLgsKcw",
+      "youtube_title": "John Lyons Nervous Horse In-Hand Training",
+      "channel": "horsepaintings",
+      "youtube_url": "https://www.youtube.com/watch?v=KhchqLgsKcw",
+      "embed_url": "https://www.youtube.com/embed/KhchqLgsKcw",
+      "thumbnail": "https://i.ytimg.com/vi/KhchqLgsKcw/hqdefault.jpg",
+      "site_titles": [
+        "John Lyons Nervous Horse In-Hand Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZA9o5aWmy88",
+      "youtube_title": "Balance- With Martin Black",
+      "channel": "TS MULES",
+      "youtube_url": "https://www.youtube.com/watch?v=ZA9o5aWmy88",
+      "embed_url": "https://www.youtube.com/embed/ZA9o5aWmy88",
+      "thumbnail": "https://i.ytimg.com/vi/ZA9o5aWmy88/hqdefault.jpg",
+      "site_titles": [
+        "Balance- With Martin Black"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ehMb7v1IYQU",
+      "youtube_title": "World Renowned Horseman Pat Parelli - The Total Podcast",
+      "channel": "TotalFeeds",
+      "youtube_url": "https://www.youtube.com/watch?v=ehMb7v1IYQU",
+      "embed_url": "https://www.youtube.com/embed/ehMb7v1IYQU",
+      "thumbnail": "https://i.ytimg.com/vi/ehMb7v1IYQU/hqdefault.jpg",
+      "site_titles": [
+        "World Renowned Horseman Pat Parelli - The Total Podcast"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jBCu3h_3ULY",
+      "youtube_title": "It Started With Horses, Ended With God with Warwick Schiller | Life Free Ride Free Podcast",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=jBCu3h_3ULY",
+      "embed_url": "https://www.youtube.com/embed/jBCu3h_3ULY",
+      "thumbnail": "https://i.ytimg.com/vi/jBCu3h_3ULY/hqdefault.jpg",
+      "site_titles": [
+        "It Started With Horses, Ended With God with Warwick Schiller | Life Free Ride Free Podcast"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "htnswp4v3Z4",
+      "youtube_title": "Buck on \"What I Learned from Ray Hunt\" - INTRO Disc 2",
+      "channel": "7ClinicsBB",
+      "youtube_url": "https://www.youtube.com/watch?v=htnswp4v3Z4",
+      "embed_url": "https://www.youtube.com/embed/htnswp4v3Z4",
+      "thumbnail": "https://i.ytimg.com/vi/htnswp4v3Z4/hqdefault.jpg",
+      "site_titles": [
+        "Buck on \"What I Learned from Ray Hunt\" - INTRO Disc 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kk4zR9xVFO8",
+      "youtube_title": "Eclectic Conversations - Tom Dorrance More Than a Horseman with Jim Overstreet",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=Kk4zR9xVFO8",
+      "embed_url": "https://www.youtube.com/embed/Kk4zR9xVFO8",
+      "thumbnail": "https://i.ytimg.com/vi/Kk4zR9xVFO8/hqdefault.jpg",
+      "site_titles": [
+        "Eclectic Conversations - Tom Dorrance More Than a Horseman with Jim Overstreet"
       ],
       "sections": [
         "qa"
