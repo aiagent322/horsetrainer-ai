@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2324,
+  "count": 2360,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -39638,6 +39638,582 @@
       "thumbnail": "https://i.ytimg.com/vi/jBINl8SS-pk/hqdefault.jpg",
       "site_titles": [
         "Cowboy Knives"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "42A6BKk6knQ",
+      "youtube_title": "Dressage for Kids - A Chat with Lendon Gray | Horse & Human",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=42A6BKk6knQ",
+      "embed_url": "https://www.youtube.com/embed/42A6BKk6knQ",
+      "thumbnail": "https://i.ytimg.com/vi/42A6BKk6knQ/hqdefault.jpg",
+      "site_titles": [
+        "Dressage for Kids - A Chat with Lendon Gray | Horse & Human"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AWn3cA5Omqs",
+      "youtube_title": "IMPROVE YOUR RIDING WITHOUT A HORSE - Dressage Mastery TV Episode 313",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=AWn3cA5Omqs",
+      "embed_url": "https://www.youtube.com/embed/AWn3cA5Omqs",
+      "thumbnail": "https://i.ytimg.com/vi/AWn3cA5Omqs/hqdefault.jpg",
+      "site_titles": [
+        "IMPROVE YOUR RIDING WITHOUT A HORSE - Dressage Mastery TV Episode 313"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rKd-adOrAM4",
+      "youtube_title": "Dressage Instruction, how and when to ask my instructor questions. #happyhorses #dressage",
+      "channel": "Equestrian Mindset Coaching with Nancy Lavoie",
+      "youtube_url": "https://www.youtube.com/watch?v=rKd-adOrAM4",
+      "embed_url": "https://www.youtube.com/embed/rKd-adOrAM4",
+      "thumbnail": "https://i.ytimg.com/vi/rKd-adOrAM4/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Instruction, how and when to ask my instructor questions."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "naHzL6FaRrU",
+      "youtube_title": "Advice for Riding at Home When You Don't Have a Trainer",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=naHzL6FaRrU",
+      "embed_url": "https://www.youtube.com/embed/naHzL6FaRrU",
+      "thumbnail": "https://i.ytimg.com/vi/naHzL6FaRrU/hqdefault.jpg",
+      "site_titles": [
+        "Advice for Riding at Home When You Don't Have a Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_GEpVpRVW9g",
+      "youtube_title": "Finding a Trainer PART 1 Verifying Certification Credentials.",
+      "channel": "The Velvet Court Society",
+      "youtube_url": "https://www.youtube.com/watch?v=_GEpVpRVW9g",
+      "embed_url": "https://www.youtube.com/embed/_GEpVpRVW9g",
+      "thumbnail": "https://i.ytimg.com/vi/_GEpVpRVW9g/hqdefault.jpg",
+      "site_titles": [
+        "Finding a Trainer PART 1 Verifying Certification Credentials."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "et32RJuUMdM",
+      "youtube_title": "DRESSAGE || Cathrine Dufour - What to look for in a trainer!",
+      "channel": "Cathrine Dufour",
+      "youtube_url": "https://www.youtube.com/watch?v=et32RJuUMdM",
+      "embed_url": "https://www.youtube.com/embed/et32RJuUMdM",
+      "thumbnail": "https://i.ytimg.com/vi/et32RJuUMdM/hqdefault.jpg",
+      "site_titles": [
+        "DRESSAGE || Cathrine Dufour - What to look for in a trainer!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sRt0PL2ntnU",
+      "youtube_title": "The 5 Types Of Dressage Coaches - Dressage Mastery TV | Dressage Training",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=sRt0PL2ntnU",
+      "embed_url": "https://www.youtube.com/embed/sRt0PL2ntnU",
+      "thumbnail": "https://i.ytimg.com/vi/sRt0PL2ntnU/hqdefault.jpg",
+      "site_titles": [
+        "The 5 Types Of Dressage Coaches - Dressage Mastery TV | Dressage Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_GzUGLHOXQ4",
+      "youtube_title": "The BEST METHOD for teaching a HORSE from The Complete Online Dressage Course | How To Dressage",
+      "channel": "How To Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=_GzUGLHOXQ4",
+      "embed_url": "https://www.youtube.com/embed/_GzUGLHOXQ4",
+      "thumbnail": "https://i.ytimg.com/vi/_GzUGLHOXQ4/hqdefault.jpg",
+      "site_titles": [
+        "The BEST METHOD for teaching a HORSE from The Complete Online Dressage Course | How To Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Re2jPf9QDig",
+      "youtube_title": "7 Things You Should Be Getting From Your Horse Trainer/Riding Instructor",
+      "channel": "Deanna Corby",
+      "youtube_url": "https://www.youtube.com/watch?v=Re2jPf9QDig",
+      "embed_url": "https://www.youtube.com/embed/Re2jPf9QDig",
+      "thumbnail": "https://i.ytimg.com/vi/Re2jPf9QDig/hqdefault.jpg",
+      "site_titles": [
+        "7 Things You Should Be Getting From Your Horse Trainer/Riding Instructor"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ja4Wfb9GQb4",
+      "youtube_title": "Inside the USDF Instructor/Trainer Program with Ann Guptill | Barn Besties",
+      "channel": "BarnyardBestiesWI",
+      "youtube_url": "https://www.youtube.com/watch?v=Ja4Wfb9GQb4",
+      "embed_url": "https://www.youtube.com/embed/Ja4Wfb9GQb4",
+      "thumbnail": "https://i.ytimg.com/vi/Ja4Wfb9GQb4/hqdefault.jpg",
+      "site_titles": [
+        "Inside the USDF Instructor/Trainer Program with Ann Guptill | Barn Besties"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BGY4_L3dGJ0",
+      "youtube_title": "DON'T be THIS Horse Riding Instructor (Common Mistakes)",
+      "channel": "Coach Krystal Kelly",
+      "youtube_url": "https://www.youtube.com/watch?v=BGY4_L3dGJ0",
+      "embed_url": "https://www.youtube.com/embed/BGY4_L3dGJ0",
+      "thumbnail": "https://i.ytimg.com/vi/BGY4_L3dGJ0/hqdefault.jpg",
+      "site_titles": [
+        "DON'T be THIS Horse Riding Instructor (Common Mistakes)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mxxGnfser-s",
+      "youtube_title": "Five Things Every Rider Should Do to Keep Improving",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=mxxGnfser-s",
+      "embed_url": "https://www.youtube.com/embed/mxxGnfser-s",
+      "thumbnail": "https://i.ytimg.com/vi/mxxGnfser-s/hqdefault.jpg",
+      "site_titles": [
+        "Five Things Every Rider Should Do to Keep Improving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "prtsV_QimnY",
+      "youtube_title": "DRESSAGE LESSON - TAKING MY HORSE TO A DRESSAGE CLINIC!!",
+      "channel": "Sarah Rogers",
+      "youtube_url": "https://www.youtube.com/watch?v=prtsV_QimnY",
+      "embed_url": "https://www.youtube.com/embed/prtsV_QimnY",
+      "thumbnail": "https://i.ytimg.com/vi/prtsV_QimnY/hqdefault.jpg",
+      "site_titles": [
+        "DRESSAGE LESSON - TAKING MY HORSE TO A DRESSAGE CLINIC!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3xxdorvjqeQ",
+      "youtube_title": "Dressage Writing - a beginners guide",
+      "channel": "Helpful Stuff",
+      "youtube_url": "https://www.youtube.com/watch?v=3xxdorvjqeQ",
+      "embed_url": "https://www.youtube.com/embed/3xxdorvjqeQ",
+      "thumbnail": "https://i.ytimg.com/vi/3xxdorvjqeQ/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Writing - a beginners guide"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5NjgOAnmjzY",
+      "youtube_title": "Adult Beginner Riding Lessons - 1st lesson, lunging for the first time",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=5NjgOAnmjzY",
+      "embed_url": "https://www.youtube.com/embed/5NjgOAnmjzY",
+      "thumbnail": "https://i.ytimg.com/vi/5NjgOAnmjzY/hqdefault.jpg",
+      "site_titles": [
+        "Adult Beginner Riding Lessons - 1st lesson, lunging for the first time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8cDwVpWSGhI",
+      "youtube_title": "Ingrid Klimke: The Dressage Lessons Every Rider Should Know",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=8cDwVpWSGhI",
+      "embed_url": "https://www.youtube.com/embed/8cDwVpWSGhI",
+      "thumbnail": "https://i.ytimg.com/vi/8cDwVpWSGhI/hqdefault.jpg",
+      "site_titles": [
+        "Ingrid Klimke: The Dressage Lessons Every Rider Should Know"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gkUWHhckHbE",
+      "youtube_title": "HOW DO I GET BETTER AT DRESSAGE USING GOAL SETTING - Dressage Mastery Episode 187",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=gkUWHhckHbE",
+      "embed_url": "https://www.youtube.com/embed/gkUWHhckHbE",
+      "thumbnail": "https://i.ytimg.com/vi/gkUWHhckHbE/hqdefault.jpg",
+      "site_titles": [
+        "HOW DO I GET BETTER AT DRESSAGE USING GOAL SETTING - Dressage Mastery Episode 187"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rOGIsy03d5k",
+      "youtube_title": "Horse Riding Lessons Cost HOW MUCH?! 😳 The Truth No One Tells You",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=rOGIsy03d5k",
+      "embed_url": "https://www.youtube.com/embed/rOGIsy03d5k",
+      "thumbnail": "https://i.ytimg.com/vi/rOGIsy03d5k/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Lessons Cost HOW MUCH?! 😳 The Truth No One Tells You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FQ3KwRlzfJc",
+      "youtube_title": "HOW MANY LESSONS VERSUS OWN RIDES SHOULD I DO EACH WEEK? - Dressage Mastery TV Episode 240",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=FQ3KwRlzfJc",
+      "embed_url": "https://www.youtube.com/embed/FQ3KwRlzfJc",
+      "thumbnail": "https://i.ytimg.com/vi/FQ3KwRlzfJc/hqdefault.jpg",
+      "site_titles": [
+        "HOW MANY LESSONS VERSUS OWN RIDES SHOULD I DO EACH WEEK? - Dressage Mastery TV Episode 240"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EwGZI-ONhZw",
+      "youtube_title": "Capture every lesson. Train with clarity. Progress between the lessons.",
+      "channel": "Equestic",
+      "youtube_url": "https://www.youtube.com/watch?v=EwGZI-ONhZw",
+      "embed_url": "https://www.youtube.com/embed/EwGZI-ONhZw",
+      "thumbnail": "https://i.ytimg.com/vi/EwGZI-ONhZw/hqdefault.jpg",
+      "site_titles": [
+        "Capture every lesson. Train with clarity. Progress between the lessons."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YY3RWkG6Qk0",
+      "youtube_title": "A Lunge Lesson",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=YY3RWkG6Qk0",
+      "embed_url": "https://www.youtube.com/embed/YY3RWkG6Qk0",
+      "thumbnail": "https://i.ytimg.com/vi/YY3RWkG6Qk0/hqdefault.jpg",
+      "site_titles": [
+        "A Lunge Lesson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UqSC2GCIgQk",
+      "youtube_title": "612: Cindi Wylie on Becoming a USDF FEI Level Certified Instructor, Sabine Schut-Kery's Story, an...",
+      "channel": "Horse Radio Network",
+      "youtube_url": "https://www.youtube.com/watch?v=UqSC2GCIgQk",
+      "embed_url": "https://www.youtube.com/embed/UqSC2GCIgQk",
+      "thumbnail": "https://i.ytimg.com/vi/UqSC2GCIgQk/hqdefault.jpg",
+      "site_titles": [
+        "612: Cindi Wylie on Becoming a USDF FEI Level Certified Instructor, Sabine Schut-Kery's Story, an..."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uwcEyZ5OUas",
+      "youtube_title": "Emile Faurie - International Dressage Rider & Trainer",
+      "channel": "HorseRadar",
+      "youtube_url": "https://www.youtube.com/watch?v=uwcEyZ5OUas",
+      "embed_url": "https://www.youtube.com/embed/uwcEyZ5OUas",
+      "thumbnail": "https://i.ytimg.com/vi/uwcEyZ5OUas/hqdefault.jpg",
+      "site_titles": [
+        "Emile Faurie - International Dressage Rider & Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IZIn_Q_FEWw",
+      "youtube_title": "Dressage training with Christoph Hess, German Judge and Trainer",
+      "channel": "Dressage Today",
+      "youtube_url": "https://www.youtube.com/watch?v=IZIn_Q_FEWw",
+      "embed_url": "https://www.youtube.com/embed/IZIn_Q_FEWw",
+      "thumbnail": "https://i.ytimg.com/vi/IZIn_Q_FEWw/hqdefault.jpg",
+      "site_titles": [
+        "Dressage training with Christoph Hess, German Judge and Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RZSKm84Ed0I",
+      "youtube_title": "FIRST DRESSAGE LESSON ON MY ⭐️ NEW ⭐️ HORSE! | Footluce Eventing",
+      "channel": "Footluce Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=RZSKm84Ed0I",
+      "embed_url": "https://www.youtube.com/embed/RZSKm84Ed0I",
+      "thumbnail": "https://i.ytimg.com/vi/RZSKm84Ed0I/hqdefault.jpg",
+      "site_titles": [
+        "FIRST DRESSAGE LESSON ON MY ⭐️ NEW ⭐️ HORSE! | Footluce Eventing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZYfKyhuRMhI",
+      "youtube_title": "Clinics: The Auditing Experience",
+      "channel": "Shawna Karrasch Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=ZYfKyhuRMhI",
+      "embed_url": "https://www.youtube.com/embed/ZYfKyhuRMhI",
+      "thumbnail": "https://i.ytimg.com/vi/ZYfKyhuRMhI/hqdefault.jpg",
+      "site_titles": [
+        "Clinics: The Auditing Experience"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "W-ccqrs3COk",
+      "youtube_title": "Lessons on the Lunge | Deep seated and secure- Part 1 | HorseandRider UK",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=W-ccqrs3COk",
+      "embed_url": "https://www.youtube.com/embed/W-ccqrs3COk",
+      "thumbnail": "https://i.ytimg.com/vi/W-ccqrs3COk/hqdefault.jpg",
+      "site_titles": [
+        "Lessons on the Lunge | Deep seated and secure- Part 1 | HorseandRider UK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_3dKoTTV_XI",
+      "youtube_title": "Dressage Clinic with USDF Certified Instructor and USDF Gold Medalist, Claudia Coley",
+      "channel": "BigBarn Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=_3dKoTTV_XI",
+      "embed_url": "https://www.youtube.com/embed/_3dKoTTV_XI",
+      "thumbnail": "https://i.ytimg.com/vi/_3dKoTTV_XI/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Clinic with USDF Certified Instructor and USDF Gold Medalist, Claudia Coley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iz2rhY6Hrn8",
+      "youtube_title": "Dressage Clinic Audit 🐎✨",
+      "channel": "Stephanie King",
+      "youtube_url": "https://www.youtube.com/watch?v=iz2rhY6Hrn8",
+      "embed_url": "https://www.youtube.com/embed/iz2rhY6Hrn8",
+      "thumbnail": "https://i.ytimg.com/vi/iz2rhY6Hrn8/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Clinic Audit 🐎✨"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fFtaGyMyrPk",
+      "youtube_title": "Dressage Coach Video Series -1",
+      "channel": "Jenka Loxley",
+      "youtube_url": "https://www.youtube.com/watch?v=fFtaGyMyrPk",
+      "embed_url": "https://www.youtube.com/embed/fFtaGyMyrPk",
+      "thumbnail": "https://i.ytimg.com/vi/fFtaGyMyrPk/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Coach Video Series -1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "opG7DuLCodE",
+      "youtube_title": "Group or Private Lessons; Or Just Stick with Solo Riding?",
+      "channel": "Daily Strides Podcast for Equestrians",
+      "youtube_url": "https://www.youtube.com/watch?v=opG7DuLCodE",
+      "embed_url": "https://www.youtube.com/embed/opG7DuLCodE",
+      "thumbnail": "https://i.ytimg.com/vi/opG7DuLCodE/hqdefault.jpg",
+      "site_titles": [
+        "Group or Private Lessons; Or Just Stick with Solo Riding?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pa0Jg-1bDqM",
+      "youtube_title": "5 Questions to Ask Your Riding Instructor",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=pa0Jg-1bDqM",
+      "embed_url": "https://www.youtube.com/embed/pa0Jg-1bDqM",
+      "thumbnail": "https://i.ytimg.com/vi/pa0Jg-1bDqM/hqdefault.jpg",
+      "site_titles": [
+        "5 Questions to Ask Your Riding Instructor"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1MRyGs1XzHo",
+      "youtube_title": "How to Set Dressage Goals for Competition Without the Pressure",
+      "channel": "Dressage Plus",
+      "youtube_url": "https://www.youtube.com/watch?v=1MRyGs1XzHo",
+      "embed_url": "https://www.youtube.com/embed/1MRyGs1XzHo",
+      "thumbnail": "https://i.ytimg.com/vi/1MRyGs1XzHo/hqdefault.jpg",
+      "site_titles": [
+        "How to Set Dressage Goals for Competition Without the Pressure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SmH8CG8X3Ew",
+      "youtube_title": "What to wear for dressage",
+      "channel": "Horsemart",
+      "youtube_url": "https://www.youtube.com/watch?v=SmH8CG8X3Ew",
+      "embed_url": "https://www.youtube.com/embed/SmH8CG8X3Ew",
+      "thumbnail": "https://i.ytimg.com/vi/SmH8CG8X3Ew/hqdefault.jpg",
+      "site_titles": [
+        "What to wear for dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "STCDakqPoAI",
+      "youtube_title": "Make Progress and Set Goals in Dressage",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=STCDakqPoAI",
+      "embed_url": "https://www.youtube.com/embed/STCDakqPoAI",
+      "thumbnail": "https://i.ytimg.com/vi/STCDakqPoAI/hqdefault.jpg",
+      "site_titles": [
+        "Make Progress and Set Goals in Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9w25-sBnDYg",
+      "youtube_title": "Dressage Pointers: How To Tack up Your Horse & Dressage Tack Recommendations",
+      "channel": "Katja Elk",
+      "youtube_url": "https://www.youtube.com/watch?v=9w25-sBnDYg",
+      "embed_url": "https://www.youtube.com/embed/9w25-sBnDYg",
+      "thumbnail": "https://i.ytimg.com/vi/9w25-sBnDYg/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Pointers: How To Tack up Your Horse & Dressage Tack Recommendations"
       ],
       "sections": [
         "qa"
