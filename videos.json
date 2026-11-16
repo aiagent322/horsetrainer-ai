@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1389,
+  "count": 1491,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -105,11 +105,6 @@
         "qa/training-principles/index.html",
         "qa/training-principles/what-are-the-most-important-considerations-before-starting-to-train-a-green-hors/index.html",
         "qa/training-principles/why-is-it-important-to-correct-problems-as-they-occur-when-working-with-young-ho/index.html",
-        "qa/wild-horse-training/how-do-you-develop-steering-on-a-newly-started-wild-horse/index.html",
-        "qa/wild-horse-training/how-do-you-manage-a-buck-or-bolt-on-a-wild-horses-first-rides/index.html",
-        "qa/wild-horse-training/how-do-you-use-a-round-pen-when-starting-a-wild-horse/index.html",
-        "qa/wild-horse-training/what-groundwork-should-a-wild-horse-have-before-being-started-under-saddle/index.html",
-        "qa/wild-horse-training/what-tack-is-best-for-starting-a-wild-horse-under-saddle/index.html",
         "videos/colt-starting/index.html"
       ]
     },
@@ -195,7 +190,6 @@
         "qa/training-principles/why-do-people-fail-to-release-at-the-right-moment-and-what-does-poor-timing-teac/index.html",
         "qa/western-horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/western-pleasure/how-do-i-train-smooth-correct-transitions-for-western-pleasure-competition/index.html",
-        "qa/wild-horse-training/how-do-you-develop-collection-and-softness-in-a-mustang/index.html",
         "qa/working-cow-horse/how-do-non-pros-avoid-over-riding-during-cattle-work/index.html",
         "qa/working-cow-horse/why-is-overriding-the-horse-during-cow-work-such-a-damaging-mistake/index.html",
         "qa/working-equitation/how-do-i-train-my-horse-for-the-dressage-phase-of-working-equitation/index.html",
@@ -321,7 +315,6 @@
         "qa/training-principles/how-do-you-know-when-a-green-horse-is-ready-to-advance-to-more-demanding-work/index.html",
         "qa/training-principles/how-do-you-structure-a-training-session-for-a-young-horse-in-the-early-stages-of/index.html",
         "qa/training-principles/how-long-should-training-sessions-be-for-a-green-horse-and-how-often-should-they/index.html",
-        "qa/wild-horse-training/how-does-starting-a-wild-horse-under-saddle-differ-from-starting-a-domestic-hors/index.html",
         "qa/working-cow-horse/what-age-should-a-working-cow-horse-prospect-be-started/index.html",
         "videos/colt-starting/index.html"
       ]
@@ -1087,8 +1080,7 @@
         "qa/gaits/index.html",
         "qa/horsemanship/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
         "qa/training-principles/how-do-you-handle-a-horses-first-trotting-session-under-saddle/index.html",
-        "qa/training-principles/why-is-it-important-to-keep-your-horse-from-being-bored-during-the-first-few-rid/index.html",
-        "qa/wild-horse-training/what-does-the-first-ride-on-a-wild-horse-look-like/index.html"
+        "qa/training-principles/why-is-it-important-to-keep-your-horse-from-being-bored-during-the-first-few-rid/index.html"
       ]
     },
     {
@@ -1489,8 +1481,7 @@
         "qa/ground-manners-handling/how-do-you-teach-a-horse-to-back-up-from-halter-pressure-for-the-first-time/index.html",
         "qa/ground-manners-handling/when-backing-a-horse-how-do-you-control-the-speed/index.html",
         "qa/ground-manners-handling/why-is-teaching-a-horse-to-back-up-at-halter-important-and-what-does-it-accompli/index.html",
-        "qa/horsemanship/what-is-the-best-way-to-teach-a-horse-to-back-up/index.html",
-        "qa/wild-horse-training/how-do-you-teach-a-wild-horse-to-back-up/index.html"
+        "qa/horsemanship/what-is-the-best-way-to-teach-a-horse-to-back-up/index.html"
       ]
     },
     {
@@ -24815,6 +24806,1638 @@
       "thumbnail": "https://i.ytimg.com/vi/7bSVbrs18kA/hqdefault.jpg",
       "site_titles": [
         "5 Things a Horse Show Judge looks for in a Hunter Under Saddle Class"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8ShGZSwCbig",
+      "youtube_title": "Join up in Partnership - without a round pen",
+      "channel": "TheMeaTV",
+      "youtube_url": "https://www.youtube.com/watch?v=8ShGZSwCbig",
+      "embed_url": "https://www.youtube.com/embed/8ShGZSwCbig",
+      "thumbnail": "https://i.ytimg.com/vi/8ShGZSwCbig/hqdefault.jpg",
+      "site_titles": [
+        "Join up in Partnership - without a round pen"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PcbQ1W-35U4",
+      "youtube_title": "Mustang Magic 2023  (100 Day Training Challenge)",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=PcbQ1W-35U4",
+      "embed_url": "https://www.youtube.com/embed/PcbQ1W-35U4",
+      "thumbnail": "https://i.ytimg.com/vi/PcbQ1W-35U4/hqdefault.jpg",
+      "site_titles": [
+        "Mustang Magic 2023 (100 Day Training Challenge)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GkyvgqmWz_E",
+      "youtube_title": "WHY HORSES PULL BACK WHEN TIED  AND HOW TO STOP IT BEFORE IT STARTS",
+      "channel": "Training Thru Trust",
+      "youtube_url": "https://www.youtube.com/watch?v=GkyvgqmWz_E",
+      "embed_url": "https://www.youtube.com/embed/GkyvgqmWz_E",
+      "thumbnail": "https://i.ytimg.com/vi/GkyvgqmWz_E/hqdefault.jpg",
+      "site_titles": [
+        "WHY HORSES PULL BACK WHEN TIED AND HOW TO STOP IT BEFORE IT STARTS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HK6uEBEJ4nY",
+      "youtube_title": "Protecting Your Personal Space",
+      "channel": "SBH Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=HK6uEBEJ4nY",
+      "embed_url": "https://www.youtube.com/embed/HK6uEBEJ4nY",
+      "thumbnail": "https://i.ytimg.com/vi/HK6uEBEJ4nY/hqdefault.jpg",
+      "site_titles": [
+        "Protecting Your Personal Space"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q4mhFQPda74",
+      "youtube_title": "Solving Separation Anxiety in Horses",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=q4mhFQPda74",
+      "embed_url": "https://www.youtube.com/embed/q4mhFQPda74",
+      "thumbnail": "https://i.ytimg.com/vi/q4mhFQPda74/hqdefault.jpg",
+      "site_titles": [
+        "Solving Separation Anxiety in Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b8Svkmto7Kk",
+      "youtube_title": "Horse Training Online: Teaching Horse To Focus And Overcome Fear (Buddy/Herd Sour) Through Science!",
+      "channel": "West Taylor Science Based Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=b8Svkmto7Kk",
+      "embed_url": "https://www.youtube.com/embed/b8Svkmto7Kk",
+      "thumbnail": "https://i.ytimg.com/vi/b8Svkmto7Kk/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Online: Teaching Horse To Focus And Overcome Fear (Buddy/Herd Sour) Through Science!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tmbNJPoEoac",
+      "youtube_title": "Gentling and training a horse with trauma.   Ms Possum #2 @themustangmeadow",
+      "channel": "The Mustang Meadow",
+      "youtube_url": "https://www.youtube.com/watch?v=tmbNJPoEoac",
+      "embed_url": "https://www.youtube.com/embed/tmbNJPoEoac",
+      "thumbnail": "https://i.ytimg.com/vi/tmbNJPoEoac/hqdefault.jpg",
+      "site_titles": [
+        "Gentling and training a horse with trauma. Ms Possum @themustangmeadow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YStlcJ3LwEs",
+      "youtube_title": "Can Pat Parelli Fix This Aggressive Horse That Charges at People?",
+      "channel": "Real Wild",
+      "youtube_url": "https://www.youtube.com/watch?v=YStlcJ3LwEs",
+      "embed_url": "https://www.youtube.com/embed/YStlcJ3LwEs",
+      "thumbnail": "https://i.ytimg.com/vi/YStlcJ3LwEs/hqdefault.jpg",
+      "site_titles": [
+        "Can Pat Parelli Fix This Aggressive Horse That Charges at People?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hBJN8BOK4oI",
+      "youtube_title": "Covet, catch or cull: managing feral horses in Australia 🐎 | Meet the Ferals Ep 1 | ABC Australia",
+      "channel": "ABC Australia",
+      "youtube_url": "https://www.youtube.com/watch?v=hBJN8BOK4oI",
+      "embed_url": "https://www.youtube.com/embed/hBJN8BOK4oI",
+      "thumbnail": "https://i.ytimg.com/vi/hBJN8BOK4oI/hqdefault.jpg",
+      "site_titles": [
+        "Covet, catch or cull: managing feral horses in Australia 🐎 | Meet the Ferals Ep 1 | ABC Australia"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sUvD7R8nEaQ",
+      "youtube_title": "Extreme Mustang Makeover 2022- Newt's Journey (100 Day Training Challenge)",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=sUvD7R8nEaQ",
+      "embed_url": "https://www.youtube.com/embed/sUvD7R8nEaQ",
+      "thumbnail": "https://i.ytimg.com/vi/sUvD7R8nEaQ/hqdefault.jpg",
+      "site_titles": [
+        "Extreme Mustang Makeover 2022- Newt's Journey (100 Day Training Challenge)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U3oti2lm_H4",
+      "youtube_title": "Wild Horse-isms: Wild Horse/Mustang Social Structure",
+      "channel": "Wild Lands Wild Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=U3oti2lm_H4",
+      "embed_url": "https://www.youtube.com/embed/U3oti2lm_H4",
+      "thumbnail": "https://i.ytimg.com/vi/U3oti2lm_H4/hqdefault.jpg",
+      "site_titles": [
+        "Wild Horse-isms: Wild Horse/Mustang Social Structure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wrI2al6AZ3U",
+      "youtube_title": "Can Pat Parelli Tame A Horse That Hates Humans?",
+      "channel": "Real Wild",
+      "youtube_url": "https://www.youtube.com/watch?v=wrI2al6AZ3U",
+      "embed_url": "https://www.youtube.com/embed/wrI2al6AZ3U",
+      "thumbnail": "https://i.ytimg.com/vi/wrI2al6AZ3U/hqdefault.jpg",
+      "site_titles": [
+        "Can Pat Parelli Tame A Horse That Hates Humans?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LQXVedHDda0",
+      "youtube_title": "Week 4 Progressing Under Saddle with Wild Mustang | Behind the Scenes Extreme Mustang Makeover",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=LQXVedHDda0",
+      "embed_url": "https://www.youtube.com/embed/LQXVedHDda0",
+      "thumbnail": "https://i.ytimg.com/vi/LQXVedHDda0/hqdefault.jpg",
+      "site_titles": [
+        "Week 4 Progressing Under Saddle with Wild Mustang | Behind the Scenes Extreme Mustang Makeover"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zePc1ScypTE",
+      "youtube_title": "Riding My Wild Mustang for the First Time!",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=zePc1ScypTE",
+      "embed_url": "https://www.youtube.com/embed/zePc1ScypTE",
+      "thumbnail": "https://i.ytimg.com/vi/zePc1ScypTE/hqdefault.jpg",
+      "site_titles": [
+        "Riding My Wild Mustang for the First Time!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3KlYsj90xGA",
+      "youtube_title": "Striker and kicker! How do you fix a mustang that strikes and kicks",
+      "channel": "Isidro Espinoza Horsemanship LLC",
+      "youtube_url": "https://www.youtube.com/watch?v=3KlYsj90xGA",
+      "embed_url": "https://www.youtube.com/embed/3KlYsj90xGA",
+      "thumbnail": "https://i.ytimg.com/vi/3KlYsj90xGA/hqdefault.jpg",
+      "site_titles": [
+        "Striker and kicker! How do you fix a mustang that strikes and kicks"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KpflZmJ9BsQ",
+      "youtube_title": "Second Session w/a Wild Horse - Touch Desensitization | Mojave Stud 2",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=KpflZmJ9BsQ",
+      "embed_url": "https://www.youtube.com/embed/KpflZmJ9BsQ",
+      "thumbnail": "https://i.ytimg.com/vi/KpflZmJ9BsQ/hqdefault.jpg",
+      "site_titles": [
+        "Second Session w/a Wild Horse - Touch Desensitization | Mojave Stud 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hu6xNph2KFY",
+      "youtube_title": "First Time Picking up Feet | Wild Mustang",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=hu6xNph2KFY",
+      "embed_url": "https://www.youtube.com/embed/hu6xNph2KFY",
+      "thumbnail": "https://i.ytimg.com/vi/hu6xNph2KFY/hqdefault.jpg",
+      "site_titles": [
+        "First Time Picking up Feet | Wild Mustang"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wcgTarbyXS4",
+      "youtube_title": "Desensitizing a Mustang to New Objects Around His Body",
+      "channel": "Contemporary Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=wcgTarbyXS4",
+      "embed_url": "https://www.youtube.com/embed/wcgTarbyXS4",
+      "thumbnail": "https://i.ytimg.com/vi/wcgTarbyXS4/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing a Mustang to New Objects Around His Body"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "e83hpg2znBk",
+      "youtube_title": "Can We Run The Ranch With A Wild Mustang?",
+      "channel": "Creekbend Boyz",
+      "youtube_url": "https://www.youtube.com/watch?v=e83hpg2znBk",
+      "embed_url": "https://www.youtube.com/embed/e83hpg2znBk",
+      "thumbnail": "https://i.ytimg.com/vi/e83hpg2znBk/hqdefault.jpg",
+      "site_titles": [
+        "Can We Run The Ranch With A Wild Mustang?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kbX43w6VxkY",
+      "youtube_title": "The WILD Mustangs FIRST Official RIDE!",
+      "channel": "Creekbend Boyz",
+      "youtube_url": "https://www.youtube.com/watch?v=kbX43w6VxkY",
+      "embed_url": "https://www.youtube.com/embed/kbX43w6VxkY",
+      "thumbnail": "https://i.ytimg.com/vi/kbX43w6VxkY/hqdefault.jpg",
+      "site_titles": [
+        "The WILD Mustangs FIRST Official RIDE!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qx7oEJXO_xg",
+      "youtube_title": "Mustang Jaeger learns to lunge // Days 2-5 of a wild mustang's transformation",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=qx7oEJXO_xg",
+      "embed_url": "https://www.youtube.com/embed/qx7oEJXO_xg",
+      "thumbnail": "https://i.ytimg.com/vi/qx7oEJXO_xg/hqdefault.jpg",
+      "site_titles": [
+        "Mustang Jaeger learns to lunge // Days 2-5 of a wild mustang's transformation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "24E62wkGhFQ",
+      "youtube_title": "Starting my mustang under saddle (Part 1)",
+      "channel": "Elisa Wallace Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=24E62wkGhFQ",
+      "embed_url": "https://www.youtube.com/embed/24E62wkGhFQ",
+      "thumbnail": "https://i.ytimg.com/vi/24E62wkGhFQ/hqdefault.jpg",
+      "site_titles": [
+        "Starting my mustang under saddle (Part 1)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ATIa0XH_3qo",
+      "youtube_title": "Spanish Mustang under saddle at lope and trot",
+      "channel": "Flying L Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=ATIa0XH_3qo",
+      "embed_url": "https://www.youtube.com/embed/ATIa0XH_3qo",
+      "thumbnail": "https://i.ytimg.com/vi/ATIa0XH_3qo/hqdefault.jpg",
+      "site_titles": [
+        "Spanish Mustang under saddle at lope and trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ol3gdsqbQxk",
+      "youtube_title": "Starting my mustang under saddle (Part II)",
+      "channel": "Elisa Wallace Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=ol3gdsqbQxk",
+      "embed_url": "https://www.youtube.com/embed/ol3gdsqbQxk",
+      "thumbnail": "https://i.ytimg.com/vi/ol3gdsqbQxk/hqdefault.jpg",
+      "site_titles": [
+        "Starting my mustang under saddle (Part II)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-UYrpz8P5lk",
+      "youtube_title": "How to Get a Wild Mustang in the USA | BLM Adoption Process Explained",
+      "channel": "Havens Hideout Wild Mustang Training",
+      "youtube_url": "https://www.youtube.com/watch?v=-UYrpz8P5lk",
+      "embed_url": "https://www.youtube.com/embed/-UYrpz8P5lk",
+      "thumbnail": "https://i.ytimg.com/vi/-UYrpz8P5lk/hqdefault.jpg",
+      "site_titles": [
+        "How to Get a Wild Mustang in the USA | BLM Adoption Process Explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IIs_-P4urf0",
+      "youtube_title": "Rope Desensitizing w/a Wild Mustang | Day Two OK EMM",
+      "channel": "Sam VanFleet",
+      "youtube_url": "https://www.youtube.com/watch?v=IIs_-P4urf0",
+      "embed_url": "https://www.youtube.com/embed/IIs_-P4urf0",
+      "thumbnail": "https://i.ytimg.com/vi/IIs_-P4urf0/hqdefault.jpg",
+      "site_titles": [
+        "Rope Desensitizing w/a Wild Mustang | Day Two OK EMM"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O5wSZq2sg9o",
+      "youtube_title": "Face Up | Wild Horse Gentling | Lesson 1",
+      "channel": "Break Habits Not Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=O5wSZq2sg9o",
+      "embed_url": "https://www.youtube.com/embed/O5wSZq2sg9o",
+      "thumbnail": "https://i.ytimg.com/vi/O5wSZq2sg9o/hqdefault.jpg",
+      "site_titles": [
+        "Face Up | Wild Horse Gentling | Lesson 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JaH-VQPB6IE",
+      "youtube_title": "Will this HALTERING METHOD WORK on my WILD MUSTANG?!",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=JaH-VQPB6IE",
+      "embed_url": "https://www.youtube.com/embed/JaH-VQPB6IE",
+      "thumbnail": "https://i.ytimg.com/vi/JaH-VQPB6IE/hqdefault.jpg",
+      "site_titles": [
+        "Will this HALTERING METHOD WORK on my WILD MUSTANG?!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jNC_vLPM7v8",
+      "youtube_title": "FREE Mustang VS $20k Ranch Horse!",
+      "channel": "Creekbend Boyz",
+      "youtube_url": "https://www.youtube.com/watch?v=jNC_vLPM7v8",
+      "embed_url": "https://www.youtube.com/embed/jNC_vLPM7v8",
+      "thumbnail": "https://i.ytimg.com/vi/jNC_vLPM7v8/hqdefault.jpg",
+      "site_titles": [
+        "FREE Mustang VS $20k Ranch Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LGVc1bMmyRw",
+      "youtube_title": "Safely Introducing Rider Weight to a Young Mustang | Day 6 with Cadbury",
+      "channel": "Harmony Horsemanship and Country Mom Chaos",
+      "youtube_url": "https://www.youtube.com/watch?v=LGVc1bMmyRw",
+      "embed_url": "https://www.youtube.com/embed/LGVc1bMmyRw",
+      "thumbnail": "https://i.ytimg.com/vi/LGVc1bMmyRw/hqdefault.jpg",
+      "site_titles": [
+        "Safely Introducing Rider Weight to a Young Mustang | Day 6 with Cadbury"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zut8kk_ZZBE",
+      "youtube_title": "First Time Saddling a WILD MUSTANG",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=zut8kk_ZZBE",
+      "embed_url": "https://www.youtube.com/embed/zut8kk_ZZBE",
+      "thumbnail": "https://i.ytimg.com/vi/zut8kk_ZZBE/hqdefault.jpg",
+      "site_titles": [
+        "First Time Saddling a WILD MUSTANG"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0HU61zX8nWs",
+      "youtube_title": "Grooming Tip for Training Wild Mustangs! 🐴",
+      "channel": "Nirvana Mustang Sanctuary & Kind Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=0HU61zX8nWs",
+      "embed_url": "https://www.youtube.com/embed/0HU61zX8nWs",
+      "thumbnail": "https://i.ytimg.com/vi/0HU61zX8nWs/hqdefault.jpg",
+      "site_titles": [
+        "Grooming Tip for Training Wild Mustangs! 🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-Ikru6SWC0Q",
+      "youtube_title": "Your “Calm” Horse May Actually Be Shut Down (7 Signs Most Owners Miss)",
+      "channel": "The Horse’s Language with James",
+      "youtube_url": "https://www.youtube.com/watch?v=-Ikru6SWC0Q",
+      "embed_url": "https://www.youtube.com/embed/-Ikru6SWC0Q",
+      "thumbnail": "https://i.ytimg.com/vi/-Ikru6SWC0Q/hqdefault.jpg",
+      "site_titles": [
+        "Your “Calm” Horse May Actually Be Shut Down (7 Signs Most Owners Miss)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xaNWgUNoybU",
+      "youtube_title": "Desensitizing Without Dulling Your Horse",
+      "channel": "Steve Rother",
+      "youtube_url": "https://www.youtube.com/watch?v=xaNWgUNoybU",
+      "embed_url": "https://www.youtube.com/embed/xaNWgUNoybU",
+      "thumbnail": "https://i.ytimg.com/vi/xaNWgUNoybU/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing Without Dulling Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "of-JtQDLdjw",
+      "youtube_title": "Back to Basics w/ My 1st Wild Mustang // Regaining Trust",
+      "channel": "KR Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=of-JtQDLdjw",
+      "embed_url": "https://www.youtube.com/embed/of-JtQDLdjw",
+      "thumbnail": "https://i.ytimg.com/vi/of-JtQDLdjw/hqdefault.jpg",
+      "site_titles": [
+        "Back to Basics w/ My 1st Wild Mustang // Regaining Trust"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IhZTZLcPAcY",
+      "youtube_title": "How to Ride a Bucking Colt",
+      "channel": "Ty Christensen",
+      "youtube_url": "https://www.youtube.com/watch?v=IhZTZLcPAcY",
+      "embed_url": "https://www.youtube.com/embed/IhZTZLcPAcY",
+      "thumbnail": "https://i.ytimg.com/vi/IhZTZLcPAcY/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Bucking Colt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sQBn7ZbMXCo",
+      "youtube_title": "Blue the Wild Pony: Advance and Retreat",
+      "channel": "Eques - Train Logic",
+      "youtube_url": "https://www.youtube.com/watch?v=sQBn7ZbMXCo",
+      "embed_url": "https://www.youtube.com/embed/sQBn7ZbMXCo",
+      "thumbnail": "https://i.ytimg.com/vi/sQBn7ZbMXCo/hqdefault.jpg",
+      "site_titles": [
+        "Blue the Wild Pony: Advance and Retreat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6vbT71l-0L0",
+      "youtube_title": "How To Approach And Get Up To A Horse! (Hard To Catch Horses)",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=6vbT71l-0L0",
+      "embed_url": "https://www.youtube.com/embed/6vbT71l-0L0",
+      "thumbnail": "https://i.ytimg.com/vi/6vbT71l-0L0/hqdefault.jpg",
+      "site_titles": [
+        "How To Approach And Get Up To A Horse! (Hard To Catch Horses)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6nO18Ar1wfs",
+      "youtube_title": "BIDDING ON MY NEXT COMPETITION MUSTANG!! | Mustang Magic 2026",
+      "channel": "epona mustangs",
+      "youtube_url": "https://www.youtube.com/watch?v=6nO18Ar1wfs",
+      "embed_url": "https://www.youtube.com/embed/6nO18Ar1wfs",
+      "thumbnail": "https://i.ytimg.com/vi/6nO18Ar1wfs/hqdefault.jpg",
+      "site_titles": [
+        "BIDDING ON MY NEXT COMPETITION MUSTANG!! | Mustang Magic 2026"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rZOeOaNWrA4",
+      "youtube_title": "5 GREAT tips to teach the BACK UP | Colt starting",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=rZOeOaNWrA4",
+      "embed_url": "https://www.youtube.com/embed/rZOeOaNWrA4",
+      "thumbnail": "https://i.ytimg.com/vi/rZOeOaNWrA4/hqdefault.jpg",
+      "site_titles": [
+        "5 GREAT tips to teach the BACK UP | Colt starting"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aijIGqIg08E",
+      "youtube_title": "Teaching a Wild Mustang to Lead (Trainers View) | Internet Auction Mustang",
+      "channel": "CZ Mustangs",
+      "youtube_url": "https://www.youtube.com/watch?v=aijIGqIg08E",
+      "embed_url": "https://www.youtube.com/embed/aijIGqIg08E",
+      "thumbnail": "https://i.ytimg.com/vi/aijIGqIg08E/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Wild Mustang to Lead (Trainers View) | Internet Auction Mustang"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iTw49eTKB1w",
+      "youtube_title": "First Time Trailer Loading a WILD MUSTANG",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=iTw49eTKB1w",
+      "embed_url": "https://www.youtube.com/embed/iTw49eTKB1w",
+      "thumbnail": "https://i.ytimg.com/vi/iTw49eTKB1w/hqdefault.jpg",
+      "site_titles": [
+        "First Time Trailer Loading a WILD MUSTANG"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "It4kfhO9GXQ",
+      "youtube_title": "How to Lunge a Fresh Horse",
+      "channel": "Eicher Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=It4kfhO9GXQ",
+      "embed_url": "https://www.youtube.com/embed/It4kfhO9GXQ",
+      "thumbnail": "https://i.ytimg.com/vi/It4kfhO9GXQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Lunge a Fresh Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FdeIjkUS5D4",
+      "youtube_title": "First Hoof Trim on a MUSTANG",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=FdeIjkUS5D4",
+      "embed_url": "https://www.youtube.com/embed/FdeIjkUS5D4",
+      "thumbnail": "https://i.ytimg.com/vi/FdeIjkUS5D4/hqdefault.jpg",
+      "site_titles": [
+        "First Hoof Trim on a MUSTANG"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b2ILJlpzFkY",
+      "youtube_title": "MUSTANG’s FIRST TIME TYING + PREPERATION",
+      "channel": "Aleksa_Eq",
+      "youtube_url": "https://www.youtube.com/watch?v=b2ILJlpzFkY",
+      "embed_url": "https://www.youtube.com/embed/b2ILJlpzFkY",
+      "thumbnail": "https://i.ytimg.com/vi/b2ILJlpzFkY/hqdefault.jpg",
+      "site_titles": [
+        "MUSTANG’s FIRST TIME TYING + PREPERATION"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jKMbMQ4o40g",
+      "youtube_title": "Gentling a Wild Mustang - Day 4 (Yielding Hindquarters)",
+      "channel": "Whitmire Coaching",
+      "youtube_url": "https://www.youtube.com/watch?v=jKMbMQ4o40g",
+      "embed_url": "https://www.youtube.com/embed/jKMbMQ4o40g",
+      "thumbnail": "https://i.ytimg.com/vi/jKMbMQ4o40g/hqdefault.jpg",
+      "site_titles": [
+        "Gentling a Wild Mustang - Day 4 (Yielding Hindquarters)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TZWxq3nrWL4",
+      "youtube_title": "Groundwork - Yielding the Shoulders",
+      "channel": "Alisha Gillis",
+      "youtube_url": "https://www.youtube.com/watch?v=TZWxq3nrWL4",
+      "embed_url": "https://www.youtube.com/embed/TZWxq3nrWL4",
+      "thumbnail": "https://i.ytimg.com/vi/TZWxq3nrWL4/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork - Yielding the Shoulders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9tw75BcEjVI",
+      "youtube_title": "Uncovering the Secrets of Mustang Horse Herds: Behavior and Social Structure #secretanimals",
+      "channel": "Wild Horse Secrets",
+      "youtube_url": "https://www.youtube.com/watch?v=9tw75BcEjVI",
+      "embed_url": "https://www.youtube.com/embed/9tw75BcEjVI",
+      "thumbnail": "https://i.ytimg.com/vi/9tw75BcEjVI/hqdefault.jpg",
+      "site_titles": [
+        "Uncovering the Secrets of Mustang Horse Herds: Behavior and Social Structure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZD9qlyzTIgE",
+      "youtube_title": "Starting a Wild Mustang Under-Saddle (Full Training Session)",
+      "channel": "Steffen Stampede",
+      "youtube_url": "https://www.youtube.com/watch?v=ZD9qlyzTIgE",
+      "embed_url": "https://www.youtube.com/embed/ZD9qlyzTIgE",
+      "thumbnail": "https://i.ytimg.com/vi/ZD9qlyzTIgE/hqdefault.jpg",
+      "site_titles": [
+        "Starting a Wild Mustang Under-Saddle (Full Training Session)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DZoc8ci5BrA",
+      "youtube_title": "How to prevent trauma in horses",
+      "channel": "Mustang Maddy",
+      "youtube_url": "https://www.youtube.com/watch?v=DZoc8ci5BrA",
+      "embed_url": "https://www.youtube.com/embed/DZoc8ci5BrA",
+      "thumbnail": "https://i.ytimg.com/vi/DZoc8ci5BrA/hqdefault.jpg",
+      "site_titles": [
+        "How to prevent trauma in horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "i8oyfjsk3RY",
+      "youtube_title": "Adopting a WILD MUSTANG horse!  Is my facility BLM compliant?",
+      "channel": "The Clever Cowgirl",
+      "youtube_url": "https://www.youtube.com/watch?v=i8oyfjsk3RY",
+      "embed_url": "https://www.youtube.com/embed/i8oyfjsk3RY",
+      "thumbnail": "https://i.ytimg.com/vi/i8oyfjsk3RY/hqdefault.jpg",
+      "site_titles": [
+        "Adopting a WILD MUSTANG horse! Is my facility BLM compliant?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_ItpTh9Pbl0",
+      "youtube_title": "HOW I ADOPTED A MUSTANG! MY EXPERIENCE, REQUIREMENTS, APPLICATION, AND MORE!",
+      "channel": "Aleksa_Eq",
+      "youtube_url": "https://www.youtube.com/watch?v=_ItpTh9Pbl0",
+      "embed_url": "https://www.youtube.com/embed/_ItpTh9Pbl0",
+      "thumbnail": "https://i.ytimg.com/vi/_ItpTh9Pbl0/hqdefault.jpg",
+      "site_titles": [
+        "HOW I ADOPTED A MUSTANG! MY EXPERIENCE, REQUIREMENTS, APPLICATION, AND MORE!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8txQAoHWBZc",
+      "youtube_title": "Training an Unhandled Brumby - Introduction/Day 1",
+      "channel": "Zoe Carter Australia",
+      "youtube_url": "https://www.youtube.com/watch?v=8txQAoHWBZc",
+      "embed_url": "https://www.youtube.com/embed/8txQAoHWBZc",
+      "thumbnail": "https://i.ytimg.com/vi/8txQAoHWBZc/hqdefault.jpg",
+      "site_titles": [
+        "Training an Unhandled Brumby - Introduction/Day 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "swzZOSGsJ6E",
+      "youtube_title": "Join up with Horses: What does it Mean in Horse Training",
+      "channel": "Tao of Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=swzZOSGsJ6E",
+      "embed_url": "https://www.youtube.com/embed/swzZOSGsJ6E",
+      "thumbnail": "https://i.ytimg.com/vi/swzZOSGsJ6E/hqdefault.jpg",
+      "site_titles": [
+        "Join up with Horses: What does it Mean in Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4XCmFNAYFH0",
+      "youtube_title": "BLM Adoption event ~ SO many gorgeous HORSES and Burros!",
+      "channel": "The Clever Cowgirl",
+      "youtube_url": "https://www.youtube.com/watch?v=4XCmFNAYFH0",
+      "embed_url": "https://www.youtube.com/embed/4XCmFNAYFH0",
+      "thumbnail": "https://i.ytimg.com/vi/4XCmFNAYFH0/hqdefault.jpg",
+      "site_titles": [
+        "BLM Adoption event ~ SO many gorgeous HORSES and Burros!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mtMEHQads_I",
+      "youtube_title": "Wild Horse and Burro Adoption Incentive Program 2022 Update",
+      "channel": "BLMNational",
+      "youtube_url": "https://www.youtube.com/watch?v=mtMEHQads_I",
+      "embed_url": "https://www.youtube.com/embed/mtMEHQads_I",
+      "thumbnail": "https://i.ytimg.com/vi/mtMEHQads_I/hqdefault.jpg",
+      "site_titles": [
+        "Wild Horse and Burro Adoption Incentive Program 2022 Update"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7zPYcHeQIbg",
+      "youtube_title": "Training Wild Horses With Convict Cowboys",
+      "channel": "Great Big Story",
+      "youtube_url": "https://www.youtube.com/watch?v=7zPYcHeQIbg",
+      "embed_url": "https://www.youtube.com/embed/7zPYcHeQIbg",
+      "thumbnail": "https://i.ytimg.com/vi/7zPYcHeQIbg/hqdefault.jpg",
+      "site_titles": [
+        "Training Wild Horses With Convict Cowboys"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qnywhFLeASw",
+      "youtube_title": "30 Days With A Wild Horse Reveals AMAZING Results!",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=qnywhFLeASw",
+      "embed_url": "https://www.youtube.com/embed/qnywhFLeASw",
+      "thumbnail": "https://i.ytimg.com/vi/qnywhFLeASw/hqdefault.jpg",
+      "site_titles": [
+        "30 Days With A Wild Horse Reveals AMAZING Results!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ewevPGMC0o4",
+      "youtube_title": "Horse Training - First Ride, First Mount",
+      "channel": "The Farm on Route 66",
+      "youtube_url": "https://www.youtube.com/watch?v=ewevPGMC0o4",
+      "embed_url": "https://www.youtube.com/embed/ewevPGMC0o4",
+      "thumbnail": "https://i.ytimg.com/vi/ewevPGMC0o4/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training - First Ride, First Mount"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OhAZaxu_7gU",
+      "youtube_title": "Help me Adopt my FIRST MUSTANG! Choosing 1 out of 1,000 horses!",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=OhAZaxu_7gU",
+      "embed_url": "https://www.youtube.com/embed/OhAZaxu_7gU",
+      "thumbnail": "https://i.ytimg.com/vi/OhAZaxu_7gU/hqdefault.jpg",
+      "site_titles": [
+        "Help me Adopt my FIRST MUSTANG! Choosing 1 out of 1,000 horses!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X__5ofFAL7A",
+      "youtube_title": "How to Adopt a WILD MUSTANG",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=X__5ofFAL7A",
+      "embed_url": "https://www.youtube.com/embed/X__5ofFAL7A",
+      "thumbnail": "https://i.ytimg.com/vi/X__5ofFAL7A/hqdefault.jpg",
+      "site_titles": [
+        "How to Adopt a WILD MUSTANG"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w6cUwq17Fkg",
+      "youtube_title": "Midwest Extreme Mustang Makeover Champion Run",
+      "channel": "xtrememustang",
+      "youtube_url": "https://www.youtube.com/watch?v=w6cUwq17Fkg",
+      "embed_url": "https://www.youtube.com/embed/w6cUwq17Fkg",
+      "thumbnail": "https://i.ytimg.com/vi/w6cUwq17Fkg/hqdefault.jpg",
+      "site_titles": [
+        "Midwest Extreme Mustang Makeover Champion Run"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZSggtkoXZIM",
+      "youtube_title": "Adoption Tale: Tom and Hualapai",
+      "channel": "BLM Arizona",
+      "youtube_url": "https://www.youtube.com/watch?v=ZSggtkoXZIM",
+      "embed_url": "https://www.youtube.com/embed/ZSggtkoXZIM",
+      "thumbnail": "https://i.ytimg.com/vi/ZSggtkoXZIM/hqdefault.jpg",
+      "site_titles": [
+        "Adoption Tale: Tom and Hualapai"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g7rhBIN2cqs",
+      "youtube_title": "3 Reasons I Do Join Up, and How I Do It",
+      "channel": "Turtle the Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=g7rhBIN2cqs",
+      "embed_url": "https://www.youtube.com/embed/g7rhBIN2cqs",
+      "thumbnail": "https://i.ytimg.com/vi/g7rhBIN2cqs/hqdefault.jpg",
+      "site_titles": [
+        "3 Reasons I Do Join Up, and How I Do It"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RWPx6_GttFY",
+      "youtube_title": "Understanding Horse Behavior",
+      "channel": "Wild Horse Secrets",
+      "youtube_url": "https://www.youtube.com/watch?v=RWPx6_GttFY",
+      "embed_url": "https://www.youtube.com/embed/RWPx6_GttFY",
+      "thumbnail": "https://i.ytimg.com/vi/RWPx6_GttFY/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Horse Behavior"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jYAWz68ILrE",
+      "youtube_title": "Training Wild Horses [FULL Day In The Life]",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=jYAWz68ILrE",
+      "embed_url": "https://www.youtube.com/embed/jYAWz68ILrE",
+      "thumbnail": "https://i.ytimg.com/vi/jYAWz68ILrE/hqdefault.jpg",
+      "site_titles": [
+        "Training Wild Horses [FULL Day In The Life]"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PXloAzgeduU",
+      "youtube_title": "$125 Horses! Behind The Scenes at a Montana Mustang Adoption",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=PXloAzgeduU",
+      "embed_url": "https://www.youtube.com/embed/PXloAzgeduU",
+      "thumbnail": "https://i.ytimg.com/vi/PXloAzgeduU/hqdefault.jpg",
+      "site_titles": [
+        "$125 Horses! Behind The Scenes at a Montana Mustang Adoption"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vktMdViP6mM",
+      "youtube_title": "2024 MUSTANG CHAMPION FREESTYLES",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=vktMdViP6mM",
+      "embed_url": "https://www.youtube.com/embed/vktMdViP6mM",
+      "thumbnail": "https://i.ytimg.com/vi/vktMdViP6mM/hqdefault.jpg",
+      "site_titles": [
+        "2024 MUSTANG CHAMPION FREESTYLES"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "my-7ZeGeSKs",
+      "youtube_title": "Trainers work with wild horses for 2024 Meeker Mustang Makeover competition",
+      "channel": "BLMCOLORADO",
+      "youtube_url": "https://www.youtube.com/watch?v=my-7ZeGeSKs",
+      "embed_url": "https://www.youtube.com/embed/my-7ZeGeSKs",
+      "thumbnail": "https://i.ytimg.com/vi/my-7ZeGeSKs/hqdefault.jpg",
+      "site_titles": [
+        "Trainers work with wild horses for 2024 Meeker Mustang Makeover competition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JqYg-VXrOTY",
+      "youtube_title": "Liberty Performance with Previously Wild Mustang — Michigan Horse Expo",
+      "channel": "CZ Mustangs",
+      "youtube_url": "https://www.youtube.com/watch?v=JqYg-VXrOTY",
+      "embed_url": "https://www.youtube.com/embed/JqYg-VXrOTY",
+      "thumbnail": "https://i.ytimg.com/vi/JqYg-VXrOTY/hqdefault.jpg",
+      "site_titles": [
+        "Liberty Performance with Previously Wild Mustang — Michigan Horse Expo"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bUiTv-ZzthQ",
+      "youtube_title": "10 Equine Behaviors Explained by Dr. Robert M. Miller",
+      "channel": "Spalding Labs",
+      "youtube_url": "https://www.youtube.com/watch?v=bUiTv-ZzthQ",
+      "embed_url": "https://www.youtube.com/embed/bUiTv-ZzthQ",
+      "thumbnail": "https://i.ytimg.com/vi/bUiTv-ZzthQ/hqdefault.jpg",
+      "site_titles": [
+        "10 Equine Behaviors Explained by Dr. Robert M. Miller"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OC73WVx5jog",
+      "youtube_title": "2016 Extreme Mustang Makeover Champion and Fan Favorite - Marsha Hartford Sapp and Freedom",
+      "channel": "Marsha Hartford",
+      "youtube_url": "https://www.youtube.com/watch?v=OC73WVx5jog",
+      "embed_url": "https://www.youtube.com/embed/OC73WVx5jog",
+      "thumbnail": "https://i.ytimg.com/vi/OC73WVx5jog/hqdefault.jpg",
+      "site_titles": [
+        "2016 Extreme Mustang Makeover Champion and Fan Favorite - Marsha Hartford Sapp and Freedom"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k9_QkiGLni8",
+      "youtube_title": "First Session With A Wild Mustang",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=k9_QkiGLni8",
+      "embed_url": "https://www.youtube.com/embed/k9_QkiGLni8",
+      "thumbnail": "https://i.ytimg.com/vi/k9_QkiGLni8/hqdefault.jpg",
+      "site_titles": [
+        "First Session With A Wild Mustang"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8nXtxSmOw1c",
+      "youtube_title": "First Ride on a WILD MUSTANG",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=8nXtxSmOw1c",
+      "embed_url": "https://www.youtube.com/embed/8nXtxSmOw1c",
+      "thumbnail": "https://i.ytimg.com/vi/8nXtxSmOw1c/hqdefault.jpg",
+      "site_titles": [
+        "First Ride on a WILD MUSTANG"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rYgYRxrtGBw",
+      "youtube_title": "After join up exercise with horse",
+      "channel": "TaRaisasittle",
+      "youtube_url": "https://www.youtube.com/watch?v=rYgYRxrtGBw",
+      "embed_url": "https://www.youtube.com/embed/rYgYRxrtGBw",
+      "thumbnail": "https://i.ytimg.com/vi/rYgYRxrtGBw/hqdefault.jpg",
+      "site_titles": [
+        "After join up exercise with horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mC2p53suRB0",
+      "youtube_title": "A Baby Mustang Melted Hearts... So Why Did It Get NO BIDS?!",
+      "channel": "Backyard Horse Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=mC2p53suRB0",
+      "embed_url": "https://www.youtube.com/embed/mC2p53suRB0",
+      "thumbnail": "https://i.ytimg.com/vi/mC2p53suRB0/hqdefault.jpg",
+      "site_titles": [
+        "A Baby Mustang Melted Hearts... So Why Did It Get NO BIDS?!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6Ep4Th993tI",
+      "youtube_title": "Revelry's Journey to the 2018 Extreme Mustang Makeover",
+      "channel": "Camille's Mustangs",
+      "youtube_url": "https://www.youtube.com/watch?v=6Ep4Th993tI",
+      "embed_url": "https://www.youtube.com/embed/6Ep4Th993tI",
+      "thumbnail": "https://i.ytimg.com/vi/6Ep4Th993tI/hqdefault.jpg",
+      "site_titles": [
+        "Revelry's Journey to the 2018 Extreme Mustang Makeover"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CKQ1rMxUYio",
+      "youtube_title": "What the US government does with WILD HORSES 👀",
+      "channel": "Jake Harvath",
+      "youtube_url": "https://www.youtube.com/watch?v=CKQ1rMxUYio",
+      "embed_url": "https://www.youtube.com/embed/CKQ1rMxUYio",
+      "thumbnail": "https://i.ytimg.com/vi/CKQ1rMxUYio/hqdefault.jpg",
+      "site_titles": [
+        "What the US government does with WILD HORSES 👀"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BeGlWpopYr4",
+      "youtube_title": "10 Facts About Mustang Horses",
+      "channel": "ZooZoomiesTV",
+      "youtube_url": "https://www.youtube.com/watch?v=BeGlWpopYr4",
+      "embed_url": "https://www.youtube.com/embed/BeGlWpopYr4",
+      "thumbnail": "https://i.ytimg.com/vi/BeGlWpopYr4/hqdefault.jpg",
+      "site_titles": [
+        "10 Facts About Mustang Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fi22vFXTEzg",
+      "youtube_title": "Monty and Pat Roberts' Flag Is Up Farms since 1966",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=fi22vFXTEzg",
+      "embed_url": "https://www.youtube.com/embed/fi22vFXTEzg",
+      "thumbnail": "https://i.ytimg.com/vi/fi22vFXTEzg/hqdefault.jpg",
+      "site_titles": [
+        "Monty and Pat Roberts' Flag Is Up Farms since 1966"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-KMYgPswj9E",
+      "youtube_title": "BLM-ES WILD HORSE & BURRO: Program Overview",
+      "channel": "BLM EasternStates",
+      "youtube_url": "https://www.youtube.com/watch?v=-KMYgPswj9E",
+      "embed_url": "https://www.youtube.com/embed/-KMYgPswj9E",
+      "thumbnail": "https://i.ytimg.com/vi/-KMYgPswj9E/hqdefault.jpg",
+      "site_titles": [
+        "BLM-ES WILD HORSE & BURRO: Program Overview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "utX1Q03TLIM",
+      "youtube_title": "Horsemanship 101 415 Desensitizing and Shut down horses",
+      "channel": "Max Nafe Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=utX1Q03TLIM",
+      "embed_url": "https://www.youtube.com/embed/utX1Q03TLIM",
+      "thumbnail": "https://i.ytimg.com/vi/utX1Q03TLIM/hqdefault.jpg",
+      "site_titles": [
+        "Horsemanship 101 415 Desensitizing and Shut down horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NWwpDPMNNQY",
+      "youtube_title": "This is the Best Way to Adopt a Mustang",
+      "channel": "Jake Harvath",
+      "youtube_url": "https://www.youtube.com/watch?v=NWwpDPMNNQY",
+      "embed_url": "https://www.youtube.com/embed/NWwpDPMNNQY",
+      "thumbnail": "https://i.ytimg.com/vi/NWwpDPMNNQY/hqdefault.jpg",
+      "site_titles": [
+        "This is the Best Way to Adopt a Mustang"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2niaxSizTNw",
+      "youtube_title": "2010 Supreme Extreme Mustang Makeover Champion",
+      "channel": "ExtremeMustangVideo",
+      "youtube_url": "https://www.youtube.com/watch?v=2niaxSizTNw",
+      "embed_url": "https://www.youtube.com/embed/2niaxSizTNw",
+      "thumbnail": "https://i.ytimg.com/vi/2niaxSizTNw/hqdefault.jpg",
+      "site_titles": [
+        "2010 Supreme Extreme Mustang Makeover Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PAJJUGPXRjw",
+      "youtube_title": "BLM Unveils 10-year Plan for Pryor Mountain Wild Horses",
+      "channel": "KTVQ News",
+      "youtube_url": "https://www.youtube.com/watch?v=PAJJUGPXRjw",
+      "embed_url": "https://www.youtube.com/embed/PAJJUGPXRjw",
+      "thumbnail": "https://i.ytimg.com/vi/PAJJUGPXRjw/hqdefault.jpg",
+      "site_titles": [
+        "BLM Unveils 10-year Plan for Pryor Mountain Wild Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Zze9qmGqPDI",
+      "youtube_title": "Watch this Alpha Mare do her job! Understanding  herd dynamics. #horse #horsevideo",
+      "channel": "Monique Smith",
+      "youtube_url": "https://www.youtube.com/watch?v=Zze9qmGqPDI",
+      "embed_url": "https://www.youtube.com/embed/Zze9qmGqPDI",
+      "thumbnail": "https://i.ytimg.com/vi/Zze9qmGqPDI/hqdefault.jpg",
+      "site_titles": [
+        "Watch this Alpha Mare do her job! Understanding herd dynamics."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UjBJNIE8HzQ",
+      "youtube_title": "Mustang Heritage Foundation",
+      "channel": "Austin American-Statesman",
+      "youtube_url": "https://www.youtube.com/watch?v=UjBJNIE8HzQ",
+      "embed_url": "https://www.youtube.com/embed/UjBJNIE8HzQ",
+      "thumbnail": "https://i.ytimg.com/vi/UjBJNIE8HzQ/hqdefault.jpg",
+      "site_titles": [
+        "Mustang Heritage Foundation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ssj1_psz25A",
+      "youtube_title": "Dan James Smart Little Mustang 4th Mustang Million",
+      "channel": "Gary Reynolds",
+      "youtube_url": "https://www.youtube.com/watch?v=Ssj1_psz25A",
+      "embed_url": "https://www.youtube.com/embed/Ssj1_psz25A",
+      "thumbnail": "https://i.ytimg.com/vi/Ssj1_psz25A/hqdefault.jpg",
+      "site_titles": [
+        "Dan James Smart Little Mustang 4th Mustang Million"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VcaZ_uHTEO8",
+      "youtube_title": "Wild Horse and Burro Online Adoption",
+      "channel": "BLM",
+      "youtube_url": "https://www.youtube.com/watch?v=VcaZ_uHTEO8",
+      "embed_url": "https://www.youtube.com/embed/VcaZ_uHTEO8",
+      "thumbnail": "https://i.ytimg.com/vi/VcaZ_uHTEO8/hqdefault.jpg",
+      "site_titles": [
+        "Wild Horse and Burro Online Adoption"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hASpZCjEeKE",
+      "youtube_title": "• THÉORIE • Le Join-Up de Monty Roberts",
+      "channel": "• Anima Equi •",
+      "youtube_url": "https://www.youtube.com/watch?v=hASpZCjEeKE",
+      "embed_url": "https://www.youtube.com/embed/hASpZCjEeKE",
+      "thumbnail": "https://i.ytimg.com/vi/hASpZCjEeKE/hqdefault.jpg",
+      "site_titles": [
+        "• THÉORIE • Le Join-Up de Monty Roberts"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QPXwnVJmRQ4",
+      "youtube_title": "The Truth About Wild Mustangs That Nobody In The Horse Industry Will Say",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=QPXwnVJmRQ4",
+      "embed_url": "https://www.youtube.com/embed/QPXwnVJmRQ4",
+      "thumbnail": "https://i.ytimg.com/vi/QPXwnVJmRQ4/hqdefault.jpg",
+      "site_titles": [
+        "The Truth About Wild Mustangs That Nobody In The Horse Industry Will Say"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9PRqLOluGeo",
+      "youtube_title": "Introducing a Saddle to my Wild Mustang (Full Training Session)",
+      "channel": "Steffen Stampede",
+      "youtube_url": "https://www.youtube.com/watch?v=9PRqLOluGeo",
+      "embed_url": "https://www.youtube.com/embed/9PRqLOluGeo",
+      "thumbnail": "https://i.ytimg.com/vi/9PRqLOluGeo/hqdefault.jpg",
+      "site_titles": [
+        "Introducing a Saddle to my Wild Mustang (Full Training Session)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pq3wbjbVoSM",
+      "youtube_title": "Where did America's Wild Horses come from?",
+      "channel": "Jake Harvath",
+      "youtube_url": "https://www.youtube.com/watch?v=pq3wbjbVoSM",
+      "embed_url": "https://www.youtube.com/embed/pq3wbjbVoSM",
+      "thumbnail": "https://i.ytimg.com/vi/pq3wbjbVoSM/hqdefault.jpg",
+      "site_titles": [
+        "Where did America's Wild Horses come from?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cUiUzTxo3Hs",
+      "youtube_title": "Extreme Mustang Makeover Champion Matt Zimmerman",
+      "channel": "Matt Zimmerman",
+      "youtube_url": "https://www.youtube.com/watch?v=cUiUzTxo3Hs",
+      "embed_url": "https://www.youtube.com/embed/cUiUzTxo3Hs",
+      "thumbnail": "https://i.ytimg.com/vi/cUiUzTxo3Hs/hqdefault.jpg",
+      "site_titles": [
+        "Extreme Mustang Makeover Champion Matt Zimmerman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H8NEekz1Ij4",
+      "youtube_title": "Monty Roberts: A Real Horse Whisperer",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=H8NEekz1Ij4",
+      "embed_url": "https://www.youtube.com/embed/H8NEekz1Ij4",
+      "thumbnail": "https://i.ytimg.com/vi/H8NEekz1Ij4/hqdefault.jpg",
+      "site_titles": [
+        "Monty Roberts: A Real Horse Whisperer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1-ZbnLP8l6Y",
+      "youtube_title": "Meet My New Mustang (He's More Wild Than I Thought)",
+      "channel": "Mustang Maddy",
+      "youtube_url": "https://www.youtube.com/watch?v=1-ZbnLP8l6Y",
+      "embed_url": "https://www.youtube.com/embed/1-ZbnLP8l6Y",
+      "thumbnail": "https://i.ytimg.com/vi/1-ZbnLP8l6Y/hqdefault.jpg",
+      "site_titles": [
+        "Meet My New Mustang (He's More Wild Than I Thought)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5joycgeK0WA",
+      "youtube_title": "The Mustang Myth Debunked: DNA Reveals the True Wild Horse Story",
+      "channel": "Rethink Wild",
+      "youtube_url": "https://www.youtube.com/watch?v=5joycgeK0WA",
+      "embed_url": "https://www.youtube.com/embed/5joycgeK0WA",
+      "thumbnail": "https://i.ytimg.com/vi/5joycgeK0WA/hqdefault.jpg",
+      "site_titles": [
+        "The Mustang Myth Debunked: DNA Reveals the True Wild Horse Story"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gsg2KhZGHKo",
+      "youtube_title": "A Mustang That Spooks At Objects On The Ground",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=gsg2KhZGHKo",
+      "embed_url": "https://www.youtube.com/embed/gsg2KhZGHKo",
+      "thumbnail": "https://i.ytimg.com/vi/gsg2KhZGHKo/hqdefault.jpg",
+      "site_titles": [
+        "A Mustang That Spooks At Objects On The Ground"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wxkJqdyBQUY",
+      "youtube_title": "Mustangs kick when you touch their feet—here’s how to fix it safely",
+      "channel": "Havens Hideout Wild Mustang Training",
+      "youtube_url": "https://www.youtube.com/watch?v=wxkJqdyBQUY",
+      "embed_url": "https://www.youtube.com/embed/wxkJqdyBQUY",
+      "thumbnail": "https://i.ytimg.com/vi/wxkJqdyBQUY/hqdefault.jpg",
+      "site_titles": [
+        "Mustangs kick when you touch their feet—here’s how to fix it safely"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q6b7Md6wS7s",
+      "youtube_title": "Can Our Mustang Handle These Obstacles On His First Ever Ride Off the Property?",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=q6b7Md6wS7s",
+      "embed_url": "https://www.youtube.com/embed/q6b7Md6wS7s",
+      "thumbnail": "https://i.ytimg.com/vi/q6b7Md6wS7s/hqdefault.jpg",
+      "site_titles": [
+        "Can Our Mustang Handle These Obstacles On His First Ever Ride Off the Property?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PexWqPs1KB4",
+      "youtube_title": "Learn to Train: Mustang Meltdown",
+      "channel": "Mustang Camp",
+      "youtube_url": "https://www.youtube.com/watch?v=PexWqPs1KB4",
+      "embed_url": "https://www.youtube.com/embed/PexWqPs1KB4",
+      "thumbnail": "https://i.ytimg.com/vi/PexWqPs1KB4/hqdefault.jpg",
+      "site_titles": [
+        "Learn to Train: Mustang Meltdown"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "13lfp13MF3M",
+      "youtube_title": "LIVE SESSION With Our Toughest Wild Mustang (Honey Update!)",
+      "channel": "MTN BUILT",
+      "youtube_url": "https://www.youtube.com/watch?v=13lfp13MF3M",
+      "embed_url": "https://www.youtube.com/embed/13lfp13MF3M",
+      "thumbnail": "https://i.ytimg.com/vi/13lfp13MF3M/hqdefault.jpg",
+      "site_titles": [
+        "LIVE SESSION With Our Toughest Wild Mustang (Honey Update!)"
       ],
       "sections": [
         "qa"
