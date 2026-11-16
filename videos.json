@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1340,
+  "count": 1389,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -24031,6 +24031,790 @@
       "thumbnail": "https://i.ytimg.com/vi/YNQqOiTGAe8/hqdefault.jpg",
       "site_titles": [
         "All-Breed Pleasure Driving Open at Carousel Charity Horse Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MEQfmjSMsrk",
+      "youtube_title": "Better Riding In Two Minutes or Less - strong or heavy on the rein!",
+      "channel": "Dressage Training TV",
+      "youtube_url": "https://www.youtube.com/watch?v=MEQfmjSMsrk",
+      "embed_url": "https://www.youtube.com/embed/MEQfmjSMsrk",
+      "thumbnail": "https://i.ytimg.com/vi/MEQfmjSMsrk/hqdefault.jpg",
+      "site_titles": [
+        "Better Riding In Two Minutes or Less - strong or heavy on the rein!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R7-H1M4KME4",
+      "youtube_title": "Show Jumping: Mastering Bending Lines and Combinations | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=R7-H1M4KME4",
+      "embed_url": "https://www.youtube.com/embed/R7-H1M4KME4",
+      "thumbnail": "https://i.ytimg.com/vi/R7-H1M4KME4/hqdefault.jpg",
+      "site_titles": [
+        "Show Jumping: Mastering Bending Lines and Combinations | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EstA8wW3CPM",
+      "youtube_title": "John French: How To Ride A Hunters Under Saddle Class",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=EstA8wW3CPM",
+      "embed_url": "https://www.youtube.com/embed/EstA8wW3CPM",
+      "thumbnail": "https://i.ytimg.com/vi/EstA8wW3CPM/hqdefault.jpg",
+      "site_titles": [
+        "John French: How To Ride A Hunters Under Saddle Class"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xlYg-cX7FO0",
+      "youtube_title": "Practical Horseman OnDemand with Boyd Martin: Rushing the Jump",
+      "channel": "Equine Network",
+      "youtube_url": "https://www.youtube.com/watch?v=xlYg-cX7FO0",
+      "embed_url": "https://www.youtube.com/embed/xlYg-cX7FO0",
+      "thumbnail": "https://i.ytimg.com/vi/xlYg-cX7FO0/hqdefault.jpg",
+      "site_titles": [
+        "Practical Horseman OnDemand with Boyd Martin: Rushing the Jump"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ohhq2_iLWe0",
+      "youtube_title": "CONFIDENCE IN HORSE RIDING// Tips to build confidence and relaxation while riding",
+      "channel": "Eventing Cannon",
+      "youtube_url": "https://www.youtube.com/watch?v=ohhq2_iLWe0",
+      "embed_url": "https://www.youtube.com/embed/ohhq2_iLWe0",
+      "thumbnail": "https://i.ytimg.com/vi/ohhq2_iLWe0/hqdefault.jpg",
+      "site_titles": [
+        "CONFIDENCE IN HORSE RIDING// Tips to build confidence and relaxation while riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8DV7xa4ErpQ",
+      "youtube_title": "Rider's Canter Position: Tips and Techniques for Improving Balance, Control, and Effectiveness",
+      "channel": "Champions Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=8DV7xa4ErpQ",
+      "embed_url": "https://www.youtube.com/embed/8DV7xa4ErpQ",
+      "thumbnail": "https://i.ytimg.com/vi/8DV7xa4ErpQ/hqdefault.jpg",
+      "site_titles": [
+        "Rider's Canter Position: Tips and Techniques for Improving Balance, Control, and Effectiveness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jQPr3Zj-T4Q",
+      "youtube_title": "Secrets to Success in Working Hunter – Katy Kemp Reveals All!",
+      "channel": "Beyond The Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=jQPr3Zj-T4Q",
+      "embed_url": "https://www.youtube.com/embed/jQPr3Zj-T4Q",
+      "thumbnail": "https://i.ytimg.com/vi/jQPr3Zj-T4Q/hqdefault.jpg",
+      "site_titles": [
+        "Secrets to Success in Working Hunter – Katy Kemp Reveals All!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OuwuMv6CEqU",
+      "youtube_title": "The rider reset: what to fix after a bad jumping round",
+      "channel": "Dare to Coaching Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=OuwuMv6CEqU",
+      "embed_url": "https://www.youtube.com/embed/OuwuMv6CEqU",
+      "thumbnail": "https://i.ytimg.com/vi/OuwuMv6CEqU/hqdefault.jpg",
+      "site_titles": [
+        "The rider reset: what to fix after a bad jumping round"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F84TodVzuso",
+      "youtube_title": "How to See the Perfect Distance (Part 1)",
+      "channel": "Evention TV",
+      "youtube_url": "https://www.youtube.com/watch?v=F84TodVzuso",
+      "embed_url": "https://www.youtube.com/embed/F84TodVzuso",
+      "thumbnail": "https://i.ytimg.com/vi/F84TodVzuso/hqdefault.jpg",
+      "site_titles": [
+        "How to See the Perfect Distance (Part 1)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5OjTrfqvgyU",
+      "youtube_title": "Jumping Position with a Purpose - Schuyler Riley",
+      "channel": "Ridely",
+      "youtube_url": "https://www.youtube.com/watch?v=5OjTrfqvgyU",
+      "embed_url": "https://www.youtube.com/embed/5OjTrfqvgyU",
+      "thumbnail": "https://i.ytimg.com/vi/5OjTrfqvgyU/hqdefault.jpg",
+      "site_titles": [
+        "Jumping Position with a Purpose - Schuyler Riley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hpvRzkHtOtA",
+      "youtube_title": "Improving your hand release over jumps with Kirstin Kelly.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=hpvRzkHtOtA",
+      "embed_url": "https://www.youtube.com/embed/hpvRzkHtOtA",
+      "thumbnail": "https://i.ytimg.com/vi/hpvRzkHtOtA/hqdefault.jpg",
+      "site_titles": [
+        "Improving your hand release over jumps with Kirstin Kelly."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HLDlgvb8fiM",
+      "youtube_title": "How to keep your legs still",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=HLDlgvb8fiM",
+      "embed_url": "https://www.youtube.com/embed/HLDlgvb8fiM",
+      "thumbnail": "https://i.ytimg.com/vi/HLDlgvb8fiM/hqdefault.jpg",
+      "site_titles": [
+        "How to keep your legs still"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OV5TjndWji8",
+      "youtube_title": "Hunter Under Saddle-trot",
+      "channel": "SecretProspector",
+      "youtube_url": "https://www.youtube.com/watch?v=OV5TjndWji8",
+      "embed_url": "https://www.youtube.com/embed/OV5TjndWji8",
+      "thumbnail": "https://i.ytimg.com/vi/OV5TjndWji8/hqdefault.jpg",
+      "site_titles": [
+        "Hunter Under Saddle-trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R8uQ4ps4M_g",
+      "youtube_title": "5 Tips to Improve Your Horse Jumping Technique (With FEI II Show Jumping Coach Krystal Kelly) #horse",
+      "channel": "Coach Krystal Kelly",
+      "youtube_url": "https://www.youtube.com/watch?v=R8uQ4ps4M_g",
+      "embed_url": "https://www.youtube.com/embed/R8uQ4ps4M_g",
+      "thumbnail": "https://i.ytimg.com/vi/R8uQ4ps4M_g/hqdefault.jpg",
+      "site_titles": [
+        "5 Tips to Improve Your Horse Jumping Technique (With FEI II Show Jumping Coach Krystal Kelly)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DNCssAkg8oc",
+      "youtube_title": "Blickschulung Hunter under Saddle: Trott",
+      "channel": "Allaround Academy",
+      "youtube_url": "https://www.youtube.com/watch?v=DNCssAkg8oc",
+      "embed_url": "https://www.youtube.com/embed/DNCssAkg8oc",
+      "thumbnail": "https://i.ytimg.com/vi/DNCssAkg8oc/hqdefault.jpg",
+      "site_titles": [
+        "Blickschulung Hunter under Saddle: Trott"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rKUCY_4kbvA",
+      "youtube_title": "Horse Fitness Programs: What Every Rider Should Know!",
+      "channel": "ELS Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=rKUCY_4kbvA",
+      "embed_url": "https://www.youtube.com/embed/rKUCY_4kbvA",
+      "thumbnail": "https://i.ytimg.com/vi/rKUCY_4kbvA/hqdefault.jpg",
+      "site_titles": [
+        "Horse Fitness Programs: What Every Rider Should Know!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Z2sohV_3qxE",
+      "youtube_title": "Horse Show Tips No One Wants You to Know - Hunter Under Saddle",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=Z2sohV_3qxE",
+      "embed_url": "https://www.youtube.com/embed/Z2sohV_3qxE",
+      "thumbnail": "https://i.ytimg.com/vi/Z2sohV_3qxE/hqdefault.jpg",
+      "site_titles": [
+        "Horse Show Tips No One Wants You to Know - Hunter Under Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "78nbfrzfliU",
+      "youtube_title": "Sarah Ryan - Flat Equitation",
+      "channel": "J9ryan",
+      "youtube_url": "https://www.youtube.com/watch?v=78nbfrzfliU",
+      "embed_url": "https://www.youtube.com/embed/78nbfrzfliU",
+      "thumbnail": "https://i.ytimg.com/vi/78nbfrzfliU/hqdefault.jpg",
+      "site_titles": [
+        "Sarah Ryan - Flat Equitation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t6mCYJJq9tQ",
+      "youtube_title": "Horse Jumps ProTips - Ride-A-Course with Todd Minikus",
+      "channel": "Premier Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=t6mCYJJq9tQ",
+      "embed_url": "https://www.youtube.com/embed/t6mCYJJq9tQ",
+      "thumbnail": "https://i.ytimg.com/vi/t6mCYJJq9tQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse Jumps ProTips - Ride-A-Course with Todd Minikus"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rzuo_EZhLJY",
+      "youtube_title": "John French Teaches What an Ideal Hunter Horse Looks Like.",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=rzuo_EZhLJY",
+      "embed_url": "https://www.youtube.com/embed/rzuo_EZhLJY",
+      "thumbnail": "https://i.ytimg.com/vi/rzuo_EZhLJY/hqdefault.jpg",
+      "site_titles": [
+        "John French Teaches What an Ideal Hunter Horse Looks Like."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZWmeQrU1vss",
+      "youtube_title": "Avoid doing this when riding over fences Horse Riding Position Review and Equitation Tips",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=ZWmeQrU1vss",
+      "embed_url": "https://www.youtube.com/embed/ZWmeQrU1vss",
+      "thumbnail": "https://i.ytimg.com/vi/ZWmeQrU1vss/hqdefault.jpg",
+      "site_titles": [
+        "Avoid doing this when riding over fences Horse Riding Position Review and Equitation Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "s8aKsma-44c",
+      "youtube_title": "Train Your Horse to Shorten Their Stride and Be More Careful in a Combination",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=s8aKsma-44c",
+      "embed_url": "https://www.youtube.com/embed/s8aKsma-44c",
+      "thumbnail": "https://i.ytimg.com/vi/s8aKsma-44c/hqdefault.jpg",
+      "site_titles": [
+        "Train Your Horse to Shorten Their Stride and Be More Careful in a Combination"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FksQo3byFHE",
+      "youtube_title": "Training - How to jump a corner fence",
+      "channel": "British Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=FksQo3byFHE",
+      "embed_url": "https://www.youtube.com/embed/FksQo3byFHE",
+      "thumbnail": "https://i.ytimg.com/vi/FksQo3byFHE/hqdefault.jpg",
+      "site_titles": [
+        "Training - How to jump a corner fence"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LGd-Ak-fkwQ",
+      "youtube_title": "Working hunter flat class",
+      "channel": "Amber Daniels",
+      "youtube_url": "https://www.youtube.com/watch?v=LGd-Ak-fkwQ",
+      "embed_url": "https://www.youtube.com/embed/LGd-Ak-fkwQ",
+      "thumbnail": "https://i.ytimg.com/vi/LGd-Ak-fkwQ/hqdefault.jpg",
+      "site_titles": [
+        "Working hunter flat class"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d__V02hnWQ8",
+      "youtube_title": "Learn How to Find the Perfect Take Off Distance",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=d__V02hnWQ8",
+      "embed_url": "https://www.youtube.com/embed/d__V02hnWQ8",
+      "thumbnail": "https://i.ytimg.com/vi/d__V02hnWQ8/hqdefault.jpg",
+      "site_titles": [
+        "Learn How to Find the Perfect Take Off Distance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Zx-syHKvPvM",
+      "youtube_title": "August 4, 2026 Training Tip: Introduction to the Chambon, Part I",
+      "channel": "Garlands",
+      "youtube_url": "https://www.youtube.com/watch?v=Zx-syHKvPvM",
+      "embed_url": "https://www.youtube.com/embed/Zx-syHKvPvM",
+      "thumbnail": "https://i.ytimg.com/vi/Zx-syHKvPvM/hqdefault.jpg",
+      "site_titles": [
+        "August 4, 2026 Training Tip: Introduction to the Chambon, Part I"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kZYqS8zdc0k",
+      "youtube_title": "Class 11   Working Hunter   Conformation    Tynyfach Ladies Man",
+      "channel": "Emma & Roh",
+      "youtube_url": "https://www.youtube.com/watch?v=kZYqS8zdc0k",
+      "embed_url": "https://www.youtube.com/embed/kZYqS8zdc0k",
+      "thumbnail": "https://i.ytimg.com/vi/kZYqS8zdc0k/hqdefault.jpg",
+      "site_titles": [
+        "Class 11 Working Hunter Conformation Tynyfach Ladies Man"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "smpLk_YhAsY",
+      "youtube_title": "Can't Remember Your Riding Course? Here's What to Do.",
+      "channel": "NOËLLE FLOYD",
+      "youtube_url": "https://www.youtube.com/watch?v=smpLk_YhAsY",
+      "embed_url": "https://www.youtube.com/embed/smpLk_YhAsY",
+      "thumbnail": "https://i.ytimg.com/vi/smpLk_YhAsY/hqdefault.jpg",
+      "site_titles": [
+        "Can't Remember Your Riding Course? Here's What to Do."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nvdaLrmEpzI",
+      "youtube_title": "The Best Show Jumping Warm Up Routine - What To Do Before The Ring",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=nvdaLrmEpzI",
+      "embed_url": "https://www.youtube.com/embed/nvdaLrmEpzI",
+      "thumbnail": "https://i.ytimg.com/vi/nvdaLrmEpzI/hqdefault.jpg",
+      "site_titles": [
+        "The Best Show Jumping Warm Up Routine - What To Do Before The Ring"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MxHH0py_TV8",
+      "youtube_title": "Fix Your Posting Trot: How to Stop Bouncing!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=MxHH0py_TV8",
+      "embed_url": "https://www.youtube.com/embed/MxHH0py_TV8",
+      "thumbnail": "https://i.ytimg.com/vi/MxHH0py_TV8/hqdefault.jpg",
+      "site_titles": [
+        "Fix Your Posting Trot: How to Stop Bouncing!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "peBCRYQAVFM",
+      "youtube_title": "How to Sit the Trot!!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=peBCRYQAVFM",
+      "embed_url": "https://www.youtube.com/embed/peBCRYQAVFM",
+      "thumbnail": "https://i.ytimg.com/vi/peBCRYQAVFM/hqdefault.jpg",
+      "site_titles": [
+        "How to Sit the Trot!!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "C2JDPWhp41E",
+      "youtube_title": "2026 AQHA Senior Hunter Under Saddle World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=C2JDPWhp41E",
+      "embed_url": "https://www.youtube.com/embed/C2JDPWhp41E",
+      "thumbnail": "https://i.ytimg.com/vi/C2JDPWhp41E/hqdefault.jpg",
+      "site_titles": [
+        "2026 AQHA Senior Hunter Under Saddle World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0JvcE2Fn2Bs",
+      "youtube_title": "How to introduce your ex-racehorse to jumping | Horse&Rider",
+      "channel": "horseandridermag",
+      "youtube_url": "https://www.youtube.com/watch?v=0JvcE2Fn2Bs",
+      "embed_url": "https://www.youtube.com/embed/0JvcE2Fn2Bs",
+      "thumbnail": "https://i.ytimg.com/vi/0JvcE2Fn2Bs/hqdefault.jpg",
+      "site_titles": [
+        "How to introduce your ex-racehorse to jumping | Horse&Rider"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WfCgGORV25U",
+      "youtube_title": "Jumping: Breaking Down Hunters Vs Jumpers",
+      "channel": "Madison Nirenstein",
+      "youtube_url": "https://www.youtube.com/watch?v=WfCgGORV25U",
+      "embed_url": "https://www.youtube.com/embed/WfCgGORV25U",
+      "thumbnail": "https://i.ytimg.com/vi/WfCgGORV25U/hqdefault.jpg",
+      "site_titles": [
+        "Jumping: Breaking Down Hunters Vs Jumpers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I38P033ISac",
+      "youtube_title": "Does My Horse Chip at Jumps?",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=I38P033ISac",
+      "embed_url": "https://www.youtube.com/embed/I38P033ISac",
+      "thumbnail": "https://i.ytimg.com/vi/I38P033ISac/hqdefault.jpg",
+      "site_titles": [
+        "Does My Horse Chip at Jumps?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7jojjTMIAc0",
+      "youtube_title": "How to stop your horse drifting over a jump with Kirstin Kelly.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=7jojjTMIAc0",
+      "embed_url": "https://www.youtube.com/embed/7jojjTMIAc0",
+      "thumbnail": "https://i.ytimg.com/vi/7jojjTMIAc0/hqdefault.jpg",
+      "site_titles": [
+        "How to stop your horse drifting over a jump with Kirstin Kelly."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Rn-kU4YKKak",
+      "youtube_title": "How To Help A Horse That Want To Jump Water Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Rn-kU4YKKak",
+      "embed_url": "https://www.youtube.com/embed/Rn-kU4YKKak",
+      "thumbnail": "https://i.ytimg.com/vi/Rn-kU4YKKak/hqdefault.jpg",
+      "site_titles": [
+        "How To Help A Horse That Want To Jump Water Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "l4a7gMNjqms",
+      "youtube_title": "Stop Your Horse From Running Out At Jumps - Hans Provides Solutions",
+      "channel": "Hans Equestrian Training",
+      "youtube_url": "https://www.youtube.com/watch?v=l4a7gMNjqms",
+      "embed_url": "https://www.youtube.com/embed/l4a7gMNjqms",
+      "thumbnail": "https://i.ytimg.com/vi/l4a7gMNjqms/hqdefault.jpg",
+      "site_titles": [
+        "Stop Your Horse From Running Out At Jumps - Hans Provides Solutions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CHCco5ka0Vc",
+      "youtube_title": "Horse Refusing Jumps? Here's What Riders Miss",
+      "channel": "Classy Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=CHCco5ka0Vc",
+      "embed_url": "https://www.youtube.com/embed/CHCco5ka0Vc",
+      "thumbnail": "https://i.ytimg.com/vi/CHCco5ka0Vc/hqdefault.jpg",
+      "site_titles": [
+        "Horse Refusing Jumps? Here's What Riders Miss"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jiO_iST837s",
+      "youtube_title": "A Judge's Perspective: 2018 AQHYA Equitation Over Fences World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=jiO_iST837s",
+      "embed_url": "https://www.youtube.com/embed/jiO_iST837s",
+      "thumbnail": "https://i.ytimg.com/vi/jiO_iST837s/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2018 AQHYA Equitation Over Fences World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6YpX6sWNsGw",
+      "youtube_title": "Hunt Seat Equitation - Class 1: Horse 3 - Judge Explanation",
+      "channel": "American Paint Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=6YpX6sWNsGw",
+      "embed_url": "https://www.youtube.com/embed/6YpX6sWNsGw",
+      "thumbnail": "https://i.ytimg.com/vi/6YpX6sWNsGw/hqdefault.jpg",
+      "site_titles": [
+        "Hunt Seat Equitation - Class 1: Horse 3 - Judge Explanation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oxWHHigKW1E",
+      "youtube_title": "Judge's Perspective: Working Hunter Under Saddle",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=oxWHHigKW1E",
+      "embed_url": "https://www.youtube.com/embed/oxWHHigKW1E",
+      "thumbnail": "https://i.ytimg.com/vi/oxWHHigKW1E/hqdefault.jpg",
+      "site_titles": [
+        "Judge's Perspective: Working Hunter Under Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d0YpoeifRQA",
+      "youtube_title": "How to Hold and Use a Whip While Riding",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=d0YpoeifRQA",
+      "embed_url": "https://www.youtube.com/embed/d0YpoeifRQA",
+      "thumbnail": "https://i.ytimg.com/vi/d0YpoeifRQA/hqdefault.jpg",
+      "site_titles": [
+        "How to Hold and Use a Whip While Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Xot8Np0U6rI",
+      "youtube_title": "Horse Show Tips - How do Hunter Judges Score a Round",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=Xot8Np0U6rI",
+      "embed_url": "https://www.youtube.com/embed/Xot8Np0U6rI",
+      "thumbnail": "https://i.ytimg.com/vi/Xot8Np0U6rI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Show Tips - How do Hunter Judges Score a Round"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mS4vFa8OEHQ",
+      "youtube_title": "Day 12: Two Point Position",
+      "channel": "The Eq Network",
+      "youtube_url": "https://www.youtube.com/watch?v=mS4vFa8OEHQ",
+      "embed_url": "https://www.youtube.com/embed/mS4vFa8OEHQ",
+      "thumbnail": "https://i.ytimg.com/vi/mS4vFa8OEHQ/hqdefault.jpg",
+      "site_titles": [
+        "Day 12: Two Point Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lZe9Ozdz7Us",
+      "youtube_title": "Horse Riding Position: Pelvis",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=lZe9Ozdz7Us",
+      "embed_url": "https://www.youtube.com/embed/lZe9Ozdz7Us",
+      "thumbnail": "https://i.ytimg.com/vi/lZe9Ozdz7Us/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Position: Pelvis"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gQYw-V8Ih7k",
+      "youtube_title": "Understanding Seat Aids in Riding",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=gQYw-V8Ih7k",
+      "embed_url": "https://www.youtube.com/embed/gQYw-V8Ih7k",
+      "thumbnail": "https://i.ytimg.com/vi/gQYw-V8Ih7k/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Seat Aids in Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fLCjZuvelbU",
+      "youtube_title": "What Makes A Good Hunter Great",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=fLCjZuvelbU",
+      "embed_url": "https://www.youtube.com/embed/fLCjZuvelbU",
+      "thumbnail": "https://i.ytimg.com/vi/fLCjZuvelbU/hqdefault.jpg",
+      "site_titles": [
+        "What Makes A Good Hunter Great"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7bSVbrs18kA",
+      "youtube_title": "5 Things a Horse Show Judge looks for in a Hunter Under Saddle Class",
+      "channel": "Laura Kelland-May",
+      "youtube_url": "https://www.youtube.com/watch?v=7bSVbrs18kA",
+      "embed_url": "https://www.youtube.com/embed/7bSVbrs18kA",
+      "thumbnail": "https://i.ytimg.com/vi/7bSVbrs18kA/hqdefault.jpg",
+      "site_titles": [
+        "5 Things a Horse Show Judge looks for in a Hunter Under Saddle Class"
       ],
       "sections": [
         "qa"
