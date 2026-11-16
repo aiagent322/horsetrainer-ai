@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 837,
+  "count": 879,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -104,18 +104,6 @@
         "qa/safety/what-are-the-best-tips-for-preventing-bucking-with-a-green-horse/index.html",
         "qa/safety/why-is-it-important-to-be-careful-when-dismounting-during-the-first-few-rides-on/index.html",
         "qa/safety/why-is-using-a-body-rope-on-a-foal-or-young-horse-so-risky-and-how-can-it-create/index.html",
-        "qa/starting-young-horses/how-do-i-start-a-colt-under-saddle-for-the-first-time/index.html",
-        "qa/starting-young-horses/how-do-you-halter-break-a-foal-correctly-and-at-what-age-should-you-start/index.html",
-        "qa/starting-young-horses/how-does-clinton-anderson-handle-the-first-buck-on-a-young-horse-and-how-does-he/index.html",
-        "qa/starting-young-horses/what-age-should-a-horse-be-started-under-saddle-and-what-do-anderson-parelli-and/index.html",
-        "qa/starting-young-horses/what-are-the-most-common-mistakes-people-make-when-starting-their-own-young-hors/index.html",
-        "qa/starting-young-horses/what-does-anderson-say-about-the-importance-of-teaching-a-young-horse-to-move-aw/index.html",
-        "qa/starting-young-horses/what-does-clinton-anderson-say-about-round-pen-work-before-backing-a-colt/index.html",
-        "qa/starting-young-horses/what-does-clinton-anderson-say-is-the-single-most-important-thing-to-do-before-t/index.html",
-        "qa/starting-young-horses/what-groundwork-should-a-young-horse-have-before-the-first-ride/index.html",
-        "qa/starting-young-horses/what-is-the-correct-sequence-for-introducing-a-saddle-to-a-young-horse-for-the-f/index.html",
-        "qa/starting-young-horses/what-is-the-role-of-the-round-pen-in-starting-young-horses-and-can-you-start-a-h/index.html",
-        "qa/starting-young-horses/what-two-year-old-preparation-work-does-clinton-anderson-recommend-before-the-fi/index.html",
         "qa/training-principles/how-do-you-establish-basic-steering-and-directional-control-in-a-young-horse/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-basic-groundwork-exercises/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
@@ -380,15 +368,6 @@
         "qa/natural-horsemanship/what-is-martin-blacks-approach-to-starting-colts/index.html",
         "qa/obstacle-training/can-obstacle-training-help-young-horses/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
-        "qa/starting-young-horses/how-do-you-know-when-a-young-horse-is-genuinely-ready-to-progress-to-the-next-st/index.html",
-        "qa/starting-young-horses/how-does-the-approach-to-starting-horses-differ-between-western-performance-engl/index.html",
-        "qa/starting-young-horses/how-long-does-it-take-to-start-a-young-horse-under-saddle/index.html",
-        "qa/starting-young-horses/what-are-the-physical-development-milestones-trainers-should-know-about-before-s/index.html",
-        "qa/starting-young-horses/what-is-the-difference-between-starting-a-colt-and-starting-a-filly-and-does-gen/index.html",
-        "qa/starting-young-horses/what-is-the-purpose-of-long-lining-a-young-horse-before-the-first-ride-and-how-d/index.html",
-        "qa/starting-young-horses/what-should-a-trainer-assess-in-a-young-horses-movement-and-conformation-before/index.html",
-        "qa/starting-young-horses/what-specific-ground-work-should-be-confirmed-before-anyone-other-than-the-prima/index.html",
-        "qa/starting-young-horses/when-should-i-start-a-young-horse-under-saddle/index.html",
         "qa/training-principles/how-do-you-determine-the-right-training-pace-for-an-individual-green-horse/index.html",
         "qa/training-principles/how-do-you-develop-a-young-horses-balance-and-straightness-under-saddle/index.html",
         "qa/training-principles/how-do-you-introduce-the-canter-to-a-young-horse-under-saddle/index.html",
@@ -460,7 +439,6 @@
         "qa/safety/my-horse-spooks-at-barking-dogs-what-can-i-do/index.html",
         "qa/safety/my-horse-wants-to-go-sideways-when-spooked-what-can-i-do-about-that/index.html",
         "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html",
-        "qa/starting-young-horses/how-do-you-handle-the-first-time-a-young-horse-spooks-under-saddle/index.html",
         "qa/trail/how-do-i-train-a-horse-that-spooks-on-the-trail/index.html",
         "qa/trail/how-do-i-train-a-horse-to-remain-calm-when-a-slicker-or-rain-jacket-is-handled-f/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-calmly-near-vehicles-machinery-and-t/index.html",
@@ -762,7 +740,6 @@
         "qa/collection/index.html",
         "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
-        "qa/starting-young-horses/how-do-you-develop-collection-in-a-young-horse-without-forcing-it/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-in-self-carriage/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-topline-and-why-is-it-important-to-training-progress/index.html",
         "qa/training-principles/how-do-you-develop-collection-in-a-horse-and-what-are-the-prerequisites-for-begi/index.html",
@@ -1185,9 +1162,6 @@
         "qa/gaits/index.html",
         "qa/horsemanship/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
         "qa/natural-horsemanship/what-does-a-good-first-ride-look-like-in-natural-horsemanship/index.html",
-        "qa/starting-young-horses/what-happens-in-the-days-and-weeks-after-the-first-ride-and-how-do-you-build-on/index.html",
-        "qa/starting-young-horses/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
-        "qa/starting-young-horses/what-should-the-first-rides-on-a-young-horse-look-like/index.html",
         "qa/training-principles/how-do-you-handle-a-horses-first-trotting-session-under-saddle/index.html",
         "qa/training-principles/why-is-it-important-to-keep-your-horse-from-being-bored-during-the-first-few-rid/index.html",
         "qa/wild-horse-training/what-does-the-first-ride-on-a-wild-horse-look-like/index.html"
@@ -1511,7 +1485,6 @@
       "reference_count": 4,
       "pages": [
         "colt-starting/building-a-forward-horse/index.html",
-        "qa/starting-young-horses/how-do-you-build-forward-energy-in-a-young-horse-that-is-naturally-lazy-or-dull/index.html",
         "qa/training-principles/how-do-you-develop-impulsion-in-a-young-horse-and-why-is-it-important/index.html",
         "qa/training-principles/why-should-you-avoid-kicking-a-horse-during-its-first-rides/index.html"
       ]
@@ -1620,9 +1593,6 @@
       "pages": [
         "qa/choosing-a-trainer/index.html",
         "qa/gaits/my-young-horse-wont-walk-he-jogs/index.html",
-        "qa/starting-young-horses/how-do-you-prevent-a-young-horse-from-becoming-ring-sour-during-its-early-traini/index.html",
-        "qa/starting-young-horses/how-long-should-early-training-sessions-be-for-young-horses-and-how-do-you-know/index.html",
-        "qa/starting-young-horses/what-do-you-do-when-a-young-horse-in-training-plateaus-and-stops-making-progress/index.html",
         "qa/training-principles-psychology/index.html"
       ]
     },
@@ -16091,6 +16061,678 @@
       "thumbnail": "https://i.ytimg.com/vi/iANLtapKFJM/hqdefault.jpg",
       "site_titles": [
         "Softening A Horses Face - Tom McCutcheon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zgI780afizU",
+      "youtube_title": "This restart is going to be tough",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=zgI780afizU",
+      "embed_url": "https://www.youtube.com/embed/zgI780afizU",
+      "thumbnail": "https://i.ytimg.com/vi/zgI780afizU/hqdefault.jpg",
+      "site_titles": [
+        "This restart is going to be tough"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n2IW8sHi7Jk",
+      "youtube_title": "Foal Handling with Monty Roberts",
+      "channel": "Monty Roberts",
+      "youtube_url": "https://www.youtube.com/watch?v=n2IW8sHi7Jk",
+      "embed_url": "https://www.youtube.com/embed/n2IW8sHi7Jk",
+      "thumbnail": "https://i.ytimg.com/vi/n2IW8sHi7Jk/hqdefault.jpg",
+      "site_titles": [
+        "Foal Handling with Monty Roberts"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fvPv23pZm5s",
+      "youtube_title": "HOW TO TEACH A HORSE TO WHOA AND TO STOP EVERYTIME, NO MATTER WHAT",
+      "channel": "Horse Training 101",
+      "youtube_url": "https://www.youtube.com/watch?v=fvPv23pZm5s",
+      "embed_url": "https://www.youtube.com/embed/fvPv23pZm5s",
+      "thumbnail": "https://i.ytimg.com/vi/fvPv23pZm5s/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO TEACH A HORSE TO WHOA AND TO STOP EVERYTIME, NO MATTER WHAT"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "t9XyyyLDKYo",
+      "youtube_title": "Teaching the Young Horse How to Bend with Eleni and Q",
+      "channel": "Team Tate Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=t9XyyyLDKYo",
+      "embed_url": "https://www.youtube.com/embed/t9XyyyLDKYo",
+      "thumbnail": "https://i.ytimg.com/vi/t9XyyyLDKYo/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the Young Horse How to Bend with Eleni and Q"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yp2YEUNhLHg",
+      "youtube_title": "Key steps to teaching COLLECTION - Part 1",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=yp2YEUNhLHg",
+      "embed_url": "https://www.youtube.com/embed/yp2YEUNhLHg",
+      "thumbnail": "https://i.ytimg.com/vi/yp2YEUNhLHg/hqdefault.jpg",
+      "site_titles": [
+        "Key steps to teaching COLLECTION - Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mpLT3dRc7tM",
+      "youtube_title": "Create that bend - Teaching your OTTB how to bend",
+      "channel": "Retraining OTTBs by Equine Racers",
+      "youtube_url": "https://www.youtube.com/watch?v=mpLT3dRc7tM",
+      "embed_url": "https://www.youtube.com/embed/mpLT3dRc7tM",
+      "thumbnail": "https://i.ytimg.com/vi/mpLT3dRc7tM/hqdefault.jpg",
+      "site_titles": [
+        "Create that bend - Teaching your OTTB how to bend"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TPytB8S9Dnk",
+      "youtube_title": "Halter Breaking a Foal",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=TPytB8S9Dnk",
+      "embed_url": "https://www.youtube.com/embed/TPytB8S9Dnk",
+      "thumbnail": "https://i.ytimg.com/vi/TPytB8S9Dnk/hqdefault.jpg",
+      "site_titles": [
+        "Halter Breaking a Foal"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dfZIQq2A4pE",
+      "youtube_title": "Groundwork with a mouthy, pushy, overconfident weanling and how to fix it",
+      "channel": "Becky Amio",
+      "youtube_url": "https://www.youtube.com/watch?v=dfZIQq2A4pE",
+      "embed_url": "https://www.youtube.com/embed/dfZIQq2A4pE",
+      "thumbnail": "https://i.ytimg.com/vi/dfZIQq2A4pE/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork with a mouthy, pushy, overconfident weanling and how to fix it"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KczBxYJLSSw",
+      "youtube_title": "Horses that spook - how to fix it",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=KczBxYJLSSw",
+      "embed_url": "https://www.youtube.com/embed/KczBxYJLSSw",
+      "thumbnail": "https://i.ytimg.com/vi/KczBxYJLSSw/hqdefault.jpg",
+      "site_titles": [
+        "Horses that spook - how to fix it"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mp0GR6XbQ-g",
+      "youtube_title": "3 Exercises to prepare a young horse for successful trailer loading",
+      "channel": "Gabi Neurohr - Understanding Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=mp0GR6XbQ-g",
+      "embed_url": "https://www.youtube.com/embed/mp0GR6XbQ-g",
+      "thumbnail": "https://i.ytimg.com/vi/mp0GR6XbQ-g/hqdefault.jpg",
+      "site_titles": [
+        "3 Exercises to prepare a young horse for successful trailer loading"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qzt9u9BU0zg",
+      "youtube_title": "How to Determine a Horse's Temperament - RJF",
+      "channel": "Rockin J Farrier",
+      "youtube_url": "https://www.youtube.com/watch?v=qzt9u9BU0zg",
+      "embed_url": "https://www.youtube.com/embed/qzt9u9BU0zg",
+      "thumbnail": "https://i.ytimg.com/vi/qzt9u9BU0zg/hqdefault.jpg",
+      "site_titles": [
+        "How to Determine a Horse's Temperament - RJF"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZMXGb6WCMmw",
+      "youtube_title": "How do you know if your horse is ready to ride?",
+      "channel": "Coach Kristi",
+      "youtube_url": "https://www.youtube.com/watch?v=ZMXGb6WCMmw",
+      "embed_url": "https://www.youtube.com/embed/ZMXGb6WCMmw",
+      "thumbnail": "https://i.ytimg.com/vi/ZMXGb6WCMmw/hqdefault.jpg",
+      "site_titles": [
+        "How do you know if your horse is ready to ride?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GlQD2P4viAw",
+      "youtube_title": "Stress free foal weaning using The Principles Of Training",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=GlQD2P4viAw",
+      "embed_url": "https://www.youtube.com/embed/GlQD2P4viAw",
+      "thumbnail": "https://i.ytimg.com/vi/GlQD2P4viAw/hqdefault.jpg",
+      "site_titles": [
+        "Stress free foal weaning using The Principles Of Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EHu7CMIL1nQ",
+      "youtube_title": "Bar T Horsemanship: Training Tips for Ring Sour Horse",
+      "channel": "Bar T Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=EHu7CMIL1nQ",
+      "embed_url": "https://www.youtube.com/embed/EHu7CMIL1nQ",
+      "thumbnail": "https://i.ytimg.com/vi/EHu7CMIL1nQ/hqdefault.jpg",
+      "site_titles": [
+        "Bar T Horsemanship: Training Tips for Ring Sour Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2uR_l40bxvI",
+      "youtube_title": "Horse Training - Restarting an Older Horse",
+      "channel": "Gerry Cox",
+      "youtube_url": "https://www.youtube.com/watch?v=2uR_l40bxvI",
+      "embed_url": "https://www.youtube.com/embed/2uR_l40bxvI",
+      "thumbnail": "https://i.ytimg.com/vi/2uR_l40bxvI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training - Restarting an Older Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wj3KAGcp8ng",
+      "youtube_title": "Restarting a 10 Year Old Morgan Gelding  Day 1",
+      "channel": "SBH Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=wj3KAGcp8ng",
+      "embed_url": "https://www.youtube.com/embed/wj3KAGcp8ng",
+      "thumbnail": "https://i.ytimg.com/vi/wj3KAGcp8ng/hqdefault.jpg",
+      "site_titles": [
+        "Restarting a 10 Year Old Morgan Gelding Day 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2V2s-56irRU",
+      "youtube_title": "From Racetrack to Dressage Arena: The Remarkable Retraining of Ex Racehorses 🤩🐎",
+      "channel": "Ruby Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=2V2s-56irRU",
+      "embed_url": "https://www.youtube.com/embed/2V2s-56irRU",
+      "thumbnail": "https://i.ytimg.com/vi/2V2s-56irRU/hqdefault.jpg",
+      "site_titles": [
+        "From Racetrack to Dressage Arena: The Remarkable Retraining of Ex Racehorses 🤩🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Vu6IwTdFzQA",
+      "youtube_title": "Farrier preparation on a green horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=Vu6IwTdFzQA",
+      "embed_url": "https://www.youtube.com/embed/Vu6IwTdFzQA",
+      "thumbnail": "https://i.ytimg.com/vi/Vu6IwTdFzQA/hqdefault.jpg",
+      "site_titles": [
+        "Farrier preparation on a green horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DuIOy9v-5-E",
+      "youtube_title": "Dealing with a Herd Bound or Mentally Distracted Horse (also helps spooky horses!)",
+      "channel": "Josh Nichol A Horseman's Pursuit",
+      "youtube_url": "https://www.youtube.com/watch?v=DuIOy9v-5-E",
+      "embed_url": "https://www.youtube.com/embed/DuIOy9v-5-E",
+      "thumbnail": "https://i.ytimg.com/vi/DuIOy9v-5-E/hqdefault.jpg",
+      "site_titles": [
+        "Dealing with a Herd Bound or Mentally Distracted Horse (also helps spooky horses!)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CrNI4L6IKOs",
+      "youtube_title": "The key to getting a young horse going straight and forward on the first ride outside",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=CrNI4L6IKOs",
+      "embed_url": "https://www.youtube.com/embed/CrNI4L6IKOs",
+      "thumbnail": "https://i.ytimg.com/vi/CrNI4L6IKOs/hqdefault.jpg",
+      "site_titles": [
+        "The key to getting a young horse going straight and forward on the first ride outside"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eAD1tzIFQOQ",
+      "youtube_title": "Colt Starting - 30 Days - Cheyenne",
+      "channel": "Gerry Cox",
+      "youtube_url": "https://www.youtube.com/watch?v=eAD1tzIFQOQ",
+      "embed_url": "https://www.youtube.com/embed/eAD1tzIFQOQ",
+      "thumbnail": "https://i.ytimg.com/vi/eAD1tzIFQOQ/hqdefault.jpg",
+      "site_titles": [
+        "Colt Starting - 30 Days - Cheyenne"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xA0COsguT3g",
+      "youtube_title": "If Your Horse Feels Stuck - Fix These 3 Basics",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=xA0COsguT3g",
+      "embed_url": "https://www.youtube.com/embed/xA0COsguT3g",
+      "thumbnail": "https://i.ytimg.com/vi/xA0COsguT3g/hqdefault.jpg",
+      "site_titles": [
+        "If Your Horse Feels Stuck - Fix These 3 Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "saI52TTjuFc",
+      "youtube_title": "Do you complain about the things you taught your horse to do?",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=saI52TTjuFc",
+      "embed_url": "https://www.youtube.com/embed/saI52TTjuFc",
+      "thumbnail": "https://i.ytimg.com/vi/saI52TTjuFc/hqdefault.jpg",
+      "site_titles": [
+        "Do you complain about the things you taught your horse to do?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-z_q-IiSB94",
+      "youtube_title": "Colt Starting Mistakes: Answering Your Questions",
+      "channel": "A Davis HORSEMANSHIP As An ART",
+      "youtube_url": "https://www.youtube.com/watch?v=-z_q-IiSB94",
+      "embed_url": "https://www.youtube.com/embed/-z_q-IiSB94",
+      "thumbnail": "https://i.ytimg.com/vi/-z_q-IiSB94/hqdefault.jpg",
+      "site_titles": [
+        "Colt Starting Mistakes: Answering Your Questions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mMaI8UnhOc0",
+      "youtube_title": "Part 2- Teaching an Off the Track Thoroughbred to slow down and relax",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=mMaI8UnhOc0",
+      "embed_url": "https://www.youtube.com/embed/mMaI8UnhOc0",
+      "thumbnail": "https://i.ytimg.com/vi/mMaI8UnhOc0/hqdefault.jpg",
+      "site_titles": [
+        "Part 2- Teaching an Off the Track Thoroughbred to slow down and relax"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mmk5HwcaXXI",
+      "youtube_title": "Clinton Anderson: How to get a Horse to Move Out Better on the Ground - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=mmk5HwcaXXI",
+      "embed_url": "https://www.youtube.com/embed/mmk5HwcaXXI",
+      "thumbnail": "https://i.ytimg.com/vi/mmk5HwcaXXI/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: How to get a Horse to Move Out Better on the Ground - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AMjD91dBz84",
+      "youtube_title": "Q&A With Clinton Anderson: Horse Cuts Off the Circle When Roundpenning to the Right",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=AMjD91dBz84",
+      "embed_url": "https://www.youtube.com/embed/AMjD91dBz84",
+      "thumbnail": "https://i.ytimg.com/vi/AMjD91dBz84/hqdefault.jpg",
+      "site_titles": [
+        "Q&A With Clinton Anderson: Horse Cuts Off the Circle When Roundpenning to the Right"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0nPIf8PbfYo",
+      "youtube_title": "Why You Should Use a Snaffle Bit to Train Your Horse",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=0nPIf8PbfYo",
+      "embed_url": "https://www.youtube.com/embed/0nPIf8PbfYo",
+      "thumbnail": "https://i.ytimg.com/vi/0nPIf8PbfYo/hqdefault.jpg",
+      "site_titles": [
+        "Why You Should Use a Snaffle Bit to Train Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aAFKxsjpyoY",
+      "youtube_title": "Equine Affaire Educational Program - Pat Parelli on Horse Psychology 101",
+      "channel": "Equine Affaire, Inc.",
+      "youtube_url": "https://www.youtube.com/watch?v=aAFKxsjpyoY",
+      "embed_url": "https://www.youtube.com/embed/aAFKxsjpyoY",
+      "thumbnail": "https://i.ytimg.com/vi/aAFKxsjpyoY/hqdefault.jpg",
+      "site_titles": [
+        "Equine Affaire Educational Program - Pat Parelli on Horse Psychology 101"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "abt-qqu6ZPs",
+      "youtube_title": "Groundwork for Horses - The First Thing I Teach",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=abt-qqu6ZPs",
+      "embed_url": "https://www.youtube.com/embed/abt-qqu6ZPs",
+      "thumbnail": "https://i.ytimg.com/vi/abt-qqu6ZPs/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork for Horses - The First Thing I Teach"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Mg_gQSEIfI0",
+      "youtube_title": "Counter-bending Your Horse for Shoulder Control",
+      "channel": "Charles Wilhelm",
+      "youtube_url": "https://www.youtube.com/watch?v=Mg_gQSEIfI0",
+      "embed_url": "https://www.youtube.com/embed/Mg_gQSEIfI0",
+      "thumbnail": "https://i.ytimg.com/vi/Mg_gQSEIfI0/hqdefault.jpg",
+      "site_titles": [
+        "Counter-bending Your Horse for Shoulder Control"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hULeWSMtWJk",
+      "youtube_title": "Jake Biernbaum and Denver Demonstrate the Squeeze Game",
+      "channel": "Parelli Foundation",
+      "youtube_url": "https://www.youtube.com/watch?v=hULeWSMtWJk",
+      "embed_url": "https://www.youtube.com/embed/hULeWSMtWJk",
+      "thumbnail": "https://i.ytimg.com/vi/hULeWSMtWJk/hqdefault.jpg",
+      "site_titles": [
+        "Jake Biernbaum and Denver Demonstrate the Squeeze Game"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fmCCh-ycYEM",
+      "youtube_title": "Colt Starting: First Saddling",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=fmCCh-ycYEM",
+      "embed_url": "https://www.youtube.com/embed/fmCCh-ycYEM",
+      "thumbnail": "https://i.ytimg.com/vi/fmCCh-ycYEM/hqdefault.jpg",
+      "site_titles": [
+        "Colt Starting: First Saddling"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vY_NrbHj3fs",
+      "youtube_title": "Should You Train Colts and Fillies Differently?",
+      "channel": "Forza Racing & Bloodstock",
+      "youtube_url": "https://www.youtube.com/watch?v=vY_NrbHj3fs",
+      "embed_url": "https://www.youtube.com/embed/vY_NrbHj3fs",
+      "thumbnail": "https://i.ytimg.com/vi/vY_NrbHj3fs/hqdefault.jpg",
+      "site_titles": [
+        "Should You Train Colts and Fillies Differently?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IH7550r0Fr0",
+      "youtube_title": "LONG REINING FOR BEGINNERS || HOW TO START LONG REINING A HORSE || LONG REINING EXERCISES",
+      "channel": "Team TLS",
+      "youtube_url": "https://www.youtube.com/watch?v=IH7550r0Fr0",
+      "embed_url": "https://www.youtube.com/embed/IH7550r0Fr0",
+      "thumbnail": "https://i.ytimg.com/vi/IH7550r0Fr0/hqdefault.jpg",
+      "site_titles": [
+        "LONG REINING FOR BEGINNERS || HOW TO START LONG REINING A HORSE || LONG REINING EXERCISES"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2NEwzycEM9A",
+      "youtube_title": "Colt Start-Sky, Initial Round Pen Work | Colt Starting Exercises",
+      "channel": "3 Irons Horse & Cattle Co",
+      "youtube_url": "https://www.youtube.com/watch?v=2NEwzycEM9A",
+      "embed_url": "https://www.youtube.com/embed/2NEwzycEM9A",
+      "thumbnail": "https://i.ytimg.com/vi/2NEwzycEM9A/hqdefault.jpg",
+      "site_titles": [
+        "Colt Start-Sky, Initial Round Pen Work | Colt Starting Exercises"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9uOsoVAsfAU",
+      "youtube_title": "What is Classical Training vs Natural Horsemanship",
+      "channel": "A Davis HORSEMANSHIP As An ART",
+      "youtube_url": "https://www.youtube.com/watch?v=9uOsoVAsfAU",
+      "embed_url": "https://www.youtube.com/embed/9uOsoVAsfAU",
+      "thumbnail": "https://i.ytimg.com/vi/9uOsoVAsfAU/hqdefault.jpg",
+      "site_titles": [
+        "What is Classical Training vs Natural Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ukjOgDMxHB8",
+      "youtube_title": "Understanding Horse Conformation with Ken McNabb: Balance, Strength & Structure in Horses & Humans",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=ukjOgDMxHB8",
+      "embed_url": "https://www.youtube.com/embed/ukjOgDMxHB8",
+      "thumbnail": "https://i.ytimg.com/vi/ukjOgDMxHB8/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Horse Conformation with Ken McNabb: Balance, Strength & Structure in Horses & Humans"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OwuMN_Ckx_0",
+      "youtube_title": "Groundwork Drills - Everything you need to set a horse up for a successful first ride ",
+      "channel": "Rising A Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=OwuMN_Ckx_0",
+      "embed_url": "https://www.youtube.com/embed/OwuMN_Ckx_0",
+      "thumbnail": "https://i.ytimg.com/vi/OwuMN_Ckx_0/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork Drills - Everything you need to set a horse up for a successful first ride"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wdI_ILs0Pn4",
+      "youtube_title": "Clinton's 2-Year-Old Performance Horses",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=wdI_ILs0Pn4",
+      "embed_url": "https://www.youtube.com/embed/wdI_ILs0Pn4",
+      "thumbnail": "https://i.ytimg.com/vi/wdI_ILs0Pn4/hqdefault.jpg",
+      "site_titles": [
+        "Clinton's 2-Year-Old Performance Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ofzxERPhFhQ",
+      "youtube_title": "Training My Yearling 👶🏻🐴",
+      "channel": "Equestrian Bliss",
+      "youtube_url": "https://www.youtube.com/watch?v=ofzxERPhFhQ",
+      "embed_url": "https://www.youtube.com/embed/ofzxERPhFhQ",
+      "thumbnail": "https://i.ytimg.com/vi/ofzxERPhFhQ/hqdefault.jpg",
+      "site_titles": [
+        "Training My Yearling 👶🏻🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fZCrON9OI8c",
+      "youtube_title": "Ask the Experts: What Age Should You Start a Young Horse",
+      "channel": "USDFORG",
+      "youtube_url": "https://www.youtube.com/watch?v=fZCrON9OI8c",
+      "embed_url": "https://www.youtube.com/embed/fZCrON9OI8c",
+      "thumbnail": "https://i.ytimg.com/vi/fZCrON9OI8c/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Experts: What Age Should You Start a Young Horse"
       ],
       "sections": [
         "qa"
