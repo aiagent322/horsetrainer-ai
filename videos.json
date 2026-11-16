@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2631,
+  "count": 2648,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -207,7 +207,6 @@
       ],
       "reference_count": 35,
       "pages": [
-        "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
         "reining/developing-lead-changes/index.html",
         "videos/reining/index.html"
       ]
@@ -457,8 +456,6 @@
       ],
       "reference_count": 20,
       "pages": [
-        "qa/ranch-riding/how-do-i-ride-the-ranch-riding-pattern-to-maximize-my-score/index.html",
-        "qa/ranch-riding/what-are-the-most-common-pattern-errors-in-ranch-riding-and-how-do-i-avoid-them/index.html",
         "qa/reining/why-is-the-center-of-the-arena-so-important-in-reining/index.html"
       ]
     },
@@ -922,9 +919,7 @@
         "qa"
       ],
       "reference_count": 11,
-      "pages": [
-        "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "twhB7DnN02Q",
@@ -44518,6 +44513,278 @@
       "thumbnail": "https://i.ytimg.com/vi/1hJB1nC59Kk/hqdefault.jpg",
       "site_titles": [
         "Helping a horse with very thin soles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "04gGBv4RmBg",
+      "youtube_title": "10 Tips for a Successful Ranch Riding Pattern",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=04gGBv4RmBg",
+      "embed_url": "https://www.youtube.com/embed/04gGBv4RmBg",
+      "thumbnail": "https://i.ytimg.com/vi/04gGBv4RmBg/hqdefault.jpg",
+      "site_titles": [
+        "10 Tips for a Successful Ranch Riding Pattern"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vk29A2dUQfk",
+      "youtube_title": "Ranch Riding Maneuvers: Teach the EXTENDED TROT",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=vk29A2dUQfk",
+      "embed_url": "https://www.youtube.com/embed/vk29A2dUQfk",
+      "thumbnail": "https://i.ytimg.com/vi/vk29A2dUQfk/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding Maneuvers: Teach the EXTENDED TROT"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JXfSHLpADk8",
+      "youtube_title": "Ranch rail class 05-31-2024",
+      "channel": "Sherri Butler",
+      "youtube_url": "https://www.youtube.com/watch?v=JXfSHLpADk8",
+      "embed_url": "https://www.youtube.com/embed/JXfSHLpADk8",
+      "thumbnail": "https://i.ytimg.com/vi/JXfSHLpADk8/hqdefault.jpg",
+      "site_titles": [
+        "Ranch rail class 05-31-2024"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lnYHCmJURvY",
+      "youtube_title": "Ranch Riding - HOW and WHEN to start showing your horse",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=lnYHCmJURvY",
+      "embed_url": "https://www.youtube.com/embed/lnYHCmJURvY",
+      "thumbnail": "https://i.ytimg.com/vi/lnYHCmJURvY/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding - HOW and WHEN to start showing your horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X_9bb2tE5MI",
+      "youtube_title": "Bud Lyon: Ranch Riding Pattern Practice",
+      "channel": "Horse and Rider Magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=X_9bb2tE5MI",
+      "embed_url": "https://www.youtube.com/embed/X_9bb2tE5MI",
+      "thumbnail": "https://i.ytimg.com/vi/X_9bb2tE5MI/hqdefault.jpg",
+      "site_titles": [
+        "Bud Lyon: Ranch Riding Pattern Practice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jUqb41CJS9Q",
+      "youtube_title": "Ranch Riding 101: How to Ride the EXTENDED TROT like a PRO",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=jUqb41CJS9Q",
+      "embed_url": "https://www.youtube.com/embed/jUqb41CJS9Q",
+      "thumbnail": "https://i.ytimg.com/vi/jUqb41CJS9Q/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding 101: How to Ride the EXTENDED TROT like a PRO"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aFuYjyBQUKI",
+      "youtube_title": "Ranch Riding Manoeuvres",
+      "channel": "Sue Williams Equine Versatility",
+      "youtube_url": "https://www.youtube.com/watch?v=aFuYjyBQUKI",
+      "embed_url": "https://www.youtube.com/embed/aFuYjyBQUKI",
+      "thumbnail": "https://i.ytimg.com/vi/aFuYjyBQUKI/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding Manoeuvres"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o9dUJ9bxQh8",
+      "youtube_title": "Ranch Riding: Tips for downward transitions",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=o9dUJ9bxQh8",
+      "embed_url": "https://www.youtube.com/embed/o9dUJ9bxQh8",
+      "thumbnail": "https://i.ytimg.com/vi/o9dUJ9bxQh8/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding: Tips for downward transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v6Wx-kGbG_g",
+      "youtube_title": "A Judge's Perspective - Ranch Riding",
+      "channel": "Arabian Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=v6Wx-kGbG_g",
+      "embed_url": "https://www.youtube.com/embed/v6Wx-kGbG_g",
+      "thumbnail": "https://i.ytimg.com/vi/v6Wx-kGbG_g/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective - Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "taFlIFbH1X0",
+      "youtube_title": "Ranch Riding Judging Practice",
+      "channel": "Clarendon Horse Judging",
+      "youtube_url": "https://www.youtube.com/watch?v=taFlIFbH1X0",
+      "embed_url": "https://www.youtube.com/embed/taFlIFbH1X0",
+      "thumbnail": "https://i.ytimg.com/vi/taFlIFbH1X0/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Riding Judging Practice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cqLiRpZSi0Y",
+      "youtube_title": "UNL Horse Judging - Judging Ranch riding",
+      "channel": "Kathy Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=cqLiRpZSi0Y",
+      "embed_url": "https://www.youtube.com/embed/cqLiRpZSi0Y",
+      "thumbnail": "https://i.ytimg.com/vi/cqLiRpZSi0Y/hqdefault.jpg",
+      "site_titles": [
+        "UNL Horse Judging - Judging Ranch riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vbtPNYyGZDE",
+      "youtube_title": "Ride the Pattern: AQHYA World Championship Show - Ranch Riding",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=vbtPNYyGZDE",
+      "embed_url": "https://www.youtube.com/embed/vbtPNYyGZDE",
+      "thumbnail": "https://i.ytimg.com/vi/vbtPNYyGZDE/hqdefault.jpg",
+      "site_titles": [
+        "Ride the Pattern: AQHYA World Championship Show - Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "u_1tyqAMmrQ",
+      "youtube_title": "Nutrena Ride the Pattern Clinic: Ranch Riding",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=u_1tyqAMmrQ",
+      "embed_url": "https://www.youtube.com/embed/u_1tyqAMmrQ",
+      "thumbnail": "https://i.ytimg.com/vi/u_1tyqAMmrQ/hqdefault.jpg",
+      "site_titles": [
+        "Nutrena Ride the Pattern Clinic: Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0W4em5tHXs0",
+      "youtube_title": "Senior Ranch Riding - 2024 AQHA World Championship Show",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=0W4em5tHXs0",
+      "embed_url": "https://www.youtube.com/embed/0W4em5tHXs0",
+      "thumbnail": "https://i.ytimg.com/vi/0W4em5tHXs0/hqdefault.jpg",
+      "site_titles": [
+        "Senior Ranch Riding - 2024 AQHA World Championship Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4-TZHmHVAWI",
+      "youtube_title": "2024 AQHA Versatility Ranch Horse World Championship Show - Amateur Ranch Riding",
+      "channel": "Amanda Sanchez",
+      "youtube_url": "https://www.youtube.com/watch?v=4-TZHmHVAWI",
+      "embed_url": "https://www.youtube.com/embed/4-TZHmHVAWI",
+      "thumbnail": "https://i.ytimg.com/vi/4-TZHmHVAWI/hqdefault.jpg",
+      "site_titles": [
+        "2024 AQHA Versatility Ranch Horse World Championship Show - Amateur Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "26TyQ9lcXIg",
+      "youtube_title": "A Judge's Perspective: 2018 AQHYA 14-18 Ranch Riding World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=26TyQ9lcXIg",
+      "embed_url": "https://www.youtube.com/embed/26TyQ9lcXIg",
+      "thumbnail": "https://i.ytimg.com/vi/26TyQ9lcXIg/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2018 AQHYA 14-18 Ranch Riding World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ouaLsX8S1WE",
+      "youtube_title": "Morgan Horses in Ranch Riding",
+      "channel": "AmericanMorganHorse",
+      "youtube_url": "https://www.youtube.com/watch?v=ouaLsX8S1WE",
+      "embed_url": "https://www.youtube.com/embed/ouaLsX8S1WE",
+      "thumbnail": "https://i.ytimg.com/vi/ouaLsX8S1WE/hqdefault.jpg",
+      "site_titles": [
+        "Morgan Horses in Ranch Riding"
       ],
       "sections": [
         "qa"
