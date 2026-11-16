@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2557,
+  "count": 2571,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -159,7 +159,6 @@
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
-        "qa/western-horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/working-equitation/how-do-i-train-my-horse-for-the-dressage-phase-of-working-equitation/index.html",
         "videos/reining/index.html"
       ]
@@ -471,8 +470,7 @@
       "pages": [
         "qa/ranch-riding/how-do-i-ride-the-ranch-riding-pattern-to-maximize-my-score/index.html",
         "qa/ranch-riding/what-are-the-most-common-pattern-errors-in-ranch-riding-and-how-do-i-avoid-them/index.html",
-        "qa/reining/why-is-the-center-of-the-arena-so-important-in-reining/index.html",
-        "qa/western-horsemanship/how-do-i-memorize-and-ride-a-western-horsemanship-pattern-correctly-under-pressu/index.html"
+        "qa/reining/why-is-the-center-of-the-arena-so-important-in-reining/index.html"
       ]
     },
     {
@@ -937,8 +935,7 @@
       ],
       "reference_count": 11,
       "pages": [
-        "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html",
-        "qa/western-horsemanship/how-do-i-develop-the-backup-required-in-a-western-horsemanship-pattern/index.html"
+        "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html"
       ]
     },
     {
@@ -43350,6 +43347,230 @@
       "thumbnail": "https://i.ytimg.com/vi/H-rlfzB8HAw/hqdefault.jpg",
       "site_titles": [
         "Putting weight in my 2 yr old horses stirrup!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "apkpvQFYpgY",
+      "youtube_title": "The Secrets Behind Riders with Invisible Aids",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=apkpvQFYpgY",
+      "embed_url": "https://www.youtube.com/embed/apkpvQFYpgY",
+      "thumbnail": "https://i.ytimg.com/vi/apkpvQFYpgY/hqdefault.jpg",
+      "site_titles": [
+        "The Secrets Behind Riders with Invisible Aids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lztn_kYeGhI",
+      "youtube_title": "The Backup",
+      "channel": "True West Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=lztn_kYeGhI",
+      "embed_url": "https://www.youtube.com/embed/lztn_kYeGhI",
+      "thumbnail": "https://i.ytimg.com/vi/lztn_kYeGhI/hqdefault.jpg",
+      "site_titles": [
+        "The Backup"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-W3Q7Yc9KE8",
+      "youtube_title": "Correct Western Horsemanship Position",
+      "channel": "Nebraska Extension Horse Program",
+      "youtube_url": "https://www.youtube.com/watch?v=-W3Q7Yc9KE8",
+      "embed_url": "https://www.youtube.com/embed/-W3Q7Yc9KE8",
+      "thumbnail": "https://i.ytimg.com/vi/-W3Q7Yc9KE8/hqdefault.jpg",
+      "site_titles": [
+        "Correct Western Horsemanship Position"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pE1wgCAKUfE",
+      "youtube_title": "Western Horsemanship - Mental Preparation for Pattern Work",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=pE1wgCAKUfE",
+      "embed_url": "https://www.youtube.com/embed/pE1wgCAKUfE",
+      "thumbnail": "https://i.ytimg.com/vi/pE1wgCAKUfE/hqdefault.jpg",
+      "site_titles": [
+        "Western Horsemanship - Mental Preparation for Pattern Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "m4hbrfwTlbc",
+      "youtube_title": "Show Pen Preparedness #3: Western Horsemanship",
+      "channel": "Carly Kade",
+      "youtube_url": "https://www.youtube.com/watch?v=m4hbrfwTlbc",
+      "embed_url": "https://www.youtube.com/embed/m4hbrfwTlbc",
+      "thumbnail": "https://i.ytimg.com/vi/m4hbrfwTlbc/hqdefault.jpg",
+      "site_titles": [
+        "Show Pen Preparedness: Western Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-xoomXK5TPE",
+      "youtube_title": "Horse Riding Lessons - How To Improve Your Horses Transitions",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=-xoomXK5TPE",
+      "embed_url": "https://www.youtube.com/embed/-xoomXK5TPE",
+      "thumbnail": "https://i.ytimg.com/vi/-xoomXK5TPE/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Lessons - How To Improve Your Horses Transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OIcSviEzHxk",
+      "youtube_title": "Western Horsemanship: Scoring a Horsemanship Pattern, provided by eXtension",
+      "channel": "ExtensionHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=OIcSviEzHxk",
+      "embed_url": "https://www.youtube.com/embed/OIcSviEzHxk",
+      "thumbnail": "https://i.ytimg.com/vi/OIcSviEzHxk/hqdefault.jpg",
+      "site_titles": [
+        "Western Horsemanship: Scoring a Horsemanship Pattern, provided by eXtension"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a3bp115CNFg",
+      "youtube_title": "Western Horsemanship - Rail",
+      "channel": "Terry Grogan",
+      "youtube_url": "https://www.youtube.com/watch?v=a3bp115CNFg",
+      "embed_url": "https://www.youtube.com/embed/a3bp115CNFg",
+      "thumbnail": "https://i.ytimg.com/vi/a3bp115CNFg/hqdefault.jpg",
+      "site_titles": [
+        "Western Horsemanship - Rail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SUlkKvSBTps",
+      "youtube_title": "Stay in the Saddle Basic Western Horsemanship & Riding",
+      "channel": "Arielle Studios",
+      "youtube_url": "https://www.youtube.com/watch?v=SUlkKvSBTps",
+      "embed_url": "https://www.youtube.com/embed/SUlkKvSBTps",
+      "thumbnail": "https://i.ytimg.com/vi/SUlkKvSBTps/hqdefault.jpg",
+      "site_titles": [
+        "Stay in the Saddle Basic Western Horsemanship & Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8FT5aqW_kn8",
+      "youtube_title": "How to do a walk / trot ridden show for beginner riders / novice horses | showing tips horse tips",
+      "channel": "Karen Badrick equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=8FT5aqW_kn8",
+      "embed_url": "https://www.youtube.com/embed/8FT5aqW_kn8",
+      "thumbnail": "https://i.ytimg.com/vi/8FT5aqW_kn8/hqdefault.jpg",
+      "site_titles": [
+        "How to do a walk / trot ridden show for beginner riders / novice horses | showing tips horse tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "42l5KqDjMDI",
+      "youtube_title": "Western Horsemanship and Western Pleasure",
+      "channel": "Dani Girl",
+      "youtube_url": "https://www.youtube.com/watch?v=42l5KqDjMDI",
+      "embed_url": "https://www.youtube.com/embed/42l5KqDjMDI",
+      "thumbnail": "https://i.ytimg.com/vi/42l5KqDjMDI/hqdefault.jpg",
+      "site_titles": [
+        "Western Horsemanship and Western Pleasure"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "acoeyPylRfE",
+      "youtube_title": "1 Minute Training Tip - Soft Smooth Transitions   Trot to Canter",
+      "channel": "Jack Lieser",
+      "youtube_url": "https://www.youtube.com/watch?v=acoeyPylRfE",
+      "embed_url": "https://www.youtube.com/embed/acoeyPylRfE",
+      "thumbnail": "https://i.ytimg.com/vi/acoeyPylRfE/hqdefault.jpg",
+      "site_titles": [
+        "1 Minute Training Tip - Soft Smooth Transitions Trot to Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sW9scseWUIQ",
+      "youtube_title": "Konkurencje w stylu western - WESTERN HORSEMANSHIP - na czym polega?",
+      "channel": "Horse Passion",
+      "youtube_url": "https://www.youtube.com/watch?v=sW9scseWUIQ",
+      "embed_url": "https://www.youtube.com/embed/sW9scseWUIQ",
+      "thumbnail": "https://i.ytimg.com/vi/sW9scseWUIQ/hqdefault.jpg",
+      "site_titles": [
+        "Konkurencje w stylu western - WESTERN HORSEMANSHIP - na czym polega?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2SFYVZlj8OM",
+      "youtube_title": "How to Sit in the Saddle When You Ride a Horse- by Klay Klemic of Rising K Ranch",
+      "channel": "Spanish Rose Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=2SFYVZlj8OM",
+      "embed_url": "https://www.youtube.com/embed/2SFYVZlj8OM",
+      "thumbnail": "https://i.ytimg.com/vi/2SFYVZlj8OM/hqdefault.jpg",
+      "site_titles": [
+        "How to Sit in the Saddle When You Ride a Horse- by Klay Klemic of Rising K Ranch"
       ],
       "sections": [
         "qa"
