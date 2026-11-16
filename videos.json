@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2231,
+  "count": 2263,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -79,8 +79,6 @@
         "colt-starting/first-60-days-under-saddle/index.html",
         "groundwork/first-saddling-colt-starting/index.html",
         "qa/desensitization-sacking-out/how-do-you-sack-out-a-young-horse-and-why-is-it-important/index.html",
-        "qa/ground-manners-handling/how-do-you-teach-a-young-horse-to-whoa-and-stand-quietly-on-a-lead-and-halter/index.html",
-        "qa/ground-manners-handling/what-are-the-keys-to-halter-breaking-a-young-horse/index.html",
         "qa/groundwork-longing/index.html",
         "qa/horse-care/my-horse-started-weaving-its-pretty-bad-so-quickly-what-is-the-cause-stress/index.html",
         "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
@@ -1380,10 +1378,7 @@
       "reference_count": 7,
       "pages": [
         "groundwork/backing-on-the-ground/index.html",
-        "qa/backing-on-the-ground/what-is-the-correct-body-position-for-the-handler-when-backing-a-horse-on-the-gr/index.html",
-        "qa/ground-manners-handling/how-do-you-teach-a-horse-to-back-up-from-halter-pressure-for-the-first-time/index.html",
-        "qa/ground-manners-handling/when-backing-a-horse-how-do-you-control-the-speed/index.html",
-        "qa/ground-manners-handling/why-is-teaching-a-horse-to-back-up-at-halter-important-and-what-does-it-accompli/index.html"
+        "qa/backing-on-the-ground/what-is-the-correct-body-position-for-the-handler-when-backing-a-horse-on-the-gr/index.html"
       ]
     },
     {
@@ -38169,6 +38164,518 @@
       "thumbnail": "https://i.ytimg.com/vi/rQFcNb0XB8o/hqdefault.jpg",
       "site_titles": [
         "Your Horse won't go Forward?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q8M5oBYNWHI",
+      "youtube_title": "How To Fix A Reactive & Head Shy Horse In 2 Minutes!",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=Q8M5oBYNWHI",
+      "embed_url": "https://www.youtube.com/embed/Q8M5oBYNWHI",
+      "thumbnail": "https://i.ytimg.com/vi/Q8M5oBYNWHI/hqdefault.jpg",
+      "site_titles": [
+        "How To Fix A Reactive & Head Shy Horse In 2 Minutes!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eEwA-jMsBGQ",
+      "youtube_title": "Teaching a Horse to Lower his Head for the Halter Using Positive Reinforcement",
+      "channel": "Shawna Karrasch Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=eEwA-jMsBGQ",
+      "embed_url": "https://www.youtube.com/embed/eEwA-jMsBGQ",
+      "thumbnail": "https://i.ytimg.com/vi/eEwA-jMsBGQ/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Horse to Lower his Head for the Halter Using Positive Reinforcement"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mETyaHbTli4",
+      "youtube_title": "Do this before the farrier arrives - My favorite exercises to help a horse stand",
+      "channel": "The Natural Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=mETyaHbTli4",
+      "embed_url": "https://www.youtube.com/embed/mETyaHbTli4",
+      "thumbnail": "https://i.ytimg.com/vi/mETyaHbTli4/hqdefault.jpg",
+      "site_titles": [
+        "Do this before the farrier arrives - My favorite exercises to help a horse stand"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hZytRib9egA",
+      "youtube_title": "How to Safely Catch Your Horse in a Pasture",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=hZytRib9egA",
+      "embed_url": "https://www.youtube.com/embed/hZytRib9egA",
+      "thumbnail": "https://i.ytimg.com/vi/hZytRib9egA/hqdefault.jpg",
+      "site_titles": [
+        "How to Safely Catch Your Horse in a Pasture"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Dq2V_SDsgxs",
+      "youtube_title": "Master the Art of Backing-Up your horse with the Dually Halter",
+      "channel": "Intelligent Horsemanship TV",
+      "youtube_url": "https://www.youtube.com/watch?v=Dq2V_SDsgxs",
+      "embed_url": "https://www.youtube.com/embed/Dq2V_SDsgxs",
+      "thumbnail": "https://i.ytimg.com/vi/Dq2V_SDsgxs/hqdefault.jpg",
+      "site_titles": [
+        "Master the Art of Backing-Up your horse with the Dually Halter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IATDHdE0W2c",
+      "youtube_title": "How To Pet A Horse Correctly... DON'T Do It Wrong!",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=IATDHdE0W2c",
+      "embed_url": "https://www.youtube.com/embed/IATDHdE0W2c",
+      "thumbnail": "https://i.ytimg.com/vi/IATDHdE0W2c/hqdefault.jpg",
+      "site_titles": [
+        "How To Pet A Horse Correctly... DON'T Do It Wrong!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Fyk0H3tPjyU",
+      "youtube_title": "How to Lead a Horse Through a Gate",
+      "channel": "Horsonify",
+      "youtube_url": "https://www.youtube.com/watch?v=Fyk0H3tPjyU",
+      "embed_url": "https://www.youtube.com/embed/Fyk0H3tPjyU",
+      "thumbnail": "https://i.ytimg.com/vi/Fyk0H3tPjyU/hqdefault.jpg",
+      "site_titles": [
+        "How to Lead a Horse Through a Gate"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5NpIiWC3sTA",
+      "youtube_title": "Horses that kick other horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=5NpIiWC3sTA",
+      "embed_url": "https://www.youtube.com/embed/5NpIiWC3sTA",
+      "thumbnail": "https://i.ytimg.com/vi/5NpIiWC3sTA/hqdefault.jpg",
+      "site_titles": [
+        "Horses that kick other horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GGAi1lLuq2I",
+      "youtube_title": "Getting  your Equine ready to stand still for body clipping",
+      "channel": "Equine Confidence Plus",
+      "youtube_url": "https://www.youtube.com/watch?v=GGAi1lLuq2I",
+      "embed_url": "https://www.youtube.com/embed/GGAi1lLuq2I",
+      "thumbnail": "https://i.ytimg.com/vi/GGAi1lLuq2I/hqdefault.jpg",
+      "site_titles": [
+        "Getting your Equine ready to stand still for body clipping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hH9yHsHLmFI",
+      "youtube_title": "How to Teach a Horse to Stand Quietly Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=hH9yHsHLmFI",
+      "embed_url": "https://www.youtube.com/embed/hH9yHsHLmFI",
+      "thumbnail": "https://i.ytimg.com/vi/hH9yHsHLmFI/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Stand Quietly Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P03eMauyuEY",
+      "youtube_title": "How to Halter and Lead Your Horse",
+      "channel": "Toni's Tack Tips",
+      "youtube_url": "https://www.youtube.com/watch?v=P03eMauyuEY",
+      "embed_url": "https://www.youtube.com/embed/P03eMauyuEY",
+      "thumbnail": "https://i.ytimg.com/vi/P03eMauyuEY/hqdefault.jpg",
+      "site_titles": [
+        "How to Halter and Lead Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OBoEgWYoyzs",
+      "youtube_title": "Fiona's First Parelli Workshop - personal space",
+      "channel": "Christianna Stuber",
+      "youtube_url": "https://www.youtube.com/watch?v=OBoEgWYoyzs",
+      "embed_url": "https://www.youtube.com/embed/OBoEgWYoyzs",
+      "thumbnail": "https://i.ytimg.com/vi/OBoEgWYoyzs/hqdefault.jpg",
+      "site_titles": [
+        "Fiona's First Parelli Workshop - personal space"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ry-7Np0wnIQ",
+      "youtube_title": "Touching a Foal that \"can't\" be Touched",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=Ry-7Np0wnIQ",
+      "embed_url": "https://www.youtube.com/embed/Ry-7Np0wnIQ",
+      "thumbnail": "https://i.ytimg.com/vi/Ry-7Np0wnIQ/hqdefault.jpg",
+      "site_titles": [
+        "Touching a Foal that \"can't\" be Touched"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ep1Cytb-C0o",
+      "youtube_title": "Horse Tying Exercise",
+      "channel": "Brittany Wright",
+      "youtube_url": "https://www.youtube.com/watch?v=Ep1Cytb-C0o",
+      "embed_url": "https://www.youtube.com/embed/Ep1Cytb-C0o",
+      "thumbnail": "https://i.ytimg.com/vi/Ep1Cytb-C0o/hqdefault.jpg",
+      "site_titles": [
+        "Horse Tying Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cGoHJjOmGNg",
+      "youtube_title": "Quick Safety Tips When Removing a Halter From a Horse",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=cGoHJjOmGNg",
+      "embed_url": "https://www.youtube.com/embed/cGoHJjOmGNg",
+      "thumbnail": "https://i.ytimg.com/vi/cGoHJjOmGNg/hqdefault.jpg",
+      "site_titles": [
+        "Quick Safety Tips When Removing a Halter From a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q8mUM2b0xuA",
+      "youtube_title": "How I Deal With Cinchy Horses That Want To Bite",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Q8mUM2b0xuA",
+      "embed_url": "https://www.youtube.com/embed/Q8mUM2b0xuA",
+      "thumbnail": "https://i.ytimg.com/vi/Q8mUM2b0xuA/hqdefault.jpg",
+      "site_titles": [
+        "How I Deal With Cinchy Horses That Want To Bite"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H2P4SWxSS68",
+      "youtube_title": "How to Pick Up Your Horse's Hoof's, Even if They Don't Want To!",
+      "channel": "Scott Purdum",
+      "youtube_url": "https://www.youtube.com/watch?v=H2P4SWxSS68",
+      "embed_url": "https://www.youtube.com/embed/H2P4SWxSS68",
+      "thumbnail": "https://i.ytimg.com/vi/H2P4SWxSS68/hqdefault.jpg",
+      "site_titles": [
+        "How to Pick Up Your Horse's Hoof's, Even if They Don't Want To!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4RFwckWHY2Q",
+      "youtube_title": "Q&A With Clinton Anderson: Horse Kicks Out at Other Horses",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=4RFwckWHY2Q",
+      "embed_url": "https://www.youtube.com/embed/4RFwckWHY2Q",
+      "thumbnail": "https://i.ytimg.com/vi/4RFwckWHY2Q/hqdefault.jpg",
+      "site_titles": [
+        "Q&A With Clinton Anderson: Horse Kicks Out at Other Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gbhBDGp6ZxM",
+      "youtube_title": "How I Pick Up Horses Legs That Doesn't like to Be Handled (5 Simple Steps)",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=gbhBDGp6ZxM",
+      "embed_url": "https://www.youtube.com/embed/gbhBDGp6ZxM",
+      "thumbnail": "https://i.ytimg.com/vi/gbhBDGp6ZxM/hqdefault.jpg",
+      "site_titles": [
+        "How I Pick Up Horses Legs That Doesn't like to Be Handled (5 Simple Steps)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WQpec79KEwE",
+      "youtube_title": "What to do when your horse rears on the ground",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=WQpec79KEwE",
+      "embed_url": "https://www.youtube.com/embed/WQpec79KEwE",
+      "thumbnail": "https://i.ytimg.com/vi/WQpec79KEwE/hqdefault.jpg",
+      "site_titles": [
+        "What to do when your horse rears on the ground"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Jd23ekC50sM",
+      "youtube_title": "How to Catch Your Horse in the Pasture ",
+      "channel": "Connect The Chex Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=Jd23ekC50sM",
+      "embed_url": "https://www.youtube.com/embed/Jd23ekC50sM",
+      "thumbnail": "https://i.ytimg.com/vi/Jd23ekC50sM/hqdefault.jpg",
+      "site_titles": [
+        "How to Catch Your Horse in the Pasture"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jq_YSM_iOPA",
+      "youtube_title": "Why the Aussie Tie Rings Work So Well to Teach Horses to Confidently Tie",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=jq_YSM_iOPA",
+      "embed_url": "https://www.youtube.com/embed/jq_YSM_iOPA",
+      "thumbnail": "https://i.ytimg.com/vi/jq_YSM_iOPA/hqdefault.jpg",
+      "site_titles": [
+        "Why the Aussie Tie Rings Work So Well to Teach Horses to Confidently Tie"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fYQQiZgv9hM",
+      "youtube_title": "The Use of Cross Ties",
+      "channel": "MyHorseUniversity",
+      "youtube_url": "https://www.youtube.com/watch?v=fYQQiZgv9hM",
+      "embed_url": "https://www.youtube.com/embed/fYQQiZgv9hM",
+      "thumbnail": "https://i.ytimg.com/vi/fYQQiZgv9hM/hqdefault.jpg",
+      "site_titles": [
+        "The Use of Cross Ties"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NKtwrZIMIo4",
+      "youtube_title": "Why Horses KICK: The Hidden Fear Behind Their Startle Reflex",
+      "channel": "How to Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=NKtwrZIMIo4",
+      "embed_url": "https://www.youtube.com/embed/NKtwrZIMIo4",
+      "thumbnail": "https://i.ytimg.com/vi/NKtwrZIMIo4/hqdefault.jpg",
+      "site_titles": [
+        "Why Horses KICK: The Hidden Fear Behind Their Startle Reflex"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oQNQVpBzz8Q",
+      "youtube_title": "How To Give Your Horse Oral Medication Without A Struggle",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=oQNQVpBzz8Q",
+      "embed_url": "https://www.youtube.com/embed/oQNQVpBzz8Q",
+      "thumbnail": "https://i.ytimg.com/vi/oQNQVpBzz8Q/hqdefault.jpg",
+      "site_titles": [
+        "How To Give Your Horse Oral Medication Without A Struggle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FbDiTIMUV8M",
+      "youtube_title": "How to Get a Horse to Stand Quietly to be Saddled Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=FbDiTIMUV8M",
+      "embed_url": "https://www.youtube.com/embed/FbDiTIMUV8M",
+      "thumbnail": "https://i.ytimg.com/vi/FbDiTIMUV8M/hqdefault.jpg",
+      "site_titles": [
+        "How to Get a Horse to Stand Quietly to be Saddled Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yDF16_NbNCU",
+      "youtube_title": "Clinton Anderson on Lead Line Lightness",
+      "channel": "equisearch",
+      "youtube_url": "https://www.youtube.com/watch?v=yDF16_NbNCU",
+      "embed_url": "https://www.youtube.com/embed/yDF16_NbNCU",
+      "thumbnail": "https://i.ytimg.com/vi/yDF16_NbNCU/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson on Lead Line Lightness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LjukFVkZk_k",
+      "youtube_title": "How To Tie a Horse to a Trailer or Hitching Post",
+      "channel": "Bobbi Smith",
+      "youtube_url": "https://www.youtube.com/watch?v=LjukFVkZk_k",
+      "embed_url": "https://www.youtube.com/embed/LjukFVkZk_k",
+      "thumbnail": "https://i.ytimg.com/vi/LjukFVkZk_k/hqdefault.jpg",
+      "site_titles": [
+        "How To Tie a Horse to a Trailer or Hitching Post"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZBPM1AYc_GI",
+      "youtube_title": "Pat Parelli shows how the StripHair grooming tool can improve the bond with your horse!",
+      "channel": "Geneviève Benoit - Natural Horsemanship Coach",
+      "youtube_url": "https://www.youtube.com/watch?v=ZBPM1AYc_GI",
+      "embed_url": "https://www.youtube.com/embed/ZBPM1AYc_GI",
+      "thumbnail": "https://i.ytimg.com/vi/ZBPM1AYc_GI/hqdefault.jpg",
+      "site_titles": [
+        "Pat Parelli shows how the StripHair grooming tool can improve the bond with your horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZfzXNhYC3k4",
+      "youtube_title": "Preventing aggression at feeding time with horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=ZfzXNhYC3k4",
+      "embed_url": "https://www.youtube.com/embed/ZfzXNhYC3k4",
+      "thumbnail": "https://i.ytimg.com/vi/ZfzXNhYC3k4/hqdefault.jpg",
+      "site_titles": [
+        "Preventing aggression at feeding time with horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FKjgx08UEUw",
+      "youtube_title": "Using a Tie Ring vs a Patience Pole to Tie Your Horse Up - Q&A",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=FKjgx08UEUw",
+      "embed_url": "https://www.youtube.com/embed/FKjgx08UEUw",
+      "thumbnail": "https://i.ytimg.com/vi/FKjgx08UEUw/hqdefault.jpg",
+      "site_titles": [
+        "Using a Tie Ring vs a Patience Pole to Tie Your Horse Up - Q&A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RIIOghTzAMQ",
+      "youtube_title": "Advice For A Horse That Bites When Tightening The Cinch",
+      "channel": "Brookelyn Young",
+      "youtube_url": "https://www.youtube.com/watch?v=RIIOghTzAMQ",
+      "embed_url": "https://www.youtube.com/embed/RIIOghTzAMQ",
+      "thumbnail": "https://i.ytimg.com/vi/RIIOghTzAMQ/hqdefault.jpg",
+      "site_titles": [
+        "Advice For A Horse That Bites When Tightening The Cinch"
       ],
       "sections": [
         "qa"
