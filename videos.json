@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2186,
+  "count": 2207,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -414,13 +414,6 @@
       "reference_count": 17,
       "pages": [
         "qa/mounted-shooting/how-do-i-build-my-horses-speed-and-rate-between-balloons-without-sacrificing-con/index.html",
-        "qa/speed/at-a-high-speed-gallop-should-you-allow-the-horse-to-change-leads/index.html",
-        "qa/speed/how-do-i-approach-the-start-line-in-speed-events-to-maximize-my-time/index.html",
-        "qa/speed/how-do-i-develop-a-horses-rate-and-acceleration-for-speed-events/index.html",
-        "qa/speed/how-do-i-teach-my-horse-to-rate-at-the-barrels-without-losing-momentum/index.html",
-        "qa/speed/how-do-you-rate-your-horse-like-a-jockey-in-a-race/index.html",
-        "qa/speed/what-are-speed-events-in-horse-competition-and-what-disciplines-fall-under-this/index.html",
-        "qa/speed/what-makes-a-great-speed-event-rider-and-how-do-i-develop-those-skills/index.html",
         "qa/western-pleasure/how-do-i-get-my-horse-to-slow-down-for-western-pleasure/index.html",
         "qa/western-pleasure/index.html",
         "qa/working-equitation/how-do-i-train-for-the-speed-phase-and-how-does-it-differ-from-ease-of-handling/index.html",
@@ -707,8 +700,6 @@
       ],
       "reference_count": 15,
       "pages": [
-        "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
-        "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
         "reining/teaching-the-sliding-stop/index.html",
         "videos/reining/index.html"
       ]
@@ -37459,6 +37450,342 @@
       "thumbnail": "https://i.ytimg.com/vi/9_zp7jMlHlQ/hqdefault.jpg",
       "site_titles": [
         "Bucking and Kicking when lunging a Youngster - How to handle it in a good way"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MTmc5SPzhiI",
+      "youtube_title": "Flying Lead Changes Explained",
+      "channel": "Equestrian Neightion",
+      "youtube_url": "https://www.youtube.com/watch?v=MTmc5SPzhiI",
+      "embed_url": "https://www.youtube.com/embed/MTmc5SPzhiI",
+      "thumbnail": "https://i.ytimg.com/vi/MTmc5SPzhiI/hqdefault.jpg",
+      "site_titles": [
+        "Flying Lead Changes Explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5zCDD0bzX9s",
+      "youtube_title": "Lisa Lockhart - Approach to the First Barrel",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=5zCDD0bzX9s",
+      "embed_url": "https://www.youtube.com/embed/5zCDD0bzX9s",
+      "thumbnail": "https://i.ytimg.com/vi/5zCDD0bzX9s/hqdefault.jpg",
+      "site_titles": [
+        "Lisa Lockhart - Approach to the First Barrel"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Fkvg3ZI1vs4",
+      "youtube_title": "Jolene Montgomery - Adding Speed",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=Fkvg3ZI1vs4",
+      "embed_url": "https://www.youtube.com/embed/Fkvg3ZI1vs4",
+      "thumbnail": "https://i.ytimg.com/vi/Fkvg3ZI1vs4/hqdefault.jpg",
+      "site_titles": [
+        "Jolene Montgomery - Adding Speed"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VlWYGRQpKys",
+      "youtube_title": "Heather Heath Anticipation Drill",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=VlWYGRQpKys",
+      "embed_url": "https://www.youtube.com/embed/VlWYGRQpKys",
+      "thumbnail": "https://i.ytimg.com/vi/VlWYGRQpKys/hqdefault.jpg",
+      "site_titles": [
+        "Heather Heath Anticipation Drill"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D1lfSKCCPJU",
+      "youtube_title": "Do THIS BEFORE you start your horse on barrels / Tuning up a pattern sour horse",
+      "channel": "Becky Amio",
+      "youtube_url": "https://www.youtube.com/watch?v=D1lfSKCCPJU",
+      "embed_url": "https://www.youtube.com/embed/D1lfSKCCPJU",
+      "thumbnail": "https://i.ytimg.com/vi/D1lfSKCCPJU/hqdefault.jpg",
+      "site_titles": [
+        "Do THIS BEFORE you start your horse on barrels / Tuning up a pattern sour horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GpzpO8slzVA",
+      "youtube_title": "How to Warm Up Your Barrel Horse: Greatmats Horse Training Series with Kelly Alley",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=GpzpO8slzVA",
+      "embed_url": "https://www.youtube.com/embed/GpzpO8slzVA",
+      "thumbnail": "https://i.ytimg.com/vi/GpzpO8slzVA/hqdefault.jpg",
+      "site_titles": [
+        "How to Warm Up Your Barrel Horse: Greatmats Horse Training Series with Kelly Alley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MkpTjdHzzxk",
+      "youtube_title": "Ask the Vet - Suspensory ligament injuries",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=MkpTjdHzzxk",
+      "embed_url": "https://www.youtube.com/embed/MkpTjdHzzxk",
+      "thumbnail": "https://i.ytimg.com/vi/MkpTjdHzzxk/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Vet - Suspensory ligament injuries"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gF2nK2r87mw",
+      "youtube_title": "Pole Bending Technique with Ken Smith - DVD Sample",
+      "channel": "bugsalive",
+      "youtube_url": "https://www.youtube.com/watch?v=gF2nK2r87mw",
+      "embed_url": "https://www.youtube.com/embed/gF2nK2r87mw",
+      "thumbnail": "https://i.ytimg.com/vi/gF2nK2r87mw/hqdefault.jpg",
+      "site_titles": [
+        "Pole Bending Technique with Ken Smith - DVD Sample"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wqrYa9Foclw",
+      "youtube_title": "Accountability Finishing the Turn and Work at the Gate on an Anxious, Young Barrel Horse",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=wqrYa9Foclw",
+      "embed_url": "https://www.youtube.com/embed/wqrYa9Foclw",
+      "thumbnail": "https://i.ytimg.com/vi/wqrYa9Foclw/hqdefault.jpg",
+      "site_titles": [
+        "Accountability Finishing the Turn and Work at the Gate on an Anxious, Young Barrel Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OQifm0nJXnU",
+      "youtube_title": "Ask the Vet - Differences between hot and cold therapy for horses",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=OQifm0nJXnU",
+      "embed_url": "https://www.youtube.com/embed/OQifm0nJXnU",
+      "thumbnail": "https://i.ytimg.com/vi/OQifm0nJXnU/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Vet - Differences between hot and cold therapy for horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WYdqJSLQZP8",
+      "youtube_title": "Controlling a Galloping Horse",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=WYdqJSLQZP8",
+      "embed_url": "https://www.youtube.com/embed/WYdqJSLQZP8",
+      "thumbnail": "https://i.ytimg.com/vi/WYdqJSLQZP8/hqdefault.jpg",
+      "site_titles": [
+        "Controlling a Galloping Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ROzIv-GuyZs",
+      "youtube_title": "Galloping: How to attain a perfect position while galloping",
+      "channel": "Evention TV",
+      "youtube_url": "https://www.youtube.com/watch?v=ROzIv-GuyZs",
+      "embed_url": "https://www.youtube.com/embed/ROzIv-GuyZs",
+      "thumbnail": "https://i.ytimg.com/vi/ROzIv-GuyZs/hqdefault.jpg",
+      "site_titles": [
+        "Galloping: How to attain a perfect position while galloping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yoe7KtFqNNg",
+      "youtube_title": "Impact of Arena Footing on Soundness, Part 1",
+      "channel": "USDFORG",
+      "youtube_url": "https://www.youtube.com/watch?v=yoe7KtFqNNg",
+      "embed_url": "https://www.youtube.com/embed/yoe7KtFqNNg",
+      "thumbnail": "https://i.ytimg.com/vi/yoe7KtFqNNg/hqdefault.jpg",
+      "site_titles": [
+        "Impact of Arena Footing on Soundness, Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "71Te_enuXPs",
+      "youtube_title": "AWESOME Shoeing Barrel Horses Tips with Mckenize Morgan and Lee Olsen Certified Journeyman Farrier",
+      "channel": "Olsen Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=71Te_enuXPs",
+      "embed_url": "https://www.youtube.com/embed/71Te_enuXPs",
+      "thumbnail": "https://i.ytimg.com/vi/71Te_enuXPs/hqdefault.jpg",
+      "site_titles": [
+        "AWESOME Shoeing Barrel Horses Tips with Mckenize Morgan and Lee Olsen Certified Journeyman Farrier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pxY5wcddneI",
+      "youtube_title": "What Is Barrel Racing?",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=pxY5wcddneI",
+      "embed_url": "https://www.youtube.com/embed/pxY5wcddneI",
+      "thumbnail": "https://i.ytimg.com/vi/pxY5wcddneI/hqdefault.jpg",
+      "site_titles": [
+        "What Is Barrel Racing?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Zt6GWSZq8r0",
+      "youtube_title": "Traits for Good Barrel Horses",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=Zt6GWSZq8r0",
+      "embed_url": "https://www.youtube.com/embed/Zt6GWSZq8r0",
+      "thumbnail": "https://i.ytimg.com/vi/Zt6GWSZq8r0/hqdefault.jpg",
+      "site_titles": [
+        "Traits for Good Barrel Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TzbPA21MGNc",
+      "youtube_title": "How to gallop a tough racehorse",
+      "channel": "Ramon Moya",
+      "youtube_url": "https://www.youtube.com/watch?v=TzbPA21MGNc",
+      "embed_url": "https://www.youtube.com/embed/TzbPA21MGNc",
+      "thumbnail": "https://i.ytimg.com/vi/TzbPA21MGNc/hqdefault.jpg",
+      "site_titles": [
+        "How to gallop a tough racehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IEzWnb1HxS8",
+      "youtube_title": "Charmayne James - Conditioning Your Horse",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=IEzWnb1HxS8",
+      "embed_url": "https://www.youtube.com/embed/IEzWnb1HxS8",
+      "thumbnail": "https://i.ytimg.com/vi/IEzWnb1HxS8/hqdefault.jpg",
+      "site_titles": [
+        "Charmayne James - Conditioning Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "j8yvTST-7kk",
+      "youtube_title": "Conditioning for Quickness – Build Strength & Understanding to Unleash Your Barrel Horse's Potential",
+      "channel": "Barrel Racing Tips",
+      "youtube_url": "https://www.youtube.com/watch?v=j8yvTST-7kk",
+      "embed_url": "https://www.youtube.com/embed/j8yvTST-7kk",
+      "thumbnail": "https://i.ytimg.com/vi/j8yvTST-7kk/hqdefault.jpg",
+      "site_titles": [
+        "Conditioning for Quickness – Build Strength & Understanding to Unleash Your Barrel Horse's Potential"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZHKOhKEDSaU",
+      "youtube_title": "Pole Bending | 4-H Horse Training",
+      "channel": "UWyoExtension",
+      "youtube_url": "https://www.youtube.com/watch?v=ZHKOhKEDSaU",
+      "embed_url": "https://www.youtube.com/embed/ZHKOhKEDSaU",
+      "thumbnail": "https://i.ytimg.com/vi/ZHKOhKEDSaU/hqdefault.jpg",
+      "site_titles": [
+        "Pole Bending | 4-H Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_PYQaOyQkEU",
+      "youtube_title": "Andre Coelho: Barrel Racing Body Position",
+      "channel": "BarrelRacingDotCom",
+      "youtube_url": "https://www.youtube.com/watch?v=_PYQaOyQkEU",
+      "embed_url": "https://www.youtube.com/embed/_PYQaOyQkEU",
+      "thumbnail": "https://i.ytimg.com/vi/_PYQaOyQkEU/hqdefault.jpg",
+      "site_titles": [
+        "Andre Coelho: Barrel Racing Body Position"
       ],
       "sections": [
         "qa"
