@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1491,
+  "count": 1595,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -96,15 +96,9 @@
         "qa/safety/what-are-the-best-tips-for-preventing-bucking-with-a-green-horse/index.html",
         "qa/safety/why-is-it-important-to-be-careful-when-dismounting-during-the-first-few-rides-on/index.html",
         "qa/safety/why-is-using-a-body-rope-on-a-foal-or-young-horse-so-risky-and-how-can-it-create/index.html",
-        "qa/training-principles/how-do-you-establish-basic-steering-and-directional-control-in-a-young-horse/index.html",
-        "qa/training-principles/how-do-you-introduce-a-young-horse-to-basic-groundwork-exercises/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
         "qa/training-principles/how-do-you-know-when-a-young-horse-is-ready-to-advance-to-the-next-stage-of-trai/index.html",
-        "qa/training-principles/how-do-you-prepare-a-young-horse-for-its-first-ride/index.html",
-        "qa/training-principles/how-do-you-teach-a-foal-or-young-horse-to-accept-the-halter/index.html",
         "qa/training-principles/index.html",
-        "qa/training-principles/what-are-the-most-important-considerations-before-starting-to-train-a-green-hors/index.html",
-        "qa/training-principles/why-is-it-important-to-correct-problems-as-they-occur-when-working-with-young-ho/index.html",
         "videos/colt-starting/index.html"
       ]
     },
@@ -183,11 +177,6 @@
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
-        "qa/training-principles/how-do-you-develop-a-horse-that-is-light-and-responsive-to-the-aids-over-time/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-response-to-the-half-halt-as-a-fundamental-training/index.html",
-        "qa/training-principles/what-is-the-importance-of-feel-and-timing-in-riding/index.html",
-        "qa/training-principles/why-are-proper-timing-and-patience-the-most-important-skills-in-horse-training/index.html",
-        "qa/training-principles/why-do-people-fail-to-release-at-the-right-moment-and-what-does-poor-timing-teac/index.html",
         "qa/western-horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/western-pleasure/how-do-i-train-smooth-correct-transitions-for-western-pleasure-competition/index.html",
         "qa/working-cow-horse/how-do-non-pros-avoid-over-riding-during-cattle-work/index.html",
@@ -249,8 +238,6 @@
         "qa/hunter-jumper/what-is-a-flying-lead-change-and-how-is-it-developed-for-jumpers/index.html",
         "qa/hunter-jumper/what-is-a-simple-lead-change-and-when-do-you-use-it/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
-        "qa/training-principles/how-do-you-develop-the-flying-lead-change-and-what-preparation-is-required/index.html",
-        "qa/training-principles/how-do-you-introduce-simple-lead-changes-and-why-are-they-important-in-a-horses/index.html",
         "qa/working-cow-horse/why-does-lead-change-quality-matter-in-working-cow-horse/index.html",
         "reining/developing-lead-changes/index.html",
         "videos/reining/index.html"
@@ -308,13 +295,7 @@
         "qa/horsemanship/what-are-the-tips-for-trailer-loading-a-young-horse/index.html",
         "qa/horsemanship/when-should-you-start-wearing-spurs-on-a-young-horse-in-training/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
-        "qa/training-principles/how-do-you-determine-the-right-training-pace-for-an-individual-green-horse/index.html",
-        "qa/training-principles/how-do-you-develop-a-young-horses-balance-and-straightness-under-saddle/index.html",
-        "qa/training-principles/how-do-you-introduce-the-canter-to-a-young-horse-under-saddle/index.html",
-        "qa/training-principles/how-do-you-introduce-transitions-between-gaits-in-a-young-horses-training/index.html",
         "qa/training-principles/how-do-you-know-when-a-green-horse-is-ready-to-advance-to-more-demanding-work/index.html",
-        "qa/training-principles/how-do-you-structure-a-training-session-for-a-young-horse-in-the-early-stages-of/index.html",
-        "qa/training-principles/how-long-should-training-sessions-be-for-a-green-horse-and-how-often-should-they/index.html",
         "qa/working-cow-horse/what-age-should-a-working-cow-horse-prospect-be-started/index.html",
         "videos/colt-starting/index.html"
       ]
@@ -377,9 +358,7 @@
         "qa/safety/my-horse-wants-to-go-sideways-when-spooked-what-can-i-do-about-that/index.html",
         "qa/safety/what-to-do-if-the-horse-hesitates-and-is-nervous-about-cantering-under-saddle/index.html",
         "qa/trail/how-do-i-train-a-horse-that-spooks-on-the-trail/index.html",
-        "qa/trail/how-do-i-train-a-horse-to-remain-calm-when-a-slicker-or-rain-jacket-is-handled-f/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-calmly-near-vehicles-machinery-and-t/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-calmly-under-pressure-and-in-distrac/index.html"
+        "qa/trail/how-do-i-train-a-horse-to-remain-calm-when-a-slicker-or-rain-jacket-is-handled-f/index.html"
       ]
     },
     {
@@ -629,7 +608,6 @@
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
         "qa/trailer-loading/how-do-i-train-a-horse-to-load-in-a-trailer-calmly-and-reliably/index.html",
         "qa/training-principles-psychology/index.html",
-        "qa/training-principles/what-are-the-best-tips-for-calming-an-excitable-horse/index.html",
         "qa/working-cow-horse/how-do-i-manage-a-horse-that-becomes-too-aggressive-or-hot-on-cattle/index.html",
         "qa/working-cow-horse/how-do-you-keep-a-horse-from-getting-too-hot-on-cattle/index.html",
         "qa/working-cow-horse/why-does-my-cow-horse-get-too-hot-on-cattle/index.html",
@@ -663,9 +641,6 @@
         "qa/collection/index.html",
         "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-in-self-carriage/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-topline-and-why-is-it-important-to-training-progress/index.html",
-        "qa/training-principles/how-do-you-develop-collection-in-a-horse-and-what-are-the-prerequisites-for-begi/index.html",
         "qa/working-cow-horse/how-does-collection-apply-to-cow-horse-training/index.html",
         "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
       ]
@@ -771,9 +746,6 @@
         "qa/horsemanship/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
         "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
         "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
-        "qa/training-principles/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
-        "qa/training-principles/how-do-you-develop-a-horses-responsiveness-to-the-seat-as-a-primary-aid/index.html",
-        "qa/training-principles/how-does-a-horse-balance-itself-and-how-does-a-rider-affect-that-balance/index.html",
         "qa/working-cow-horse/why-is-failing-to-maintain-correct-body-position-as-a-rider-one-of-the-costliest/index.html",
         "reining/teaching-the-sliding-stop/index.html",
         "videos/reining/index.html"
@@ -1011,7 +983,6 @@
       "reference_count": 7,
       "pages": [
         "qa/reining/how-do-you-keep-a-reining-horse-honest/index.html",
-        "qa/training-principles/how-do-you-develop-a-correct-circle-and-why-is-circle-work-foundational-to-train/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-correctly-on-a-circle-at-all-three-g/index.html",
         "qa/training-principles/index.html"
       ]
@@ -1046,8 +1017,6 @@
         "qa/ranch-riding/how-do-i-train-the-backup-for-ranch-riding-patterns/index.html",
         "qa/trail/how-do-i-train-a-horse-for-the-back-through-straight-chute-obstacle/index.html",
         "qa/trail/how-do-i-train-a-horse-to-back-through-an-l-shaped-obstacle-or-chute/index.html",
-        "qa/training-principles/how-do-you-develop-a-correct-and-consistent-backup-from-both-the-ground-and-the/index.html",
-        "qa/training-principles/how-do-you-develop-the-halt-and-rein-back-in-a-young-horses-early-training/index.html",
         "qa/western-horsemanship/how-do-i-develop-the-backup-required-in-a-western-horsemanship-pattern/index.html"
       ]
     },
@@ -1079,7 +1048,6 @@
         "colt-starting/first-60-days-under-saddle/index.html",
         "qa/gaits/index.html",
         "qa/horsemanship/what-is-the-correct-way-to-introduce-a-young-horse-to-its-first-rides/index.html",
-        "qa/training-principles/how-do-you-handle-a-horses-first-trotting-session-under-saddle/index.html",
         "qa/training-principles/why-is-it-important-to-keep-your-horse-from-being-bored-during-the-first-few-rid/index.html"
       ]
     },
@@ -1204,7 +1172,6 @@
         "qa/mounting-dismounting/how-does-anderson-teach-the-one-rein-stop-as-it-applies-to-the-moment-of-mountin/index.html",
         "qa/reining/what-is-the-safest-way-to-start-reining/index.html",
         "qa/safety/index.html",
-        "qa/training-principles/what-do-you-do-when-a-horse-wont-stop/index.html",
         "qa/working-cow-horse/how-does-the-stop-in-cow-horse-differ-from-a-reining-stop/index.html"
       ]
     },
@@ -1347,8 +1314,7 @@
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-stand-quiet-in-the-box/index.html",
         "qa/team-roping/how-long-should-a-rope-horse-be-able-to-stand-in-the-box/index.html",
         "qa/team-roping/what-makes-a-great-box-horse-and-how-is-that-training-developed/index.html",
-        "qa/team-roping/what-should-a-rope-horse-know-in-the-box/index.html",
-        "qa/training-principles/how-do-you-teach-patience-to-a-horse-and-why-is-it-important/index.html"
+        "qa/team-roping/what-should-a-rope-horse-know-in-the-box/index.html"
       ]
     },
     {
@@ -1400,7 +1366,6 @@
       "reference_count": 4,
       "pages": [
         "colt-starting/building-a-forward-horse/index.html",
-        "qa/training-principles/how-do-you-develop-impulsion-in-a-young-horse-and-why-is-it-important/index.html",
         "qa/training-principles/why-should-you-avoid-kicking-a-horse-during-its-first-rides/index.html"
       ]
     },
@@ -26438,6 +26403,1670 @@
       "thumbnail": "https://i.ytimg.com/vi/13lfp13MF3M/hqdefault.jpg",
       "site_titles": [
         "LIVE SESSION With Our Toughest Wild Mustang (Honey Update!)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "oq9zvxhIgqA",
+      "youtube_title": "How Much Recovery Does Your Horse Need? | Recovery Explained",
+      "channel": "Classy Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=oq9zvxhIgqA",
+      "embed_url": "https://www.youtube.com/embed/oq9zvxhIgqA",
+      "thumbnail": "https://i.ytimg.com/vi/oq9zvxhIgqA/hqdefault.jpg",
+      "site_titles": [
+        "How Much Recovery Does Your Horse Need? | Recovery Explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yYs53TsCINA",
+      "youtube_title": "The Key Concepts Of Centered Riding",
+      "channel": "ridingrightvideo",
+      "youtube_url": "https://www.youtube.com/watch?v=yYs53TsCINA",
+      "embed_url": "https://www.youtube.com/embed/yYs53TsCINA",
+      "thumbnail": "https://i.ytimg.com/vi/yYs53TsCINA/hqdefault.jpg",
+      "site_titles": [
+        "The Key Concepts Of Centered Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dILizzhea7U",
+      "youtube_title": "Lockie Phillips - When it comes to Horses, Obedience is Out and Empathy is In - S2 E3",
+      "channel": "The Empathetic Trainer",
+      "youtube_url": "https://www.youtube.com/watch?v=dILizzhea7U",
+      "embed_url": "https://www.youtube.com/embed/dILizzhea7U",
+      "thumbnail": "https://i.ytimg.com/vi/dILizzhea7U/hqdefault.jpg",
+      "site_titles": [
+        "Lockie Phillips - When it comes to Horses, Obedience is Out and Empathy is In - S2 E3"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BdMr07ZJWro",
+      "youtube_title": "How to Teach Your Horse Bad Habits",
+      "channel": "SBH Stable",
+      "youtube_url": "https://www.youtube.com/watch?v=BdMr07ZJWro",
+      "embed_url": "https://www.youtube.com/embed/BdMr07ZJWro",
+      "thumbnail": "https://i.ytimg.com/vi/BdMr07ZJWro/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse Bad Habits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EHwGGW2HiPE",
+      "youtube_title": "How To Bring Your Horse Back Into Work? - w/ Han Equestrian | Guest Vlog",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=EHwGGW2HiPE",
+      "embed_url": "https://www.youtube.com/embed/EHwGGW2HiPE",
+      "thumbnail": "https://i.ytimg.com/vi/EHwGGW2HiPE/hqdefault.jpg",
+      "site_titles": [
+        "How To Bring Your Horse Back Into Work? - w/ Han Equestrian | Guest Vlog"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SonLxORjTLk",
+      "youtube_title": "The Best Way To Round Pen Your Horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=SonLxORjTLk",
+      "embed_url": "https://www.youtube.com/embed/SonLxORjTLk",
+      "thumbnail": "https://i.ytimg.com/vi/SonLxORjTLk/hqdefault.jpg",
+      "site_titles": [
+        "The Best Way To Round Pen Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K5eKHumUL4M",
+      "youtube_title": "How to Desensitize a Young Horse: Horse Training Series with Kelly Alley",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=K5eKHumUL4M",
+      "embed_url": "https://www.youtube.com/embed/K5eKHumUL4M",
+      "thumbnail": "https://i.ytimg.com/vi/K5eKHumUL4M/hqdefault.jpg",
+      "site_titles": [
+        "How to Desensitize a Young Horse: Horse Training Series with Kelly Alley"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "owjMrlGl6dE",
+      "youtube_title": "Flatwork exercises for horses - The green horse.",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=owjMrlGl6dE",
+      "embed_url": "https://www.youtube.com/embed/owjMrlGl6dE",
+      "thumbnail": "https://i.ytimg.com/vi/owjMrlGl6dE/hqdefault.jpg",
+      "site_titles": [
+        "Flatwork exercises for horses - The green horse."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cAVf4pUfBUY",
+      "youtube_title": "Teach Your Horse To Back Up, Both On the Ground AND In the Saddle Bryan Neubert ~Art Of The Horseman",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=cAVf4pUfBUY",
+      "embed_url": "https://www.youtube.com/embed/cAVf4pUfBUY",
+      "thumbnail": "https://i.ytimg.com/vi/cAVf4pUfBUY/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse To Back Up, Both On the Ground AND In the Saddle Bryan Neubert ~Art Of The Horseman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8dI58C6XiU8",
+      "youtube_title": "Charles Wilhelm explains how to do a concentrated circle with your horse",
+      "channel": "Charles Wilhelm",
+      "youtube_url": "https://www.youtube.com/watch?v=8dI58C6XiU8",
+      "embed_url": "https://www.youtube.com/embed/8dI58C6XiU8",
+      "thumbnail": "https://i.ytimg.com/vi/8dI58C6XiU8/hqdefault.jpg",
+      "site_titles": [
+        "Charles Wilhelm explains how to do a concentrated circle with your horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UtjzHRm-U14",
+      "youtube_title": "How to Condition Horses that are Out of Shape",
+      "channel": "Jec Ballou",
+      "youtube_url": "https://www.youtube.com/watch?v=UtjzHRm-U14",
+      "embed_url": "https://www.youtube.com/embed/UtjzHRm-U14",
+      "thumbnail": "https://i.ytimg.com/vi/UtjzHRm-U14/hqdefault.jpg",
+      "site_titles": [
+        "How to Condition Horses that are Out of Shape"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9BR2iFF4Wvo",
+      "youtube_title": "How to *Prevent* a Pullback problem",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=9BR2iFF4Wvo",
+      "embed_url": "https://www.youtube.com/embed/9BR2iFF4Wvo",
+      "thumbnail": "https://i.ytimg.com/vi/9BR2iFF4Wvo/hqdefault.jpg",
+      "site_titles": [
+        "How to *Prevent* a Pullback problem"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EsxVeLGTJbU",
+      "youtube_title": "Get Your Horse Responsive and On the Aids",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=EsxVeLGTJbU",
+      "embed_url": "https://www.youtube.com/embed/EsxVeLGTJbU",
+      "thumbnail": "https://i.ytimg.com/vi/EsxVeLGTJbU/hqdefault.jpg",
+      "site_titles": [
+        "Get Your Horse Responsive and On the Aids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kbu4PjA8e1U",
+      "youtube_title": "Loading a Nervous Horse:  Ensuring a Safe and Successful Trailer Loading (Part 1)",
+      "channel": "Champions Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Kbu4PjA8e1U",
+      "embed_url": "https://www.youtube.com/embed/Kbu4PjA8e1U",
+      "thumbnail": "https://i.ytimg.com/vi/Kbu4PjA8e1U/hqdefault.jpg",
+      "site_titles": [
+        "Loading a Nervous Horse: Ensuring a Safe and Successful Trailer Loading (Part 1)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kopQyYynjZ8",
+      "youtube_title": "How to do desensitization using a tarp - Review session after a Year",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=kopQyYynjZ8",
+      "embed_url": "https://www.youtube.com/embed/kopQyYynjZ8",
+      "thumbnail": "https://i.ytimg.com/vi/kopQyYynjZ8/hqdefault.jpg",
+      "site_titles": [
+        "How to do desensitization using a tarp - Review session after a Year"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VmT-hznQk8g",
+      "youtube_title": "How to Pony a Horse",
+      "channel": "Pat & Deb Puckett",
+      "youtube_url": "https://www.youtube.com/watch?v=VmT-hznQk8g",
+      "embed_url": "https://www.youtube.com/embed/VmT-hznQk8g",
+      "thumbnail": "https://i.ytimg.com/vi/VmT-hznQk8g/hqdefault.jpg",
+      "site_titles": [
+        "How to Pony a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "opBOm9WdVMg",
+      "youtube_title": "Why I teach horses to trail riding alone - first.",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=opBOm9WdVMg",
+      "embed_url": "https://www.youtube.com/embed/opBOm9WdVMg",
+      "thumbnail": "https://i.ytimg.com/vi/opBOm9WdVMg/hqdefault.jpg",
+      "site_titles": [
+        "Why I teach horses to trail riding alone - first."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-UwYO53ADIE",
+      "youtube_title": "🌊 Training Tip Tuesday – Get Good at the First Water Crossing Before Moving Down the Trail! 🌊",
+      "channel": "Luke Brown at Reata Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=-UwYO53ADIE",
+      "embed_url": "https://www.youtube.com/embed/-UwYO53ADIE",
+      "thumbnail": "https://i.ytimg.com/vi/-UwYO53ADIE/hqdefault.jpg",
+      "site_titles": [
+        "🌊 Training Tip Tuesday – Get Good at the First Water Crossing Before Moving Down the Trail! 🌊"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-FTUKbQ42Q0",
+      "youtube_title": "How- To: Lengthening and Shortening Strides Using Grids with Lauren Hayes",
+      "channel": "greenhawkinc",
+      "youtube_url": "https://www.youtube.com/watch?v=-FTUKbQ42Q0",
+      "embed_url": "https://www.youtube.com/embed/-FTUKbQ42Q0",
+      "thumbnail": "https://i.ytimg.com/vi/-FTUKbQ42Q0/hqdefault.jpg",
+      "site_titles": [
+        "How- To: Lengthening and Shortening Strides Using Grids with Lauren Hayes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AEOATBpRIjU",
+      "youtube_title": "Dressage: Work on your transitions!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=AEOATBpRIjU",
+      "embed_url": "https://www.youtube.com/embed/AEOATBpRIjU",
+      "thumbnail": "https://i.ytimg.com/vi/AEOATBpRIjU/hqdefault.jpg",
+      "site_titles": [
+        "Dressage: Work on your transitions!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uO3eryvcgDo",
+      "youtube_title": "This horse was a NIGHTMARE for the Farrier",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=uO3eryvcgDo",
+      "embed_url": "https://www.youtube.com/embed/uO3eryvcgDo",
+      "thumbnail": "https://i.ytimg.com/vi/uO3eryvcgDo/hqdefault.jpg",
+      "site_titles": [
+        "This horse was a NIGHTMARE for the Farrier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hmL2MeAv-rM",
+      "youtube_title": "Teaching a horse to stand quiet.",
+      "channel": "Grand Valley Horse Rescue - GVHR",
+      "youtube_url": "https://www.youtube.com/watch?v=hmL2MeAv-rM",
+      "embed_url": "https://www.youtube.com/embed/hmL2MeAv-rM",
+      "thumbnail": "https://i.ytimg.com/vi/hmL2MeAv-rM/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a horse to stand quiet."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "We1bbN5mjG0",
+      "youtube_title": "How to teach a horse to stand still for the mounting block in 3 easy steps",
+      "channel": "DIY Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=We1bbN5mjG0",
+      "embed_url": "https://www.youtube.com/embed/We1bbN5mjG0",
+      "thumbnail": "https://i.ytimg.com/vi/We1bbN5mjG0/hqdefault.jpg",
+      "site_titles": [
+        "How to teach a horse to stand still for the mounting block in 3 easy steps"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ew1QyevS3n0",
+      "youtube_title": "DESENSITIZING THE HORSES TO SCARY VEHICLES AT NIGHT | LAZY OAKS HORSES",
+      "channel": "Lazy Oaks Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=ew1QyevS3n0",
+      "embed_url": "https://www.youtube.com/embed/ew1QyevS3n0",
+      "thumbnail": "https://i.ytimg.com/vi/ew1QyevS3n0/hqdefault.jpg",
+      "site_titles": [
+        "DESENSITIZING THE HORSES TO SCARY VEHICLES AT NIGHT | LAZY OAKS HORSES"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qLkiARqjt34",
+      "youtube_title": "Teaching a distracted busy minded horse to focus",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=qLkiARqjt34",
+      "embed_url": "https://www.youtube.com/embed/qLkiARqjt34",
+      "thumbnail": "https://i.ytimg.com/vi/qLkiARqjt34/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a distracted busy minded horse to focus"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gGIDTC1RlE0",
+      "youtube_title": "Confidence building: working horses in the wind",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=gGIDTC1RlE0",
+      "embed_url": "https://www.youtube.com/embed/gGIDTC1RlE0",
+      "thumbnail": "https://i.ytimg.com/vi/gGIDTC1RlE0/hqdefault.jpg",
+      "site_titles": [
+        "Confidence building: working horses in the wind"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FYg1fmBqN08",
+      "youtube_title": "How to Develop Self-Carriage in Your Horse",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=FYg1fmBqN08",
+      "embed_url": "https://www.youtube.com/embed/FYg1fmBqN08",
+      "thumbnail": "https://i.ytimg.com/vi/FYg1fmBqN08/hqdefault.jpg",
+      "site_titles": [
+        "How to Develop Self-Carriage in Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EZ2mzYVcEdM",
+      "youtube_title": "Why Always Riding on a Loose Rein Creates Problems",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=EZ2mzYVcEdM",
+      "embed_url": "https://www.youtube.com/embed/EZ2mzYVcEdM",
+      "thumbnail": "https://i.ytimg.com/vi/EZ2mzYVcEdM/hqdefault.jpg",
+      "site_titles": [
+        "Why Always Riding on a Loose Rein Creates Problems"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "e_kgqyYXXbU",
+      "youtube_title": "Teaching The Calm Down Cue - Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=e_kgqyYXXbU",
+      "embed_url": "https://www.youtube.com/embed/e_kgqyYXXbU",
+      "thumbnail": "https://i.ytimg.com/vi/e_kgqyYXXbU/hqdefault.jpg",
+      "site_titles": [
+        "Teaching The Calm Down Cue - Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GhsZI5a0X5g",
+      "youtube_title": "This Horse can't pay ATTENTION!....See how to use Science  Based Horsemanship.",
+      "channel": "West Taylor Science Based Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=GhsZI5a0X5g",
+      "embed_url": "https://www.youtube.com/embed/GhsZI5a0X5g",
+      "thumbnail": "https://i.ytimg.com/vi/GhsZI5a0X5g/hqdefault.jpg",
+      "site_titles": [
+        "This Horse can't pay ATTENTION!....See how to use Science Based Horsemanship."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IcLjjWrfY_A",
+      "youtube_title": "Teaching the Half Halt",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=IcLjjWrfY_A",
+      "embed_url": "https://www.youtube.com/embed/IcLjjWrfY_A",
+      "thumbnail": "https://i.ytimg.com/vi/IcLjjWrfY_A/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the Half Halt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WYmEn-IMUdU",
+      "youtube_title": "Understand Your Aids! How to Get A More Responsive Horse!",
+      "channel": "Horsemanship with Paula",
+      "youtube_url": "https://www.youtube.com/watch?v=WYmEn-IMUdU",
+      "embed_url": "https://www.youtube.com/embed/WYmEn-IMUdU",
+      "thumbnail": "https://i.ytimg.com/vi/WYmEn-IMUdU/hqdefault.jpg",
+      "site_titles": [
+        "Understand Your Aids! How to Get A More Responsive Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lkVjK5JinsQ",
+      "youtube_title": "Clipping and Bathing Your Horse from Schneiders",
+      "channel": "Schneider Saddlery",
+      "youtube_url": "https://www.youtube.com/watch?v=lkVjK5JinsQ",
+      "embed_url": "https://www.youtube.com/embed/lkVjK5JinsQ",
+      "thumbnail": "https://i.ytimg.com/vi/lkVjK5JinsQ/hqdefault.jpg",
+      "site_titles": [
+        "Clipping and Bathing Your Horse from Schneiders"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DPAte1xWong",
+      "youtube_title": "Strengthening Your Horse's Neck, Back and Pelvis- Develop the Topline with Three Easy Exercises",
+      "channel": "Foundation Equine Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=DPAte1xWong",
+      "embed_url": "https://www.youtube.com/embed/DPAte1xWong",
+      "thumbnail": "https://i.ytimg.com/vi/DPAte1xWong/hqdefault.jpg",
+      "site_titles": [
+        "Strengthening Your Horse's Neck, Back and Pelvis- Develop the Topline with Three Easy Exercises"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KQKkaj06D_g",
+      "youtube_title": "How a Training Plan for Your Horse Changes Everything",
+      "channel": "Coach Krystal Kelly",
+      "youtube_url": "https://www.youtube.com/watch?v=KQKkaj06D_g",
+      "embed_url": "https://www.youtube.com/embed/KQKkaj06D_g",
+      "thumbnail": "https://i.ytimg.com/vi/KQKkaj06D_g/hqdefault.jpg",
+      "site_titles": [
+        "How a Training Plan for Your Horse Changes Everything"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rbAlsDG5UI8",
+      "youtube_title": "How to ride a young horse? | Begijnhoeve | How to #6",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=rbAlsDG5UI8",
+      "embed_url": "https://www.youtube.com/embed/rbAlsDG5UI8",
+      "thumbnail": "https://i.ytimg.com/vi/rbAlsDG5UI8/hqdefault.jpg",
+      "site_titles": [
+        "How to ride a young horse? | Begijnhoeve | How to"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7oM4_GDn60c",
+      "youtube_title": "Three Tips for Straightness",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=7oM4_GDn60c",
+      "embed_url": "https://www.youtube.com/embed/7oM4_GDn60c",
+      "thumbnail": "https://i.ytimg.com/vi/7oM4_GDn60c/hqdefault.jpg",
+      "site_titles": [
+        "Three Tips for Straightness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Qh30brheRFA",
+      "youtube_title": "The Academic Whip - How to use it as an Aid when Riding (Classical Aids)",
+      "channel": "Connected Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=Qh30brheRFA",
+      "embed_url": "https://www.youtube.com/embed/Qh30brheRFA",
+      "thumbnail": "https://i.ytimg.com/vi/Qh30brheRFA/hqdefault.jpg",
+      "site_titles": [
+        "The Academic Whip - How to use it as an Aid when Riding (Classical Aids)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f8chsopmq48",
+      "youtube_title": "How to lunge a horse with side reins",
+      "channel": "Horsemart",
+      "youtube_url": "https://www.youtube.com/watch?v=f8chsopmq48",
+      "embed_url": "https://www.youtube.com/embed/f8chsopmq48",
+      "thumbnail": "https://i.ytimg.com/vi/f8chsopmq48/hqdefault.jpg",
+      "site_titles": [
+        "How to lunge a horse with side reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WD2nqt8Csxw",
+      "youtube_title": "Ground Poles & Cavalletti Training for Horses",
+      "channel": "Utah State University Extension",
+      "youtube_url": "https://www.youtube.com/watch?v=WD2nqt8Csxw",
+      "embed_url": "https://www.youtube.com/embed/WD2nqt8Csxw",
+      "thumbnail": "https://i.ytimg.com/vi/WD2nqt8Csxw/hqdefault.jpg",
+      "site_titles": [
+        "Ground Poles & Cavalletti Training for Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G9MRq3ionj4",
+      "youtube_title": "STOP Wasting Time! The SECRET to Getting Your Horse to Move Forward",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=G9MRq3ionj4",
+      "embed_url": "https://www.youtube.com/embed/G9MRq3ionj4",
+      "thumbnail": "https://i.ytimg.com/vi/G9MRq3ionj4/hqdefault.jpg",
+      "site_titles": [
+        "STOP Wasting Time! The SECRET to Getting Your Horse to Move Forward"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k7QGdKX5YQs",
+      "youtube_title": "Teach Your Horse How To Ground Tie | Step By Step Training",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=k7QGdKX5YQs",
+      "embed_url": "https://www.youtube.com/embed/k7QGdKX5YQs",
+      "thumbnail": "https://i.ytimg.com/vi/k7QGdKX5YQs/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse How To Ground Tie | Step By Step Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "u9myKnWEB6o",
+      "youtube_title": "Rhythm, Relaxation, & Contact",
+      "channel": "Parelli Tube",
+      "youtube_url": "https://www.youtube.com/watch?v=u9myKnWEB6o",
+      "embed_url": "https://www.youtube.com/embed/u9myKnWEB6o",
+      "thumbnail": "https://i.ytimg.com/vi/u9myKnWEB6o/hqdefault.jpg",
+      "site_titles": [
+        "Rhythm, Relaxation, & Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-aG1d_U88y4",
+      "youtube_title": "Teaching a Young Horse How to Rein Back Ridden (after preparatory training in-hand).",
+      "channel": "David Ifold",
+      "youtube_url": "https://www.youtube.com/watch?v=-aG1d_U88y4",
+      "embed_url": "https://www.youtube.com/embed/-aG1d_U88y4",
+      "thumbnail": "https://i.ytimg.com/vi/-aG1d_U88y4/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Young Horse How to Rein Back Ridden (after preparatory training in-hand)."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XQIcNDVPOL8",
+      "youtube_title": "How To Start A Young Horse - Part13 -Exploring The Contact",
+      "channel": "Eliza Sydnor Romm",
+      "youtube_url": "https://www.youtube.com/watch?v=XQIcNDVPOL8",
+      "embed_url": "https://www.youtube.com/embed/XQIcNDVPOL8",
+      "thumbnail": "https://i.ytimg.com/vi/XQIcNDVPOL8/hqdefault.jpg",
+      "site_titles": [
+        "How To Start A Young Horse - Part13 -Exploring The Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XXPvZxxQXzM",
+      "youtube_title": "Positive Discipline in Horse Training-Stop Fighting Your Horse-Why Forcing a Horse Backfires",
+      "channel": "Steve Rother",
+      "youtube_url": "https://www.youtube.com/watch?v=XXPvZxxQXzM",
+      "embed_url": "https://www.youtube.com/embed/XXPvZxxQXzM",
+      "thumbnail": "https://i.ytimg.com/vi/XXPvZxxQXzM/hqdefault.jpg",
+      "site_titles": [
+        "Positive Discipline in Horse Training-Stop Fighting Your Horse-Why Forcing a Horse Backfires"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0FeNStZquxA",
+      "youtube_title": "How to ask for the first trot when starting a young horse safely - Tara Session 18",
+      "channel": "Gabi Neurohr - Understanding Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=0FeNStZquxA",
+      "embed_url": "https://www.youtube.com/embed/0FeNStZquxA",
+      "thumbnail": "https://i.ytimg.com/vi/0FeNStZquxA/hqdefault.jpg",
+      "site_titles": [
+        "How to ask for the first trot when starting a young horse safely - Tara Session 18"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PAuKX_AVzEM",
+      "youtube_title": "How to prepare your horse for transitions? | Begijnhoeve | How to #4",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=PAuKX_AVzEM",
+      "embed_url": "https://www.youtube.com/embed/PAuKX_AVzEM",
+      "thumbnail": "https://i.ytimg.com/vi/PAuKX_AVzEM/hqdefault.jpg",
+      "site_titles": [
+        "How to prepare your horse for transitions? | Begijnhoeve | How to"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gb7MMHR4Gfs",
+      "youtube_title": "Walk Trot Under Saddle for the 1st time",
+      "channel": "johnmaddensalesinc",
+      "youtube_url": "https://www.youtube.com/watch?v=gb7MMHR4Gfs",
+      "embed_url": "https://www.youtube.com/embed/gb7MMHR4Gfs",
+      "thumbnail": "https://i.ytimg.com/vi/gb7MMHR4Gfs/hqdefault.jpg",
+      "site_titles": [
+        "Walk Trot Under Saddle for the 1st time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "h48PmBptf7A",
+      "youtube_title": "Remain Calm While Managing a Horse's Fear or Anxiety",
+      "channel": "Van Hargis Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=h48PmBptf7A",
+      "embed_url": "https://www.youtube.com/embed/h48PmBptf7A",
+      "thumbnail": "https://i.ytimg.com/vi/h48PmBptf7A/hqdefault.jpg",
+      "site_titles": [
+        "Remain Calm While Managing a Horse's Fear or Anxiety"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "R7hK277eP7E",
+      "youtube_title": "How to ride a young horse: 3 Key Pillars for riding young horses",
+      "channel": "Isabelle Kuyck",
+      "youtube_url": "https://www.youtube.com/watch?v=R7hK277eP7E",
+      "embed_url": "https://www.youtube.com/embed/R7hK277eP7E",
+      "thumbnail": "https://i.ytimg.com/vi/R7hK277eP7E/hqdefault.jpg",
+      "site_titles": [
+        "How to ride a young horse: 3 Key Pillars for riding young horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3CEqZ1FPkYI",
+      "youtube_title": "Where I Begin: Reading a Green Horse in 10 Minutes",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=3CEqZ1FPkYI",
+      "embed_url": "https://www.youtube.com/embed/3CEqZ1FPkYI",
+      "thumbnail": "https://i.ytimg.com/vi/3CEqZ1FPkYI/hqdefault.jpg",
+      "site_titles": [
+        "Where I Begin: Reading a Green Horse in 10 Minutes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qizIIGcrld0",
+      "youtube_title": "My OTTB’s First Beginner Novice Horse Trial",
+      "channel": "Claire Cumbee",
+      "youtube_url": "https://www.youtube.com/watch?v=qizIIGcrld0",
+      "embed_url": "https://www.youtube.com/embed/qizIIGcrld0",
+      "thumbnail": "https://i.ytimg.com/vi/qizIIGcrld0/hqdefault.jpg",
+      "site_titles": [
+        "My OTTB’s First Beginner Novice Horse Trial"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4_nSQPlAGLo",
+      "youtube_title": "How to Introduce the Flying Change",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=4_nSQPlAGLo",
+      "embed_url": "https://www.youtube.com/embed/4_nSQPlAGLo",
+      "thumbnail": "https://i.ytimg.com/vi/4_nSQPlAGLo/hqdefault.jpg",
+      "site_titles": [
+        "How to Introduce the Flying Change"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RPettoxmcAQ",
+      "youtube_title": "How I Teach My Horse To Canter For The First Time!",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=RPettoxmcAQ",
+      "embed_url": "https://www.youtube.com/embed/RPettoxmcAQ",
+      "thumbnail": "https://i.ytimg.com/vi/RPettoxmcAQ/hqdefault.jpg",
+      "site_titles": [
+        "How I Teach My Horse To Canter For The First Time!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "taCCnUvtwho",
+      "youtube_title": "Basics of Each Gait & Transitions",
+      "channel": "Irish Manor Stables",
+      "youtube_url": "https://www.youtube.com/watch?v=taCCnUvtwho",
+      "embed_url": "https://www.youtube.com/embed/taCCnUvtwho",
+      "thumbnail": "https://i.ytimg.com/vi/taCCnUvtwho/hqdefault.jpg",
+      "site_titles": [
+        "Basics of Each Gait & Transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yTt4u2fhsm4",
+      "youtube_title": "What I do the first 10 min with a Green Horse",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=yTt4u2fhsm4",
+      "embed_url": "https://www.youtube.com/embed/yTt4u2fhsm4",
+      "thumbnail": "https://i.ytimg.com/vi/yTt4u2fhsm4/hqdefault.jpg",
+      "site_titles": [
+        "What I do the first 10 min with a Green Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7zv_8aEeM1w",
+      "youtube_title": "What causes horse behavior problems?",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=7zv_8aEeM1w",
+      "embed_url": "https://www.youtube.com/embed/7zv_8aEeM1w",
+      "thumbnail": "https://i.ytimg.com/vi/7zv_8aEeM1w/hqdefault.jpg",
+      "site_titles": [
+        "What causes horse behavior problems?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6es-zVoYuxU",
+      "youtube_title": "How to Set Your Horse Up for Success",
+      "channel": "The Pet Hui #2",
+      "youtube_url": "https://www.youtube.com/watch?v=6es-zVoYuxU",
+      "embed_url": "https://www.youtube.com/embed/6es-zVoYuxU",
+      "thumbnail": "https://i.ytimg.com/vi/6es-zVoYuxU/hqdefault.jpg",
+      "site_titles": [
+        "How to Set Your Horse Up for Success"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mU4iX3vK35E",
+      "youtube_title": "Does your horse have a ''hard mouth\"? Let's fix it!",
+      "channel": "Zebra Equine Technologies",
+      "youtube_url": "https://www.youtube.com/watch?v=mU4iX3vK35E",
+      "embed_url": "https://www.youtube.com/embed/mU4iX3vK35E",
+      "thumbnail": "https://i.ytimg.com/vi/mU4iX3vK35E/hqdefault.jpg",
+      "site_titles": [
+        "Does your horse have a ''hard mouth\"? Let's fix it!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g2uA67_DI5M",
+      "youtube_title": "First Steps To Prevent Horses From Bracing (Stiffening Up)",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=g2uA67_DI5M",
+      "embed_url": "https://www.youtube.com/embed/g2uA67_DI5M",
+      "thumbnail": "https://i.ytimg.com/vi/g2uA67_DI5M/hqdefault.jpg",
+      "site_titles": [
+        "First Steps To Prevent Horses From Bracing (Stiffening Up)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9tJ60vlPhTM",
+      "youtube_title": "Training The Foal & Weanling - Halter Breaking A Young Horse",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=9tJ60vlPhTM",
+      "embed_url": "https://www.youtube.com/embed/9tJ60vlPhTM",
+      "thumbnail": "https://i.ytimg.com/vi/9tJ60vlPhTM/hqdefault.jpg",
+      "site_titles": [
+        "Training The Foal & Weanling - Halter Breaking A Young Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CFh1mnuKYQI",
+      "youtube_title": "Lateral Work with a Sensitive Horse",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=CFh1mnuKYQI",
+      "embed_url": "https://www.youtube.com/embed/CFh1mnuKYQI",
+      "thumbnail": "https://i.ytimg.com/vi/CFh1mnuKYQI/hqdefault.jpg",
+      "site_titles": [
+        "Lateral Work with a Sensitive Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lLH_DD_Qe_4",
+      "youtube_title": "Training Horses to Stop Reliably: Essential Tips",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=lLH_DD_Qe_4",
+      "embed_url": "https://www.youtube.com/embed/lLH_DD_Qe_4",
+      "thumbnail": "https://i.ytimg.com/vi/lLH_DD_Qe_4/hqdefault.jpg",
+      "site_titles": [
+        "Training Horses to Stop Reliably: Essential Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SnLMGVSISzc",
+      "youtube_title": "Teach Your Horse to Lead, Not Drag (Episode 195) - Herm Gailey: A Lifetime with Horses",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=SnLMGVSISzc",
+      "embed_url": "https://www.youtube.com/embed/SnLMGVSISzc",
+      "thumbnail": "https://i.ytimg.com/vi/SnLMGVSISzc/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse to Lead, Not Drag (Episode 195) - Herm Gailey: A Lifetime with Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "y72LOmoeXiA",
+      "youtube_title": "How To Safely Teach A Horse To Tie",
+      "channel": "EQUISIT Way Of Life",
+      "youtube_url": "https://www.youtube.com/watch?v=y72LOmoeXiA",
+      "embed_url": "https://www.youtube.com/embed/y72LOmoeXiA",
+      "thumbnail": "https://i.ytimg.com/vi/y72LOmoeXiA/hqdefault.jpg",
+      "site_titles": [
+        "How To Safely Teach A Horse To Tie"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p4yojFXLWNY",
+      "youtube_title": "How to Lunge a Horse Without a Round Pen (For Beginners)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=p4yojFXLWNY",
+      "embed_url": "https://www.youtube.com/embed/p4yojFXLWNY",
+      "thumbnail": "https://i.ytimg.com/vi/p4yojFXLWNY/hqdefault.jpg",
+      "site_titles": [
+        "How to Lunge a Horse Without a Round Pen (For Beginners)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yYJ9x2pAMHk",
+      "youtube_title": "Repetition via Trotting As a Horse Training Option",
+      "channel": "wilsonreininghorses",
+      "youtube_url": "https://www.youtube.com/watch?v=yYJ9x2pAMHk",
+      "embed_url": "https://www.youtube.com/embed/yYJ9x2pAMHk",
+      "thumbnail": "https://i.ytimg.com/vi/yYJ9x2pAMHk/hqdefault.jpg",
+      "site_titles": [
+        "Repetition via Trotting As a Horse Training Option"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_8E8_inqBKc",
+      "youtube_title": "Herd Bound Horse/Separation Anxiety: Solutions That Work",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=_8E8_inqBKc",
+      "embed_url": "https://www.youtube.com/embed/_8E8_inqBKc",
+      "thumbnail": "https://i.ytimg.com/vi/_8E8_inqBKc/hqdefault.jpg",
+      "site_titles": [
+        "Herd Bound Horse/Separation Anxiety: Solutions That Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n4sY_XSyC4c",
+      "youtube_title": "Exercises For Horse Riders To Balance Your Seat",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=n4sY_XSyC4c",
+      "embed_url": "https://www.youtube.com/embed/n4sY_XSyC4c",
+      "thumbnail": "https://i.ytimg.com/vi/n4sY_XSyC4c/hqdefault.jpg",
+      "site_titles": [
+        "Exercises For Horse Riders To Balance Your Seat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kvA1rNPCkwA",
+      "youtube_title": "EP048: Feeding Your Horse with Dr Juliet Getty",
+      "channel": "Karen Rohlf",
+      "youtube_url": "https://www.youtube.com/watch?v=kvA1rNPCkwA",
+      "embed_url": "https://www.youtube.com/embed/kvA1rNPCkwA",
+      "thumbnail": "https://i.ytimg.com/vi/kvA1rNPCkwA/hqdefault.jpg",
+      "site_titles": [
+        "EP048: Feeding Your Horse with Dr Juliet Getty"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PBmZuXyTLi8",
+      "youtube_title": "9 Easy Groundwork Exercises to Prepare for Riding",
+      "channel": "Break Habits Not Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=PBmZuXyTLi8",
+      "embed_url": "https://www.youtube.com/embed/PBmZuXyTLi8",
+      "thumbnail": "https://i.ytimg.com/vi/PBmZuXyTLi8/hqdefault.jpg",
+      "site_titles": [
+        "9 Easy Groundwork Exercises to Prepare for Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rFcWadm8SHc",
+      "youtube_title": "Episode 14: Muscle Memory: Habits & Experience Can Improve Your Horseback Riding Skills",
+      "channel": "Stacy Westfall",
+      "youtube_url": "https://www.youtube.com/watch?v=rFcWadm8SHc",
+      "embed_url": "https://www.youtube.com/embed/rFcWadm8SHc",
+      "thumbnail": "https://i.ytimg.com/vi/rFcWadm8SHc/hqdefault.jpg",
+      "site_titles": [
+        "Episode 14: Muscle Memory: Habits & Experience Can Improve Your Horseback Riding Skills"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bd-rr-4HLVY",
+      "youtube_title": "Webinar: The carrot or the stick: applying learning theory to horse riding",
+      "channel": "World Horse Welfare Education",
+      "youtube_url": "https://www.youtube.com/watch?v=bd-rr-4HLVY",
+      "embed_url": "https://www.youtube.com/embed/bd-rr-4HLVY",
+      "thumbnail": "https://i.ytimg.com/vi/bd-rr-4HLVY/hqdefault.jpg",
+      "site_titles": [
+        "Webinar: The carrot or the stick: applying learning theory to horse riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MokBr_dvZ3Y",
+      "youtube_title": "Concepts About Consistent Environments For Horses",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=MokBr_dvZ3Y",
+      "embed_url": "https://www.youtube.com/embed/MokBr_dvZ3Y",
+      "thumbnail": "https://i.ytimg.com/vi/MokBr_dvZ3Y/hqdefault.jpg",
+      "site_titles": [
+        "Concepts About Consistent Environments For Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3XKOaYOg0LI",
+      "youtube_title": "Mastering Green Horse Training: Build Trust and Confidence",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=3XKOaYOg0LI",
+      "embed_url": "https://www.youtube.com/embed/3XKOaYOg0LI",
+      "thumbnail": "https://i.ytimg.com/vi/3XKOaYOg0LI/hqdefault.jpg",
+      "site_titles": [
+        "Mastering Green Horse Training: Build Trust and Confidence"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "igPGVTlajQc",
+      "youtube_title": "One sided horse",
+      "channel": "Jerry Nielsen",
+      "youtube_url": "https://www.youtube.com/watch?v=igPGVTlajQc",
+      "embed_url": "https://www.youtube.com/embed/igPGVTlajQc",
+      "thumbnail": "https://i.ytimg.com/vi/igPGVTlajQc/hqdefault.jpg",
+      "site_titles": [
+        "One sided horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lCJ9gewfdRk",
+      "youtube_title": "Hannah Biggs - How to Teach the Extended Walk | Jacksons Fencing",
+      "channel": "Jacksons Fencing",
+      "youtube_url": "https://www.youtube.com/watch?v=lCJ9gewfdRk",
+      "embed_url": "https://www.youtube.com/embed/lCJ9gewfdRk",
+      "thumbnail": "https://i.ytimg.com/vi/lCJ9gewfdRk/hqdefault.jpg",
+      "site_titles": [
+        "Hannah Biggs - How to Teach the Extended Walk | Jacksons Fencing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Zs0lvd5sGnY",
+      "youtube_title": "Teaching horse voice commands part 1",
+      "channel": "Bill Gokey",
+      "youtube_url": "https://www.youtube.com/watch?v=Zs0lvd5sGnY",
+      "embed_url": "https://www.youtube.com/embed/Zs0lvd5sGnY",
+      "thumbnail": "https://i.ytimg.com/vi/Zs0lvd5sGnY/hqdefault.jpg",
+      "site_titles": [
+        "Teaching horse voice commands part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3XaeKfQDyzA",
+      "youtube_title": "Green Horses 101: Introducing Basic Dressage Training Concepts, Selecting a Young Horse, & more",
+      "channel": "Ride iQ Official",
+      "youtube_url": "https://www.youtube.com/watch?v=3XaeKfQDyzA",
+      "embed_url": "https://www.youtube.com/embed/3XaeKfQDyzA",
+      "thumbnail": "https://i.ytimg.com/vi/3XaeKfQDyzA/hqdefault.jpg",
+      "site_titles": [
+        "Green Horses 101: Introducing Basic Dressage Training Concepts, Selecting a Young Horse, & more"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ttq0ZYnuCQQ",
+      "youtube_title": "How to Clicker Train Your Horse",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=ttq0ZYnuCQQ",
+      "embed_url": "https://www.youtube.com/embed/ttq0ZYnuCQQ",
+      "thumbnail": "https://i.ytimg.com/vi/ttq0ZYnuCQQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Clicker Train Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iidNjpXcx8I",
+      "youtube_title": "Most riders miss this step.... Stop Training Start Communicating",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=iidNjpXcx8I",
+      "embed_url": "https://www.youtube.com/embed/iidNjpXcx8I",
+      "thumbnail": "https://i.ytimg.com/vi/iidNjpXcx8I/hqdefault.jpg",
+      "site_titles": [
+        "Most riders miss this step.... Stop Training Start Communicating"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AZ_iOAY35Gg",
+      "youtube_title": "THIS HORSE WON’T STOP (I’m Losing Control)",
+      "channel": "Dark Horizon",
+      "youtube_url": "https://www.youtube.com/watch?v=AZ_iOAY35Gg",
+      "embed_url": "https://www.youtube.com/embed/AZ_iOAY35Gg",
+      "thumbnail": "https://i.ytimg.com/vi/AZ_iOAY35Gg/hqdefault.jpg",
+      "site_titles": [
+        "THIS HORSE WON’T STOP (I’m Losing Control)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ghtg4N07XlY",
+      "youtube_title": "The Natural Horseman – explained by HORSES FOR LIFE Magazine",
+      "channel": "Klaus F. Hempfling",
+      "youtube_url": "https://www.youtube.com/watch?v=Ghtg4N07XlY",
+      "embed_url": "https://www.youtube.com/embed/Ghtg4N07XlY",
+      "thumbnail": "https://i.ytimg.com/vi/Ghtg4N07XlY/hqdefault.jpg",
+      "site_titles": [
+        "The Natural Horseman – explained by HORSES FOR LIFE Magazine"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UDFzhJNjqZM",
+      "youtube_title": "Basic Horsemanship: How to Use Pressure and Release | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=UDFzhJNjqZM",
+      "embed_url": "https://www.youtube.com/embed/UDFzhJNjqZM",
+      "thumbnail": "https://i.ytimg.com/vi/UDFzhJNjqZM/hqdefault.jpg",
+      "site_titles": [
+        "Basic Horsemanship: How to Use Pressure and Release | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zgaJ2_AUCG4",
+      "youtube_title": "FEEL, TIMING, and BALANCE. Understanding FOOTFALL",
+      "channel": "Patrick King Horsemanship & Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=zgaJ2_AUCG4",
+      "embed_url": "https://www.youtube.com/embed/zgaJ2_AUCG4",
+      "thumbnail": "https://i.ytimg.com/vi/zgaJ2_AUCG4/hqdefault.jpg",
+      "site_titles": [
+        "FEEL, TIMING, and BALANCE. Understanding FOOTFALL"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k1gMn67begk",
+      "youtube_title": "The Cowboy Dressage Round Pen",
+      "channel": "Eitan Beth-Halachmy",
+      "youtube_url": "https://www.youtube.com/watch?v=k1gMn67begk",
+      "embed_url": "https://www.youtube.com/embed/k1gMn67begk",
+      "thumbnail": "https://i.ytimg.com/vi/k1gMn67begk/hqdefault.jpg",
+      "site_titles": [
+        "The Cowboy Dressage Round Pen"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2TAJcpFGZtQ",
+      "youtube_title": "The importance of \"the wait time\" when teaching your horse new things. ",
+      "channel": "PFT - Christy Steele",
+      "youtube_url": "https://www.youtube.com/watch?v=2TAJcpFGZtQ",
+      "embed_url": "https://www.youtube.com/embed/2TAJcpFGZtQ",
+      "thumbnail": "https://i.ytimg.com/vi/2TAJcpFGZtQ/hqdefault.jpg",
+      "site_titles": [
+        "The importance of \"the wait time\" when teaching your horse new things."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "agm50xAiKso",
+      "youtube_title": "EP070: Anthropomorphism",
+      "channel": "Karen Rohlf",
+      "youtube_url": "https://www.youtube.com/watch?v=agm50xAiKso",
+      "embed_url": "https://www.youtube.com/embed/agm50xAiKso",
+      "thumbnail": "https://i.ytimg.com/vi/agm50xAiKso/hqdefault.jpg",
+      "site_titles": [
+        "EP070: Anthropomorphism"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hX-VsqxcpPE",
+      "youtube_title": "Consistency Beats Talent When Training a Horse",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=hX-VsqxcpPE",
+      "embed_url": "https://www.youtube.com/embed/hX-VsqxcpPE",
+      "thumbnail": "https://i.ytimg.com/vi/hX-VsqxcpPE/hqdefault.jpg",
+      "site_titles": [
+        "Consistency Beats Talent When Training a Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9ZjVDpoiwzk",
+      "youtube_title": "Timing and Feel: What are they?",
+      "channel": "A Davis HORSEMANSHIP As An ART",
+      "youtube_url": "https://www.youtube.com/watch?v=9ZjVDpoiwzk",
+      "embed_url": "https://www.youtube.com/embed/9ZjVDpoiwzk",
+      "thumbnail": "https://i.ytimg.com/vi/9ZjVDpoiwzk/hqdefault.jpg",
+      "site_titles": [
+        "Timing and Feel: What are they?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ta4jtjU9VMU",
+      "youtube_title": "When is it time to give up?",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Ta4jtjU9VMU",
+      "embed_url": "https://www.youtube.com/embed/Ta4jtjU9VMU",
+      "thumbnail": "https://i.ytimg.com/vi/Ta4jtjU9VMU/hqdefault.jpg",
+      "site_titles": [
+        "When is it time to give up?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PXNPTGkhYrc",
+      "youtube_title": "Poor Performance in Horses: Training or Pain? How to Tell the Difference",
+      "channel": "Equitopia Center",
+      "youtube_url": "https://www.youtube.com/watch?v=PXNPTGkhYrc",
+      "embed_url": "https://www.youtube.com/embed/PXNPTGkhYrc",
+      "thumbnail": "https://i.ytimg.com/vi/PXNPTGkhYrc/hqdefault.jpg",
+      "site_titles": [
+        "Poor Performance in Horses: Training or Pain? How to Tell the Difference"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fZuIGDM3vlw",
+      "youtube_title": "The Principles of Training Season 3 Episode 11: “Helping a Horse with a Chronically Rushing Canter”",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=fZuIGDM3vlw",
+      "embed_url": "https://www.youtube.com/embed/fZuIGDM3vlw",
+      "thumbnail": "https://i.ytimg.com/vi/fZuIGDM3vlw/hqdefault.jpg",
+      "site_titles": [
+        "The Principles of Training Season 3 Episode 11: “Helping a Horse with a Chronically Rushing Canter”"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Qil4eu_4maI",
+      "youtube_title": "How Much Pressure Is Too Much?",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=Qil4eu_4maI",
+      "embed_url": "https://www.youtube.com/embed/Qil4eu_4maI",
+      "thumbnail": "https://i.ytimg.com/vi/Qil4eu_4maI/hqdefault.jpg",
+      "site_titles": [
+        "How Much Pressure Is Too Much?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NXAs1XUaAgk",
+      "youtube_title": "Helping An Anxious Off the Track Thoroughbred Find Relaxation",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=NXAs1XUaAgk",
+      "embed_url": "https://www.youtube.com/embed/NXAs1XUaAgk",
+      "thumbnail": "https://i.ytimg.com/vi/NXAs1XUaAgk/hqdefault.jpg",
+      "site_titles": [
+        "Helping An Anxious Off the Track Thoroughbred Find Relaxation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D_d9CBDBu7g",
+      "youtube_title": "Ride your horse Back-to-Front: (The REAL way to achieve COLLECTION)",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=D_d9CBDBu7g",
+      "embed_url": "https://www.youtube.com/embed/D_d9CBDBu7g",
+      "thumbnail": "https://i.ytimg.com/vi/D_d9CBDBu7g/hqdefault.jpg",
+      "site_titles": [
+        "Ride your horse Back-to-Front: (The REAL way to achieve COLLECTION)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-atg35R1_IQ",
+      "youtube_title": "The importance of consistency with horses",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=-atg35R1_IQ",
+      "embed_url": "https://www.youtube.com/embed/-atg35R1_IQ",
+      "thumbnail": "https://i.ytimg.com/vi/-atg35R1_IQ/hqdefault.jpg",
+      "site_titles": [
+        "The importance of consistency with horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VTGwPSo2GiY",
+      "youtube_title": "Why Your Horse is BEGGING For Consistency (And How to Give It)",
+      "channel": "How to Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=VTGwPSo2GiY",
+      "embed_url": "https://www.youtube.com/embed/VTGwPSo2GiY",
+      "thumbnail": "https://i.ytimg.com/vi/VTGwPSo2GiY/hqdefault.jpg",
+      "site_titles": [
+        "Why Your Horse is BEGGING For Consistency (And How to Give It)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rhwQCwD_zRA",
+      "youtube_title": "Horse Training 101: The Secret to Ending Every Session on a Positive Note",
+      "channel": "Law Familia Business Planning and Coaching",
+      "youtube_url": "https://www.youtube.com/watch?v=rhwQCwD_zRA",
+      "embed_url": "https://www.youtube.com/embed/rhwQCwD_zRA",
+      "thumbnail": "https://i.ytimg.com/vi/rhwQCwD_zRA/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training 101: The Secret to Ending Every Session on a Positive Note"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xe0ggK0jzaM",
+      "youtube_title": "5 Tips To Control Your Temper When Training Horses",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=xe0ggK0jzaM",
+      "embed_url": "https://www.youtube.com/embed/xe0ggK0jzaM",
+      "thumbnail": "https://i.ytimg.com/vi/xe0ggK0jzaM/hqdefault.jpg",
+      "site_titles": [
+        "5 Tips To Control Your Temper When Training Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AuE_SyXjwXk",
+      "youtube_title": "Why you should kick your horse instead of squeezing",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=AuE_SyXjwXk",
+      "embed_url": "https://www.youtube.com/embed/AuE_SyXjwXk",
+      "thumbnail": "https://i.ytimg.com/vi/AuE_SyXjwXk/hqdefault.jpg",
+      "site_titles": [
+        "Why you should kick your horse instead of squeezing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Dhjj5kAOHho",
+      "youtube_title": "Why \"Good Boy\" Isn't the Best Praise for Your Horse | Horse Training Tips",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=Dhjj5kAOHho",
+      "embed_url": "https://www.youtube.com/embed/Dhjj5kAOHho",
+      "thumbnail": "https://i.ytimg.com/vi/Dhjj5kAOHho/hqdefault.jpg",
+      "site_titles": [
+        "Why \"Good Boy\" Isn't the Best Praise for Your Horse | Horse Training Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nY72CoPs4Do",
+      "youtube_title": "Don't focus on the canter to get your horse cantering! (Follow up to \"you won't muscle this one\").",
+      "channel": "The Natural Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=nY72CoPs4Do",
+      "embed_url": "https://www.youtube.com/embed/nY72CoPs4Do",
+      "thumbnail": "https://i.ytimg.com/vi/nY72CoPs4Do/hqdefault.jpg",
+      "site_titles": [
+        "Don't focus on the canter to get your horse cantering! (Follow up to \"you won't muscle this one\")."
       ],
       "sections": [
         "qa"
