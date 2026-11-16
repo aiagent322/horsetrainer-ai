@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2469,
+  "count": 2488,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -156,7 +156,6 @@
       "reference_count": 50,
       "pages": [
         "famous-trainers/andrea-fappani.html",
-        "qa/competition/how-do-you-develop-the-reined-or-cow-horse-pattern-work-in-working-ranch-horse/index.html",
         "qa/dressage-lessons/what-if-i-only-have-a-western-horse-can-i-still-take-dressage-lessons/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
@@ -313,7 +312,6 @@
       ],
       "reference_count": 25,
       "pages": [
-        "qa/competition/how-do-you-develop-a-horse-that-is-calm-and-focused-in-a-busy-ranch-horse-show-e/index.html",
         "qa/desensitization-sacking-out/how-do-i-build-confidence-in-a-fearful-or-anxious-horse/index.html",
         "qa/desensitization-sacking-out/how-do-i-desensitize-a-spooky-horse-to-frightening-objects-and-situations/index.html",
         "qa/desensitization-sacking-out/how-do-i-handle-a-horse-that-spooks-on-the-trail-and-get-it-more-confident/index.html",
@@ -41953,6 +41951,310 @@
       "thumbnail": "https://i.ytimg.com/vi/oGupZb7Yhaw/hqdefault.jpg",
       "site_titles": [
         "Counter Canter Made Simple 🐴✨ Build Strength & Balance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NZNB60GwFP8",
+      "youtube_title": "The importance of video analysis",
+      "channel": "RideSmart",
+      "youtube_url": "https://www.youtube.com/watch?v=NZNB60GwFP8",
+      "embed_url": "https://www.youtube.com/embed/NZNB60GwFP8",
+      "thumbnail": "https://i.ytimg.com/vi/NZNB60GwFP8/hqdefault.jpg",
+      "site_titles": [
+        "The importance of video analysis"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Uln8g_UXr9c",
+      "youtube_title": "10 Tips For Your First Horse Show",
+      "channel": "SaddleBox",
+      "youtube_url": "https://www.youtube.com/watch?v=Uln8g_UXr9c",
+      "embed_url": "https://www.youtube.com/embed/Uln8g_UXr9c",
+      "thumbnail": "https://i.ytimg.com/vi/Uln8g_UXr9c/hqdefault.jpg",
+      "site_titles": [
+        "10 Tips For Your First Horse Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wD9I9HZIPts",
+      "youtube_title": "Mental preparation for a horse show",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=wD9I9HZIPts",
+      "embed_url": "https://www.youtube.com/embed/wD9I9HZIPts",
+      "thumbnail": "https://i.ytimg.com/vi/wD9I9HZIPts/hqdefault.jpg",
+      "site_titles": [
+        "Mental preparation for a horse show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6RIWXcouU2E",
+      "youtube_title": "Conditioning Your Horse for the Show Season",
+      "channel": "MyHorseUniversity",
+      "youtube_url": "https://www.youtube.com/watch?v=6RIWXcouU2E",
+      "embed_url": "https://www.youtube.com/embed/6RIWXcouU2E",
+      "thumbnail": "https://i.ytimg.com/vi/6RIWXcouU2E/hqdefault.jpg",
+      "site_titles": [
+        "Conditioning Your Horse for the Show Season"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IMa1LKBoOVE",
+      "youtube_title": "My Horse Show Day Routine",
+      "channel": "Ride with Clara",
+      "youtube_url": "https://www.youtube.com/watch?v=IMa1LKBoOVE",
+      "embed_url": "https://www.youtube.com/embed/IMa1LKBoOVE",
+      "thumbnail": "https://i.ytimg.com/vi/IMa1LKBoOVE/hqdefault.jpg",
+      "site_titles": [
+        "My Horse Show Day Routine"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XOWazhpiETg",
+      "youtube_title": "Horse Show Warm-up",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=XOWazhpiETg",
+      "embed_url": "https://www.youtube.com/embed/XOWazhpiETg",
+      "thumbnail": "https://i.ytimg.com/vi/XOWazhpiETg/hqdefault.jpg",
+      "site_titles": [
+        "Horse Show Warm-up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pJzm_goy30Y",
+      "youtube_title": "Cody Crow: Introducing Your Versatility Ranch Horse to Cow Work",
+      "channel": "Horse and Rider Magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=pJzm_goy30Y",
+      "embed_url": "https://www.youtube.com/embed/pJzm_goy30Y",
+      "thumbnail": "https://i.ytimg.com/vi/pJzm_goy30Y/hqdefault.jpg",
+      "site_titles": [
+        "Cody Crow: Introducing Your Versatility Ranch Horse to Cow Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LnEKioeCrUc",
+      "youtube_title": "When  your horse is tense at competitions - Demo with Hylofit",
+      "channel": "TRT method",
+      "youtube_url": "https://www.youtube.com/watch?v=LnEKioeCrUc",
+      "embed_url": "https://www.youtube.com/embed/LnEKioeCrUc",
+      "thumbnail": "https://i.ytimg.com/vi/LnEKioeCrUc/hqdefault.jpg",
+      "site_titles": [
+        "When your horse is tense at competitions - Demo with Hylofit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0zqw-AATSLY",
+      "youtube_title": "How We Haul Horses Long Distances",
+      "channel": "Pat & Deb Puckett",
+      "youtube_url": "https://www.youtube.com/watch?v=0zqw-AATSLY",
+      "embed_url": "https://www.youtube.com/embed/0zqw-AATSLY",
+      "thumbnail": "https://i.ytimg.com/vi/0zqw-AATSLY/hqdefault.jpg",
+      "site_titles": [
+        "How We Haul Horses Long Distances"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UihY4WcTx_4",
+      "youtube_title": "Horse Show Nerves: How Riders at Every Level Learn to Manage Anxiety",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=UihY4WcTx_4",
+      "embed_url": "https://www.youtube.com/embed/UihY4WcTx_4",
+      "thumbnail": "https://i.ytimg.com/vi/UihY4WcTx_4/hqdefault.jpg",
+      "site_titles": [
+        "Horse Show Nerves: How Riders at Every Level Learn to Manage Anxiety"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vt1bLxfr8s8",
+      "youtube_title": "Creating a show schedule for my horses",
+      "channel": "Elisa Wallace Eventing",
+      "youtube_url": "https://www.youtube.com/watch?v=vt1bLxfr8s8",
+      "embed_url": "https://www.youtube.com/embed/vt1bLxfr8s8",
+      "thumbnail": "https://i.ytimg.com/vi/vt1bLxfr8s8/hqdefault.jpg",
+      "site_titles": [
+        "Creating a show schedule for my horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5bKV5BG2kfA",
+      "youtube_title": "MHS Tips--Class List",
+      "channel": "MoonsaultStables",
+      "youtube_url": "https://www.youtube.com/watch?v=5bKV5BG2kfA",
+      "embed_url": "https://www.youtube.com/embed/5bKV5BG2kfA",
+      "thumbnail": "https://i.ytimg.com/vi/5bKV5BG2kfA/hqdefault.jpg",
+      "site_titles": [
+        "MHS Tips--Class List"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lDT2SShu7h0",
+      "youtube_title": "Ann Salmon Anderman – How to Read Your Judges Sheet",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=lDT2SShu7h0",
+      "embed_url": "https://www.youtube.com/embed/lDT2SShu7h0",
+      "thumbnail": "https://i.ytimg.com/vi/lDT2SShu7h0/hqdefault.jpg",
+      "site_titles": [
+        "Ann Salmon Anderman – How to Read Your Judges Sheet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CD6qTDs9hVk",
+      "youtube_title": "HOW DO I SET COMPETITION GOALS? - Competition Mastery TV Episode 6",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=CD6qTDs9hVk",
+      "embed_url": "https://www.youtube.com/embed/CD6qTDs9hVk",
+      "thumbnail": "https://i.ytimg.com/vi/CD6qTDs9hVk/hqdefault.jpg",
+      "site_titles": [
+        "HOW DO I SET COMPETITION GOALS? - Competition Mastery TV Episode 6"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0Kl8dTWXHGI",
+      "youtube_title": "Working Ranch Horses",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=0Kl8dTWXHGI",
+      "embed_url": "https://www.youtube.com/embed/0Kl8dTWXHGI",
+      "thumbnail": "https://i.ytimg.com/vi/0Kl8dTWXHGI/hqdefault.jpg",
+      "site_titles": [
+        "Working Ranch Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zchuMH8alTI",
+      "youtube_title": "EQUESTRIAN WORKOUT (Improve Your Riding) 🐎",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=zchuMH8alTI",
+      "embed_url": "https://www.youtube.com/embed/zchuMH8alTI",
+      "thumbnail": "https://i.ytimg.com/vi/zchuMH8alTI/hqdefault.jpg",
+      "site_titles": [
+        "EQUESTRIAN WORKOUT (Improve Your Riding) 🐎"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RmheJwDSl5M",
+      "youtube_title": "How To Start a Rope Horse Day 1 Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=RmheJwDSl5M",
+      "embed_url": "https://www.youtube.com/embed/RmheJwDSl5M",
+      "thumbnail": "https://i.ytimg.com/vi/RmheJwDSl5M/hqdefault.jpg",
+      "site_titles": [
+        "How To Start a Rope Horse Day 1 Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eGNHxmzC_0g",
+      "youtube_title": "Versatility Ranch Horse - Mozaun McKibben",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=eGNHxmzC_0g",
+      "embed_url": "https://www.youtube.com/embed/eGNHxmzC_0g",
+      "thumbnail": "https://i.ytimg.com/vi/eGNHxmzC_0g/hqdefault.jpg",
+      "site_titles": [
+        "Versatility Ranch Horse - Mozaun McKibben"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "m4B1o3t9GWY",
+      "youtube_title": "What Saddlery is Needed for a Horse Show | WSS EQUESTRIAN SHOW PREP TIPS | Show Horse Preparation",
+      "channel": "Whitney | WR_EQUESTRIAN",
+      "youtube_url": "https://www.youtube.com/watch?v=m4B1o3t9GWY",
+      "embed_url": "https://www.youtube.com/embed/m4B1o3t9GWY",
+      "thumbnail": "https://i.ytimg.com/vi/m4B1o3t9GWY/hqdefault.jpg",
+      "site_titles": [
+        "What Saddlery is Needed for a Horse Show | WSS EQUESTRIAN SHOW PREP TIPS | Show Horse Preparation"
       ],
       "sections": [
         "qa"
