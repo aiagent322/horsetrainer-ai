@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1164,
+  "count": 1232,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -189,10 +189,6 @@
         "qa/competition/how-do-you-develop-the-reined-or-cow-horse-pattern-work-in-working-ranch-horse/index.html",
         "qa/dressage-lessons/what-if-i-only-have-a-western-horse-can-i-still-take-dressage-lessons/index.html",
         "qa/dressage/how-does-dressage-improve-a-western-performance-horse/index.html",
-        "qa/equipment/how-do-i-select-spurs-and-use-them-correctly-without-causing-harm/index.html",
-        "qa/equipment/how-do-you-use-a-curb-bit-correctly-when-riding/index.html",
-        "qa/equipment/how-does-the-western-curb-bit-with-curved-shanks-work-and-why-is-it-so-popular-i/index.html",
-        "qa/equipment/what-is-the-difference-between-a-show-shank-curb-and-a-long-shank-curb-and-how-d/index.html",
         "qa/horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/horsemanship/what-is-the-importance-of-feel-and-timing-in-riding/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
@@ -21229,6 +21225,1094 @@
       "thumbnail": "https://i.ytimg.com/vi/klJDVOFWWvs/hqdefault.jpg",
       "site_titles": [
         "Preparing for Trail Obstacles"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3RDSNO5Z-TE",
+      "youtube_title": "Gag bit introduction",
+      "channel": "FEI4Life",
+      "youtube_url": "https://www.youtube.com/watch?v=3RDSNO5Z-TE",
+      "embed_url": "https://www.youtube.com/embed/3RDSNO5Z-TE",
+      "thumbnail": "https://i.ytimg.com/vi/3RDSNO5Z-TE/hqdefault.jpg",
+      "site_titles": [
+        "Gag bit introduction"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AoiVkBBfgBY",
+      "youtube_title": "How To Bridle & Adjust The Bit & Curb Chain - Western Horsemanship",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=AoiVkBBfgBY",
+      "embed_url": "https://www.youtube.com/embed/AoiVkBBfgBY",
+      "thumbnail": "https://i.ytimg.com/vi/AoiVkBBfgBY/hqdefault.jpg",
+      "site_titles": [
+        "How To Bridle & Adjust The Bit & Curb Chain - Western Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "G6sM3YXe5IQ",
+      "youtube_title": "How BITS WORK: Gags, Snaffles & Their Actions",
+      "channel": "Panic-Free Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=G6sM3YXe5IQ",
+      "embed_url": "https://www.youtube.com/embed/G6sM3YXe5IQ",
+      "thumbnail": "https://i.ytimg.com/vi/G6sM3YXe5IQ/hqdefault.jpg",
+      "site_titles": [
+        "How BITS WORK: Gags, Snaffles & Their Actions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4DYimGKW6pg",
+      "youtube_title": "Dennis Moreland Tack: How to Clean and Condition Braided Rawhide Tack",
+      "channel": "Dennis Moreland Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=4DYimGKW6pg",
+      "embed_url": "https://www.youtube.com/embed/4DYimGKW6pg",
+      "thumbnail": "https://i.ytimg.com/vi/4DYimGKW6pg/hqdefault.jpg",
+      "site_titles": [
+        "Dennis Moreland Tack: How to Clean and Condition Braided Rawhide Tack"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BNUxI3_VbnU",
+      "youtube_title": "Tack cleaning for synthetic tack #syntheticsaddle #tackcleaning #horsetack",
+      "channel": "Professional Equine Grooms",
+      "youtube_url": "https://www.youtube.com/watch?v=BNUxI3_VbnU",
+      "embed_url": "https://www.youtube.com/embed/BNUxI3_VbnU",
+      "thumbnail": "https://i.ytimg.com/vi/BNUxI3_VbnU/hqdefault.jpg",
+      "site_titles": [
+        "Tack cleaning for synthetic tack"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DfkxKXxE_-8",
+      "youtube_title": "Dennis Moreland Tack: How to Measure for Cinch Length",
+      "channel": "Dennis Moreland Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=DfkxKXxE_-8",
+      "embed_url": "https://www.youtube.com/embed/DfkxKXxE_-8",
+      "thumbnail": "https://i.ytimg.com/vi/DfkxKXxE_-8/hqdefault.jpg",
+      "site_titles": [
+        "Dennis Moreland Tack: How to Measure for Cinch Length"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vu0NIV3CXNE",
+      "youtube_title": "Watch This Before You Buy A Horse Saddle!",
+      "channel": "Bits N Spurs",
+      "youtube_url": "https://www.youtube.com/watch?v=vu0NIV3CXNE",
+      "embed_url": "https://www.youtube.com/embed/vu0NIV3CXNE",
+      "thumbnail": "https://i.ytimg.com/vi/vu0NIV3CXNE/hqdefault.jpg",
+      "site_titles": [
+        "Watch This Before You Buy A Horse Saddle!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "baSLqwiHeks",
+      "youtube_title": "Choosing the Right Saddle Pad Size & Thickness | Western Saddle Pad Guide",
+      "channel": "Saddle Up, Western Saddle & Tack Shop",
+      "youtube_url": "https://www.youtube.com/watch?v=baSLqwiHeks",
+      "embed_url": "https://www.youtube.com/embed/baSLqwiHeks",
+      "thumbnail": "https://i.ytimg.com/vi/baSLqwiHeks/hqdefault.jpg",
+      "site_titles": [
+        "Choosing the Right Saddle Pad Size & Thickness | Western Saddle Pad Guide"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rtYxhV7Sfe0",
+      "youtube_title": "Horse Trailer Maintenance",
+      "channel": "University of Minnesota Equine Extension Program",
+      "youtube_url": "https://www.youtube.com/watch?v=rtYxhV7Sfe0",
+      "embed_url": "https://www.youtube.com/embed/rtYxhV7Sfe0",
+      "thumbnail": "https://i.ytimg.com/vi/rtYxhV7Sfe0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Trailer Maintenance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PI0lmF06ce8",
+      "youtube_title": "Precision Saddle Trees - Saddle Makers Secrets - Saddle Tree Repair - Bruce Cheaney Saddle Maker",
+      "channel": "Bruce Cheaney",
+      "youtube_url": "https://www.youtube.com/watch?v=PI0lmF06ce8",
+      "embed_url": "https://www.youtube.com/embed/PI0lmF06ce8",
+      "thumbnail": "https://i.ytimg.com/vi/PI0lmF06ce8/hqdefault.jpg",
+      "site_titles": [
+        "Precision Saddle Trees - Saddle Makers Secrets - Saddle Tree Repair - Bruce Cheaney Saddle Maker"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "utQ7nDjLavs",
+      "youtube_title": "How To Resize & Adjust a Rope Halter",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=utQ7nDjLavs",
+      "embed_url": "https://www.youtube.com/embed/utQ7nDjLavs",
+      "thumbnail": "https://i.ytimg.com/vi/utQ7nDjLavs/hqdefault.jpg",
+      "site_titles": [
+        "How To Resize & Adjust a Rope Halter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MVD16BSpwU0",
+      "youtube_title": "How to Fit a One Ear Headstall - Greg Grant Saddlery",
+      "channel": "Greg Grant Saddlery",
+      "youtube_url": "https://www.youtube.com/watch?v=MVD16BSpwU0",
+      "embed_url": "https://www.youtube.com/embed/MVD16BSpwU0",
+      "thumbnail": "https://i.ytimg.com/vi/MVD16BSpwU0/hqdefault.jpg",
+      "site_titles": [
+        "How to Fit a One Ear Headstall - Greg Grant Saddlery"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "obEMn44YqVA",
+      "youtube_title": "Lunging with the Cavesson or Bridle | What you need to know | wehorse",
+      "channel": "wehorse USA",
+      "youtube_url": "https://www.youtube.com/watch?v=obEMn44YqVA",
+      "embed_url": "https://www.youtube.com/embed/obEMn44YqVA",
+      "thumbnail": "https://i.ytimg.com/vi/obEMn44YqVA/hqdefault.jpg",
+      "site_titles": [
+        "Lunging with the Cavesson or Bridle | What you need to know | wehorse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v3FX3xc9POQ",
+      "youtube_title": "When to Use Spurs When Riding Your Horse",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=v3FX3xc9POQ",
+      "embed_url": "https://www.youtube.com/embed/v3FX3xc9POQ",
+      "thumbnail": "https://i.ytimg.com/vi/v3FX3xc9POQ/hqdefault.jpg",
+      "site_titles": [
+        "When to Use Spurs When Riding Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c-zXyXP7pG8",
+      "youtube_title": "What's the difference between Calf Roping Ropes?",
+      "channel": "NRS World - National Roper's Supply",
+      "youtube_url": "https://www.youtube.com/watch?v=c-zXyXP7pG8",
+      "embed_url": "https://www.youtube.com/embed/c-zXyXP7pG8",
+      "thumbnail": "https://i.ytimg.com/vi/c-zXyXP7pG8/hqdefault.jpg",
+      "site_titles": [
+        "What's the difference between Calf Roping Ropes?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qtuIAGPodFo",
+      "youtube_title": "How to find your Seat Size in a Western Saddle",
+      "channel": "Saddle Up, Western Saddle & Tack Shop",
+      "youtube_url": "https://www.youtube.com/watch?v=qtuIAGPodFo",
+      "embed_url": "https://www.youtube.com/embed/qtuIAGPodFo",
+      "thumbnail": "https://i.ytimg.com/vi/qtuIAGPodFo/hqdefault.jpg",
+      "site_titles": [
+        "How to find your Seat Size in a Western Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y-HDraPwNOc",
+      "youtube_title": "How to Choose The Right Bit Thickness",
+      "channel": "Agador's",
+      "youtube_url": "https://www.youtube.com/watch?v=Y-HDraPwNOc",
+      "embed_url": "https://www.youtube.com/embed/Y-HDraPwNOc",
+      "thumbnail": "https://i.ytimg.com/vi/Y-HDraPwNOc/hqdefault.jpg",
+      "site_titles": [
+        "How to Choose The Right Bit Thickness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CToUF-03bQQ",
+      "youtube_title": "How To Use the Pelham Bit with Ashley Schafer on Between The Reins",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=CToUF-03bQQ",
+      "embed_url": "https://www.youtube.com/embed/CToUF-03bQQ",
+      "thumbnail": "https://i.ytimg.com/vi/CToUF-03bQQ/hqdefault.jpg",
+      "site_titles": [
+        "How To Use the Pelham Bit with Ashley Schafer on Between The Reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VcVUmosFD14",
+      "youtube_title": "How To Measure Your Horse for Bit Size",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=VcVUmosFD14",
+      "embed_url": "https://www.youtube.com/embed/VcVUmosFD14",
+      "thumbnail": "https://i.ytimg.com/vi/VcVUmosFD14/hqdefault.jpg",
+      "site_titles": [
+        "How To Measure Your Horse for Bit Size"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BXh-28CcFxc",
+      "youtube_title": "Curb Bit Basics",
+      "channel": "SilenceSpeaksMore",
+      "youtube_url": "https://www.youtube.com/watch?v=BXh-28CcFxc",
+      "embed_url": "https://www.youtube.com/embed/BXh-28CcFxc",
+      "thumbnail": "https://i.ytimg.com/vi/BXh-28CcFxc/hqdefault.jpg",
+      "site_titles": [
+        "Curb Bit Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0mo2-egG8Hk",
+      "youtube_title": "HOW TO USE A GERMAN MARTINGALE",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=0mo2-egG8Hk",
+      "embed_url": "https://www.youtube.com/embed/0mo2-egG8Hk",
+      "thumbnail": "https://i.ytimg.com/vi/0mo2-egG8Hk/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO USE A GERMAN MARTINGALE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LY3yVC4l8K4",
+      "youtube_title": "Using the Henneke Horse Body Condition Scoring System",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=LY3yVC4l8K4",
+      "embed_url": "https://www.youtube.com/embed/LY3yVC4l8K4",
+      "thumbnail": "https://i.ytimg.com/vi/LY3yVC4l8K4/hqdefault.jpg",
+      "site_titles": [
+        "Using the Henneke Horse Body Condition Scoring System"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3n5dW5EfMjw",
+      "youtube_title": "Mullen Mouth Pelham",
+      "channel": "Premier Equine England",
+      "youtube_url": "https://www.youtube.com/watch?v=3n5dW5EfMjw",
+      "embed_url": "https://www.youtube.com/embed/3n5dW5EfMjw",
+      "thumbnail": "https://i.ytimg.com/vi/3n5dW5EfMjw/hqdefault.jpg",
+      "site_titles": [
+        "Mullen Mouth Pelham"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hw0QS1X92oA",
+      "youtube_title": "Fit a double bridle correctly with dressage rider and trainer Paul Hayler",
+      "channel": "YourHorseOnline",
+      "youtube_url": "https://www.youtube.com/watch?v=hw0QS1X92oA",
+      "embed_url": "https://www.youtube.com/embed/hw0QS1X92oA",
+      "thumbnail": "https://i.ytimg.com/vi/hw0QS1X92oA/hqdefault.jpg",
+      "site_titles": [
+        "Fit a double bridle correctly with dressage rider and trainer Paul Hayler"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hjB7paG1Wss",
+      "youtube_title": "Tack Talk | The Best Saddle Pads Under $350",
+      "channel": "Stonefield Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=hjB7paG1Wss",
+      "embed_url": "https://www.youtube.com/embed/hjB7paG1Wss",
+      "thumbnail": "https://i.ytimg.com/vi/hjB7paG1Wss/hqdefault.jpg",
+      "site_titles": [
+        "Tack Talk | The Best Saddle Pads Under $350"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "uuqDjP_jjRE",
+      "youtube_title": "My 4 Favorite Curb Bits… Plus 1 That’s VERY BAD For Your Horse!",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=uuqDjP_jjRE",
+      "embed_url": "https://www.youtube.com/embed/uuqDjP_jjRE",
+      "thumbnail": "https://i.ytimg.com/vi/uuqDjP_jjRE/hqdefault.jpg",
+      "site_titles": [
+        "My 4 Favorite Curb Bits… Plus 1 That’s VERY BAD For Your Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a29m-aM9JAA",
+      "youtube_title": "REALISTISCHE bitfitting met mijn gevoelige merrie || Sannicious X Horse and balance",
+      "channel": "sannicious",
+      "youtube_url": "https://www.youtube.com/watch?v=a29m-aM9JAA",
+      "embed_url": "https://www.youtube.com/embed/a29m-aM9JAA",
+      "thumbnail": "https://i.ytimg.com/vi/a29m-aM9JAA/hqdefault.jpg",
+      "site_titles": [
+        "REALISTISCHE bitfitting met mijn gevoelige merrie || Sannicious X Horse and balance"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fgckQvpjZ2w",
+      "youtube_title": "Myler Curb Bit: Adjusting a Curb Bit with a Western Headstall",
+      "channel": "Julie Goodnight",
+      "youtube_url": "https://www.youtube.com/watch?v=fgckQvpjZ2w",
+      "embed_url": "https://www.youtube.com/embed/fgckQvpjZ2w",
+      "thumbnail": "https://i.ytimg.com/vi/fgckQvpjZ2w/hqdefault.jpg",
+      "site_titles": [
+        "Myler Curb Bit: Adjusting a Curb Bit with a Western Headstall"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3T07kEXrxuY",
+      "youtube_title": "Reinsman's 152 Three-Piece with Copper Roller",
+      "channel": "Reinsman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=3T07kEXrxuY",
+      "embed_url": "https://www.youtube.com/embed/3T07kEXrxuY",
+      "thumbnail": "https://i.ytimg.com/vi/3T07kEXrxuY/hqdefault.jpg",
+      "site_titles": [
+        "Reinsman's 152 Three-Piece with Copper Roller"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OH4dWf99pcQ",
+      "youtube_title": "Training horses with DRAW REINS",
+      "channel": "Deanna Corby",
+      "youtube_url": "https://www.youtube.com/watch?v=OH4dWf99pcQ",
+      "embed_url": "https://www.youtube.com/embed/OH4dWf99pcQ",
+      "thumbnail": "https://i.ytimg.com/vi/OH4dWf99pcQ/hqdefault.jpg",
+      "site_titles": [
+        "Training horses with DRAW REINS"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k_wwnF29MwM",
+      "youtube_title": "Running Martingale",
+      "channel": "The Pony Club",
+      "youtube_url": "https://www.youtube.com/watch?v=k_wwnF29MwM",
+      "embed_url": "https://www.youtube.com/embed/k_wwnF29MwM",
+      "thumbnail": "https://i.ytimg.com/vi/k_wwnF29MwM/hqdefault.jpg",
+      "site_titles": [
+        "Running Martingale"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xsJQX9RX7jo",
+      "youtube_title": "Setting Up My Mecate Reins",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=xsJQX9RX7jo",
+      "embed_url": "https://www.youtube.com/embed/xsJQX9RX7jo",
+      "thumbnail": "https://i.ytimg.com/vi/xsJQX9RX7jo/hqdefault.jpg",
+      "site_titles": [
+        "Setting Up My Mecate Reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mjnamuvLNT8",
+      "youtube_title": "Copper Roller Mouth Dee Bit",
+      "channel": "Premier Equine England",
+      "youtube_url": "https://www.youtube.com/watch?v=mjnamuvLNT8",
+      "embed_url": "https://www.youtube.com/embed/mjnamuvLNT8",
+      "thumbnail": "https://i.ytimg.com/vi/mjnamuvLNT8/hqdefault.jpg",
+      "site_titles": [
+        "Copper Roller Mouth Dee Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3JaXSrVAPlQ",
+      "youtube_title": "Breast Collars SEQ",
+      "channel": "Colorado Saddlery",
+      "youtube_url": "https://www.youtube.com/watch?v=3JaXSrVAPlQ",
+      "embed_url": "https://www.youtube.com/embed/3JaXSrVAPlQ",
+      "thumbnail": "https://i.ytimg.com/vi/3JaXSrVAPlQ/hqdefault.jpg",
+      "site_titles": [
+        "Breast Collars SEQ"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tNFQgAredJY",
+      "youtube_title": "INTRODUCING THE SURCINGLE TO MY YOUNG HORSE *Training Video*",
+      "channel": "Free Spirit Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=tNFQgAredJY",
+      "embed_url": "https://www.youtube.com/embed/tNFQgAredJY",
+      "thumbnail": "https://i.ytimg.com/vi/tNFQgAredJY/hqdefault.jpg",
+      "site_titles": [
+        "INTRODUCING THE SURCINGLE TO MY YOUNG HORSE *Training Video*"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kzH2g-fPnTw",
+      "youtube_title": "Bit of the Week: The Pelham",
+      "channel": "BitBankAustralia",
+      "youtube_url": "https://www.youtube.com/watch?v=kzH2g-fPnTw",
+      "embed_url": "https://www.youtube.com/embed/kzH2g-fPnTw",
+      "thumbnail": "https://i.ytimg.com/vi/kzH2g-fPnTw/hqdefault.jpg",
+      "site_titles": [
+        "Bit of the Week: The Pelham"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q2il_n3EQs0",
+      "youtube_title": "How to Use a Bosal Hackamore with Richard Winters",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=q2il_n3EQs0",
+      "embed_url": "https://www.youtube.com/embed/q2il_n3EQs0",
+      "thumbnail": "https://i.ytimg.com/vi/q2il_n3EQs0/hqdefault.jpg",
+      "site_titles": [
+        "How to Use a Bosal Hackamore with Richard Winters"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZehWi7zJMPI",
+      "youtube_title": "5 Signs Your Saddle Doesn't Fit You",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=ZehWi7zJMPI",
+      "embed_url": "https://www.youtube.com/embed/ZehWi7zJMPI",
+      "thumbnail": "https://i.ytimg.com/vi/ZehWi7zJMPI/hqdefault.jpg",
+      "site_titles": [
+        "5 Signs Your Saddle Doesn't Fit You"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TF8u4QKb0S0",
+      "youtube_title": "TIPS FOR NEW HORSE OWNERS: Essential Beginners Guide",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=TF8u4QKb0S0",
+      "embed_url": "https://www.youtube.com/embed/TF8u4QKb0S0",
+      "thumbnail": "https://i.ytimg.com/vi/TF8u4QKb0S0/hqdefault.jpg",
+      "site_titles": [
+        "TIPS FOR NEW HORSE OWNERS: Essential Beginners Guide"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Mve4K33cwbg",
+      "youtube_title": "What horse grooming brushes should you get?",
+      "channel": "RB Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Mve4K33cwbg",
+      "embed_url": "https://www.youtube.com/embed/Mve4K33cwbg",
+      "thumbnail": "https://i.ytimg.com/vi/Mve4K33cwbg/hqdefault.jpg",
+      "site_titles": [
+        "What horse grooming brushes should you get?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AEdV0JkLIyk",
+      "youtube_title": "How To Fit A Cavesson",
+      "channel": "Tara Osborn",
+      "youtube_url": "https://www.youtube.com/watch?v=AEdV0JkLIyk",
+      "embed_url": "https://www.youtube.com/embed/AEdV0JkLIyk",
+      "thumbnail": "https://i.ytimg.com/vi/AEdV0JkLIyk/hqdefault.jpg",
+      "site_titles": [
+        "How To Fit A Cavesson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5TUX8d-QyTg",
+      "youtube_title": "Riding Exercises with a D Ring Snaffle",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=5TUX8d-QyTg",
+      "embed_url": "https://www.youtube.com/embed/5TUX8d-QyTg",
+      "thumbnail": "https://i.ytimg.com/vi/5TUX8d-QyTg/hqdefault.jpg",
+      "site_titles": [
+        "Riding Exercises with a D Ring Snaffle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VPRcw8jfMAE",
+      "youtube_title": "Correction Bits and Single vs Double Jointed Mouthpieces",
+      "channel": "Dauphin Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=VPRcw8jfMAE",
+      "embed_url": "https://www.youtube.com/embed/VPRcw8jfMAE",
+      "thumbnail": "https://i.ytimg.com/vi/VPRcw8jfMAE/hqdefault.jpg",
+      "site_titles": [
+        "Correction Bits and Single vs Double Jointed Mouthpieces"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v6d9AQ7GYXU",
+      "youtube_title": "Tune Up Training - Using a Full Cheek Snaffle - Exercises that focus on flexibly",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=v6d9AQ7GYXU",
+      "embed_url": "https://www.youtube.com/embed/v6d9AQ7GYXU",
+      "thumbnail": "https://i.ytimg.com/vi/v6d9AQ7GYXU/hqdefault.jpg",
+      "site_titles": [
+        "Tune Up Training - Using a Full Cheek Snaffle - Exercises that focus on flexibly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-5jAWouqYEg",
+      "youtube_title": "Snaffle Bit vs Gag Bit: Which Is Better",
+      "channel": "CerotaMulin",
+      "youtube_url": "https://www.youtube.com/watch?v=-5jAWouqYEg",
+      "embed_url": "https://www.youtube.com/embed/-5jAWouqYEg",
+      "thumbnail": "https://i.ytimg.com/vi/-5jAWouqYEg/hqdefault.jpg",
+      "site_titles": [
+        "Snaffle Bit vs Gag Bit: Which Is Better"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kIWs53fIzyo",
+      "youtube_title": "Hanging Styx in the Las Cruces Half Breed…and Other Business",
+      "channel": "Pat & Deb Puckett",
+      "youtube_url": "https://www.youtube.com/watch?v=kIWs53fIzyo",
+      "embed_url": "https://www.youtube.com/embed/kIWs53fIzyo",
+      "thumbnail": "https://i.ytimg.com/vi/kIWs53fIzyo/hqdefault.jpg",
+      "site_titles": [
+        "Hanging Styx in the Las Cruces Half Breed…and Other Business"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "V1-RiYgiCGA",
+      "youtube_title": "What Is: Pelham Bits by Myler Bits",
+      "channel": "Action Rider Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=V1-RiYgiCGA",
+      "embed_url": "https://www.youtube.com/embed/V1-RiYgiCGA",
+      "thumbnail": "https://i.ytimg.com/vi/V1-RiYgiCGA/hqdefault.jpg",
+      "site_titles": [
+        "What Is: Pelham Bits by Myler Bits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OadDuJGr66Y",
+      "youtube_title": "Types Bitless Sidepulls, Hackamores, and Bosals",
+      "channel": "Riding Warehouse",
+      "youtube_url": "https://www.youtube.com/watch?v=OadDuJGr66Y",
+      "embed_url": "https://www.youtube.com/embed/OadDuJGr66Y",
+      "thumbnail": "https://i.ytimg.com/vi/OadDuJGr66Y/hqdefault.jpg",
+      "site_titles": [
+        "Types Bitless Sidepulls, Hackamores, and Bosals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4AMqhhdfSJA",
+      "youtube_title": "Egg Butt Snaffle Bit Comparison and Testing - Single jointed vs 3 piece Mullen",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=4AMqhhdfSJA",
+      "embed_url": "https://www.youtube.com/embed/4AMqhhdfSJA",
+      "thumbnail": "https://i.ytimg.com/vi/4AMqhhdfSJA/hqdefault.jpg",
+      "site_titles": [
+        "Egg Butt Snaffle Bit Comparison and Testing - Single jointed vs 3 piece Mullen"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EvqFo_wWAPk",
+      "youtube_title": "About Bits:  Snaffle vs. Curb (Episode 103) - Herm Gailey",
+      "channel": "Herm Gailey: A Lifetime with Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=EvqFo_wWAPk",
+      "embed_url": "https://www.youtube.com/embed/EvqFo_wWAPk",
+      "thumbnail": "https://i.ytimg.com/vi/EvqFo_wWAPk/hqdefault.jpg",
+      "site_titles": [
+        "About Bits: Snaffle vs. Curb (Episode 103) - Herm Gailey"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xySwDlnHJbk",
+      "youtube_title": "Nasty Bit - twisted wire single joint snaffle",
+      "channel": "BTG Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=xySwDlnHJbk",
+      "embed_url": "https://www.youtube.com/embed/xySwDlnHJbk",
+      "thumbnail": "https://i.ytimg.com/vi/xySwDlnHJbk/hqdefault.jpg",
+      "site_titles": [
+        "Nasty Bit - twisted wire single joint snaffle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9f_3xjDy0UE",
+      "youtube_title": "What is a True Warbridle?",
+      "channel": "A Davis HORSEMANSHIP As An ART",
+      "youtube_url": "https://www.youtube.com/watch?v=9f_3xjDy0UE",
+      "embed_url": "https://www.youtube.com/embed/9f_3xjDy0UE",
+      "thumbnail": "https://i.ytimg.com/vi/9f_3xjDy0UE/hqdefault.jpg",
+      "site_titles": [
+        "What is a True Warbridle?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hPWEUYh64jU",
+      "youtube_title": "Myler MB32 Level 2-3 Eggbutt Snaffle",
+      "channel": "BitBankAustralia",
+      "youtube_url": "https://www.youtube.com/watch?v=hPWEUYh64jU",
+      "embed_url": "https://www.youtube.com/embed/hPWEUYh64jU",
+      "thumbnail": "https://i.ytimg.com/vi/hPWEUYh64jU/hqdefault.jpg",
+      "site_titles": [
+        "Myler MB32 Level 2-3 Eggbutt Snaffle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c7PGPXI9Kog",
+      "youtube_title": "KK Ultra Loose Ring Snaffle - Laura Tomlinson",
+      "channel": "Herm. Sprenger",
+      "youtube_url": "https://www.youtube.com/watch?v=c7PGPXI9Kog",
+      "embed_url": "https://www.youtube.com/embed/c7PGPXI9Kog",
+      "thumbnail": "https://i.ytimg.com/vi/c7PGPXI9Kog/hqdefault.jpg",
+      "site_titles": [
+        "KK Ultra Loose Ring Snaffle - Laura Tomlinson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "i3FPDaGy7Mw",
+      "youtube_title": "Comparing the Shank and Snaffle Bits - Terry Myers",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=i3FPDaGy7Mw",
+      "embed_url": "https://www.youtube.com/embed/i3FPDaGy7Mw",
+      "thumbnail": "https://i.ytimg.com/vi/i3FPDaGy7Mw/hqdefault.jpg",
+      "site_titles": [
+        "Comparing the Shank and Snaffle Bits - Terry Myers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-2OLnfGkW-c",
+      "youtube_title": "Different Bit Shank Lengths",
+      "channel": "Jim Edwards Bits",
+      "youtube_url": "https://www.youtube.com/watch?v=-2OLnfGkW-c",
+      "embed_url": "https://www.youtube.com/embed/-2OLnfGkW-c",
+      "thumbnail": "https://i.ytimg.com/vi/-2OLnfGkW-c/hqdefault.jpg",
+      "site_titles": [
+        "Different Bit Shank Lengths"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-yQHs03P424",
+      "youtube_title": "Dressage with Catherine Haddad Showing Curb Vs Snaffle",
+      "channel": "Dressage Today",
+      "youtube_url": "https://www.youtube.com/watch?v=-yQHs03P424",
+      "embed_url": "https://www.youtube.com/embed/-yQHs03P424",
+      "thumbnail": "https://i.ytimg.com/vi/-yQHs03P424/hqdefault.jpg",
+      "site_titles": [
+        "Dressage with Catherine Haddad Showing Curb Vs Snaffle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LzH-eJkp0v8",
+      "youtube_title": "Fitting a double bridle. When to use a double bridle. Why to use a double bridle",
+      "channel": "Strathorn Farm Stables",
+      "youtube_url": "https://www.youtube.com/watch?v=LzH-eJkp0v8",
+      "embed_url": "https://www.youtube.com/embed/LzH-eJkp0v8",
+      "thumbnail": "https://i.ytimg.com/vi/LzH-eJkp0v8/hqdefault.jpg",
+      "site_titles": [
+        "Fitting a double bridle. When to use a double bridle. Why to use a double bridle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U1toEa6v9XA",
+      "youtube_title": "Protect Your Horse | Polo Wraps, Knee Boots & More Explained | Tip of the Week!",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=U1toEa6v9XA",
+      "embed_url": "https://www.youtube.com/embed/U1toEa6v9XA",
+      "thumbnail": "https://i.ytimg.com/vi/U1toEa6v9XA/hqdefault.jpg",
+      "site_titles": [
+        "Protect Your Horse | Polo Wraps, Knee Boots & More Explained | Tip of the Week!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HfCtdMO8sU4",
+      "youtube_title": "Do Horses Need Blankets? Complete Guide to Winter Horse Care & Blanketing",
+      "channel": "TheScholarlyEquestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=HfCtdMO8sU4",
+      "embed_url": "https://www.youtube.com/embed/HfCtdMO8sU4",
+      "thumbnail": "https://i.ytimg.com/vi/HfCtdMO8sU4/hqdefault.jpg",
+      "site_titles": [
+        "Do Horses Need Blankets? Complete Guide to Winter Horse Care & Blanketing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dHeWwTUfQPk",
+      "youtube_title": "STOP! Check This Before You Buy a Used Saddle 🛑🐴",
+      "channel": "Saddle Up, Western Saddle & Tack Shop",
+      "youtube_url": "https://www.youtube.com/watch?v=dHeWwTUfQPk",
+      "embed_url": "https://www.youtube.com/embed/dHeWwTUfQPk",
+      "thumbnail": "https://i.ytimg.com/vi/dHeWwTUfQPk/hqdefault.jpg",
+      "site_titles": [
+        "STOP! Check This Before You Buy a Used Saddle 🛑🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TSTFaqCAdAc",
+      "youtube_title": "How to choose a bit for a strong horse - The Pelham bit",
+      "channel": "manabom55",
+      "youtube_url": "https://www.youtube.com/watch?v=TSTFaqCAdAc",
+      "embed_url": "https://www.youtube.com/embed/TSTFaqCAdAc",
+      "thumbnail": "https://i.ytimg.com/vi/TSTFaqCAdAc/hqdefault.jpg",
+      "site_titles": [
+        "How to choose a bit for a strong horse - The Pelham bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8COGmqTXqAI",
+      "youtube_title": "Choosing the Right Heel Rope, with 2x World Champ Patrick Smith",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=8COGmqTXqAI",
+      "embed_url": "https://www.youtube.com/embed/8COGmqTXqAI",
+      "thumbnail": "https://i.ytimg.com/vi/8COGmqTXqAI/hqdefault.jpg",
+      "site_titles": [
+        "Choosing the Right Heel Rope, with 2x World Champ Patrick Smith"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FRHzFJQ0dUY",
+      "youtube_title": "Choosing the Right Horse Bit - What is the Best Bit For You and Your Horse?",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=FRHzFJQ0dUY",
+      "embed_url": "https://www.youtube.com/embed/FRHzFJQ0dUY",
+      "thumbnail": "https://i.ytimg.com/vi/FRHzFJQ0dUY/hqdefault.jpg",
+      "site_titles": [
+        "Choosing the Right Horse Bit - What is the Best Bit For You and Your Horse?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vOMhdBAQRPE",
+      "youtube_title": "What happens in your horse's saddle fitting appointment?",
+      "channel": "A Day In The Life Of A Saddle Fitter",
+      "youtube_url": "https://www.youtube.com/watch?v=vOMhdBAQRPE",
+      "embed_url": "https://www.youtube.com/embed/vOMhdBAQRPE",
+      "thumbnail": "https://i.ytimg.com/vi/vOMhdBAQRPE/hqdefault.jpg",
+      "site_titles": [
+        "What happens in your horse's saddle fitting appointment?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4-vkYD4kXBs",
+      "youtube_title": "Ask the Experts: Choosing a Snaffle Bit for a Young Horse",
+      "channel": "USDFORG",
+      "youtube_url": "https://www.youtube.com/watch?v=4-vkYD4kXBs",
+      "embed_url": "https://www.youtube.com/embed/4-vkYD4kXBs",
+      "thumbnail": "https://i.ytimg.com/vi/4-vkYD4kXBs/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Experts: Choosing a Snaffle Bit for a Young Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iB4QOL60QE8",
+      "youtube_title": "Basic Principles of the Hackamore (Bosal) - Horse Training",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=iB4QOL60QE8",
+      "embed_url": "https://www.youtube.com/embed/iB4QOL60QE8",
+      "thumbnail": "https://i.ytimg.com/vi/iB4QOL60QE8/hqdefault.jpg",
+      "site_titles": [
+        "Basic Principles of the Hackamore (Bosal) - Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rLQWSJmY7UU",
+      "youtube_title": "Mannhattan Storm Bitting Harness Jan 10 2015 wlmp",
+      "channel": "BlackWatchWarmbloods",
+      "youtube_url": "https://www.youtube.com/watch?v=rLQWSJmY7UU",
+      "embed_url": "https://www.youtube.com/embed/rLQWSJmY7UU",
+      "thumbnail": "https://i.ytimg.com/vi/rLQWSJmY7UU/hqdefault.jpg",
+      "site_titles": [
+        "Mannhattan Storm Bitting Harness Jan 10 2015 wlmp"
       ],
       "sections": [
         "qa"
