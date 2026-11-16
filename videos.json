@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2609,
+  "count": 2631,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -79,9 +79,6 @@
         "colt-starting/first-60-days-under-saddle/index.html",
         "groundwork/first-saddling-colt-starting/index.html",
         "qa/groundwork-longing/index.html",
-        "qa/horse-care/my-horse-started-weaving-its-pretty-bad-so-quickly-what-is-the-cause-stress/index.html",
-        "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
-        "qa/horse-care/now-my-cribber-is-starting-to-suck-wind-and-the-leather-choker-isnt-working-what/index.html",
         "qa/training-principles/how-do-you-introduce-a-young-horse-to-the-saddle-pad-and-saddle-for-the-first-ti/index.html",
         "qa/training-principles/how-do-you-know-when-a-young-horse-is-ready-to-advance-to-the-next-stage-of-trai/index.html",
         "qa/training-principles/index.html",
@@ -1125,7 +1122,6 @@
       "reference_count": 3,
       "pages": [
         "problem-horse/cinchy-girthy-horse/index.html",
-        "qa/horse-care/how-do-i-know-if-my-horse-has-ulcers/index.html",
         "qa/horse-care/index.html"
       ]
     },
@@ -44170,6 +44166,358 @@
       "thumbnail": "https://i.ytimg.com/vi/it-Aa2RLcQg/hqdefault.jpg",
       "site_titles": [
         "Desensitizing your Horse: Episode 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tG9WqmUAKO4",
+      "youtube_title": "Caring For Horses In The Heat",
+      "channel": "Del's Best Of America By Horseback",
+      "youtube_url": "https://www.youtube.com/watch?v=tG9WqmUAKO4",
+      "embed_url": "https://www.youtube.com/embed/tG9WqmUAKO4",
+      "thumbnail": "https://i.ytimg.com/vi/tG9WqmUAKO4/hqdefault.jpg",
+      "site_titles": [
+        "Caring For Horses In The Heat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "55uu3ZZ-r-0",
+      "youtube_title": "EQUINE STOMACH ULCERS - What every owner needs to know!",
+      "channel": "In The Vet Truck",
+      "youtube_url": "https://www.youtube.com/watch?v=55uu3ZZ-r-0",
+      "embed_url": "https://www.youtube.com/embed/55uu3ZZ-r-0",
+      "thumbnail": "https://i.ytimg.com/vi/55uu3ZZ-r-0/hqdefault.jpg",
+      "site_titles": [
+        "EQUINE STOMACH ULCERS - What every owner needs to know!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ASuVgZqBSgU",
+      "youtube_title": "How to Prevent Colic: Colic Series #1",
+      "channel": "Springhill Equine Veterinary Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=ASuVgZqBSgU",
+      "embed_url": "https://www.youtube.com/embed/ASuVgZqBSgU",
+      "thumbnail": "https://i.ytimg.com/vi/ASuVgZqBSgU/hqdefault.jpg",
+      "site_titles": [
+        "How to Prevent Colic: Colic Series"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "azccCmRtFBI",
+      "youtube_title": "Horse Colic Signs and Symptoms",
+      "channel": "AuburnVetMed",
+      "youtube_url": "https://www.youtube.com/watch?v=azccCmRtFBI",
+      "embed_url": "https://www.youtube.com/embed/azccCmRtFBI",
+      "thumbnail": "https://i.ytimg.com/vi/azccCmRtFBI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Colic Signs and Symptoms"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TSZeH8sj8PQ",
+      "youtube_title": "INTRODUCING A NEW HORSE TO THE HERD // Versatile Horsemanship",
+      "channel": "Versatile Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=TSZeH8sj8PQ",
+      "embed_url": "https://www.youtube.com/embed/TSZeH8sj8PQ",
+      "thumbnail": "https://i.ytimg.com/vi/TSZeH8sj8PQ/hqdefault.jpg",
+      "site_titles": [
+        "INTRODUCING A NEW HORSE TO THE HERD // Versatile Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hAHxCCk3yMg",
+      "youtube_title": "Ensuring your foal does not become pushy, while keeping the connection.",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=hAHxCCk3yMg",
+      "embed_url": "https://www.youtube.com/embed/hAHxCCk3yMg",
+      "thumbnail": "https://i.ytimg.com/vi/hAHxCCk3yMg/hqdefault.jpg",
+      "site_titles": [
+        "Ensuring your foal does not become pushy, while keeping the connection."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CS8NL8uCmqA",
+      "youtube_title": "Water is key when taking care of horses in extreme heat",
+      "channel": "KHQA",
+      "youtube_url": "https://www.youtube.com/watch?v=CS8NL8uCmqA",
+      "embed_url": "https://www.youtube.com/embed/CS8NL8uCmqA",
+      "thumbnail": "https://i.ytimg.com/vi/CS8NL8uCmqA/hqdefault.jpg",
+      "site_titles": [
+        "Water is key when taking care of horses in extreme heat"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kx9u8b-cJQw",
+      "youtube_title": "How to put a blanket on a horse for the first time",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=kx9u8b-cJQw",
+      "embed_url": "https://www.youtube.com/embed/kx9u8b-cJQw",
+      "thumbnail": "https://i.ytimg.com/vi/kx9u8b-cJQw/hqdefault.jpg",
+      "site_titles": [
+        "How to put a blanket on a horse for the first time"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "D_l_dcPW-sI",
+      "youtube_title": "Your horse's trimming and shoeing cycle - how often should the farrier visit?",
+      "channel": "Professional Equine Grooms",
+      "youtube_url": "https://www.youtube.com/watch?v=D_l_dcPW-sI",
+      "embed_url": "https://www.youtube.com/embed/D_l_dcPW-sI",
+      "thumbnail": "https://i.ytimg.com/vi/D_l_dcPW-sI/hqdefault.jpg",
+      "site_titles": [
+        "Your horse's trimming and shoeing cycle - how often should the farrier visit?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r6RfS2v4bW8",
+      "youtube_title": "Wet Weather Tips if your Horses are standing in Mud",
+      "channel": "Honda Rebel Diaries With Jo",
+      "youtube_url": "https://www.youtube.com/watch?v=r6RfS2v4bW8",
+      "embed_url": "https://www.youtube.com/embed/r6RfS2v4bW8",
+      "thumbnail": "https://i.ytimg.com/vi/r6RfS2v4bW8/hqdefault.jpg",
+      "site_titles": [
+        "Wet Weather Tips if your Horses are standing in Mud"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dv9Yxy6pQ1U",
+      "youtube_title": "Horse Weaving and Stall Walking and how to solve it with Mike Hughes, Auburn California",
+      "channel": "Mike Hughes",
+      "youtube_url": "https://www.youtube.com/watch?v=dv9Yxy6pQ1U",
+      "embed_url": "https://www.youtube.com/embed/dv9Yxy6pQ1U",
+      "thumbnail": "https://i.ytimg.com/vi/dv9Yxy6pQ1U/hqdefault.jpg",
+      "site_titles": [
+        "Horse Weaving and Stall Walking and how to solve it with Mike Hughes, Auburn California"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Y2znMgrLJck",
+      "youtube_title": "My horse chews wood...What do I do?",
+      "channel": "Handy Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=Y2znMgrLJck",
+      "embed_url": "https://www.youtube.com/embed/Y2znMgrLJck",
+      "thumbnail": "https://i.ytimg.com/vi/Y2znMgrLJck/hqdefault.jpg",
+      "site_titles": [
+        "My horse chews wood...What do I do?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "19fIiOhr6qs",
+      "youtube_title": "Aluminum Horseshoes for a Show Hunter",
+      "channel": "PNW Farrier",
+      "youtube_url": "https://www.youtube.com/watch?v=19fIiOhr6qs",
+      "embed_url": "https://www.youtube.com/embed/19fIiOhr6qs",
+      "thumbnail": "https://i.ytimg.com/vi/19fIiOhr6qs/hqdefault.jpg",
+      "site_titles": [
+        "Aluminum Horseshoes for a Show Hunter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B5_7pEe2zcI",
+      "youtube_title": "How can you tell if your horse has dental pain?",
+      "channel": "Moore Equine Dental Services",
+      "youtube_url": "https://www.youtube.com/watch?v=B5_7pEe2zcI",
+      "embed_url": "https://www.youtube.com/embed/B5_7pEe2zcI",
+      "thumbnail": "https://i.ytimg.com/vi/B5_7pEe2zcI/hqdefault.jpg",
+      "site_titles": [
+        "How can you tell if your horse has dental pain?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DcPpx2-066s",
+      "youtube_title": "Myth BUSTED : All Wolf Teeth Need to be Pulled",
+      "channel": "Irongate Equine Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=DcPpx2-066s",
+      "embed_url": "https://www.youtube.com/embed/DcPpx2-066s",
+      "thumbnail": "https://i.ytimg.com/vi/DcPpx2-066s/hqdefault.jpg",
+      "site_titles": [
+        "Myth BUSTED : All Wolf Teeth Need to be Pulled"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BykJ5BCf0gY",
+      "youtube_title": "How to Build Your Horse's Topline with Groundwork in 3 Months CASE STUDY and EXERCISES",
+      "channel": "Connection Training",
+      "youtube_url": "https://www.youtube.com/watch?v=BykJ5BCf0gY",
+      "embed_url": "https://www.youtube.com/embed/BykJ5BCf0gY",
+      "thumbnail": "https://i.ytimg.com/vi/BykJ5BCf0gY/hqdefault.jpg",
+      "site_titles": [
+        "How to Build Your Horse's Topline with Groundwork in 3 Months CASE STUDY and EXERCISES"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v_w9WxKROQE",
+      "youtube_title": "HORSES/Fun Educational- How to Correct Stall Kicking",
+      "channel": "outfoxedfarm",
+      "youtube_url": "https://www.youtube.com/watch?v=v_w9WxKROQE",
+      "embed_url": "https://www.youtube.com/embed/v_w9WxKROQE",
+      "thumbnail": "https://i.ytimg.com/vi/v_w9WxKROQE/hqdefault.jpg",
+      "site_titles": [
+        "HORSES/Fun Educational- How to Correct Stall Kicking"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zvkOXa7sMZM",
+      "youtube_title": "Tom Craig - Parasite Control in Horses - Seasonal Deworming Schedules",
+      "channel": "RanchTV at Texas A&M AgriLife Extension",
+      "youtube_url": "https://www.youtube.com/watch?v=zvkOXa7sMZM",
+      "embed_url": "https://www.youtube.com/embed/zvkOXa7sMZM",
+      "thumbnail": "https://i.ytimg.com/vi/zvkOXa7sMZM/hqdefault.jpg",
+      "site_titles": [
+        "Tom Craig - Parasite Control in Horses - Seasonal Deworming Schedules"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q9hi_lxBp-Q",
+      "youtube_title": "How to teach your horse to be polite when grazing in hand",
+      "channel": "Gabi Neurohr - Understanding Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=Q9hi_lxBp-Q",
+      "embed_url": "https://www.youtube.com/embed/Q9hi_lxBp-Q",
+      "thumbnail": "https://i.ytimg.com/vi/Q9hi_lxBp-Q/hqdefault.jpg",
+      "site_titles": [
+        "How to teach your horse to be polite when grazing in hand"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QajNnPR4Mgg",
+      "youtube_title": "Ask the Vet - When should a horse be vaccinated?",
+      "channel": "SmartPak",
+      "youtube_url": "https://www.youtube.com/watch?v=QajNnPR4Mgg",
+      "embed_url": "https://www.youtube.com/embed/QajNnPR4Mgg",
+      "thumbnail": "https://i.ytimg.com/vi/QajNnPR4Mgg/hqdefault.jpg",
+      "site_titles": [
+        "Ask the Vet - When should a horse be vaccinated?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_Zlj0e_FFs8",
+      "youtube_title": "EP 23: Bruxism in Horses: Understanding Grinding, Clenching & Gnashing | Pet Care Partners",
+      "channel": "Pet Care Partners",
+      "youtube_url": "https://www.youtube.com/watch?v=_Zlj0e_FFs8",
+      "embed_url": "https://www.youtube.com/embed/_Zlj0e_FFs8",
+      "thumbnail": "https://i.ytimg.com/vi/_Zlj0e_FFs8/hqdefault.jpg",
+      "site_titles": [
+        "EP 23: Bruxism in Horses: Understanding Grinding, Clenching & Gnashing | Pet Care Partners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1hJB1nC59Kk",
+      "youtube_title": "Helping a horse with very thin soles",
+      "channel": "Chris Niclas, RJF, CLS",
+      "youtube_url": "https://www.youtube.com/watch?v=1hJB1nC59Kk",
+      "embed_url": "https://www.youtube.com/embed/1hJB1nC59Kk",
+      "thumbnail": "https://i.ytimg.com/vi/1hJB1nC59Kk/hqdefault.jpg",
+      "site_titles": [
+        "Helping a horse with very thin soles"
       ],
       "sections": [
         "qa"
