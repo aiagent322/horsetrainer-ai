@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 649,
+  "count": 712,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -738,25 +738,13 @@
       ],
       "reference_count": 19,
       "pages": [
-        "qa/team-roping/how-do-you-evaluate-a-rope-horse-before-buying/index.html",
         "qa/team-roping/how-do-you-know-if-a-rope-horse-is-finished/index.html",
         "qa/team-roping/how-do-you-match-a-rope-horse-to-a-riders-level/index.html",
-        "qa/team-roping/how-do-you-teach-a-rope-horse-to-stay-collected-at-speed/index.html",
         "qa/team-roping/how-fit-should-a-rope-horse-be-before-competing-at-jackpots/index.html",
-        "qa/team-roping/in-team-roping-how-important-is-speed-for-the-horse/index.html",
         "qa/team-roping/should-you-buy-a-young-rope-horse-prospect-or-a-finished-rope-horse/index.html",
-        "qa/team-roping/what-are-the-most-important-qualities-in-a-good-rope-horse/index.html",
         "qa/team-roping/what-does-a-finished-rope-horse-need-to-know/index.html",
-        "qa/team-roping/what-does-broke-enough-to-rope-on-really-mean/index.html",
         "qa/team-roping/what-is-the-difference-between-a-green-rope-horse-and-a-finished-rope-horse/index.html",
-        "qa/team-roping/what-kind-of-conditioning-does-a-rope-horse-need/index.html",
-        "qa/team-roping/what-makes-a-rope-horse-worth-more-money/index.html",
-        "qa/team-roping/what-questions-should-you-ask-before-buying-a-rope-horse/index.html",
-        "qa/team-roping/what-should-a-rope-horse-know-before-entering-competition/index.html",
-        "qa/team-roping/what-should-a-rope-horse-know-before-hauling-to-jackpots/index.html",
-        "qa/team-roping/what-should-you-watch-for-when-trying-a-rope-horse/index.html",
-        "qa/team-roping/what-type-of-bit-are-most-team-ropers-using/index.html",
-        "qa/team-roping/when-is-a-rope-horse-ready-for-jackpots/index.html"
+        "qa/team-roping/what-kind-of-conditioning-does-a-rope-horse-need/index.html"
       ]
     },
     {
@@ -788,7 +776,6 @@
         "qa/horsemanship/index.html",
         "qa/hunter-jumper/how-do-you-manage-a-hot-or-difficult-horse-in-jumper-competition/index.html",
         "qa/team-roping/how-do-you-fix-a-hot-rope-horse/index.html",
-        "qa/team-roping/how-do-you-haul-a-rope-horse-without-making-it-nervous/index.html",
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
         "qa/trailer-loading/how-do-i-train-a-horse-to-load-in-a-trailer-calmly-and-reliably/index.html",
         "qa/training-principles-psychology/index.html",
@@ -1045,15 +1032,11 @@
       ],
       "reference_count": 14,
       "pages": [
-        "qa/team-roping/can-too-much-sled-work-hurt-a-rope-horses-training/index.html",
         "qa/team-roping/how-do-you-build-timing-in-a-rope-horse/index.html",
-        "qa/team-roping/how-do-you-keep-a-horse-quiet-when-dragging-a-log-or-dummy/index.html",
         "qa/team-roping/how-do-you-leg-up-a-rope-horse-after-time-off/index.html",
         "qa/team-roping/how-do-you-rebuild-confidence-in-a-rope-horse/index.html",
         "qa/team-roping/how-do-you-use-slow-work-to-build-a-better-rope-horse/index.html",
         "qa/team-roping/how-much-cattle-work-is-too-much-for-a-young-rope-horse/index.html",
-        "qa/team-roping/should-you-rope-every-steer-when-training-a-rope-horse/index.html",
-        "qa/team-roping/should-you-use-slow-cattle-when-starting-a-rope-horse/index.html",
         "qa/team-roping/what-are-good-drills-for-a-young-rope-horse-before-live-runs/index.html",
         "qa/team-roping/what-makes-a-rope-horse-safe-for-an-amateur-rider/index.html",
         "qa/team-roping/what-makes-a-rope-horse-suitable-for-a-beginner-roper/index.html",
@@ -1175,12 +1158,8 @@
         "qa/team-roping/how-do-you-keep-a-rope-horse-confident/index.html",
         "qa/team-roping/how-do-you-keep-a-rope-horse-honest-without-micromanaging/index.html",
         "qa/team-roping/how-do-you-keep-a-rope-horse-sharp-during-a-busy-competition-season/index.html",
-        "qa/team-roping/how-do-you-keep-a-rope-horse-sharp-without-overtraining/index.html",
         "qa/team-roping/how-do-you-know-if-a-rope-horse-is-getting-sour/index.html",
         "qa/team-roping/how-do-you-know-when-a-rope-horse-needs-a-break/index.html",
-        "qa/team-roping/how-do-you-teach-a-rope-horse-to-hold-position-without-constant-pulling/index.html",
-        "qa/team-roping/how-many-runs-is-too-many-for-a-rope-horse-in-a-session/index.html",
-        "qa/team-roping/how-much-should-a-rider-help-a-rope-horse-during-a-run/index.html",
         "qa/team-roping/what-mental-qualities-does-a-good-rope-horse-need/index.html"
       ]
     },
@@ -1392,11 +1371,7 @@
       "reference_count": 10,
       "pages": [
         "qa/reining/how-do-i-train-a-horse-to-back-up-correctly-in-a-reining-pattern/index.html",
-        "qa/team-roping/does-a-rope-horse-need-a-sliding-stop/index.html",
         "qa/team-roping/how-do-i-train-a-rope-horse-to-have-a-reliable-stop/index.html",
-        "qa/team-roping/how-do-you-keep-a-rope-horse-from-diving-into-the-stop/index.html",
-        "qa/team-roping/how-do-you-teach-a-heel-horse-to-stay-straight-in-the-stop/index.html",
-        "qa/team-roping/how-do-you-teach-a-rope-horse-to-stop-straight/index.html",
         "qa/team-roping/what-kind-of-stop-does-a-rope-horse-need/index.html",
         "qa/working-cow-horse/how-do-i-develop-a-deep-correct-stop-in-my-cow-horse-that-holds-up-under-the-pre/index.html",
         "qa/working-cow-horse/how-do-i-fix-a-horse-that-has-lost-its-stop-in-cattle-work/index.html",
@@ -1428,14 +1403,7 @@
       "reference_count": 10,
       "pages": [
         "qa/team-roping/how-do-you-calm-a-rope-horse-that-anticipates/index.html",
-        "qa/team-roping/how-do-you-keep-a-rope-horse-from-dreading-the-box/index.html",
-        "qa/team-roping/how-do-you-keep-a-rope-horse-quiet-at-a-jackpot/index.html",
-        "qa/team-roping/how-do-you-stop-a-rope-horse-from-leaving-the-box-early/index.html",
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-wait-on-the-rider/index.html",
-        "qa/team-roping/how-should-a-head-horse-leave-the-box/index.html",
-        "qa/team-roping/should-a-rope-horse-leave-the-box-flat-hard-or-controlled/index.html",
-        "qa/team-roping/what-are-the-keys-coming-out-of-the-box-for-a-header-in-team-roping-how-fast-sho/index.html",
-        "qa/team-roping/what-tips-do-you-have-for-quieting-your-horse-down-in-the-box/index.html",
         "qa/team-roping/why-does-my-rope-horse-fire-too-hard-when-the-steer-leaves/index.html"
       ]
     },
@@ -1558,11 +1526,8 @@
         "qa/team-roping/how-do-you-keep-a-rope-horse-from-anticipating-the-start/index.html",
         "qa/team-roping/how-do-you-keep-a-rope-horse-from-becoming-automatic-in-a-bad-way/index.html",
         "qa/team-roping/how-do-you-prepare-a-rope-horse-for-its-first-jackpot/index.html",
-        "qa/team-roping/how-do-you-teach-a-rope-horse-to-score-cattle-correctly/index.html",
-        "qa/team-roping/how-often-should-you-score-cattle-on-a-rope-horse/index.html",
         "qa/team-roping/what-does-it-mean-for-a-rope-horse-to-score-good/index.html",
-        "qa/team-roping/what-does-scoring-cattle-mean-in-team-roping/index.html",
-        "qa/team-roping/what-is-the-right-way-to-practice-box-work-without-souring-a-horse/index.html"
+        "qa/team-roping/what-does-scoring-cattle-mean-in-team-roping/index.html"
       ]
     },
     {
@@ -1618,10 +1583,8 @@
       ],
       "reference_count": 8,
       "pages": [
-        "qa/team-roping/how-do-i-get-my-rope-horse-to-stand-quietly-in-the-box/index.html",
         "qa/team-roping/how-do-you-keep-a-rope-horse-from-ducking-left-or-right-leaving-the-box/index.html",
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-stand-quiet-in-the-box/index.html",
-        "qa/team-roping/how-do-you-warm-up-a-rope-horse-before-competing/index.html",
         "qa/team-roping/how-long-should-a-rope-horse-be-able-to-stand-in-the-box/index.html",
         "qa/team-roping/what-makes-a-great-box-horse-and-how-is-that-training-developed/index.html",
         "qa/team-roping/what-should-a-rope-horse-know-in-the-box/index.html",
@@ -1650,14 +1613,11 @@
       ],
       "reference_count": 8,
       "pages": [
-        "qa/team-roping/how-do-i-teach-a-rope-horse-to-rate-correctly-behind-or-beside-the-steer/index.html",
         "qa/team-roping/how-do-you-keep-a-head-horse-from-shouldering-into-the-steer/index.html",
         "qa/team-roping/how-do-you-stop-a-rope-horse-from-overrunning-cattle/index.html",
         "qa/team-roping/how-do-you-teach-a-head-horse-to-rate-without-quitting/index.html",
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-rate-cattle/index.html",
-        "qa/team-roping/how-much-rate-should-a-head-horse-have/index.html",
-        "qa/team-roping/what-causes-a-head-horse-to-drop-its-shoulder-in-the-turn/index.html",
-        "qa/team-roping/what-does-rate-mean-in-a-rope-horse/index.html"
+        "qa/team-roping/how-much-rate-should-a-head-horse-have/index.html"
       ]
     },
     {
@@ -1853,7 +1813,6 @@
       "reference_count": 6,
       "pages": [
         "qa/team-roping/how-do-you-keep-a-head-horse-from-fading-away-from-the-steer/index.html",
-        "qa/team-roping/how-do-you-start-tracking-cattle-on-a-young-rope-horse/index.html",
         "qa/team-roping/how-do-you-teach-a-head-horse-to-run-to-the-hip/index.html",
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-read-cattle/index.html",
         "qa/team-roping/how-do-you-teach-a-rope-horse-to-track-cattle-quietly/index.html",
@@ -1881,11 +1840,7 @@
       "reference_count": 6,
       "pages": [
         "qa/team-roping/how-do-you-keep-a-head-horse-from-ducking-out-after-the-catch/index.html",
-        "qa/team-roping/how-do-you-teach-a-head-horse-to-face-after-the-catch/index.html",
-        "qa/team-roping/what-does-a-good-head-horse-need-to-know/index.html",
-        "qa/team-roping/what-makes-a-good-heading-horse/index.html",
-        "qa/team-roping/what-should-a-head-horse-do-after-the-catch/index.html",
-        "qa/team-roping/why-wont-my-head-horse-face-after-the-run/index.html"
+        "qa/team-roping/what-makes-a-good-heading-horse/index.html"
       ]
     },
     {
@@ -1908,8 +1863,6 @@
       "reference_count": 5,
       "pages": [
         "qa/team-roping/how-do-you-keep-a-heel-horse-from-stopping-early/index.html",
-        "qa/team-roping/how-do-you-teach-a-heel-horse-to-rate-the-steer/index.html",
-        "qa/team-roping/how-do-you-teach-a-heel-horse-to-stop-correctly/index.html",
         "qa/team-roping/how-hard-should-a-heel-horse-stop/index.html",
         "qa/team-roping/what-makes-a-good-heeling-horse/index.html"
       ]
@@ -1934,10 +1887,8 @@
       "reference_count": 5,
       "pages": [
         "qa/team-roping/how-do-headers-and-heelers-work-together-as-a-team/index.html",
-        "qa/team-roping/how-do-you-get-a-head-horse-to-finish-the-corner/index.html",
         "qa/team-roping/how-do-you-teach-a-head-horse-to-turn-correctly-after-the-catch/index.html",
-        "qa/team-roping/what-is-the-correct-technique-for-the-headers-turn-after-catching-the-steer/index.html",
-        "qa/team-roping/what-is-the-proper-body-position-for-a-head-horse-during-the-corner/index.html"
+        "qa/team-roping/what-is-the-correct-technique-for-the-headers-turn-after-catching-the-steer/index.html"
       ]
     },
     {
@@ -2180,12 +2131,7 @@
         "qa"
       ],
       "reference_count": 4,
-      "pages": [
-        "qa/team-roping/how-do-i-develop-a-reliable-dally-as-a-header-or-heeler/index.html",
-        "qa/team-roping/what-equipment-do-team-ropers-need/index.html",
-        "qa/team-roping/what-is-team-roping/index.html",
-        "qa/team-roping/what-is-the-ustrc-numbering-system/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "yh4c6qWEdnk",
@@ -2371,8 +2317,7 @@
       "pages": [
         "qa/team-roping/what-causes-a-rope-horse-to-rear-or-panic-in-the-box/index.html",
         "qa/team-roping/why-does-a-rope-horse-get-nervous-in-the-box/index.html",
-        "qa/team-roping/why-does-my-rope-horse-get-anxious-in-the-roping-pen/index.html",
-        "qa/team-roping/why-does-my-rope-horse-hesitate-leaving-the-box/index.html"
+        "qa/team-roping/why-does-my-rope-horse-get-anxious-in-the-roping-pen/index.html"
       ]
     },
     {
@@ -2466,9 +2411,7 @@
       ],
       "reference_count": 4,
       "pages": [
-        "qa/team-roping/how-do-i-get-started-in-team-roping/index.html",
         "qa/team-roping/how-much-handle-should-a-rope-horse-have-before-being-introduced-to-the-roping-p/index.html",
-        "qa/team-roping/what-foundation-does-a-young-horse-need-before-starting-rope-horse-training/index.html",
         "qa/team-roping/what-should-a-horse-know-before-tracking-cattle/index.html"
       ]
     },
@@ -2802,8 +2745,6 @@
       ],
       "reference_count": 3,
       "pages": [
-        "qa/team-roping/as-a-heeler-how-do-i-read-the-steers-stride-to-time-my-loop-delivery/index.html",
-        "qa/team-roping/how-does-poor-rider-timing-affect-a-rope-horse/index.html",
         "qa/team-roping/what-are-the-keys-to-a-heeler-developing-a-consistent-heel-catch/index.html"
       ]
     },
@@ -2825,7 +2766,6 @@
       "reference_count": 3,
       "pages": [
         "qa/team-roping/what-does-a-good-heel-horse-need-to-know/index.html",
-        "qa/team-roping/what-makes-a-great-heel-horse/index.html",
         "qa/team-roping/what-should-a-heel-horse-do-after-the-rope-is-thrown/index.html"
       ]
     },
@@ -3131,9 +3071,7 @@
       ],
       "reference_count": 3,
       "pages": [
-        "qa/team-roping/how-do-you-keep-a-heel-horse-from-running-past-the-steer/index.html",
-        "qa/team-roping/how-do-you-teach-a-heel-horse-to-stay-in-position/index.html",
-        "qa/team-roping/why-does-my-rope-horse-get-too-close-to-the-steer/index.html"
+        "qa/team-roping/how-do-you-keep-a-heel-horse-from-running-past-the-steer/index.html"
       ]
     },
     {
@@ -3351,8 +3289,7 @@
       "reference_count": 3,
       "pages": [
         "qa/team-roping/how-do-you-use-a-roping-sled-to-train-a-rope-horse/index.html",
-        "qa/team-roping/should-you-start-a-rope-horse-on-a-dummy/index.html",
-        "qa/team-roping/what-does-the-sled-teach-a-young-rope-horse/index.html"
+        "qa/team-roping/should-you-start-a-rope-horse-on-a-dummy/index.html"
       ]
     },
     {
@@ -3663,7 +3600,6 @@
       ],
       "reference_count": 2,
       "pages": [
-        "qa/team-roping/how-do-i-improve-my-loop-delivery-as-a-header-to-consistently-catch-both-horns/index.html",
         "qa/team-roping/how-does-a-header-position-their-horse-to-set-up-the-best-throw/index.html"
       ]
     },
@@ -5009,8 +4945,7 @@
       ],
       "reference_count": 2,
       "pages": [
-        "qa/team-roping/what-does-it-mean-for-a-heel-horse-to-read-the-corner/index.html",
-        "qa/team-roping/why-does-my-heel-horse-kick-out-or-swap-leads-in-the-corner/index.html"
+        "qa/team-roping/what-does-it-mean-for-a-heel-horse-to-read-the-corner/index.html"
       ]
     },
     {
@@ -13370,6 +13305,1014 @@
       "pages": [
         "famous-trainers/matt-gaines.html"
       ]
+    },
+    {
+      "id": "Sw_I-80HYjc",
+      "youtube_title": "Timing on the goat and cattle with Cesar De La Cruz",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=Sw_I-80HYjc",
+      "embed_url": "https://www.youtube.com/embed/Sw_I-80HYjc",
+      "thumbnail": "https://i.ytimg.com/vi/Sw_I-80HYjc/hqdefault.jpg",
+      "site_titles": [
+        "Timing on the goat and cattle with Cesar De La Cruz"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IaIwnkHtAvQ",
+      "youtube_title": "How to get your calf horse to stop harder!",
+      "channel": "Rodeo Gym",
+      "youtube_url": "https://www.youtube.com/watch?v=IaIwnkHtAvQ",
+      "embed_url": "https://www.youtube.com/embed/IaIwnkHtAvQ",
+      "thumbnail": "https://i.ytimg.com/vi/IaIwnkHtAvQ/hqdefault.jpg",
+      "site_titles": [
+        "How to get your calf horse to stop harder!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_loXjRwTRGk",
+      "youtube_title": "Injecting the SI Joints: Helping a Sore Rope Horse Perform Again",
+      "channel": "Beasley Equine Clinic",
+      "youtube_url": "https://www.youtube.com/watch?v=_loXjRwTRGk",
+      "embed_url": "https://www.youtube.com/embed/_loXjRwTRGk",
+      "thumbnail": "https://i.ytimg.com/vi/_loXjRwTRGk/hqdefault.jpg",
+      "site_titles": [
+        "Injecting the SI Joints: Helping a Sore Rope Horse Perform Again"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fJ-U0VpqOlA",
+      "youtube_title": "Allen Bach   Smarty Dally Drill",
+      "channel": "Smarty Rodeo",
+      "youtube_url": "https://www.youtube.com/watch?v=fJ-U0VpqOlA",
+      "embed_url": "https://www.youtube.com/embed/fJ-U0VpqOlA",
+      "thumbnail": "https://i.ytimg.com/vi/fJ-U0VpqOlA/hqdefault.jpg",
+      "site_titles": [
+        "Allen Bach Smarty Dally Drill"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5_xTT_MtL4w",
+      "youtube_title": "Box Basics: Teaching Your Head Horse to Stand Square and Leave Strong",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=5_xTT_MtL4w",
+      "embed_url": "https://www.youtube.com/embed/5_xTT_MtL4w",
+      "thumbnail": "https://i.ytimg.com/vi/5_xTT_MtL4w/hqdefault.jpg",
+      "site_titles": [
+        "Box Basics: Teaching Your Head Horse to Stand Square and Leave Strong"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Hb4Ky63tZag",
+      "youtube_title": "NEW to TEAM ROPING? // Watch this FIRST!",
+      "channel": "Barrett Houser",
+      "youtube_url": "https://www.youtube.com/watch?v=Hb4Ky63tZag",
+      "embed_url": "https://www.youtube.com/embed/Hb4Ky63tZag",
+      "thumbnail": "https://i.ytimg.com/vi/Hb4Ky63tZag/hqdefault.jpg",
+      "site_titles": [
+        "NEW to TEAM ROPING? // Watch this FIRST!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QqeTqFHONtM",
+      "youtube_title": "Avoid Splitting Horns",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=QqeTqFHONtM",
+      "embed_url": "https://www.youtube.com/embed/QqeTqFHONtM",
+      "thumbnail": "https://i.ytimg.com/vi/QqeTqFHONtM/hqdefault.jpg",
+      "site_titles": [
+        "Avoid Splitting Horns"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I_dDWVpYq0I",
+      "youtube_title": "Running and Rating to the Steer",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=I_dDWVpYq0I",
+      "embed_url": "https://www.youtube.com/embed/I_dDWVpYq0I",
+      "thumbnail": "https://i.ytimg.com/vi/I_dDWVpYq0I/hqdefault.jpg",
+      "site_titles": [
+        "Running and Rating to the Steer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YAf8KR-0AWI",
+      "youtube_title": "Horse Shopping 101",
+      "channel": "Pat & Deb Puckett",
+      "youtube_url": "https://www.youtube.com/watch?v=YAf8KR-0AWI",
+      "embed_url": "https://www.youtube.com/embed/YAf8KR-0AWI",
+      "thumbnail": "https://i.ytimg.com/vi/YAf8KR-0AWI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Shopping 101"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cK5_PzSpQHw",
+      "youtube_title": "Rope Horse Futurity Tip: Ride Your Corner Correctly",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=cK5_PzSpQHw",
+      "embed_url": "https://www.youtube.com/embed/cK5_PzSpQHw",
+      "thumbnail": "https://i.ytimg.com/vi/cK5_PzSpQHw/hqdefault.jpg",
+      "site_titles": [
+        "Rope Horse Futurity Tip: Ride Your Corner Correctly"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5yXR2MY71I0",
+      "youtube_title": "Trailering Safely- Do’s and Don’ts",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=5yXR2MY71I0",
+      "embed_url": "https://www.youtube.com/embed/5yXR2MY71I0",
+      "thumbnail": "https://i.ytimg.com/vi/5yXR2MY71I0/hqdefault.jpg",
+      "site_titles": [
+        "Trailering Safely- Do’s and Don’ts"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TQip3M8586Y",
+      "youtube_title": "How To Start 2yr Old Cow Horses On Cattle.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=TQip3M8586Y",
+      "embed_url": "https://www.youtube.com/embed/TQip3M8586Y",
+      "thumbnail": "https://i.ytimg.com/vi/TQip3M8586Y/hqdefault.jpg",
+      "site_titles": [
+        "How To Start 2yr Old Cow Horses On Cattle."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-DsWGQXvAFE",
+      "youtube_title": "Trevor Brazile Working a Tie-Down Roping Horse on the Log",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=-DsWGQXvAFE",
+      "embed_url": "https://www.youtube.com/embed/-DsWGQXvAFE",
+      "thumbnail": "https://i.ytimg.com/vi/-DsWGQXvAFE/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile Working a Tie-Down Roping Horse on the Log"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Dd0SAv8wyw4",
+      "youtube_title": "POSITION AND STOP- Calf Roping; Tuf Kaf Instructional Video w/ James Barton Performance Horses-",
+      "channel": "Tuf Kaf",
+      "youtube_url": "https://www.youtube.com/watch?v=Dd0SAv8wyw4",
+      "embed_url": "https://www.youtube.com/embed/Dd0SAv8wyw4",
+      "thumbnail": "https://i.ytimg.com/vi/Dd0SAv8wyw4/hqdefault.jpg",
+      "site_titles": [
+        "POSITION AND STOP- Calf Roping; Tuf Kaf Instructional Video w/ James Barton Performance Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Af6C-ArKdZM",
+      "youtube_title": "Team Roping Horse Anxiety!",
+      "channel": "Barrett Houser",
+      "youtube_url": "https://www.youtube.com/watch?v=Af6C-ArKdZM",
+      "embed_url": "https://www.youtube.com/embed/Af6C-ArKdZM",
+      "thumbnail": "https://i.ytimg.com/vi/Af6C-ArKdZM/hqdefault.jpg",
+      "site_titles": [
+        "Team Roping Horse Anxiety!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5DlNyyTw-1M",
+      "youtube_title": "HOW TO STOP A HORSE PULLING ON THE REINS 🐴 🤔",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=5DlNyyTw-1M",
+      "embed_url": "https://www.youtube.com/embed/5DlNyyTw-1M",
+      "thumbnail": "https://i.ytimg.com/vi/5DlNyyTw-1M/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO STOP A HORSE PULLING ON THE REINS 🐴 🤔"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "E_ZfGEra3NY",
+      "youtube_title": "Snap Chat Q and A Marty Becker working with head horses that are hot in the box",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=E_ZfGEra3NY",
+      "embed_url": "https://www.youtube.com/embed/E_ZfGEra3NY",
+      "thumbnail": "https://i.ytimg.com/vi/E_ZfGEra3NY/hqdefault.jpg",
+      "site_titles": [
+        "Snap Chat Q and A Marty Becker working with head horses that are hot in the box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_eXF7p3WkBY",
+      "youtube_title": "End on a High Note: Why You Should Quit Your Horse in the Box",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=_eXF7p3WkBY",
+      "embed_url": "https://www.youtube.com/embed/_eXF7p3WkBY",
+      "thumbnail": "https://i.ytimg.com/vi/_eXF7p3WkBY/hqdefault.jpg",
+      "site_titles": [
+        "End on a High Note: Why You Should Quit Your Horse in the Box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nCLELmjYegs",
+      "youtube_title": "Todd Crawford  How to Keep Your Horse Soft In The Face",
+      "channel": "Bluebonnet",
+      "youtube_url": "https://www.youtube.com/watch?v=nCLELmjYegs",
+      "embed_url": "https://www.youtube.com/embed/nCLELmjYegs",
+      "thumbnail": "https://i.ytimg.com/vi/nCLELmjYegs/hqdefault.jpg",
+      "site_titles": [
+        "Todd Crawford How to Keep Your Horse Soft In The Face"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7NMuwYG-g4M",
+      "youtube_title": "Patrick Smith: Letting Your Heel Horse Work",
+      "channel": "Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=7NMuwYG-g4M",
+      "embed_url": "https://www.youtube.com/embed/7NMuwYG-g4M",
+      "thumbnail": "https://i.ytimg.com/vi/7NMuwYG-g4M/hqdefault.jpg",
+      "site_titles": [
+        "Patrick Smith: Letting Your Heel Horse Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "isIl_FVtA_g",
+      "youtube_title": "Teach your horse to track a cow",
+      "channel": "Notorious Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=isIl_FVtA_g",
+      "embed_url": "https://www.youtube.com/embed/isIl_FVtA_g",
+      "thumbnail": "https://i.ytimg.com/vi/isIl_FVtA_g/hqdefault.jpg",
+      "site_titles": [
+        "Teach your horse to track a cow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NlZK1yrcQSw",
+      "youtube_title": "Getting a Heading Horse Through a Traditional Rope Barrier",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=NlZK1yrcQSw",
+      "embed_url": "https://www.youtube.com/embed/NlZK1yrcQSw",
+      "thumbnail": "https://i.ytimg.com/vi/NlZK1yrcQSw/hqdefault.jpg",
+      "site_titles": [
+        "Getting a Heading Horse Through a Traditional Rope Barrier"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZlG3n59-hrY",
+      "youtube_title": "Stop Your Horse Pulling On The Reins",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=ZlG3n59-hrY",
+      "embed_url": "https://www.youtube.com/embed/ZlG3n59-hrY",
+      "thumbnail": "https://i.ytimg.com/vi/ZlG3n59-hrY/hqdefault.jpg",
+      "site_titles": [
+        "Stop Your Horse Pulling On The Reins"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "C4SlywGBiso",
+      "youtube_title": "Trevor Brazile Talks About Teaching A Head Horse To Face",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=C4SlywGBiso",
+      "embed_url": "https://www.youtube.com/embed/C4SlywGBiso",
+      "thumbnail": "https://i.ytimg.com/vi/C4SlywGBiso/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile Talks About Teaching A Head Horse To Face"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qdcx0eWdFdY",
+      "youtube_title": "Slowing a Heel Horse Down and Softening Them Up",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=qdcx0eWdFdY",
+      "embed_url": "https://www.youtube.com/embed/qdcx0eWdFdY",
+      "thumbnail": "https://i.ytimg.com/vi/qdcx0eWdFdY/hqdefault.jpg",
+      "site_titles": [
+        "Slowing a Heel Horse Down and Softening Them Up"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JvGKStQQ8BQ",
+      "youtube_title": "Heel Horse Position and Bridling Up with Ross Ashford",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=JvGKStQQ8BQ",
+      "embed_url": "https://www.youtube.com/embed/JvGKStQQ8BQ",
+      "thumbnail": "https://i.ytimg.com/vi/JvGKStQQ8BQ/hqdefault.jpg",
+      "site_titles": [
+        "Heel Horse Position and Bridling Up with Ross Ashford"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rm_RjF8kDE8",
+      "youtube_title": "Helping a Heel Horse Find His Stop Again Continued Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=rm_RjF8kDE8",
+      "embed_url": "https://www.youtube.com/embed/rm_RjF8kDE8",
+      "thumbnail": "https://i.ytimg.com/vi/rm_RjF8kDE8/hqdefault.jpg",
+      "site_titles": [
+        "Helping a Heel Horse Find His Stop Again Continued Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OpsUetWWnns",
+      "youtube_title": "Building Hindquarter Control",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=OpsUetWWnns",
+      "embed_url": "https://www.youtube.com/embed/OpsUetWWnns",
+      "thumbnail": "https://i.ytimg.com/vi/OpsUetWWnns/hqdefault.jpg",
+      "site_titles": [
+        "Building Hindquarter Control"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B6QFIKM8YUA",
+      "youtube_title": "Shoulder Control With Your Horse Through the Corner",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=B6QFIKM8YUA",
+      "embed_url": "https://www.youtube.com/embed/B6QFIKM8YUA",
+      "thumbnail": "https://i.ytimg.com/vi/B6QFIKM8YUA/hqdefault.jpg",
+      "site_titles": [
+        "Shoulder Control With Your Horse Through the Corner"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6G_fAXCuyzM",
+      "youtube_title": "Team Roping Scoring and Angle of Your Start",
+      "channel": "Speed Williams",
+      "youtube_url": "https://www.youtube.com/watch?v=6G_fAXCuyzM",
+      "embed_url": "https://www.youtube.com/embed/6G_fAXCuyzM",
+      "thumbnail": "https://i.ytimg.com/vi/6G_fAXCuyzM/hqdefault.jpg",
+      "site_titles": [
+        "Team Roping Scoring and Angle of Your Start"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HFBAJWoRtQ0",
+      "youtube_title": "Team Roping Heeling Tips - Slow and Collected Machine Work",
+      "channel": "X Factor Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=HFBAJWoRtQ0",
+      "embed_url": "https://www.youtube.com/embed/HFBAJWoRtQ0",
+      "thumbnail": "https://i.ytimg.com/vi/HFBAJWoRtQ0/hqdefault.jpg",
+      "site_titles": [
+        "Team Roping Heeling Tips - Slow and Collected Machine Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vnoF2DDZuhw",
+      "youtube_title": "Brian Bell – How to Teach the Stop",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=vnoF2DDZuhw",
+      "embed_url": "https://www.youtube.com/embed/vnoF2DDZuhw",
+      "thumbnail": "https://i.ytimg.com/vi/vnoF2DDZuhw/hqdefault.jpg",
+      "site_titles": [
+        "Brian Bell – How to Teach the Stop"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AXZifbowxAA",
+      "youtube_title": "Roping.com: Trevor Brazile's Warm-Up Routine",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=AXZifbowxAA",
+      "embed_url": "https://www.youtube.com/embed/AXZifbowxAA",
+      "thumbnail": "https://i.ytimg.com/vi/AXZifbowxAA/hqdefault.jpg",
+      "site_titles": [
+        "Roping.com: Trevor Brazile's Warm-Up Routine"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HGp2botnc3A",
+      "youtube_title": "Clay O'Brien Cooper - How to Start Your Timing",
+      "channel": "Roping",
+      "youtube_url": "https://www.youtube.com/watch?v=HGp2botnc3A",
+      "embed_url": "https://www.youtube.com/embed/HGp2botnc3A",
+      "thumbnail": "https://i.ytimg.com/vi/HGp2botnc3A/hqdefault.jpg",
+      "site_titles": [
+        "Clay O'Brien Cooper - How to Start Your Timing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3FHXQ-Qnwfk",
+      "youtube_title": "How To Make Your Horse Move Sideways (Lateral Movement Training)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=3FHXQ-Qnwfk",
+      "embed_url": "https://www.youtube.com/embed/3FHXQ-Qnwfk",
+      "thumbnail": "https://i.ytimg.com/vi/3FHXQ-Qnwfk/hqdefault.jpg",
+      "site_titles": [
+        "How To Make Your Horse Move Sideways (Lateral Movement Training)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Co9af3hzIhg",
+      "youtube_title": "Scoring and Box Position for Trevor Brazile's Tie-Down Roping Horses",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=Co9af3hzIhg",
+      "embed_url": "https://www.youtube.com/embed/Co9af3hzIhg",
+      "thumbnail": "https://i.ytimg.com/vi/Co9af3hzIhg/hqdefault.jpg",
+      "site_titles": [
+        "Scoring and Box Position for Trevor Brazile's Tie-Down Roping Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OVZ3SgNdkl0",
+      "youtube_title": "HSE Quick Tips #1 Leaving the Heading Box",
+      "channel": "Tyler Kaess",
+      "youtube_url": "https://www.youtube.com/watch?v=OVZ3SgNdkl0",
+      "embed_url": "https://www.youtube.com/embed/OVZ3SgNdkl0",
+      "thumbnail": "https://i.ytimg.com/vi/OVZ3SgNdkl0/hqdefault.jpg",
+      "site_titles": [
+        "HSE Quick Tips Leaving the Heading Box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fs29mItgfMA",
+      "youtube_title": "Ask Trevor Brazile: How can I speed up my run?",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=fs29mItgfMA",
+      "embed_url": "https://www.youtube.com/embed/fs29mItgfMA",
+      "thumbnail": "https://i.ytimg.com/vi/fs29mItgfMA/hqdefault.jpg",
+      "site_titles": [
+        "Ask Trevor Brazile: How can I speed up my run?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c9bmQMNJPtE",
+      "youtube_title": "TEAM ROPING TIPS: How to Leave the Box",
+      "channel": "Barrett Houser",
+      "youtube_url": "https://www.youtube.com/watch?v=c9bmQMNJPtE",
+      "embed_url": "https://www.youtube.com/embed/c9bmQMNJPtE",
+      "thumbnail": "https://i.ytimg.com/vi/c9bmQMNJPtE/hqdefault.jpg",
+      "site_titles": [
+        "TEAM ROPING TIPS: How to Leave the Box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FgJ-0FQZSSM",
+      "youtube_title": "When NOT to Throw Your Rope",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=FgJ-0FQZSSM",
+      "embed_url": "https://www.youtube.com/embed/FgJ-0FQZSSM",
+      "thumbnail": "https://i.ytimg.com/vi/FgJ-0FQZSSM/hqdefault.jpg",
+      "site_titles": [
+        "When NOT to Throw Your Rope"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cv4fS5b0ULk",
+      "youtube_title": "Trevor Brazile and Miles Baker Explain the Importance of Slow Practice Cattle",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=cv4fS5b0ULk",
+      "embed_url": "https://www.youtube.com/embed/cv4fS5b0ULk",
+      "thumbnail": "https://i.ytimg.com/vi/cv4fS5b0ULk/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile and Miles Baker Explain the Importance of Slow Practice Cattle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WEGxfDLCIa8",
+      "youtube_title": "Header box Smarty Practice for Team Roping - Allen Bach Team Roping Tips",
+      "channel": "Team Roping Events",
+      "youtube_url": "https://www.youtube.com/watch?v=WEGxfDLCIa8",
+      "embed_url": "https://www.youtube.com/embed/WEGxfDLCIa8",
+      "thumbnail": "https://i.ytimg.com/vi/WEGxfDLCIa8/hqdefault.jpg",
+      "site_titles": [
+        "Header box Smarty Practice for Team Roping - Allen Bach Team Roping Tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UaqDFkfvJRA",
+      "youtube_title": "What makes a great rope horse? Coleman Proctor, Tanner Tomlinson and Patrick Smith discuss",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=UaqDFkfvJRA",
+      "embed_url": "https://www.youtube.com/embed/UaqDFkfvJRA",
+      "thumbnail": "https://i.ytimg.com/vi/UaqDFkfvJRA/hqdefault.jpg",
+      "site_titles": [
+        "What makes a great rope horse? Coleman Proctor, Tanner Tomlinson and Patrick Smith discuss"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6rzQZjDpwDw",
+      "youtube_title": "Cody Mora Head Horse Fundamentals",
+      "channel": "PeterQBrownDesign",
+      "youtube_url": "https://www.youtube.com/watch?v=6rzQZjDpwDw",
+      "embed_url": "https://www.youtube.com/embed/6rzQZjDpwDw",
+      "thumbnail": "https://i.ytimg.com/vi/6rzQZjDpwDw/hqdefault.jpg",
+      "site_titles": [
+        "Cody Mora Head Horse Fundamentals"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B3MpJPDxEZ4",
+      "youtube_title": "Preparing a Horse to Rope",
+      "channel": "Pat & Deb Puckett",
+      "youtube_url": "https://www.youtube.com/watch?v=B3MpJPDxEZ4",
+      "embed_url": "https://www.youtube.com/embed/B3MpJPDxEZ4",
+      "thumbnail": "https://i.ytimg.com/vi/B3MpJPDxEZ4/hqdefault.jpg",
+      "site_titles": [
+        "Preparing a Horse to Rope"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GdvC7umr2q0",
+      "youtube_title": "Horse Tack for a Team Roper - Brett McCarroll team roping tips",
+      "channel": "Team Roping Events",
+      "youtube_url": "https://www.youtube.com/watch?v=GdvC7umr2q0",
+      "embed_url": "https://www.youtube.com/embed/GdvC7umr2q0",
+      "thumbnail": "https://i.ytimg.com/vi/GdvC7umr2q0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Tack for a Team Roper - Brett McCarroll team roping tips"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3IAkQpD_1BM",
+      "youtube_title": "How To Prep a Colt To Rope Part 1",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=3IAkQpD_1BM",
+      "embed_url": "https://www.youtube.com/embed/3IAkQpD_1BM",
+      "thumbnail": "https://i.ytimg.com/vi/3IAkQpD_1BM/hqdefault.jpg",
+      "site_titles": [
+        "How To Prep a Colt To Rope Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "B0waUk9WOVM",
+      "youtube_title": "101 Team Roping",
+      "channel": "Reno Rodeo",
+      "youtube_url": "https://www.youtube.com/watch?v=B0waUk9WOVM",
+      "embed_url": "https://www.youtube.com/embed/B0waUk9WOVM",
+      "thumbnail": "https://i.ytimg.com/vi/B0waUk9WOVM/hqdefault.jpg",
+      "site_titles": [
+        "101 Team Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3TpKbUYMdPQ",
+      "youtube_title": "Team Roping Box Practice",
+      "channel": "Team Roping Events",
+      "youtube_url": "https://www.youtube.com/watch?v=3TpKbUYMdPQ",
+      "embed_url": "https://www.youtube.com/embed/3TpKbUYMdPQ",
+      "thumbnail": "https://i.ytimg.com/vi/3TpKbUYMdPQ/hqdefault.jpg",
+      "site_titles": [
+        "Team Roping Box Practice"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XvlM5W3tvL4",
+      "youtube_title": "What is a TEAM ROPING number?",
+      "channel": "Barrett Houser",
+      "youtube_url": "https://www.youtube.com/watch?v=XvlM5W3tvL4",
+      "embed_url": "https://www.youtube.com/embed/XvlM5W3tvL4",
+      "thumbnail": "https://i.ytimg.com/vi/XvlM5W3tvL4/hqdefault.jpg",
+      "site_titles": [
+        "What is a TEAM ROPING number?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZP32_vXDkao",
+      "youtube_title": "Trevor Brazile Talks About Putting A Move In A Head Horse",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=ZP32_vXDkao",
+      "embed_url": "https://www.youtube.com/embed/ZP32_vXDkao",
+      "thumbnail": "https://i.ytimg.com/vi/ZP32_vXDkao/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile Talks About Putting A Move In A Head Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QXoSSh97baM",
+      "youtube_title": "Joseph Harrison, Heel Horses & Horsemanship",
+      "channel": "Classic Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=QXoSSh97baM",
+      "embed_url": "https://www.youtube.com/embed/QXoSSh97baM",
+      "thumbnail": "https://i.ytimg.com/vi/QXoSSh97baM/hqdefault.jpg",
+      "site_titles": [
+        "Joseph Harrison, Heel Horses & Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vjMW0HZFeyY",
+      "youtube_title": "How To Choose A Great Horse with Rich Skelton",
+      "channel": "South Texas Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=vjMW0HZFeyY",
+      "embed_url": "https://www.youtube.com/embed/vjMW0HZFeyY",
+      "thumbnail": "https://i.ytimg.com/vi/vjMW0HZFeyY/hqdefault.jpg",
+      "site_titles": [
+        "How To Choose A Great Horse with Rich Skelton"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ti_zj8f7aMM",
+      "youtube_title": "Improve Your Head Horse’s Facing",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=Ti_zj8f7aMM",
+      "embed_url": "https://www.youtube.com/embed/Ti_zj8f7aMM",
+      "thumbnail": "https://i.ytimg.com/vi/Ti_zj8f7aMM/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Head Horse’s Facing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mmnlbWPca-Y",
+      "youtube_title": "Trevor Brazile | Is Your Horse Jackpot-Ready | Heading | Horsemanship | Team Roping",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=mmnlbWPca-Y",
+      "embed_url": "https://www.youtube.com/embed/mmnlbWPca-Y",
+      "thumbnail": "https://i.ytimg.com/vi/mmnlbWPca-Y/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile | Is Your Horse Jackpot-Ready | Heading | Horsemanship | Team Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X70zrsp0Jw8",
+      "youtube_title": "How to Find the Perfect Calf Roping Horse",
+      "channel": "Rodeo Live",
+      "youtube_url": "https://www.youtube.com/watch?v=X70zrsp0Jw8",
+      "embed_url": "https://www.youtube.com/embed/X70zrsp0Jw8",
+      "thumbnail": "https://i.ytimg.com/vi/X70zrsp0Jw8/hqdefault.jpg",
+      "site_titles": [
+        "How to Find the Perfect Calf Roping Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9k5esYp7Ge4",
+      "youtube_title": "Working with a horse that is bad in the box",
+      "channel": "crbradley100",
+      "youtube_url": "https://www.youtube.com/watch?v=9k5esYp7Ge4",
+      "embed_url": "https://www.youtube.com/embed/9k5esYp7Ge4",
+      "thumbnail": "https://i.ytimg.com/vi/9k5esYp7Ge4/hqdefault.jpg",
+      "site_titles": [
+        "Working with a horse that is bad in the box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "eOQS8xdO3yY",
+      "youtube_title": "Miles Baker Most Used Bits",
+      "channel": "RELENTLESS REMUDA",
+      "youtube_url": "https://www.youtube.com/watch?v=eOQS8xdO3yY",
+      "embed_url": "https://www.youtube.com/embed/eOQS8xdO3yY",
+      "thumbnail": "https://i.ytimg.com/vi/eOQS8xdO3yY/hqdefault.jpg",
+      "site_titles": [
+        "Miles Baker Most Used Bits"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DogALGQFikg",
+      "youtube_title": "Heel Horses in the Right Lead: Yes or No, and How to Keep Them in the Left Lead Through the Run.",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=DogALGQFikg",
+      "embed_url": "https://www.youtube.com/embed/DogALGQFikg",
+      "thumbnail": "https://i.ytimg.com/vi/DogALGQFikg/hqdefault.jpg",
+      "site_titles": [
+        "Heel Horses in the Right Lead: Yes or No, and How to Keep Them in the Left Lead Through the Run."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "54p3dMJGfOs",
+      "youtube_title": "Roping.com: Heeling Drill - Developing Control Through the Corner",
+      "channel": "The Team Roping Journal",
+      "youtube_url": "https://www.youtube.com/watch?v=54p3dMJGfOs",
+      "embed_url": "https://www.youtube.com/embed/54p3dMJGfOs",
+      "thumbnail": "https://i.ytimg.com/vi/54p3dMJGfOs/hqdefault.jpg",
+      "site_titles": [
+        "Roping.com: Heeling Drill - Developing Control Through the Corner"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qfTwNqvu_Oc",
+      "youtube_title": "Santiago de la Cruz fixing a head horse  in box part 1",
+      "channel": "Delacruz rope horse",
+      "youtube_url": "https://www.youtube.com/watch?v=qfTwNqvu_Oc",
+      "embed_url": "https://www.youtube.com/embed/qfTwNqvu_Oc",
+      "thumbnail": "https://i.ytimg.com/vi/qfTwNqvu_Oc/hqdefault.jpg",
+      "site_titles": [
+        "Santiago de la Cruz fixing a head horse in box part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HKsOiUxgggk",
+      "youtube_title": "Horse Is TERRIFIED Of Cows!",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=HKsOiUxgggk",
+      "embed_url": "https://www.youtube.com/embed/HKsOiUxgggk",
+      "thumbnail": "https://i.ytimg.com/vi/HKsOiUxgggk/hqdefault.jpg",
+      "site_titles": [
+        "Horse Is TERRIFIED Of Cows!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "EX_kJpNS1C8",
+      "youtube_title": "Trevor Brazile Works on a Head Horse's Facing",
+      "channel": "Relentless Nation",
+      "youtube_url": "https://www.youtube.com/watch?v=EX_kJpNS1C8",
+      "embed_url": "https://www.youtube.com/embed/EX_kJpNS1C8",
+      "thumbnail": "https://i.ytimg.com/vi/EX_kJpNS1C8/hqdefault.jpg",
+      "site_titles": [
+        "Trevor Brazile Works on a Head Horse's Facing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
     }
   ]
 }
