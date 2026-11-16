@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2705,
+  "count": 2708,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45697,6 +45697,54 @@
       "thumbnail": "https://i.ytimg.com/vi/adwoLcjBiPg/hqdefault.jpg",
       "site_titles": [
         "How To Use the Indirect Rein Aid Correctly on Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7687pplK_lo",
+      "youtube_title": "Instantly Improve Your Horse's Lope",
+      "channel": "HorseTrainingChannel",
+      "youtube_url": "https://www.youtube.com/watch?v=7687pplK_lo",
+      "embed_url": "https://www.youtube.com/embed/7687pplK_lo",
+      "thumbnail": "https://i.ytimg.com/vi/7687pplK_lo/hqdefault.jpg",
+      "site_titles": [
+        "Instantly Improve Your Horse's Lope"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "AILhB6NMbCU",
+      "youtube_title": "Ride the Pattern: Working Western Rail",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=AILhB6NMbCU",
+      "embed_url": "https://www.youtube.com/embed/AILhB6NMbCU",
+      "thumbnail": "https://i.ytimg.com/vi/AILhB6NMbCU/hqdefault.jpg",
+      "site_titles": [
+        "Ride the Pattern: Working Western Rail"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WaOUFStKxlk",
+      "youtube_title": "Ranch Rail: Schritt für Schritt zum Extended Lope",
+      "channel": "Allaround Academy",
+      "youtube_url": "https://www.youtube.com/watch?v=WaOUFStKxlk",
+      "embed_url": "https://www.youtube.com/embed/WaOUFStKxlk",
+      "thumbnail": "https://i.ytimg.com/vi/WaOUFStKxlk/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Rail: Schritt für Schritt zum Extended Lope"
       ],
       "sections": [
         "qa"
