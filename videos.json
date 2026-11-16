@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1278,
+  "count": 1340,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -79,7 +79,6 @@
         "colt-starting/first-60-days-under-saddle/index.html",
         "groundwork/first-saddling-colt-starting/index.html",
         "qa/desensitization-sacking-out/how-do-you-sack-out-a-young-horse-and-why-is-it-important/index.html",
-        "qa/driving/what-equipment-do-you-need-to-start-ground-driving-a-horse/index.html",
         "qa/ground-manners-handling/how-do-you-teach-a-young-horse-to-whoa-and-stand-quietly-on-a-lead-and-halter/index.html",
         "qa/ground-manners-handling/what-are-the-keys-to-halter-breaking-a-young-horse/index.html",
         "qa/groundwork-longing/explain-how-to-get-a-young-horse-started-longing-in-the-round-pen/index.html",
@@ -1018,7 +1017,6 @@
       ],
       "reference_count": 7,
       "pages": [
-        "qa/driving/how-is-the-transition-from-longeing-to-ground-driving-best-done-starting-on-a-ci/index.html",
         "qa/reining/how-do-you-keep-a-reining-horse-honest/index.html",
         "qa/training-principles/how-do-you-develop-a-correct-circle-and-why-is-circle-work-foundational-to-train/index.html",
         "qa/training-principles/how-do-you-develop-a-horses-ability-to-work-correctly-on-a-circle-at-all-three-g/index.html",
@@ -23041,6 +23039,998 @@
       "thumbnail": "https://i.ytimg.com/vi/n4H6ZYd68uE/hqdefault.jpg",
       "site_titles": [
         "Five Exercises to do Before You Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ai5FaoRu_IU",
+      "youtube_title": "Introduction to Lateral Moves on the Ground",
+      "channel": "Evan Bonner Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Ai5FaoRu_IU",
+      "embed_url": "https://www.youtube.com/embed/Ai5FaoRu_IU",
+      "thumbnail": "https://i.ytimg.com/vi/Ai5FaoRu_IU/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Lateral Moves on the Ground"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6MLy3MjljZU",
+      "youtube_title": "TEACHING MY HORSE HOW TO GROUND DRIVE",
+      "channel": "Free Spirit Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=6MLy3MjljZU",
+      "embed_url": "https://www.youtube.com/embed/6MLy3MjljZU",
+      "thumbnail": "https://i.ytimg.com/vi/6MLy3MjljZU/hqdefault.jpg",
+      "site_titles": [
+        "TEACHING MY HORSE HOW TO GROUND DRIVE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wqqKiqUWvJ0",
+      "youtube_title": "Teaching a Horse the Basics of Ground Driving",
+      "channel": "Startup Cowboy",
+      "youtube_url": "https://www.youtube.com/watch?v=wqqKiqUWvJ0",
+      "embed_url": "https://www.youtube.com/embed/wqqKiqUWvJ0",
+      "thumbnail": "https://i.ytimg.com/vi/wqqKiqUWvJ0/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Horse the Basics of Ground Driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LPhHgrA86Jc",
+      "youtube_title": "Conditioning the Driving horse - Richard J. Forfa, DVM, DipABVP",
+      "channel": "American Driving Society, Inc.",
+      "youtube_url": "https://www.youtube.com/watch?v=LPhHgrA86Jc",
+      "embed_url": "https://www.youtube.com/embed/LPhHgrA86Jc",
+      "thumbnail": "https://i.ytimg.com/vi/LPhHgrA86Jc/hqdefault.jpg",
+      "site_titles": [
+        "Conditioning the Driving horse - Richard J. Forfa, DVM, DipABVP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4RHPSxBRqVk",
+      "youtube_title": "Carriage Driving - Introduction to Marathon",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=4RHPSxBRqVk",
+      "embed_url": "https://www.youtube.com/embed/4RHPSxBRqVk",
+      "thumbnail": "https://i.ytimg.com/vi/4RHPSxBRqVk/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving - Introduction to Marathon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2x7vlOUf_s4",
+      "youtube_title": "2026 AQHA Senior Pleasure Driving World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=2x7vlOUf_s4",
+      "embed_url": "https://www.youtube.com/embed/2x7vlOUf_s4",
+      "thumbnail": "https://i.ytimg.com/vi/2x7vlOUf_s4/hqdefault.jpg",
+      "site_titles": [
+        "2026 AQHA Senior Pleasure Driving World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BlcLcgRSbe4",
+      "youtube_title": "An Introduction to Combined Driving - Andy Marcoux",
+      "channel": "American Driving Society, Inc.",
+      "youtube_url": "https://www.youtube.com/watch?v=BlcLcgRSbe4",
+      "embed_url": "https://www.youtube.com/embed/BlcLcgRSbe4",
+      "thumbnail": "https://i.ytimg.com/vi/BlcLcgRSbe4/hqdefault.jpg",
+      "site_titles": [
+        "An Introduction to Combined Driving - Andy Marcoux"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sU6VFCl-6CI",
+      "youtube_title": "2026 AQHA Select Pleasure Driving World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=sU6VFCl-6CI",
+      "embed_url": "https://www.youtube.com/embed/sU6VFCl-6CI",
+      "thumbnail": "https://i.ytimg.com/vi/sU6VFCl-6CI/hqdefault.jpg",
+      "site_titles": [
+        "2026 AQHA Select Pleasure Driving World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TtuiGx80CJE",
+      "youtube_title": "Behind the Reins – Bram Chardon’s Deep Dive into Marathon Driving 🤩 | Exclusive Course Walk",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=TtuiGx80CJE",
+      "embed_url": "https://www.youtube.com/embed/TtuiGx80CJE",
+      "thumbnail": "https://i.ytimg.com/vi/TtuiGx80CJE/hqdefault.jpg",
+      "site_titles": [
+        "Behind the Reins – Bram Chardon’s Deep Dive into Marathon Driving 🤩 | Exclusive Course Walk"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "64ubzNrh2Lk",
+      "youtube_title": "Training the Trot Transitions in Driven Dressage",
+      "channel": "Mary Phelps",
+      "youtube_url": "https://www.youtube.com/watch?v=64ubzNrh2Lk",
+      "embed_url": "https://www.youtube.com/embed/64ubzNrh2Lk",
+      "thumbnail": "https://i.ytimg.com/vi/64ubzNrh2Lk/hqdefault.jpg",
+      "site_titles": [
+        "Training the Trot Transitions in Driven Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dSYmYAl0SEA",
+      "youtube_title": "LTR Training Tip #119: Pleasure Driving",
+      "channel": "Lucky Three Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=dSYmYAl0SEA",
+      "embed_url": "https://www.youtube.com/embed/dSYmYAl0SEA",
+      "thumbnail": "https://i.ytimg.com/vi/dSYmYAl0SEA/hqdefault.jpg",
+      "site_titles": [
+        "LTR Training Tip: Pleasure Driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8t4KagTs0Es",
+      "youtube_title": "Harness Fit & Adjustment",
+      "channel": "American Driving Society, Inc.",
+      "youtube_url": "https://www.youtube.com/watch?v=8t4KagTs0Es",
+      "embed_url": "https://www.youtube.com/embed/8t4KagTs0Es",
+      "thumbnail": "https://i.ytimg.com/vi/8t4KagTs0Es/hqdefault.jpg",
+      "site_titles": [
+        "Harness Fit & Adjustment"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8xzHYvNsdEg",
+      "youtube_title": "Introduction to Combined Driving Part 1",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=8xzHYvNsdEg",
+      "embed_url": "https://www.youtube.com/embed/8xzHYvNsdEg",
+      "thumbnail": "https://i.ytimg.com/vi/8xzHYvNsdEg/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Combined Driving Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aVKM2Z9eePM",
+      "youtube_title": "Your First Driving Lesson: Beginner's Step by Step Guide",
+      "channel": "Driving TV",
+      "youtube_url": "https://www.youtube.com/watch?v=aVKM2Z9eePM",
+      "embed_url": "https://www.youtube.com/embed/aVKM2Z9eePM",
+      "thumbnail": "https://i.ytimg.com/vi/aVKM2Z9eePM/hqdefault.jpg",
+      "site_titles": [
+        "Your First Driving Lesson: Beginner's Step by Step Guide"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vh8-i0cEbZw",
+      "youtube_title": "How to Harness Your Horse or Pony",
+      "channel": "Chimacum Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=vh8-i0cEbZw",
+      "embed_url": "https://www.youtube.com/embed/vh8-i0cEbZw",
+      "thumbnail": "https://i.ytimg.com/vi/vh8-i0cEbZw/hqdefault.jpg",
+      "site_titles": [
+        "How to Harness Your Horse or Pony"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r1cn9t6CtUg",
+      "youtube_title": "Training a horse to drive - First Hitch",
+      "channel": "Dutch Hollow Acres",
+      "youtube_url": "https://www.youtube.com/watch?v=r1cn9t6CtUg",
+      "embed_url": "https://www.youtube.com/embed/r1cn9t6CtUg",
+      "thumbnail": "https://i.ytimg.com/vi/r1cn9t6CtUg/hqdefault.jpg",
+      "site_titles": [
+        "Training a horse to drive - First Hitch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MGTwoozl0p0",
+      "youtube_title": "Pleasure Driving Classes Explained (What Judges Look For with Miniature Horses)",
+      "channel": "Andersen Acres",
+      "youtube_url": "https://www.youtube.com/watch?v=MGTwoozl0p0",
+      "embed_url": "https://www.youtube.com/embed/MGTwoozl0p0",
+      "thumbnail": "https://i.ytimg.com/vi/MGTwoozl0p0/hqdefault.jpg",
+      "site_titles": [
+        "Pleasure Driving Classes Explained (What Judges Look For with Miniature Horses)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ecHj8qKcGhM",
+      "youtube_title": "How to choose a workhorse! (for horse logging, carriage driving and farm work)",
+      "channel": "Hitch In Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=ecHj8qKcGhM",
+      "embed_url": "https://www.youtube.com/embed/ecHj8qKcGhM",
+      "thumbnail": "https://i.ytimg.com/vi/ecHj8qKcGhM/hqdefault.jpg",
+      "site_titles": [
+        "How to choose a workhorse! (for horse logging, carriage driving and farm work)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "yhCACJE1tLc",
+      "youtube_title": "Driving CDE hazards with mini pair",
+      "channel": "Victoria Smith",
+      "youtube_url": "https://www.youtube.com/watch?v=yhCACJE1tLc",
+      "embed_url": "https://www.youtube.com/embed/yhCACJE1tLc",
+      "thumbnail": "https://i.ytimg.com/vi/yhCACJE1tLc/hqdefault.jpg",
+      "site_titles": [
+        "Driving CDE hazards with mini pair"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Baaf3d7gVTg",
+      "youtube_title": "Using a Rein Machine to Demonstrate Basic Achenbach Driving Technique",
+      "channel": "Ranch Ride Carriage Drive",
+      "youtube_url": "https://www.youtube.com/watch?v=Baaf3d7gVTg",
+      "embed_url": "https://www.youtube.com/embed/Baaf3d7gVTg",
+      "thumbnail": "https://i.ytimg.com/vi/Baaf3d7gVTg/hqdefault.jpg",
+      "site_titles": [
+        "Using a Rein Machine to Demonstrate Basic Achenbach Driving Technique"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tGC5ZYi3Ylo",
+      "youtube_title": "Intermediate single horse driven dressage, carriage driving",
+      "channel": "8hoovesbetter",
+      "youtube_url": "https://www.youtube.com/watch?v=tGC5ZYi3Ylo",
+      "embed_url": "https://www.youtube.com/embed/tGC5ZYi3Ylo",
+      "thumbnail": "https://i.ytimg.com/vi/tGC5ZYi3Ylo/hqdefault.jpg",
+      "site_titles": [
+        "Intermediate single horse driven dressage, carriage driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qw477025xq8",
+      "youtube_title": "Carriage Driving - Introduction to Dressage",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=qw477025xq8",
+      "embed_url": "https://www.youtube.com/embed/qw477025xq8",
+      "thumbnail": "https://i.ytimg.com/vi/qw477025xq8/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving - Introduction to Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "x8oS58Xdv0c",
+      "youtube_title": "Carriage Driving - Introduction to cones",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=x8oS58Xdv0c",
+      "embed_url": "https://www.youtube.com/embed/x8oS58Xdv0c",
+      "thumbnail": "https://i.ytimg.com/vi/x8oS58Xdv0c/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving - Introduction to cones"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TuigR19vCkI",
+      "youtube_title": "Driven Dressage Scoring System Simplified",
+      "channel": "James Bond",
+      "youtube_url": "https://www.youtube.com/watch?v=TuigR19vCkI",
+      "embed_url": "https://www.youtube.com/embed/TuigR19vCkI",
+      "thumbnail": "https://i.ytimg.com/vi/TuigR19vCkI/hqdefault.jpg",
+      "site_titles": [
+        "Driven Dressage Scoring System Simplified"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PgXLkPrj9Sc",
+      "youtube_title": "Dressage Exercise - Halt Rein Back",
+      "channel": "myhorsetvEN",
+      "youtube_url": "https://www.youtube.com/watch?v=PgXLkPrj9Sc",
+      "embed_url": "https://www.youtube.com/embed/PgXLkPrj9Sc",
+      "thumbnail": "https://i.ytimg.com/vi/PgXLkPrj9Sc/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Exercise - Halt Rein Back"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gq18IThvIOw",
+      "youtube_title": "Single Horse Pleasure Turnout Walnut Hill 2011",
+      "channel": "Jeffrey McCarthy",
+      "youtube_url": "https://www.youtube.com/watch?v=gq18IThvIOw",
+      "embed_url": "https://www.youtube.com/embed/gq18IThvIOw",
+      "thumbnail": "https://i.ytimg.com/vi/gq18IThvIOw/hqdefault.jpg",
+      "site_titles": [
+        "Single Horse Pleasure Turnout Walnut Hill 2011"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0RbahMBBPY8",
+      "youtube_title": "Driving corners and turns in driven dressage.",
+      "channel": "Coachman's Delight, Inc",
+      "youtube_url": "https://www.youtube.com/watch?v=0RbahMBBPY8",
+      "embed_url": "https://www.youtube.com/embed/0RbahMBBPY8",
+      "thumbnail": "https://i.ytimg.com/vi/0RbahMBBPY8/hqdefault.jpg",
+      "site_titles": [
+        "Driving corners and turns in driven dressage."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gjDcJMliTWU",
+      "youtube_title": "Carriage Driving - Introduction to Marathon",
+      "channel": "Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=gjDcJMliTWU",
+      "embed_url": "https://www.youtube.com/embed/gjDcJMliTWU",
+      "thumbnail": "https://i.ytimg.com/vi/gjDcJMliTWU/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving - Introduction to Marathon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "e-vw-9yUWB0",
+      "youtube_title": "How To Harness A Miniature Horse",
+      "channel": "Kailee Michelsen",
+      "youtube_url": "https://www.youtube.com/watch?v=e-vw-9yUWB0",
+      "embed_url": "https://www.youtube.com/embed/e-vw-9yUWB0",
+      "thumbnail": "https://i.ytimg.com/vi/e-vw-9yUWB0/hqdefault.jpg",
+      "site_titles": [
+        "How To Harness A Miniature Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5APTYM-iA6c",
+      "youtube_title": "How to learn Ground Driving on a green horse using long lines and a sidepull",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=5APTYM-iA6c",
+      "embed_url": "https://www.youtube.com/embed/5APTYM-iA6c",
+      "thumbnail": "https://i.ytimg.com/vi/5APTYM-iA6c/hqdefault.jpg",
+      "site_titles": [
+        "How to learn Ground Driving on a green horse using long lines and a sidepull"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Keu9jyGJb2c",
+      "youtube_title": "How to Hitch Your Horse to Your Vehicle",
+      "channel": "Chimacum Tack",
+      "youtube_url": "https://www.youtube.com/watch?v=Keu9jyGJb2c",
+      "embed_url": "https://www.youtube.com/embed/Keu9jyGJb2c",
+      "thumbnail": "https://i.ytimg.com/vi/Keu9jyGJb2c/hqdefault.jpg",
+      "site_titles": [
+        "How to Hitch Your Horse to Your Vehicle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_KOUS49UuKc",
+      "youtube_title": "Teaching a Horse to Long Line & Ground Drive",
+      "channel": "MCRC Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=_KOUS49UuKc",
+      "embed_url": "https://www.youtube.com/embed/_KOUS49UuKc",
+      "thumbnail": "https://i.ytimg.com/vi/_KOUS49UuKc/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Horse to Long Line & Ground Drive"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "S1VDQmMEtlU",
+      "youtube_title": "Ground Driving a Horse with Jesse Krier - Greatmats Horse Training Series",
+      "channel": "Greatmats",
+      "youtube_url": "https://www.youtube.com/watch?v=S1VDQmMEtlU",
+      "embed_url": "https://www.youtube.com/embed/S1VDQmMEtlU",
+      "thumbnail": "https://i.ytimg.com/vi/S1VDQmMEtlU/hqdefault.jpg",
+      "site_titles": [
+        "Ground Driving a Horse with Jesse Krier - Greatmats Horse Training Series"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FQp1qIww2Hk",
+      "youtube_title": "How to Hitch and Unhitch a Driving Horse",
+      "channel": "Katie",
+      "youtube_url": "https://www.youtube.com/watch?v=FQp1qIww2Hk",
+      "embed_url": "https://www.youtube.com/embed/FQp1qIww2Hk",
+      "thumbnail": "https://i.ytimg.com/vi/FQp1qIww2Hk/hqdefault.jpg",
+      "site_titles": [
+        "How to Hitch and Unhitch a Driving Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zN72i8I76Xo",
+      "youtube_title": "Ground Driving FULL DVD",
+      "channel": "5MinuteHorseLessons",
+      "youtube_url": "https://www.youtube.com/watch?v=zN72i8I76Xo",
+      "embed_url": "https://www.youtube.com/embed/zN72i8I76Xo",
+      "thumbnail": "https://i.ytimg.com/vi/zN72i8I76Xo/hqdefault.jpg",
+      "site_titles": [
+        "Ground Driving FULL DVD"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OpW87-dBf5g",
+      "youtube_title": "Carriage Show Driving Judges School Aug 2013",
+      "channel": "COBBERDOGS",
+      "youtube_url": "https://www.youtube.com/watch?v=OpW87-dBf5g",
+      "embed_url": "https://www.youtube.com/embed/OpW87-dBf5g",
+      "thumbnail": "https://i.ytimg.com/vi/OpW87-dBf5g/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Show Driving Judges School Aug 2013"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PhUmzL8WC2c",
+      "youtube_title": "Ground Driving or Double Lunging with the Ultimate Bitless Bridle",
+      "channel": "Jefferson Drumm",
+      "youtube_url": "https://www.youtube.com/watch?v=PhUmzL8WC2c",
+      "embed_url": "https://www.youtube.com/embed/PhUmzL8WC2c",
+      "thumbnail": "https://i.ytimg.com/vi/PhUmzL8WC2c/hqdefault.jpg",
+      "site_titles": [
+        "Ground Driving or Double Lunging with the Ultimate Bitless Bridle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3JFYj4Re5CE",
+      "youtube_title": "WCHS 2012 - Amateur Gentlemen's Fine Harness - (SA) Far Away Gypsy and Francois Dercksen",
+      "channel": "Michael Fox",
+      "youtube_url": "https://www.youtube.com/watch?v=3JFYj4Re5CE",
+      "embed_url": "https://www.youtube.com/embed/3JFYj4Re5CE",
+      "thumbnail": "https://i.ytimg.com/vi/3JFYj4Re5CE/hqdefault.jpg",
+      "site_titles": [
+        "WCHS 2012 - Amateur Gentlemen's Fine Harness - (SA) Far Away Gypsy and Francois Dercksen"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NbUqwsRLGYc",
+      "youtube_title": "The British Carriage Driving Nationals 2026 Dressage",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=NbUqwsRLGYc",
+      "embed_url": "https://www.youtube.com/embed/NbUqwsRLGYc",
+      "thumbnail": "https://i.ytimg.com/vi/NbUqwsRLGYc/hqdefault.jpg",
+      "site_titles": [
+        "The British Carriage Driving Nationals 2026 Dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Nl2BpHAJS9w",
+      "youtube_title": "Introducing lunging with tack, introducing ground driving, and at the mounting block",
+      "channel": "HVF Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=Nl2BpHAJS9w",
+      "embed_url": "https://www.youtube.com/embed/Nl2BpHAJS9w",
+      "thumbnail": "https://i.ytimg.com/vi/Nl2BpHAJS9w/hqdefault.jpg",
+      "site_titles": [
+        "Introducing lunging with tack, introducing ground driving, and at the mounting block"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "NI8WIFAgds8",
+      "youtube_title": "Morgan Horse Classic Pleasure Carriage Driving",
+      "channel": "Magnificent Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=NI8WIFAgds8",
+      "embed_url": "https://www.youtube.com/embed/NI8WIFAgds8",
+      "thumbnail": "https://i.ytimg.com/vi/NI8WIFAgds8/hqdefault.jpg",
+      "site_titles": [
+        "Morgan Horse Classic Pleasure Carriage Driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-fhQd9P2ImU",
+      "youtube_title": "Carriage Driving BHDTA Nationals 2008",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=-fhQd9P2ImU",
+      "embed_url": "https://www.youtube.com/embed/-fhQd9P2ImU",
+      "thumbnail": "https://i.ytimg.com/vi/-fhQd9P2ImU/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving BHDTA Nationals 2008"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3KGkhyoPGGM",
+      "youtube_title": "Rein Handling with Minta Winn",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=3KGkhyoPGGM",
+      "embed_url": "https://www.youtube.com/embed/3KGkhyoPGGM",
+      "thumbnail": "https://i.ytimg.com/vi/3KGkhyoPGGM/hqdefault.jpg",
+      "site_titles": [
+        "Rein Handling with Minta Winn"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_5yp7IUCqWU",
+      "youtube_title": "Training a Previously Driven Horse with Behavioural Issues - Arry the Cob",
+      "channel": "barryhook2",
+      "youtube_url": "https://www.youtube.com/watch?v=_5yp7IUCqWU",
+      "embed_url": "https://www.youtube.com/embed/_5yp7IUCqWU",
+      "thumbnail": "https://i.ytimg.com/vi/_5yp7IUCqWU/hqdefault.jpg",
+      "site_titles": [
+        "Training a Previously Driven Horse with Behavioural Issues - Arry the Cob"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1RJs__tdlIM",
+      "youtube_title": "How to Fit Your Carriage Harness",
+      "channel": "Freedman Harness",
+      "youtube_url": "https://www.youtube.com/watch?v=1RJs__tdlIM",
+      "embed_url": "https://www.youtube.com/embed/1RJs__tdlIM",
+      "thumbnail": "https://i.ytimg.com/vi/1RJs__tdlIM/hqdefault.jpg",
+      "site_titles": [
+        "How to Fit Your Carriage Harness"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zM6FMuSdMtk",
+      "youtube_title": "The Basics of Ground Driving and Longlining",
+      "channel": "Tack Room Buzz at Equefit Club",
+      "youtube_url": "https://www.youtube.com/watch?v=zM6FMuSdMtk",
+      "embed_url": "https://www.youtube.com/embed/zM6FMuSdMtk",
+      "thumbnail": "https://i.ytimg.com/vi/zM6FMuSdMtk/hqdefault.jpg",
+      "site_titles": [
+        "The Basics of Ground Driving and Longlining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "P078URvvL6I",
+      "youtube_title": "Parts of the Driving Harness- Genna's Corner - Shady Grove Haflingers",
+      "channel": "shadygrovehaflingers",
+      "youtube_url": "https://www.youtube.com/watch?v=P078URvvL6I",
+      "embed_url": "https://www.youtube.com/embed/P078URvvL6I",
+      "thumbnail": "https://i.ytimg.com/vi/P078URvvL6I/hqdefault.jpg",
+      "site_titles": [
+        "Parts of the Driving Harness- Genna's Corner - Shady Grove Haflingers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BLznEqJsHP0",
+      "youtube_title": "2025 Amateur Pleasure Driving World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=BLznEqJsHP0",
+      "embed_url": "https://www.youtube.com/embed/BLznEqJsHP0",
+      "thumbnail": "https://i.ytimg.com/vi/BLznEqJsHP0/hqdefault.jpg",
+      "site_titles": [
+        "2025 Amateur Pleasure Driving World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mJ7x9Qc4AoY",
+      "youtube_title": "Two Pleasure Driving Classes | Saddlebred + All-Breed",
+      "channel": "Magnificent Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=mJ7x9Qc4AoY",
+      "embed_url": "https://www.youtube.com/embed/mJ7x9Qc4AoY",
+      "thumbnail": "https://i.ytimg.com/vi/mJ7x9Qc4AoY/hqdefault.jpg",
+      "site_titles": [
+        "Two Pleasure Driving Classes | Saddlebred + All-Breed"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pb9Lij3mxso",
+      "youtube_title": "Introduction to Combined Driving Part 2",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=pb9Lij3mxso",
+      "embed_url": "https://www.youtube.com/embed/pb9Lij3mxso",
+      "thumbnail": "https://i.ytimg.com/vi/pb9Lij3mxso/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Combined Driving Part 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5w5S5BRbCa4",
+      "youtube_title": "Carriage Driving The Great Equestrian Sport",
+      "channel": "Cavewood Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=5w5S5BRbCa4",
+      "embed_url": "https://www.youtube.com/embed/5w5S5BRbCa4",
+      "thumbnail": "https://i.ytimg.com/vi/5w5S5BRbCa4/hqdefault.jpg",
+      "site_titles": [
+        "Carriage Driving The Great Equestrian Sport"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OuWH7SYkqFQ",
+      "youtube_title": "What Is Pleasure Driving with Miniature Horses? A Beginner-Friendly Guide",
+      "channel": "Andersen Acres",
+      "youtube_url": "https://www.youtube.com/watch?v=OuWH7SYkqFQ",
+      "embed_url": "https://www.youtube.com/embed/OuWH7SYkqFQ",
+      "thumbnail": "https://i.ytimg.com/vi/OuWH7SYkqFQ/hqdefault.jpg",
+      "site_titles": [
+        "What Is Pleasure Driving with Miniature Horses? A Beginner-Friendly Guide"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "E0hQVIXxaDM",
+      "youtube_title": "Intermediate single horse, carriage driving, cones",
+      "channel": "8hoovesbetter",
+      "youtube_url": "https://www.youtube.com/watch?v=E0hQVIXxaDM",
+      "embed_url": "https://www.youtube.com/embed/E0hQVIXxaDM",
+      "thumbnail": "https://i.ytimg.com/vi/E0hQVIXxaDM/hqdefault.jpg",
+      "site_titles": [
+        "Intermediate single horse, carriage driving, cones"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6BMLNbnU8B4",
+      "youtube_title": "Ground Driving - Horse & Handler - Day #1",
+      "channel": "Roxy Montana",
+      "youtube_url": "https://www.youtube.com/watch?v=6BMLNbnU8B4",
+      "embed_url": "https://www.youtube.com/embed/6BMLNbnU8B4",
+      "thumbnail": "https://i.ytimg.com/vi/6BMLNbnU8B4/hqdefault.jpg",
+      "site_titles": [
+        "Ground Driving - Horse & Handler - Day"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zidFdFYBHdA",
+      "youtube_title": "Dressage, Marathon & Cones 🔥 Get to know Driving at the FEI World Championships Aachen 2026",
+      "channel": "FEI",
+      "youtube_url": "https://www.youtube.com/watch?v=zidFdFYBHdA",
+      "embed_url": "https://www.youtube.com/embed/zidFdFYBHdA",
+      "thumbnail": "https://i.ytimg.com/vi/zidFdFYBHdA/hqdefault.jpg",
+      "site_titles": [
+        "Dressage, Marathon & Cones 🔥 Get to know Driving at the FEI World Championships Aachen 2026"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pENrtqWyc-A",
+      "youtube_title": "PFIFF | Driving bridle with blinker 'Standard'",
+      "channel": "MHS Equestrian - COM",
+      "youtube_url": "https://www.youtube.com/watch?v=pENrtqWyc-A",
+      "embed_url": "https://www.youtube.com/embed/pENrtqWyc-A",
+      "thumbnail": "https://i.ytimg.com/vi/pENrtqWyc-A/hqdefault.jpg",
+      "site_titles": [
+        "PFIFF | Driving bridle with blinker 'Standard'"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3sz9L3eJnQs",
+      "youtube_title": "Working with Young and Green Ponies in Harness - Carriage Driving",
+      "channel": "Jennifer Carew Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=3sz9L3eJnQs",
+      "embed_url": "https://www.youtube.com/embed/3sz9L3eJnQs",
+      "thumbnail": "https://i.ytimg.com/vi/3sz9L3eJnQs/hqdefault.jpg",
+      "site_titles": [
+        "Working with Young and Green Ponies in Harness - Carriage Driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "avc5_xIJ408",
+      "youtube_title": "Junior Single Horse/Pony Turnout Walnut Hill 2013",
+      "channel": "Jeffrey McCarthy",
+      "youtube_url": "https://www.youtube.com/watch?v=avc5_xIJ408",
+      "embed_url": "https://www.youtube.com/embed/avc5_xIJ408",
+      "thumbnail": "https://i.ytimg.com/vi/avc5_xIJ408/hqdefault.jpg",
+      "site_titles": [
+        "Junior Single Horse/Pony Turnout Walnut Hill 2013"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "JMaH8IZqAtQ",
+      "youtube_title": "How to desensitise a carriage driving horse to unusual or loud noise | Training method for horses",
+      "channel": "barryhook2",
+      "youtube_url": "https://www.youtube.com/watch?v=JMaH8IZqAtQ",
+      "embed_url": "https://www.youtube.com/embed/JMaH8IZqAtQ",
+      "thumbnail": "https://i.ytimg.com/vi/JMaH8IZqAtQ/hqdefault.jpg",
+      "site_titles": [
+        "How to desensitise a carriage driving horse to unusual or loud noise | Training method for horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dKeQGla8pTY",
+      "youtube_title": "Combined Driving Carriages",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=dKeQGla8pTY",
+      "embed_url": "https://www.youtube.com/embed/dKeQGla8pTY",
+      "thumbnail": "https://i.ytimg.com/vi/dKeQGla8pTY/hqdefault.jpg",
+      "site_titles": [
+        "Combined Driving Carriages"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iBCCkQfCGAM",
+      "youtube_title": "Marathon Obstacle 5 NZCDS CDT NI Champs 2022 - Carriage Driving",
+      "channel": "Jennifer Carew Carriage Driving",
+      "youtube_url": "https://www.youtube.com/watch?v=iBCCkQfCGAM",
+      "embed_url": "https://www.youtube.com/embed/iBCCkQfCGAM",
+      "thumbnail": "https://i.ytimg.com/vi/iBCCkQfCGAM/hqdefault.jpg",
+      "site_titles": [
+        "Marathon Obstacle 5 NZCDS CDT NI Champs 2022 - Carriage Driving"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YNQqOiTGAe8",
+      "youtube_title": "All-Breed Pleasure Driving Open at Carousel Charity Horse Show",
+      "channel": "Magnificent Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=YNQqOiTGAe8",
+      "embed_url": "https://www.youtube.com/embed/YNQqOiTGAe8",
+      "thumbnail": "https://i.ytimg.com/vi/YNQqOiTGAe8/hqdefault.jpg",
+      "site_titles": [
+        "All-Breed Pleasure Driving Open at Carousel Charity Horse Show"
       ],
       "sections": [
         "qa"
