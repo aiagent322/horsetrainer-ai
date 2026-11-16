@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2692,
+  "count": 2705,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45489,6 +45489,214 @@
       "thumbnail": "https://i.ytimg.com/vi/xMkKTQVzRYM/hqdefault.jpg",
       "site_titles": [
         "Quick Tip: Correct Turned-Out Toes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BZGFf2TVzQI",
+      "youtube_title": "Western vs. Dressage - What's the Difference?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=BZGFf2TVzQI",
+      "embed_url": "https://www.youtube.com/embed/BZGFf2TVzQI",
+      "thumbnail": "https://i.ytimg.com/vi/BZGFf2TVzQI/hqdefault.jpg",
+      "site_titles": [
+        "Western vs. Dressage - What's the Difference?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "TYpudsnanbQ",
+      "youtube_title": "20 How to Direct Rein with a Snaffle Bit Briddle",
+      "channel": "Brooks Studios",
+      "youtube_url": "https://www.youtube.com/watch?v=TYpudsnanbQ",
+      "embed_url": "https://www.youtube.com/embed/TYpudsnanbQ",
+      "thumbnail": "https://i.ytimg.com/vi/TYpudsnanbQ/hqdefault.jpg",
+      "site_titles": [
+        "20 How to Direct Rein with a Snaffle Bit Briddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "o1SMhkpUfyI",
+      "youtube_title": "How do you have Soft Hands?",
+      "channel": "Panic-Free Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=o1SMhkpUfyI",
+      "embed_url": "https://www.youtube.com/embed/o1SMhkpUfyI",
+      "thumbnail": "https://i.ytimg.com/vi/o1SMhkpUfyI/hqdefault.jpg",
+      "site_titles": [
+        "How do you have Soft Hands?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nZQUeAhanCI",
+      "youtube_title": "How to Achieve a Lighter Contact",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=nZQUeAhanCI",
+      "embed_url": "https://www.youtube.com/embed/nZQUeAhanCI",
+      "thumbnail": "https://i.ytimg.com/vi/nZQUeAhanCI/hqdefault.jpg",
+      "site_titles": [
+        "How to Achieve a Lighter Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RBQ5r8PfPl4",
+      "youtube_title": "Controls Of The Horse: Rein and Leg Aids",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=RBQ5r8PfPl4",
+      "embed_url": "https://www.youtube.com/embed/RBQ5r8PfPl4",
+      "thumbnail": "https://i.ytimg.com/vi/RBQ5r8PfPl4/hqdefault.jpg",
+      "site_titles": [
+        "Controls Of The Horse: Rein and Leg Aids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dkaXXZJgi0k",
+      "youtube_title": "How to Teach Lateral Flexion to your Horse. Easy For beginners",
+      "channel": "Luce Reins Training - LRT Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=dkaXXZJgi0k",
+      "embed_url": "https://www.youtube.com/embed/dkaXXZJgi0k",
+      "thumbnail": "https://i.ytimg.com/vi/dkaXXZJgi0k/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Lateral Flexion to your Horse. Easy For beginners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VZGizVSUnvk",
+      "youtube_title": "The Key to Dressage - Inside leg to Outside Rein",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=VZGizVSUnvk",
+      "embed_url": "https://www.youtube.com/embed/VZGizVSUnvk",
+      "thumbnail": "https://i.ytimg.com/vi/VZGizVSUnvk/hqdefault.jpg",
+      "site_titles": [
+        "The Key to Dressage - Inside leg to Outside Rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mRtveZmnHkM",
+      "youtube_title": "Rein Aids: Direct, Opening, and Indirect Rein Aids",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=mRtveZmnHkM",
+      "embed_url": "https://www.youtube.com/embed/mRtveZmnHkM",
+      "thumbnail": "https://i.ytimg.com/vi/mRtveZmnHkM/hqdefault.jpg",
+      "site_titles": [
+        "Rein Aids: Direct, Opening, and Indirect Rein Aids"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KyK1Um9PFX8",
+      "youtube_title": "Daily Dose of Horsemanship Homework: Pulley Rein",
+      "channel": "Julie Goodnight",
+      "youtube_url": "https://www.youtube.com/watch?v=KyK1Um9PFX8",
+      "embed_url": "https://www.youtube.com/embed/KyK1Um9PFX8",
+      "thumbnail": "https://i.ytimg.com/vi/KyK1Um9PFX8/hqdefault.jpg",
+      "site_titles": [
+        "Daily Dose of Horsemanship Homework: Pulley Rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q5_hZjv_DPI",
+      "youtube_title": "Examples of 3 REIN ACTIONS:  1) Direct Rein 2) Indirect Rein 3) Opening Rein",
+      "channel": "Riding Lessons",
+      "youtube_url": "https://www.youtube.com/watch?v=q5_hZjv_DPI",
+      "embed_url": "https://www.youtube.com/embed/q5_hZjv_DPI",
+      "thumbnail": "https://i.ytimg.com/vi/q5_hZjv_DPI/hqdefault.jpg",
+      "site_titles": [
+        "Examples of 3 REIN ACTIONS: 1) Direct Rein 2) Indirect Rein 3) Opening Rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w4St3DO3nuE",
+      "youtube_title": "Difference Between Loose Rein And Contact Rein! Part 3! | The Horse Guru-Michael Gascon",
+      "channel": "Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=w4St3DO3nuE",
+      "embed_url": "https://www.youtube.com/embed/w4St3DO3nuE",
+      "thumbnail": "https://i.ytimg.com/vi/w4St3DO3nuE/hqdefault.jpg",
+      "site_titles": [
+        "Difference Between Loose Rein And Contact Rein! Part 3! | The Horse Guru-Michael Gascon"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nZGjkAJTg20",
+      "youtube_title": "Using the direct rein",
+      "channel": "Mark Langley",
+      "youtube_url": "https://www.youtube.com/watch?v=nZGjkAJTg20",
+      "embed_url": "https://www.youtube.com/embed/nZGjkAJTg20",
+      "thumbnail": "https://i.ytimg.com/vi/nZGjkAJTg20/hqdefault.jpg",
+      "site_titles": [
+        "Using the direct rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "adwoLcjBiPg",
+      "youtube_title": "How To Use the Indirect Rein Aid Correctly on Your Horse",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=adwoLcjBiPg",
+      "embed_url": "https://www.youtube.com/embed/adwoLcjBiPg",
+      "thumbnail": "https://i.ytimg.com/vi/adwoLcjBiPg/hqdefault.jpg",
+      "site_titles": [
+        "How To Use the Indirect Rein Aid Correctly on Your Horse"
       ],
       "sections": [
         "qa"
