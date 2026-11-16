@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1595,
+  "count": 1688,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -179,8 +179,6 @@
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
         "qa/western-horsemanship/how-do-i-develop-invisible-aids-for-western-horsemanship-that-judges-reward/index.html",
         "qa/western-pleasure/how-do-i-train-smooth-correct-transitions-for-western-pleasure-competition/index.html",
-        "qa/working-cow-horse/how-do-non-pros-avoid-over-riding-during-cattle-work/index.html",
-        "qa/working-cow-horse/why-is-overriding-the-horse-during-cow-work-such-a-damaging-mistake/index.html",
         "qa/working-equitation/how-do-i-train-my-horse-for-the-dressage-phase-of-working-equitation/index.html",
         "videos/reining/index.html"
       ]
@@ -238,7 +236,6 @@
         "qa/hunter-jumper/what-is-a-flying-lead-change-and-how-is-it-developed-for-jumpers/index.html",
         "qa/hunter-jumper/what-is-a-simple-lead-change-and-when-do-you-use-it/index.html",
         "qa/ranch-riding/how-do-i-develop-a-smooth-flying-lead-change-for-a-ranch-riding-pattern/index.html",
-        "qa/working-cow-horse/why-does-lead-change-quality-matter-in-working-cow-horse/index.html",
         "reining/developing-lead-changes/index.html",
         "videos/reining/index.html"
       ]
@@ -296,7 +293,6 @@
         "qa/horsemanship/when-should-you-start-wearing-spurs-on-a-young-horse-in-training/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
         "qa/training-principles/how-do-you-know-when-a-green-horse-is-ready-to-advance-to-more-demanding-work/index.html",
-        "qa/working-cow-horse/what-age-should-a-working-cow-horse-prospect-be-started/index.html",
         "videos/colt-starting/index.html"
       ]
     },
@@ -487,8 +483,6 @@
       "reference_count": 21,
       "pages": [
         "qa/ranch-riding/index.html",
-        "qa/working-cow-horse/how-do-you-prepare-the-reining-phase-for-a-working-cow-horse-show/index.html",
-        "qa/working-cow-horse/how-does-poor-pattern-preparation-in-the-reining-phase-hurt-a-working-cow-horse/index.html",
         "qa/working-western-rail/index.html",
         "reining/reining-circles-large-and-small/index.html"
       ]
@@ -608,9 +602,6 @@
         "qa/team-roping/how-do-you-keep-a-horse-calm-around-cattle/index.html",
         "qa/trailer-loading/how-do-i-train-a-horse-to-load-in-a-trailer-calmly-and-reliably/index.html",
         "qa/training-principles-psychology/index.html",
-        "qa/working-cow-horse/how-do-i-manage-a-horse-that-becomes-too-aggressive-or-hot-on-cattle/index.html",
-        "qa/working-cow-horse/how-do-you-keep-a-horse-from-getting-too-hot-on-cattle/index.html",
-        "qa/working-cow-horse/why-does-my-cow-horse-get-too-hot-on-cattle/index.html",
         "videos/problem-horse/index.html"
       ]
     },
@@ -641,7 +632,6 @@
         "qa/collection/index.html",
         "qa/dressage/what-physical-changes-happen-in-the-horse-as-collection-develops-in-dressage/index.html",
         "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
-        "qa/working-cow-horse/how-does-collection-apply-to-cow-horse-training/index.html",
         "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
       ]
     },
@@ -708,8 +698,6 @@
       "reference_count": 15,
       "pages": [
         "qa/reining/index.html",
-        "qa/working-cow-horse/what-should-i-work-on-between-working-cow-horse-lessons/index.html",
-        "qa/working-cow-horse/why-does-my-horse-anticipate-the-cattle-work/index.html",
         "reining/teaching-the-sliding-stop/index.html"
       ]
     },
@@ -746,7 +734,6 @@
         "qa/horsemanship/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
         "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
         "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
-        "qa/working-cow-horse/why-is-failing-to-maintain-correct-body-position-as-a-rider-one-of-the-costliest/index.html",
         "reining/teaching-the-sliding-stop/index.html",
         "videos/reining/index.html"
       ]
@@ -955,7 +942,6 @@
         "qa/reining/what-does-a-good-reining-horse-need-to-know/index.html",
         "qa/versatility-ranch-horse/how-do-you-develop-the-reining-maneuvers-required-for-versatility-ranch-horse/index.html",
         "qa/western-pleasure/index.html",
-        "qa/working-cow-horse/what-body-control-does-a-cow-horse-need-before-seeing-cattle/index.html",
         "reining/backup-on-a-reining-horse/index.html",
         "reining/forward-straight-relaxed/index.html",
         "reining/spinning-fundamentals/index.html"
@@ -1106,8 +1092,6 @@
       "pages": [
         "qa/team-roping/how-do-i-train-a-rope-horse-to-have-a-reliable-stop/index.html",
         "qa/team-roping/what-kind-of-stop-does-a-rope-horse-need/index.html",
-        "qa/working-cow-horse/how-do-i-develop-a-deep-correct-stop-in-my-cow-horse-that-holds-up-under-the-pre/index.html",
-        "qa/working-cow-horse/how-do-i-fix-a-horse-that-has-lost-its-stop-in-cattle-work/index.html",
         "reining/backup-on-a-reining-horse/index.html"
       ]
     },
@@ -1171,8 +1155,7 @@
         "problem-horse/no-whoa-runaway-horse/index.html",
         "qa/mounting-dismounting/how-does-anderson-teach-the-one-rein-stop-as-it-applies-to-the-moment-of-mountin/index.html",
         "qa/reining/what-is-the-safest-way-to-start-reining/index.html",
-        "qa/safety/index.html",
-        "qa/working-cow-horse/how-does-the-stop-in-cow-horse-differ-from-a-reining-stop/index.html"
+        "qa/safety/index.html"
       ]
     },
     {
@@ -1205,7 +1188,6 @@
         "qa/horsemanship/what-are-the-options-in-bits-to-transition-to-from-the-snaffle-for-western-perfo/index.html",
         "qa/reining/what-equipment-do-i-need-for-reining/index.html",
         "qa/western-horsemanship/index.html",
-        "qa/working-cow-horse/what-bit-and-equipment-is-appropriate-for-working-cow-horse-competition/index.html",
         "tack/bit-selection-western/index.html"
       ]
     },
@@ -1282,7 +1264,6 @@
       "reference_count": 8,
       "pages": [
         "qa/reining/index.html",
-        "qa/working-cow-horse/how-does-the-spin-apply-to-cow-horse-work/index.html",
         "reining/spinning-fundamentals/index.html",
         "reining/spins-and-rollbacks/index.html",
         "videos/reining/index.html"
@@ -1706,9 +1687,7 @@
         "qa"
       ],
       "reference_count": 5,
-      "pages": [
-        "qa/working-cow-horse/how-does-rate-control-prepare-a-cow-horse-for-cattle/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "Xk28dtNaGsg",
@@ -2482,9 +2461,7 @@
         "qa"
       ],
       "reference_count": 3,
-      "pages": [
-        "qa/working-cow-horse/why-does-a-cow-horse-need-a-strong-reining-foundation/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "kZ5_5Pbg0HU",
@@ -8036,9 +8013,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/working-cow-horse/how-do-circles-prepare-a-horse-for-cattle-work/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "EhG6gR-2zDk",
@@ -10586,9 +10561,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/working-cow-horse/how-finished-should-the-reining-be-before-cattle-are-introduced/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "eixTNMWKsdc",
@@ -12200,9 +12173,7 @@
         "qa"
       ],
       "reference_count": 1,
-      "pages": [
-        "qa/working-cow-horse/should-a-cow-horse-be-started-in-a-reining-program-first/index.html"
-      ]
+      "pages": []
     },
     {
       "id": "EyeTyjsCFsM",
@@ -28067,6 +28038,1494 @@
       "thumbnail": "https://i.ytimg.com/vi/nY72CoPs4Do/hqdefault.jpg",
       "site_titles": [
         "Don't focus on the canter to get your horse cantering! (Follow up to \"you won't muscle this one\")."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1BQW0MFUhL8",
+      "youtube_title": "Reiner vs Cow Horse",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=1BQW0MFUhL8",
+      "embed_url": "https://www.youtube.com/embed/1BQW0MFUhL8",
+      "thumbnail": "https://i.ytimg.com/vi/1BQW0MFUhL8/hqdefault.jpg",
+      "site_titles": [
+        "Reiner vs Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qktWJv-iZzo",
+      "youtube_title": "How To Teach Your Cow Horse To Hunt The Cow Circling!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=qktWJv-iZzo",
+      "embed_url": "https://www.youtube.com/embed/qktWJv-iZzo",
+      "thumbnail": "https://i.ytimg.com/vi/qktWJv-iZzo/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Cow Horse To Hunt The Cow Circling!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w5DzEaatqfM",
+      "youtube_title": "Boxing Basics",
+      "channel": "Western Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=w5DzEaatqfM",
+      "embed_url": "https://www.youtube.com/embed/w5DzEaatqfM",
+      "thumbnail": "https://i.ytimg.com/vi/w5DzEaatqfM/hqdefault.jpg",
+      "site_titles": [
+        "Boxing Basics"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qo-RWAFqZeI",
+      "youtube_title": "How To Work Your Futurity Cow Horse Down The Fence That Wants To Lean!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=qo-RWAFqZeI",
+      "embed_url": "https://www.youtube.com/embed/qo-RWAFqZeI",
+      "thumbnail": "https://i.ytimg.com/vi/qo-RWAFqZeI/hqdefault.jpg",
+      "site_titles": [
+        "How To Work Your Futurity Cow Horse Down The Fence That Wants To Lean!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DhNVc1uCTOk",
+      "youtube_title": "Controlling The Stop Down The Fence Work With Justin Wright",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=DhNVc1uCTOk",
+      "embed_url": "https://www.youtube.com/embed/DhNVc1uCTOk",
+      "thumbnail": "https://i.ytimg.com/vi/DhNVc1uCTOk/hqdefault.jpg",
+      "site_titles": [
+        "Controlling The Stop Down The Fence Work With Justin Wright"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zSL4rzrjqFA",
+      "youtube_title": "How To Get A Horse To Watch A Cow, with Graham Amos!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=zSL4rzrjqFA",
+      "embed_url": "https://www.youtube.com/embed/zSL4rzrjqFA",
+      "thumbnail": "https://i.ytimg.com/vi/zSL4rzrjqFA/hqdefault.jpg",
+      "site_titles": [
+        "How To Get A Horse To Watch A Cow, with Graham Amos!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9roNFHyQ-vo",
+      "youtube_title": "How To Improve Your Rein And Fence Work Stop!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=9roNFHyQ-vo",
+      "embed_url": "https://www.youtube.com/embed/9roNFHyQ-vo",
+      "thumbnail": "https://i.ytimg.com/vi/9roNFHyQ-vo/hqdefault.jpg",
+      "site_titles": [
+        "How To Improve Your Rein And Fence Work Stop!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CsDNCn6HOLo",
+      "youtube_title": "Teaching Rate & Straightness In Your Cow Horse Fence Work.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=CsDNCn6HOLo",
+      "embed_url": "https://www.youtube.com/embed/CsDNCn6HOLo",
+      "thumbnail": "https://i.ytimg.com/vi/CsDNCn6HOLo/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Rate & Straightness In Your Cow Horse Fence Work."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RrhlASVj2sM",
+      "youtube_title": "Nutrena Ride the Pattern Clinic: Working Cow Horse / Boxing",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=RrhlASVj2sM",
+      "embed_url": "https://www.youtube.com/embed/RrhlASVj2sM",
+      "thumbnail": "https://i.ytimg.com/vi/RrhlASVj2sM/hqdefault.jpg",
+      "site_titles": [
+        "Nutrena Ride the Pattern Clinic: Working Cow Horse / Boxing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "kJ1hGD51m_8",
+      "youtube_title": "How To Work A Bad Cow In Your Fence Work With Boyd Rice.!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=kJ1hGD51m_8",
+      "embed_url": "https://www.youtube.com/embed/kJ1hGD51m_8",
+      "thumbnail": "https://i.ytimg.com/vi/kJ1hGD51m_8/hqdefault.jpg",
+      "site_titles": [
+        "How To Work A Bad Cow In Your Fence Work With Boyd Rice.!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3S7QGBYUCGw",
+      "youtube_title": "How To Work A Cow Horse That Is Scared Of Cattle Down The Fence.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=3S7QGBYUCGw",
+      "embed_url": "https://www.youtube.com/embed/3S7QGBYUCGw",
+      "thumbnail": "https://i.ytimg.com/vi/3S7QGBYUCGw/hqdefault.jpg",
+      "site_titles": [
+        "How To Work A Cow Horse That Is Scared Of Cattle Down The Fence."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "X_oLgKS7RTM",
+      "youtube_title": "HOW TO START 2YR OLD COW HORSES'S ON CATTLE",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=X_oLgKS7RTM",
+      "embed_url": "https://www.youtube.com/embed/X_oLgKS7RTM",
+      "thumbnail": "https://i.ytimg.com/vi/X_oLgKS7RTM/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO START 2YR OLD COW HORSES'S ON CATTLE"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6uq_Bf0Y_Xk",
+      "youtube_title": "Russell Dilday - Great Boxing Exercise For Beginners",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=6uq_Bf0Y_Xk",
+      "embed_url": "https://www.youtube.com/embed/6uq_Bf0Y_Xk",
+      "thumbnail": "https://i.ytimg.com/vi/6uq_Bf0Y_Xk/hqdefault.jpg",
+      "site_titles": [
+        "Russell Dilday - Great Boxing Exercise For Beginners"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f0iqb9xjXqE",
+      "youtube_title": "Speed Control Down The Fence.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=f0iqb9xjXqE",
+      "embed_url": "https://www.youtube.com/embed/f0iqb9xjXqE",
+      "thumbnail": "https://i.ytimg.com/vi/f0iqb9xjXqE/hqdefault.jpg",
+      "site_titles": [
+        "Speed Control Down The Fence."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lC9ADfb9psA",
+      "youtube_title": "How To Develop Connection With The Cow On Your 2yr Olds",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=lC9ADfb9psA",
+      "embed_url": "https://www.youtube.com/embed/lC9ADfb9psA",
+      "thumbnail": "https://i.ytimg.com/vi/lC9ADfb9psA/hqdefault.jpg",
+      "site_titles": [
+        "How To Develop Connection With The Cow On Your 2yr Olds"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "63Vj5g3pXbA",
+      "youtube_title": "Ranch Boxing Example",
+      "channel": "West Coast Ranch Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=63Vj5g3pXbA",
+      "embed_url": "https://www.youtube.com/embed/63Vj5g3pXbA",
+      "thumbnail": "https://i.ytimg.com/vi/63Vj5g3pXbA/hqdefault.jpg",
+      "site_titles": [
+        "Ranch Boxing Example"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "d0SdWaFhWok",
+      "youtube_title": "Cow Horse Fence Turns & Circling With Lyn Anderson.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=d0SdWaFhWok",
+      "embed_url": "https://www.youtube.com/embed/d0SdWaFhWok",
+      "thumbnail": "https://i.ytimg.com/vi/d0SdWaFhWok/hqdefault.jpg",
+      "site_titles": [
+        "Cow Horse Fence Turns & Circling With Lyn Anderson."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HQoVFcQ0ksk",
+      "youtube_title": "Teaching Your Cow Horse The Fast And Slow Circles.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=HQoVFcQ0ksk",
+      "embed_url": "https://www.youtube.com/embed/HQoVFcQ0ksk",
+      "thumbnail": "https://i.ytimg.com/vi/HQoVFcQ0ksk/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Cow Horse The Fast And Slow Circles."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4gs2JlKAlGw",
+      "youtube_title": "Reining vs Reined Cow Horse Presentation",
+      "channel": "Mattie Bloomgren",
+      "youtube_url": "https://www.youtube.com/watch?v=4gs2JlKAlGw",
+      "embed_url": "https://www.youtube.com/embed/4gs2JlKAlGw",
+      "thumbnail": "https://i.ytimg.com/vi/4gs2JlKAlGw/hqdefault.jpg",
+      "site_titles": [
+        "Reining vs Reined Cow Horse Presentation"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZxkPCXui2Nc",
+      "youtube_title": "AD tips for boxing",
+      "channel": "cowtracsystems",
+      "youtube_url": "https://www.youtube.com/watch?v=ZxkPCXui2Nc",
+      "embed_url": "https://www.youtube.com/embed/ZxkPCXui2Nc",
+      "thumbnail": "https://i.ytimg.com/vi/ZxkPCXui2Nc/hqdefault.jpg",
+      "site_titles": [
+        "AD tips for boxing"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "7a2bv27Cjxc",
+      "youtube_title": "Helping this horse Overcome his Fears!",
+      "channel": "Eicher Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=7a2bv27Cjxc",
+      "embed_url": "https://www.youtube.com/embed/7a2bv27Cjxc",
+      "thumbnail": "https://i.ytimg.com/vi/7a2bv27Cjxc/hqdefault.jpg",
+      "site_titles": [
+        "Helping this horse Overcome his Fears!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bJ_TmT4L0Xg",
+      "youtube_title": "What are the differences between reining, cutting and cow horse?",
+      "channel": "Ag-Gear",
+      "youtube_url": "https://www.youtube.com/watch?v=bJ_TmT4L0Xg",
+      "embed_url": "https://www.youtube.com/embed/bJ_TmT4L0Xg",
+      "thumbnail": "https://i.ytimg.com/vi/bJ_TmT4L0Xg/hqdefault.jpg",
+      "site_titles": [
+        "What are the differences between reining, cutting and cow horse?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kyw3FjveTIw",
+      "youtube_title": "Fence Work Stops And Turns With Your Cow Horse.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=Kyw3FjveTIw",
+      "embed_url": "https://www.youtube.com/embed/Kyw3FjveTIw",
+      "thumbnail": "https://i.ytimg.com/vi/Kyw3FjveTIw/hqdefault.jpg",
+      "site_titles": [
+        "Fence Work Stops And Turns With Your Cow Horse."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xWT32V3PEQI",
+      "youtube_title": "Performance Horse Conformation, the Pros & Cons - Reining, Ranch Versatility, Reined Cow Horse",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=xWT32V3PEQI",
+      "embed_url": "https://www.youtube.com/embed/xWT32V3PEQI",
+      "thumbnail": "https://i.ytimg.com/vi/xWT32V3PEQI/hqdefault.jpg",
+      "site_titles": [
+        "Performance Horse Conformation, the Pros & Cons - Reining, Ranch Versatility, Reined Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zV69LBhjkZk",
+      "youtube_title": "GCH Working Cow Horse Clinic - June 22",
+      "channel": "GregCookHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=zV69LBhjkZk",
+      "embed_url": "https://www.youtube.com/embed/zV69LBhjkZk",
+      "thumbnail": "https://i.ytimg.com/vi/zV69LBhjkZk/hqdefault.jpg",
+      "site_titles": [
+        "GCH Working Cow Horse Clinic - June 22"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tMv451UjO_Y",
+      "youtube_title": "How to : Help a horse that is scared of cows",
+      "channel": "Chelsey Kinsella",
+      "youtube_url": "https://www.youtube.com/watch?v=tMv451UjO_Y",
+      "embed_url": "https://www.youtube.com/embed/tMv451UjO_Y",
+      "thumbnail": "https://i.ytimg.com/vi/tMv451UjO_Y/hqdefault.jpg",
+      "site_titles": [
+        "How to : Help a horse that is scared of cows"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "l2AF1PnD8Xk",
+      "youtube_title": "Cow Work Circling Exercise On Sour Cattle.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=l2AF1PnD8Xk",
+      "embed_url": "https://www.youtube.com/embed/l2AF1PnD8Xk",
+      "thumbnail": "https://i.ytimg.com/vi/l2AF1PnD8Xk/hqdefault.jpg",
+      "site_titles": [
+        "Cow Work Circling Exercise On Sour Cattle."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OfqIrU_B0ms",
+      "youtube_title": "Intro to Cattle: 1st Time seeing cattle. Gypsy Sport Horse GOT COW",
+      "channel": "Bill Cameron International Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=OfqIrU_B0ms",
+      "embed_url": "https://www.youtube.com/embed/OfqIrU_B0ms",
+      "thumbnail": "https://i.ytimg.com/vi/OfqIrU_B0ms/hqdefault.jpg",
+      "site_titles": [
+        "Intro to Cattle: 1st Time seeing cattle. Gypsy Sport Horse GOT COW"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BB6jsEackJ8",
+      "youtube_title": "Russell Dilday: Cow Horse Rate on a Cow",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=BB6jsEackJ8",
+      "embed_url": "https://www.youtube.com/embed/BB6jsEackJ8",
+      "thumbnail": "https://i.ytimg.com/vi/BB6jsEackJ8/hqdefault.jpg",
+      "site_titles": [
+        "Russell Dilday: Cow Horse Rate on a Cow"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GSgCJe8ph9Y",
+      "youtube_title": "The Making of A Masterpiece Cow Sense and Fleet Feet",
+      "channel": "Equine Network",
+      "youtube_url": "https://www.youtube.com/watch?v=GSgCJe8ph9Y",
+      "embed_url": "https://www.youtube.com/embed/GSgCJe8ph9Y",
+      "thumbnail": "https://i.ytimg.com/vi/GSgCJe8ph9Y/hqdefault.jpg",
+      "site_titles": [
+        "The Making of A Masterpiece Cow Sense and Fleet Feet"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K9uGj-xsg28",
+      "youtube_title": "Todd Bergen: Why Shoulder Control Is Key In Your Cow Horse Training.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=K9uGj-xsg28",
+      "embed_url": "https://www.youtube.com/embed/K9uGj-xsg28",
+      "thumbnail": "https://i.ytimg.com/vi/K9uGj-xsg28/hqdefault.jpg",
+      "site_titles": [
+        "Todd Bergen: Why Shoulder Control Is Key In Your Cow Horse Training."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GXVVpXTDtok",
+      "youtube_title": "How To Get Your Cow Horse Comfortable Circling And Rating At Speed!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=GXVVpXTDtok",
+      "embed_url": "https://www.youtube.com/embed/GXVVpXTDtok",
+      "thumbnail": "https://i.ytimg.com/vi/GXVVpXTDtok/hqdefault.jpg",
+      "site_titles": [
+        "How To Get Your Cow Horse Comfortable Circling And Rating At Speed!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UCVZ277Wtbc",
+      "youtube_title": "What Judges Look For In The Reined Cow Horse Boxing Class.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=UCVZ277Wtbc",
+      "embed_url": "https://www.youtube.com/embed/UCVZ277Wtbc",
+      "thumbnail": "https://i.ytimg.com/vi/UCVZ277Wtbc/hqdefault.jpg",
+      "site_titles": [
+        "What Judges Look For In The Reined Cow Horse Boxing Class."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "h1Fp8stYYz8",
+      "youtube_title": "Teaching Your Cow Horse to Get Hooked on a Cow!",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=h1Fp8stYYz8",
+      "embed_url": "https://www.youtube.com/embed/h1Fp8stYYz8",
+      "thumbnail": "https://i.ytimg.com/vi/h1Fp8stYYz8/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Cow Horse to Get Hooked on a Cow!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rYWHJ1UM1js",
+      "youtube_title": "Chris Dawson - Fence Work",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=rYWHJ1UM1js",
+      "embed_url": "https://www.youtube.com/embed/rYWHJ1UM1js",
+      "thumbnail": "https://i.ytimg.com/vi/rYWHJ1UM1js/hqdefault.jpg",
+      "site_titles": [
+        "Chris Dawson - Fence Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3PVAsqby4jk",
+      "youtube_title": "Todd Graham's Secret To Controlling The Cow!",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=3PVAsqby4jk",
+      "embed_url": "https://www.youtube.com/embed/3PVAsqby4jk",
+      "thumbnail": "https://i.ytimg.com/vi/3PVAsqby4jk/hqdefault.jpg",
+      "site_titles": [
+        "Todd Graham's Secret To Controlling The Cow!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mrptjiPz28M",
+      "youtube_title": "Zane Davis How To Complete Your Fence Work Turn!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=mrptjiPz28M",
+      "embed_url": "https://www.youtube.com/embed/mrptjiPz28M",
+      "thumbnail": "https://i.ytimg.com/vi/mrptjiPz28M/hqdefault.jpg",
+      "site_titles": [
+        "Zane Davis How To Complete Your Fence Work Turn!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BdVKE2_dJNk",
+      "youtube_title": "How To Make A Lazy Horse Move His Shoulders Across The Cow Better.",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=BdVKE2_dJNk",
+      "embed_url": "https://www.youtube.com/embed/BdVKE2_dJNk",
+      "thumbnail": "https://i.ytimg.com/vi/BdVKE2_dJNk/hqdefault.jpg",
+      "site_titles": [
+        "How To Make A Lazy Horse Move His Shoulders Across The Cow Better."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KpZRJrvtKiI",
+      "youtube_title": "How To Warm Your Cow Horse Up Before The Fence Work with Ben Baldus",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=KpZRJrvtKiI",
+      "embed_url": "https://www.youtube.com/embed/KpZRJrvtKiI",
+      "thumbnail": "https://i.ytimg.com/vi/KpZRJrvtKiI/hqdefault.jpg",
+      "site_titles": [
+        "How To Warm Your Cow Horse Up Before The Fence Work with Ben Baldus"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dUNWq2iNJ6o",
+      "youtube_title": "Cow Horse to Reiner - Can the Basics Fix Everything?",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=dUNWq2iNJ6o",
+      "embed_url": "https://www.youtube.com/embed/dUNWq2iNJ6o",
+      "thumbnail": "https://i.ytimg.com/vi/dUNWq2iNJ6o/hqdefault.jpg",
+      "site_titles": [
+        "Cow Horse to Reiner - Can the Basics Fix Everything?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "iZ_Q5-5joWY",
+      "youtube_title": "Training To Make A Reined Cow Horse - Horse Training For Both Reining & Cow Work",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=iZ_Q5-5joWY",
+      "embed_url": "https://www.youtube.com/embed/iZ_Q5-5joWY",
+      "thumbnail": "https://i.ytimg.com/vi/iZ_Q5-5joWY/hqdefault.jpg",
+      "site_titles": [
+        "Training To Make A Reined Cow Horse - Horse Training For Both Reining & Cow Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZP9kEscIcek",
+      "youtube_title": "A Judges Perspective: 2016 AQHA Senior Working Cow Horse World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=ZP9kEscIcek",
+      "embed_url": "https://www.youtube.com/embed/ZP9kEscIcek",
+      "thumbnail": "https://i.ytimg.com/vi/ZP9kEscIcek/hqdefault.jpg",
+      "site_titles": [
+        "A Judges Perspective: 2016 AQHA Senior Working Cow Horse World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lrq9IitNVT4",
+      "youtube_title": "You Need These Two Things Before You Go Down The Fence with Matt Koch",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=lrq9IitNVT4",
+      "embed_url": "https://www.youtube.com/embed/lrq9IitNVT4",
+      "thumbnail": "https://i.ytimg.com/vi/lrq9IitNVT4/hqdefault.jpg",
+      "site_titles": [
+        "You Need These Two Things Before You Go Down The Fence with Matt Koch"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9UtH2NzrbEA",
+      "youtube_title": "Rein Work And How To Grow Your Cow Horse Up To Handle Pressure.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=9UtH2NzrbEA",
+      "embed_url": "https://www.youtube.com/embed/9UtH2NzrbEA",
+      "thumbnail": "https://i.ytimg.com/vi/9UtH2NzrbEA/hqdefault.jpg",
+      "site_titles": [
+        "Rein Work And How To Grow Your Cow Horse Up To Handle Pressure."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "idqWYwmBO_k",
+      "youtube_title": "How To Teach Your Horse To Draw Back With The Cow with Rodrigo Taboga",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=idqWYwmBO_k",
+      "embed_url": "https://www.youtube.com/embed/idqWYwmBO_k",
+      "thumbnail": "https://i.ytimg.com/vi/idqWYwmBO_k/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach Your Horse To Draw Back With The Cow with Rodrigo Taboga"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ccnL2806ML8",
+      "youtube_title": "Dell Hendricks Reining Spin vs Cow Horse Spin",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=ccnL2806ML8",
+      "embed_url": "https://www.youtube.com/embed/ccnL2806ML8",
+      "thumbnail": "https://i.ytimg.com/vi/ccnL2806ML8/hqdefault.jpg",
+      "site_titles": [
+        "Dell Hendricks Reining Spin vs Cow Horse Spin"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4_I7c8f_MSU",
+      "youtube_title": "Shane Steffen How To Build A Stronger Stop In Your Fence-work Program.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=4_I7c8f_MSU",
+      "embed_url": "https://www.youtube.com/embed/4_I7c8f_MSU",
+      "thumbnail": "https://i.ytimg.com/vi/4_I7c8f_MSU/hqdefault.jpg",
+      "site_titles": [
+        "Shane Steffen How To Build A Stronger Stop In Your Fence-work Program."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vDphPtz8rwY",
+      "youtube_title": "Todd Bergen: Reining to Reined Cow Horse",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=vDphPtz8rwY",
+      "embed_url": "https://www.youtube.com/embed/vDphPtz8rwY",
+      "thumbnail": "https://i.ytimg.com/vi/vDphPtz8rwY/hqdefault.jpg",
+      "site_titles": [
+        "Todd Bergen: Reining to Reined Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "sK4BDqxlN20",
+      "youtube_title": "Don Murphy: History of Rein Work in Cow Horse and Reining",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=sK4BDqxlN20",
+      "embed_url": "https://www.youtube.com/embed/sK4BDqxlN20",
+      "thumbnail": "https://i.ytimg.com/vi/sK4BDqxlN20/hqdefault.jpg",
+      "site_titles": [
+        "Don Murphy: History of Rein Work in Cow Horse and Reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fgcTV3XZp-M",
+      "youtube_title": "What is Herd Work?",
+      "channel": "National Reined Cow Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=fgcTV3XZp-M",
+      "embed_url": "https://www.youtube.com/embed/fgcTV3XZp-M",
+      "thumbnail": "https://i.ytimg.com/vi/fgcTV3XZp-M/hqdefault.jpg",
+      "site_titles": [
+        "What is Herd Work?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6g4f9gxGO9Y",
+      "youtube_title": "A Judge's Perspective: 2017 AQHA World Junior Working Cow Horse World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=6g4f9gxGO9Y",
+      "embed_url": "https://www.youtube.com/embed/6g4f9gxGO9Y",
+      "thumbnail": "https://i.ytimg.com/vi/6g4f9gxGO9Y/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2017 AQHA World Junior Working Cow Horse World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BzGct3eiDes",
+      "youtube_title": "Stock Horse of Texas Class Descriptions: Fence Cow Work",
+      "channel": "Stock Horse of Texas Association",
+      "youtube_url": "https://www.youtube.com/watch?v=BzGct3eiDes",
+      "embed_url": "https://www.youtube.com/embed/BzGct3eiDes",
+      "thumbnail": "https://i.ytimg.com/vi/BzGct3eiDes/hqdefault.jpg",
+      "site_titles": [
+        "Stock Horse of Texas Class Descriptions: Fence Cow Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "nOSP6k3v8UA",
+      "youtube_title": "A Judge's Perspective: 2018 AQHA Select Working Cow Horse World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=nOSP6k3v8UA",
+      "embed_url": "https://www.youtube.com/embed/nOSP6k3v8UA",
+      "thumbnail": "https://i.ytimg.com/vi/nOSP6k3v8UA/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2018 AQHA Select Working Cow Horse World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "22lQzJ9H-aU",
+      "youtube_title": "A Judge's Perspective: 2020 US Nationals Reined Cow Horse Open Championship",
+      "channel": "Arabian Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=22lQzJ9H-aU",
+      "embed_url": "https://www.youtube.com/embed/22lQzJ9H-aU",
+      "thumbnail": "https://i.ytimg.com/vi/22lQzJ9H-aU/hqdefault.jpg",
+      "site_titles": [
+        "A Judge's Perspective: 2020 US Nationals Reined Cow Horse Open Championship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lJghES5_Yp0",
+      "youtube_title": "What is Reined Work?",
+      "channel": "National Reined Cow Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=lJghES5_Yp0",
+      "embed_url": "https://www.youtube.com/embed/lJghES5_Yp0",
+      "thumbnail": "https://i.ytimg.com/vi/lJghES5_Yp0/hqdefault.jpg",
+      "site_titles": [
+        "What is Reined Work?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fMD8t1Af0M4",
+      "youtube_title": "Horse Training - This Ruins Cow Horses & How To Prevent It",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=fMD8t1Af0M4",
+      "embed_url": "https://www.youtube.com/embed/fMD8t1Af0M4",
+      "thumbnail": "https://i.ytimg.com/vi/fMD8t1Af0M4/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training - This Ruins Cow Horses & How To Prevent It"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O-mOEc_u_wE",
+      "youtube_title": "Monty Bruce Demostrates Fence Work",
+      "channel": "Rahn Greimann",
+      "youtube_url": "https://www.youtube.com/watch?v=O-mOEc_u_wE",
+      "embed_url": "https://www.youtube.com/embed/O-mOEc_u_wE",
+      "thumbnail": "https://i.ytimg.com/vi/O-mOEc_u_wE/hqdefault.jpg",
+      "site_titles": [
+        "Monty Bruce Demostrates Fence Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ILCvBTHFFPA",
+      "youtube_title": "What is Reined Cow Horse?",
+      "channel": "National Reined Cow Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=ILCvBTHFFPA",
+      "embed_url": "https://www.youtube.com/embed/ILCvBTHFFPA",
+      "thumbnail": "https://i.ytimg.com/vi/ILCvBTHFFPA/hqdefault.jpg",
+      "site_titles": [
+        "What is Reined Cow Horse?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cDXYutyZnVo",
+      "youtube_title": "Cow Horse Turnarounds with Buck Brannaman",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=cDXYutyZnVo",
+      "embed_url": "https://www.youtube.com/embed/cDXYutyZnVo",
+      "thumbnail": "https://i.ytimg.com/vi/cDXYutyZnVo/hqdefault.jpg",
+      "site_titles": [
+        "Cow Horse Turnarounds with Buck Brannaman"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MkaCCFLG6nM",
+      "youtube_title": "Running Soft Circles And How To Plus Your Fence Turns In The Cow Work.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=MkaCCFLG6nM",
+      "embed_url": "https://www.youtube.com/embed/MkaCCFLG6nM",
+      "thumbnail": "https://i.ytimg.com/vi/MkaCCFLG6nM/hqdefault.jpg",
+      "site_titles": [
+        "Running Soft Circles And How To Plus Your Fence Turns In The Cow Work."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K9tZJnb7Ejg",
+      "youtube_title": "NRCHA 2020 Open Hackamore Finals Commentary",
+      "channel": "Cowhorse Full Contact",
+      "youtube_url": "https://www.youtube.com/watch?v=K9tZJnb7Ejg",
+      "embed_url": "https://www.youtube.com/embed/K9tZJnb7Ejg",
+      "thumbnail": "https://i.ytimg.com/vi/K9tZJnb7Ejg/hqdefault.jpg",
+      "site_titles": [
+        "NRCHA 2020 Open Hackamore Finals Commentary"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n-ky38I0w8I",
+      "youtube_title": "Bits And Bridles For The Reined Cow Horse!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=n-ky38I0w8I",
+      "embed_url": "https://www.youtube.com/embed/n-ky38I0w8I",
+      "thumbnail": "https://i.ytimg.com/vi/n-ky38I0w8I/hqdefault.jpg",
+      "site_titles": [
+        "Bits And Bridles For The Reined Cow Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "U56N_ABW5WQ",
+      "youtube_title": "What are Your Favorite Cow Horse Bloodlines - Q&A",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=U56N_ABW5WQ",
+      "embed_url": "https://www.youtube.com/embed/U56N_ABW5WQ",
+      "thumbnail": "https://i.ytimg.com/vi/U56N_ABW5WQ/hqdefault.jpg",
+      "site_titles": [
+        "What are Your Favorite Cow Horse Bloodlines - Q&A"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HFdsOO76sIA",
+      "youtube_title": "Reined CowHorse Training for Good Stops & Cow Work",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=HFdsOO76sIA",
+      "embed_url": "https://www.youtube.com/embed/HFdsOO76sIA",
+      "thumbnail": "https://i.ytimg.com/vi/HFdsOO76sIA/hqdefault.jpg",
+      "site_titles": [
+        "Reined CowHorse Training for Good Stops & Cow Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VHfX0_ddpKU",
+      "youtube_title": "Start a horse working cows!",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=VHfX0_ddpKU",
+      "embed_url": "https://www.youtube.com/embed/VHfX0_ddpKU",
+      "thumbnail": "https://i.ytimg.com/vi/VHfX0_ddpKU/hqdefault.jpg",
+      "site_titles": [
+        "Start a horse working cows!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "N8cSY-SHBpA",
+      "youtube_title": "Good Performance Horse Conformation... Ideal for reining, cutting and reined cow horse",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=N8cSY-SHBpA",
+      "embed_url": "https://www.youtube.com/embed/N8cSY-SHBpA",
+      "thumbnail": "https://i.ytimg.com/vi/N8cSY-SHBpA/hqdefault.jpg",
+      "site_titles": [
+        "Good Performance Horse Conformation... Ideal for reining, cutting and reined cow horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "C4Kf9t-24d4",
+      "youtube_title": "What is Reined Cow Horse - NRCHA interview",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=C4Kf9t-24d4",
+      "embed_url": "https://www.youtube.com/embed/C4Kf9t-24d4",
+      "thumbnail": "https://i.ytimg.com/vi/C4Kf9t-24d4/hqdefault.jpg",
+      "site_titles": [
+        "What is Reined Cow Horse - NRCHA interview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "OpMaWrgc-Hs",
+      "youtube_title": "How To Leave The Corner In Your Reined Cow Horse Fence Work",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=OpMaWrgc-Hs",
+      "embed_url": "https://www.youtube.com/embed/OpMaWrgc-Hs",
+      "thumbnail": "https://i.ytimg.com/vi/OpMaWrgc-Hs/hqdefault.jpg",
+      "site_titles": [
+        "How To Leave The Corner In Your Reined Cow Horse Fence Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "euDPaFf_eoI",
+      "youtube_title": "Clinton Anderson and Hulk: 2020 SRCHA Pre-Futurity Rein Work",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=euDPaFf_eoI",
+      "embed_url": "https://www.youtube.com/embed/euDPaFf_eoI",
+      "thumbnail": "https://i.ytimg.com/vi/euDPaFf_eoI/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson and Hulk: 2020 SRCHA Pre-Futurity Rein Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ei_-ShXAOoc",
+      "youtube_title": "A Reined Cow Horse Needs This Training - Horse Training For Reining And Cow Horses",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Ei_-ShXAOoc",
+      "embed_url": "https://www.youtube.com/embed/Ei_-ShXAOoc",
+      "thumbnail": "https://i.ytimg.com/vi/Ei_-ShXAOoc/hqdefault.jpg",
+      "site_titles": [
+        "A Reined Cow Horse Needs This Training - Horse Training For Reining And Cow Horses"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aWSu6gdY_Cw",
+      "youtube_title": "2026 AQHA Senior Working Cow Horse World Champion",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=aWSu6gdY_Cw",
+      "embed_url": "https://www.youtube.com/embed/aWSu6gdY_Cw",
+      "thumbnail": "https://i.ytimg.com/vi/aWSu6gdY_Cw/hqdefault.jpg",
+      "site_titles": [
+        "2026 AQHA Senior Working Cow Horse World Champion"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3YprRPl4WFo",
+      "youtube_title": "How To School A Non-Pro Bridle Cow Horse For The Rein Work.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=3YprRPl4WFo",
+      "embed_url": "https://www.youtube.com/embed/3YprRPl4WFo",
+      "thumbnail": "https://i.ytimg.com/vi/3YprRPl4WFo/hqdefault.jpg",
+      "site_titles": [
+        "How To School A Non-Pro Bridle Cow Horse For The Rein Work."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QNSU8fxEz_w",
+      "youtube_title": "Matt Koch -  Fence Work",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=QNSU8fxEz_w",
+      "embed_url": "https://www.youtube.com/embed/QNSU8fxEz_w",
+      "thumbnail": "https://i.ytimg.com/vi/QNSU8fxEz_w/hqdefault.jpg",
+      "site_titles": [
+        "Matt Koch - Fence Work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pMlT2gZ1_ec",
+      "youtube_title": "Jim Spence: Tips on cow horse fence work",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=pMlT2gZ1_ec",
+      "embed_url": "https://www.youtube.com/embed/pMlT2gZ1_ec",
+      "thumbnail": "https://i.ytimg.com/vi/pMlT2gZ1_ec/hqdefault.jpg",
+      "site_titles": [
+        "Jim Spence: Tips on cow horse fence work"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "fU7Z1513exo",
+      "youtube_title": "Speed Of The Herd Work Turn For Your Cow Horse!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=fU7Z1513exo",
+      "embed_url": "https://www.youtube.com/embed/fU7Z1513exo",
+      "thumbnail": "https://i.ytimg.com/vi/fU7Z1513exo/hqdefault.jpg",
+      "site_titles": [
+        "Speed Of The Herd Work Turn For Your Cow Horse!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UqCuSGakhL0",
+      "youtube_title": "Secrets To Training The Bridle Horse With Doug Williamson!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=UqCuSGakhL0",
+      "embed_url": "https://www.youtube.com/embed/UqCuSGakhL0",
+      "thumbnail": "https://i.ytimg.com/vi/UqCuSGakhL0/hqdefault.jpg",
+      "site_titles": [
+        "Secrets To Training The Bridle Horse With Doug Williamson!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5UdS2tlyBGE",
+      "youtube_title": "Ben Baldus: Hackamore vs Snaffle",
+      "channel": "Baldus Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=5UdS2tlyBGE",
+      "embed_url": "https://www.youtube.com/embed/5UdS2tlyBGE",
+      "thumbnail": "https://i.ytimg.com/vi/5UdS2tlyBGE/hqdefault.jpg",
+      "site_titles": [
+        "Ben Baldus: Hackamore vs Snaffle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "IL3SvMOljfs",
+      "youtube_title": "Jake Telford: NRCHA Snaffle Bit Futurity Classes",
+      "channel": "CowHorse TV",
+      "youtube_url": "https://www.youtube.com/watch?v=IL3SvMOljfs",
+      "embed_url": "https://www.youtube.com/embed/IL3SvMOljfs",
+      "thumbnail": "https://i.ytimg.com/vi/IL3SvMOljfs/hqdefault.jpg",
+      "site_titles": [
+        "Jake Telford: NRCHA Snaffle Bit Futurity Classes"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LiAXXThfchQ",
+      "youtube_title": "Introduction to Reined Cow Horse",
+      "channel": "OfficialNHSRA",
+      "youtube_url": "https://www.youtube.com/watch?v=LiAXXThfchQ",
+      "embed_url": "https://www.youtube.com/embed/LiAXXThfchQ",
+      "thumbnail": "https://i.ytimg.com/vi/LiAXXThfchQ/hqdefault.jpg",
+      "site_titles": [
+        "Introduction to Reined Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2fFQYrTGtaY",
+      "youtube_title": "Playing with cows at the Working Cow Horse Clinic",
+      "channel": "GregCookHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=2fFQYrTGtaY",
+      "embed_url": "https://www.youtube.com/embed/2fFQYrTGtaY",
+      "thumbnail": "https://i.ytimg.com/vi/2fFQYrTGtaY/hqdefault.jpg",
+      "site_titles": [
+        "Playing with cows at the Working Cow Horse Clinic"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1u-TlzpT4g4",
+      "youtube_title": "Duals Lucky Charm and Kelby Phillips – 2016 NRCHA Snaffle Bit Futurity Open Champions",
+      "channel": "Quarter Horse News",
+      "youtube_url": "https://www.youtube.com/watch?v=1u-TlzpT4g4",
+      "embed_url": "https://www.youtube.com/embed/1u-TlzpT4g4",
+      "thumbnail": "https://i.ytimg.com/vi/1u-TlzpT4g4/hqdefault.jpg",
+      "site_titles": [
+        "Duals Lucky Charm and Kelby Phillips – 2016 NRCHA Snaffle Bit Futurity Open Champions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FS91L0SAGFk",
+      "youtube_title": "2025 NRCHA Snaffle Bit Futurity® Non Pro Champion: Myles Brown",
+      "channel": "National Reined Cow Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=FS91L0SAGFk",
+      "embed_url": "https://www.youtube.com/embed/FS91L0SAGFk",
+      "thumbnail": "https://i.ytimg.com/vi/FS91L0SAGFk/hqdefault.jpg",
+      "site_titles": [
+        "2025 NRCHA Snaffle Bit Futurity® Non Pro Champion: Myles Brown"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "qGr_irr_PxQ",
+      "youtube_title": "The Bridle Horse: Developing & Demystifying",
+      "channel": "Colton Woods",
+      "youtube_url": "https://www.youtube.com/watch?v=qGr_irr_PxQ",
+      "embed_url": "https://www.youtube.com/embed/qGr_irr_PxQ",
+      "thumbnail": "https://i.ytimg.com/vi/qGr_irr_PxQ/hqdefault.jpg",
+      "site_titles": [
+        "The Bridle Horse: Developing & Demystifying"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FKiyTeE8P5E",
+      "youtube_title": "What is Cow Work?",
+      "channel": "National Reined Cow Horse Association",
+      "youtube_url": "https://www.youtube.com/watch?v=FKiyTeE8P5E",
+      "embed_url": "https://www.youtube.com/embed/FKiyTeE8P5E",
+      "thumbnail": "https://i.ytimg.com/vi/FKiyTeE8P5E/hqdefault.jpg",
+      "site_titles": [
+        "What is Cow Work?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2N6YoUWQ9wk",
+      "youtube_title": "National Reined Cow Horse Association - NRCHA",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=2N6YoUWQ9wk",
+      "embed_url": "https://www.youtube.com/embed/2N6YoUWQ9wk",
+      "thumbnail": "https://i.ytimg.com/vi/2N6YoUWQ9wk/hqdefault.jpg",
+      "site_titles": [
+        "National Reined Cow Horse Association - NRCHA"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pmX1T11ctUc",
+      "youtube_title": "Using A Hackamore In Your Cow Horse Herd Work with Clay Volmer.",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=pmX1T11ctUc",
+      "embed_url": "https://www.youtube.com/embed/pmX1T11ctUc",
+      "thumbnail": "https://i.ytimg.com/vi/pmX1T11ctUc/hqdefault.jpg",
+      "site_titles": [
+        "Using A Hackamore In Your Cow Horse Herd Work with Clay Volmer."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a_erPv6xmw8",
+      "youtube_title": "Horse Training - Starting On Cattle... Cutting - Reined Cow Horse - Ranch Versatility",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=a_erPv6xmw8",
+      "embed_url": "https://www.youtube.com/embed/a_erPv6xmw8",
+      "thumbnail": "https://i.ytimg.com/vi/a_erPv6xmw8/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training - Starting On Cattle... Cutting - Reined Cow Horse - Ranch Versatility"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "x4WhnRV77cM",
+      "youtube_title": "Preparing a Young Horse to Work Cattle with Joe Wolter",
+      "channel": "Emily Kitching",
+      "youtube_url": "https://www.youtube.com/watch?v=x4WhnRV77cM",
+      "embed_url": "https://www.youtube.com/embed/x4WhnRV77cM",
+      "thumbnail": "https://i.ytimg.com/vi/x4WhnRV77cM/hqdefault.jpg",
+      "site_titles": [
+        "Preparing a Young Horse to Work Cattle with Joe Wolter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lh2t73M9Xgs",
+      "youtube_title": "How To Introduce 3yr Old Futurity Horses To The Fence Work!",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=lh2t73M9Xgs",
+      "embed_url": "https://www.youtube.com/embed/lh2t73M9Xgs",
+      "thumbnail": "https://i.ytimg.com/vi/lh2t73M9Xgs/hqdefault.jpg",
+      "site_titles": [
+        "How To Introduce 3yr Old Futurity Horses To The Fence Work!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6TXGQympciM",
+      "youtube_title": "Horse overcoming his fear of cows.",
+      "channel": "FreeHorseTrainingForever",
+      "youtube_url": "https://www.youtube.com/watch?v=6TXGQympciM",
+      "embed_url": "https://www.youtube.com/embed/6TXGQympciM",
+      "thumbnail": "https://i.ytimg.com/vi/6TXGQympciM/hqdefault.jpg",
+      "site_titles": [
+        "Horse overcoming his fear of cows."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "v943cFSj7Lg",
+      "youtube_title": "Flying Lead Changes On Your Cow Horse",
+      "channel": "RCHTO",
+      "youtube_url": "https://www.youtube.com/watch?v=v943cFSj7Lg",
+      "embed_url": "https://www.youtube.com/embed/v943cFSj7Lg",
+      "thumbnail": "https://i.ytimg.com/vi/v943cFSj7Lg/hqdefault.jpg",
+      "site_titles": [
+        "Flying Lead Changes On Your Cow Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "w95ne1law-4",
+      "youtube_title": "AMAZING fence run by Emily Kent & On The Reydio at 2022 NRCHA Celebration of Champions",
+      "channel": "Quarter Horse News",
+      "youtube_url": "https://www.youtube.com/watch?v=w95ne1law-4",
+      "embed_url": "https://www.youtube.com/embed/w95ne1law-4",
+      "thumbnail": "https://i.ytimg.com/vi/w95ne1law-4/hqdefault.jpg",
+      "site_titles": [
+        "AMAZING fence run by Emily Kent & On The Reydio at 2022 NRCHA Celebration of Champions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DhN3YRCZCsM",
+      "youtube_title": "From Fear to Friends: The Amazing Transformation of a Horse Around Cows",
+      "channel": "Wayne Bushnell Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=DhN3YRCZCsM",
+      "embed_url": "https://www.youtube.com/embed/DhN3YRCZCsM",
+      "thumbnail": "https://i.ytimg.com/vi/DhN3YRCZCsM/hqdefault.jpg",
+      "site_titles": [
+        "From Fear to Friends: The Amazing Transformation of a Horse Around Cows"
       ],
       "sections": [
         "qa"
