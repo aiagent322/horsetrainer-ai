@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2167,
+  "count": 2186,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -81,7 +81,6 @@
         "qa/desensitization-sacking-out/how-do-you-sack-out-a-young-horse-and-why-is-it-important/index.html",
         "qa/ground-manners-handling/how-do-you-teach-a-young-horse-to-whoa-and-stand-quietly-on-a-lead-and-halter/index.html",
         "qa/ground-manners-handling/what-are-the-keys-to-halter-breaking-a-young-horse/index.html",
-        "qa/groundwork-longing/explain-how-to-get-a-young-horse-started-longing-in-the-round-pen/index.html",
         "qa/groundwork-longing/index.html",
         "qa/horse-care/my-horse-started-weaving-its-pretty-bad-so-quickly-what-is-the-cause-stress/index.html",
         "qa/horse-care/my-young-horse-has-started-chewing-things-is-this-temporary-or-a-problem/index.html",
@@ -279,7 +278,6 @@
       "pages": [
         "colt-starting/first-60-days-under-saddle/index.html",
         "qa/groundwork-longing/index.html",
-        "qa/groundwork-longing/is-lunging-bad-for-young-horses/index.html",
         "qa/reining/do-i-need-to-know-how-to-lope-before-starting-reining/index.html",
         "qa/training-principles/how-do-you-know-when-a-green-horse-is-ready-to-advance-to-more-demanding-work/index.html",
         "videos/colt-starting/index.html"
@@ -329,8 +327,6 @@
         "qa/desensitization-sacking-out/how-do-i-desensitize-a-spooky-horse-to-frightening-objects-and-situations/index.html",
         "qa/desensitization-sacking-out/how-do-i-handle-a-horse-that-spooks-on-the-trail-and-get-it-more-confident/index.html",
         "qa/desensitization-sacking-out/how-do-i-train-a-spooky-horse/index.html",
-        "qa/groundwork-longing/how-do-i-use-groundwork-to-help-a-spooky-or-anxious-horse-become-calmer/index.html",
-        "qa/groundwork-longing/how-do-i-use-groundwork-to-prepare-a-spooky-horse-for-riding/index.html",
         "qa/lateral-work-suppling/index.html",
         "qa/problem-solving-under-saddle/how-do-you-ride-a-horse-through-a-spook-safely-without-making-it-worse/index.html",
         "qa/reining/why-does-my-reining-horse-speed-up-when-i-get-nervous/index.html",
@@ -612,7 +608,6 @@
       "reference_count": 10,
       "pages": [
         "qa/collection/index.html",
-        "qa/groundwork-longing/how-does-in-hand-work-prepare-a-horse-for-collection-under-saddle/index.html",
         "qa/working-equitation/what-collection-level-is-required-in-working-equitation-and-how-does-it-compare/index.html"
       ]
     },
@@ -1924,7 +1919,6 @@
       "reference_count": 4,
       "pages": [
         "qa/collection/index.html",
-        "qa/groundwork-longing/what-ground-exercises-develop-a-horses-responsiveness-to-leg-and-seat-aids-befor/index.html",
         "qa/training-principles/how-do-you-introduce-the-basic-aids-of-leg-rein-and-seat-to-a-young-horse-under/index.html",
         "qa/versatility-ranch-horse/index.html"
       ]
@@ -37161,6 +37155,310 @@
       "thumbnail": "https://i.ytimg.com/vi/U264sa3aSQk/hqdefault.jpg",
       "site_titles": [
         "Reiner klimke & Ahlerich - Los Angeles Olympic dressage"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FON97RXquLg",
+      "youtube_title": "How to start round penning a young horse with Charles Wilhelm",
+      "channel": "cwtraining",
+      "youtube_url": "https://www.youtube.com/watch?v=FON97RXquLg",
+      "embed_url": "https://www.youtube.com/embed/FON97RXquLg",
+      "thumbnail": "https://i.ytimg.com/vi/FON97RXquLg/hqdefault.jpg",
+      "site_titles": [
+        "How to start round penning a young horse with Charles Wilhelm"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zWS9We7lNPg",
+      "youtube_title": "Groundwork in a Figure 8 with Tom Curtin",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=zWS9We7lNPg",
+      "embed_url": "https://www.youtube.com/embed/zWS9We7lNPg",
+      "thumbnail": "https://i.ytimg.com/vi/zWS9We7lNPg/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork in a Figure 8 with Tom Curtin"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "RUXhw69t9iM",
+      "youtube_title": "Training horse voice commands with Andrew McLean",
+      "channel": "Equitation Science International",
+      "youtube_url": "https://www.youtube.com/watch?v=RUXhw69t9iM",
+      "embed_url": "https://www.youtube.com/embed/RUXhw69t9iM",
+      "thumbnail": "https://i.ytimg.com/vi/RUXhw69t9iM/hqdefault.jpg",
+      "site_titles": [
+        "Training horse voice commands with Andrew McLean"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5hA3Rh4sX-Y",
+      "youtube_title": "How To Lead A Horse (The RIGHT Way)",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=5hA3Rh4sX-Y",
+      "embed_url": "https://www.youtube.com/embed/5hA3Rh4sX-Y",
+      "thumbnail": "https://i.ytimg.com/vi/5hA3Rh4sX-Y/hqdefault.jpg",
+      "site_titles": [
+        "How To Lead A Horse (The RIGHT Way)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9X3ecKqan7w",
+      "youtube_title": "Groundwork for Horses: Round Penning for Respect (An Overview)",
+      "channel": "Keith Hosman",
+      "youtube_url": "https://www.youtube.com/watch?v=9X3ecKqan7w",
+      "embed_url": "https://www.youtube.com/embed/9X3ecKqan7w",
+      "thumbnail": "https://i.ytimg.com/vi/9X3ecKqan7w/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork for Horses: Round Penning for Respect (An Overview)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4bO_HPSHxOU",
+      "youtube_title": "Train your Horse to be more Responsive to going Forward on the Lunge Line",
+      "channel": "Ashley Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=4bO_HPSHxOU",
+      "embed_url": "https://www.youtube.com/embed/4bO_HPSHxOU",
+      "thumbnail": "https://i.ytimg.com/vi/4bO_HPSHxOU/hqdefault.jpg",
+      "site_titles": [
+        "Train your Horse to be more Responsive to going Forward on the Lunge Line"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dvKk4kdd1IA",
+      "youtube_title": "Clinton Anderson The Sending Exercise",
+      "channel": "Horse Illustrated",
+      "youtube_url": "https://www.youtube.com/watch?v=dvKk4kdd1IA",
+      "embed_url": "https://www.youtube.com/embed/dvKk4kdd1IA",
+      "thumbnail": "https://i.ytimg.com/vi/dvKk4kdd1IA/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson The Sending Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Cs7mcGzLOCM",
+      "youtube_title": "IN HAND WORK WITH HORSES | 3 EXERCISES 🐴",
+      "channel": "JSHorsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Cs7mcGzLOCM",
+      "embed_url": "https://www.youtube.com/embed/Cs7mcGzLOCM",
+      "thumbnail": "https://i.ytimg.com/vi/Cs7mcGzLOCM/hqdefault.jpg",
+      "site_titles": [
+        "IN HAND WORK WITH HORSES | 3 EXERCISES 🐴"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WKHfP77QgvY",
+      "youtube_title": "Michael Eilberg | Lunging a young horse | PONY Magazine",
+      "channel": "PONY magazine",
+      "youtube_url": "https://www.youtube.com/watch?v=WKHfP77QgvY",
+      "embed_url": "https://www.youtube.com/embed/WKHfP77QgvY",
+      "thumbnail": "https://i.ytimg.com/vi/WKHfP77QgvY/hqdefault.jpg",
+      "site_titles": [
+        "Michael Eilberg | Lunging a young horse | PONY Magazine"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q9I9tQaXaNw",
+      "youtube_title": "Getting PULLED AROUND by your horse? Here's how to fix it!",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=q9I9tQaXaNw",
+      "embed_url": "https://www.youtube.com/embed/q9I9tQaXaNw",
+      "thumbnail": "https://i.ytimg.com/vi/q9I9tQaXaNw/hqdefault.jpg",
+      "site_titles": [
+        "Getting PULLED AROUND by your horse? Here's how to fix it!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "a45elT5gVFc",
+      "youtube_title": "Why We Do Groundwork",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=a45elT5gVFc",
+      "embed_url": "https://www.youtube.com/embed/a45elT5gVFc",
+      "thumbnail": "https://i.ytimg.com/vi/a45elT5gVFc/hqdefault.jpg",
+      "site_titles": [
+        "Why We Do Groundwork"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cfhSggKdkeU",
+      "youtube_title": "BEGINNER DOES GROUNDWORK",
+      "channel": "Carmella Abel - Equine Helper",
+      "youtube_url": "https://www.youtube.com/watch?v=cfhSggKdkeU",
+      "embed_url": "https://www.youtube.com/embed/cfhSggKdkeU",
+      "thumbnail": "https://i.ytimg.com/vi/cfhSggKdkeU/hqdefault.jpg",
+      "site_titles": [
+        "BEGINNER DOES GROUNDWORK"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hErg01xa188",
+      "youtube_title": "WHY DO YOU LUNGE A HORSE? - Dressage Mastery TV Episode 219",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=hErg01xa188",
+      "embed_url": "https://www.youtube.com/embed/hErg01xa188",
+      "thumbnail": "https://i.ytimg.com/vi/hErg01xa188/hqdefault.jpg",
+      "site_titles": [
+        "WHY DO YOU LUNGE A HORSE? - Dressage Mastery TV Episode 219"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "O8-_X4Ooddg",
+      "youtube_title": "Relaxation and Responsiveness with Linda Parelli || Horse Training",
+      "channel": "Happy Horse Happy Life",
+      "youtube_url": "https://www.youtube.com/watch?v=O8-_X4Ooddg",
+      "embed_url": "https://www.youtube.com/embed/O8-_X4Ooddg",
+      "thumbnail": "https://i.ytimg.com/vi/O8-_X4Ooddg/hqdefault.jpg",
+      "site_titles": [
+        "Relaxation and Responsiveness with Linda Parelli || Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "phi9MEMuDRQ",
+      "youtube_title": "Introducing the Leg Yield from the ground #shorts",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=phi9MEMuDRQ",
+      "embed_url": "https://www.youtube.com/embed/phi9MEMuDRQ",
+      "thumbnail": "https://i.ytimg.com/vi/phi9MEMuDRQ/hqdefault.jpg",
+      "site_titles": [
+        "Introducing the Leg Yield from the ground"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8MM_SXYr5AM",
+      "youtube_title": "The Principles of Training Season 3 Episode 6: \"Creating Connection\"",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=8MM_SXYr5AM",
+      "embed_url": "https://www.youtube.com/embed/8MM_SXYr5AM",
+      "thumbnail": "https://i.ytimg.com/vi/8MM_SXYr5AM/hqdefault.jpg",
+      "site_titles": [
+        "The Principles of Training Season 3 Episode 6: \"Creating Connection\""
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "g8zbG5xKQf8",
+      "youtube_title": "Clinton Anderson Lunging For Respect Stage 1 & 2",
+      "channel": "Catherine Eldridge",
+      "youtube_url": "https://www.youtube.com/watch?v=g8zbG5xKQf8",
+      "embed_url": "https://www.youtube.com/embed/g8zbG5xKQf8",
+      "thumbnail": "https://i.ytimg.com/vi/g8zbG5xKQf8/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson Lunging For Respect Stage 1 & 2"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "mlsHqTXH4hk",
+      "youtube_title": "How To Lunge A Horse",
+      "channel": "The Midwest Cowgirl",
+      "youtube_url": "https://www.youtube.com/watch?v=mlsHqTXH4hk",
+      "embed_url": "https://www.youtube.com/embed/mlsHqTXH4hk",
+      "thumbnail": "https://i.ytimg.com/vi/mlsHqTXH4hk/hqdefault.jpg",
+      "site_titles": [
+        "How To Lunge A Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9_zp7jMlHlQ",
+      "youtube_title": "Bucking and Kicking when lunging a Youngster - How to handle it in a good way",
+      "channel": "Gabi Neurohr - Understanding Horses",
+      "youtube_url": "https://www.youtube.com/watch?v=9_zp7jMlHlQ",
+      "embed_url": "https://www.youtube.com/embed/9_zp7jMlHlQ",
+      "thumbnail": "https://i.ytimg.com/vi/9_zp7jMlHlQ/hqdefault.jpg",
+      "site_titles": [
+        "Bucking and Kicking when lunging a Youngster - How to handle it in a good way"
       ],
       "sections": [
         "qa"
