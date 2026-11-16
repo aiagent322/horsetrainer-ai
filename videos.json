@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 1232,
+  "count": 1278,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -181,11 +181,6 @@
       "pages": [
         "famous-trainers/andrea-fappani.html",
         "qa/choosing-a-trainer/how-do-you-find-a-qualified-trainer-for-a-specific-discipline-like-reining-cutti/index.html",
-        "qa/collection/do-i-use-my-legs-or-hands-more-for-collection-of-my-horse/index.html",
-        "qa/collection/how-do-i-get-my-horse-to-move-forward-into-the-bit/index.html",
-        "qa/collection/how-do-you-use-your-legs-and-reins-together-to-introduce-a-horse-to-collection/index.html",
-        "qa/collection/what-are-some-key-points-to-improve-the-collection-of-my-horse/index.html",
-        "qa/collection/what-is-the-relationship-between-impulsion-leg-pressure-and-rein-softness-in-dev/index.html",
         "qa/competition/how-do-you-develop-the-reined-or-cow-horse-pattern-work-in-working-ranch-horse/index.html",
         "qa/dressage-lessons/what-if-i-only-have-a-western-horse-can-i-still-take-dressage-lessons/index.html",
         "qa/dressage/how-does-dressage-improve-a-western-performance-horse/index.html",
@@ -257,8 +252,6 @@
       ],
       "reference_count": 35,
       "pages": [
-        "qa/collection/do-flying-changes-require-collection-similar-to-shoulder-in/index.html",
-        "qa/collection/what-body-language-is-involved-in-a-flying-change/index.html",
         "qa/counter-canter/how-does-counter-canter-help-prepare-a-horse-for-flying-changes/index.html",
         "qa/hunter-jumper/what-is-a-flying-lead-change-and-how-is-it-developed-for-jumpers/index.html",
         "qa/hunter-jumper/what-is-a-simple-lead-change-and-when-do-you-use-it/index.html",
@@ -439,7 +432,6 @@
         "famous-trainers/matt-mills.html",
         "qa/bit-progression/how-do-you-ride-with-a-loose-rein-versus-a-contact-rein-in-western-performance-a/index.html",
         "qa/bit-progression/what-is-the-role-of-the-curb-bit-in-teaching-a-horse-to-neck-rein/index.html",
-        "qa/collection/is-a-slack-rein-and-gentle-contact-good/index.html",
         "qa/horsemanship/how-do-you-train-a-horse-to-neck-rein/index.html",
         "qa/horsemanship/what-are-the-keys-to-teaching-a-horse-how-to-neck-rein/index.html",
         "qa/neck-reining/index.html"
@@ -22313,6 +22305,742 @@
       "thumbnail": "https://i.ytimg.com/vi/rLQWSJmY7UU/hqdefault.jpg",
       "site_titles": [
         "Mannhattan Storm Bitting Harness Jan 10 2015 wlmp"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bRPNk7UahIU",
+      "youtube_title": "Plan Your Ride with the Training Scale",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=bRPNk7UahIU",
+      "embed_url": "https://www.youtube.com/embed/bRPNk7UahIU",
+      "thumbnail": "https://i.ytimg.com/vi/bRPNk7UahIU/hqdefault.jpg",
+      "site_titles": [
+        "Plan Your Ride with the Training Scale"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "bheaKNs11ms",
+      "youtube_title": "How La Guérinière’s Shoulder-In Unlocks the Flying Change - Part 1/4",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=bheaKNs11ms",
+      "embed_url": "https://www.youtube.com/embed/bheaKNs11ms",
+      "thumbnail": "https://i.ytimg.com/vi/bheaKNs11ms/hqdefault.jpg",
+      "site_titles": [
+        "How La Guérinière’s Shoulder-In Unlocks the Flying Change - Part 1/4"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LwFoC7FnfW0",
+      "youtube_title": "Horse Training: The Secret to Collecting your Horse - Part 1",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=LwFoC7FnfW0",
+      "embed_url": "https://www.youtube.com/embed/LwFoC7FnfW0",
+      "thumbnail": "https://i.ytimg.com/vi/LwFoC7FnfW0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training: The Secret to Collecting your Horse - Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "PABb0MR9DA0",
+      "youtube_title": "Horse Riding Lessons - The Half Halt",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=PABb0MR9DA0",
+      "embed_url": "https://www.youtube.com/embed/PABb0MR9DA0",
+      "thumbnail": "https://i.ytimg.com/vi/PABb0MR9DA0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Lessons - The Half Halt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "vyd4YYdsz8Y",
+      "youtube_title": "Improve your Hands: 3 Tips for Better Contact",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=vyd4YYdsz8Y",
+      "embed_url": "https://www.youtube.com/embed/vyd4YYdsz8Y",
+      "thumbnail": "https://i.ytimg.com/vi/vyd4YYdsz8Y/hqdefault.jpg",
+      "site_titles": [
+        "Improve your Hands: 3 Tips for Better Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "pKDgnVazzjM",
+      "youtube_title": "How to Extend & Balance Your Horses Stride! 5 VERY Effective Exercises!",
+      "channel": "Horse Training Pro",
+      "youtube_url": "https://www.youtube.com/watch?v=pKDgnVazzjM",
+      "embed_url": "https://www.youtube.com/embed/pKDgnVazzjM",
+      "thumbnail": "https://i.ytimg.com/vi/pKDgnVazzjM/hqdefault.jpg",
+      "site_titles": [
+        "How to Extend & Balance Your Horses Stride! 5 VERY Effective Exercises!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ZUEY-5FB2Gs",
+      "youtube_title": "How to Teach Your Horse to Lower Their Head Under Saddle",
+      "channel": "Steady Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=ZUEY-5FB2Gs",
+      "embed_url": "https://www.youtube.com/embed/ZUEY-5FB2Gs",
+      "thumbnail": "https://i.ytimg.com/vi/ZUEY-5FB2Gs/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse to Lower Their Head Under Saddle"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DHDy-GLVTyU",
+      "youtube_title": "How to train Piaffe? | Begijnhoeve | How to #1",
+      "channel": "Begijnhoeve",
+      "youtube_url": "https://www.youtube.com/watch?v=DHDy-GLVTyU",
+      "embed_url": "https://www.youtube.com/embed/DHDy-GLVTyU",
+      "thumbnail": "https://i.ytimg.com/vi/DHDy-GLVTyU/hqdefault.jpg",
+      "site_titles": [
+        "How to train Piaffe? | Begijnhoeve | How to"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0MSjjYGFzUk",
+      "youtube_title": "Flex At The Poll, How To Teach Your Horse",
+      "channel": "Horse Training By Cathie Hatrick-Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=0MSjjYGFzUk",
+      "embed_url": "https://www.youtube.com/embed/0MSjjYGFzUk",
+      "thumbnail": "https://i.ytimg.com/vi/0MSjjYGFzUk/hqdefault.jpg",
+      "site_titles": [
+        "Flex At The Poll, How To Teach Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H1YUWeFWpMg",
+      "youtube_title": "Dressage Training | Getting Your Horse Forward And On The Bit",
+      "channel": "Basic Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=H1YUWeFWpMg",
+      "embed_url": "https://www.youtube.com/embed/H1YUWeFWpMg",
+      "thumbnail": "https://i.ytimg.com/vi/H1YUWeFWpMg/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Training | Getting Your Horse Forward And On The Bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ppwibVIo7Mg",
+      "youtube_title": "D/C  HOW TO RIDE THE TURN ON THE HAUNCHES - Step By Step",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=ppwibVIo7Mg",
+      "embed_url": "https://www.youtube.com/embed/ppwibVIo7Mg",
+      "thumbnail": "https://i.ytimg.com/vi/ppwibVIo7Mg/hqdefault.jpg",
+      "site_titles": [
+        "D/C HOW TO RIDE THE TURN ON THE HAUNCHES - Step By Step"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8zWegE25Dyc",
+      "youtube_title": "Shoulder-In 101 - Everything You Need to Know!",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=8zWegE25Dyc",
+      "embed_url": "https://www.youtube.com/embed/8zWegE25Dyc",
+      "thumbnail": "https://i.ytimg.com/vi/8zWegE25Dyc/hqdefault.jpg",
+      "site_titles": [
+        "Shoulder-In 101 - Everything You Need to Know!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_dwKuOg6920",
+      "youtube_title": "Trot-Walk-Trot: The Best Exercise for Balance & Connection",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=_dwKuOg6920",
+      "embed_url": "https://www.youtube.com/embed/_dwKuOg6920",
+      "thumbnail": "https://i.ytimg.com/vi/_dwKuOg6920/hqdefault.jpg",
+      "site_titles": [
+        "Trot-Walk-Trot: The Best Exercise for Balance & Connection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DboTwyz9re4",
+      "youtube_title": "How to engage the horses' hindquarters.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=DboTwyz9re4",
+      "embed_url": "https://www.youtube.com/embed/DboTwyz9re4",
+      "thumbnail": "https://i.ytimg.com/vi/DboTwyz9re4/hqdefault.jpg",
+      "site_titles": [
+        "How to engage the horses' hindquarters."
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rzw9nBKV-2c",
+      "youtube_title": "The Walk - Medium, Collected, Extended, and Free",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=rzw9nBKV-2c",
+      "embed_url": "https://www.youtube.com/embed/rzw9nBKV-2c",
+      "thumbnail": "https://i.ytimg.com/vi/rzw9nBKV-2c/hqdefault.jpg",
+      "site_titles": [
+        "The Walk - Medium, Collected, Extended, and Free"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ou6Mc3NVOV4",
+      "youtube_title": "Luiten's Lessons: Walk - Trot Transitions | Training Series With Dressage Rider Marten Luiten",
+      "channel": "Horse & Country",
+      "youtube_url": "https://www.youtube.com/watch?v=ou6Mc3NVOV4",
+      "embed_url": "https://www.youtube.com/embed/ou6Mc3NVOV4",
+      "thumbnail": "https://i.ytimg.com/vi/ou6Mc3NVOV4/hqdefault.jpg",
+      "site_titles": [
+        "Luiten's Lessons: Walk - Trot Transitions | Training Series With Dressage Rider Marten Luiten"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XLLhztqgDUY",
+      "youtube_title": "HOW TO GET IMPULSION",
+      "channel": "Zara Murad Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=XLLhztqgDUY",
+      "embed_url": "https://www.youtube.com/embed/XLLhztqgDUY",
+      "thumbnail": "https://i.ytimg.com/vi/XLLhztqgDUY/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO GET IMPULSION"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "aoD8RDGGxXo",
+      "youtube_title": "An Introduction to Lateral Work with Amelia Newcomb",
+      "channel": "The Eclectic Horseman",
+      "youtube_url": "https://www.youtube.com/watch?v=aoD8RDGGxXo",
+      "embed_url": "https://www.youtube.com/embed/aoD8RDGGxXo",
+      "thumbnail": "https://i.ytimg.com/vi/aoD8RDGGxXo/hqdefault.jpg",
+      "site_titles": [
+        "An Introduction to Lateral Work with Amelia Newcomb"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8IZJekCHqT8",
+      "youtube_title": "HOW TO COLLECT YOUR CANTER",
+      "channel": "Zara Murad Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=8IZJekCHqT8",
+      "embed_url": "https://www.youtube.com/embed/8IZJekCHqT8",
+      "thumbnail": "https://i.ytimg.com/vi/8IZJekCHqT8/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO COLLECT YOUR CANTER"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hLv3BG3GeVQ",
+      "youtube_title": "Flex at the poll without a bit",
+      "channel": "Horse Training By Cathie Hatrick-Anderson",
+      "youtube_url": "https://www.youtube.com/watch?v=hLv3BG3GeVQ",
+      "embed_url": "https://www.youtube.com/embed/hLv3BG3GeVQ",
+      "thumbnail": "https://i.ytimg.com/vi/hLv3BG3GeVQ/hqdefault.jpg",
+      "site_titles": [
+        "Flex at the poll without a bit"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QlYzlS7fzEs",
+      "youtube_title": "A DIFFERENT WAY TO GET YOUR HORSE ON THE BIT! (WAIT TILL YOU TRY THIS!)",
+      "channel": "Joseph Newcomb",
+      "youtube_url": "https://www.youtube.com/watch?v=QlYzlS7fzEs",
+      "embed_url": "https://www.youtube.com/embed/QlYzlS7fzEs",
+      "thumbnail": "https://i.ytimg.com/vi/QlYzlS7fzEs/hqdefault.jpg",
+      "site_titles": [
+        "A DIFFERENT WAY TO GET YOUR HORSE ON THE BIT! (WAIT TILL YOU TRY THIS!)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "VxmFEEWaPXs",
+      "youtube_title": "Improve Your Walk-trot Transitions",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=VxmFEEWaPXs",
+      "embed_url": "https://www.youtube.com/embed/VxmFEEWaPXs",
+      "thumbnail": "https://i.ytimg.com/vi/VxmFEEWaPXs/hqdefault.jpg",
+      "site_titles": [
+        "Improve Your Walk-trot Transitions"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "MvpzYsXR_Yw",
+      "youtube_title": "WHAT DO I DO WHEN MY HORSE GOES BEHIND THE VERTICAL? - Dressage Mastery TV Episode 193",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=MvpzYsXR_Yw",
+      "embed_url": "https://www.youtube.com/embed/MvpzYsXR_Yw",
+      "thumbnail": "https://i.ytimg.com/vi/MvpzYsXR_Yw/hqdefault.jpg",
+      "site_titles": [
+        "WHAT DO I DO WHEN MY HORSE GOES BEHIND THE VERTICAL? - Dressage Mastery TV Episode 193"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4_M1Vi0e9uM",
+      "youtube_title": "Shoulder-In vs. Shoulder-Fore",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=4_M1Vi0e9uM",
+      "embed_url": "https://www.youtube.com/embed/4_M1Vi0e9uM",
+      "thumbnail": "https://i.ytimg.com/vi/4_M1Vi0e9uM/hqdefault.jpg",
+      "site_titles": [
+        "Shoulder-In vs. Shoulder-Fore"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LkBk2JcBuhU",
+      "youtube_title": "How I Teach Correct Rein Contact",
+      "channel": "Saddle Camp",
+      "youtube_url": "https://www.youtube.com/watch?v=LkBk2JcBuhU",
+      "embed_url": "https://www.youtube.com/embed/LkBk2JcBuhU",
+      "thumbnail": "https://i.ytimg.com/vi/LkBk2JcBuhU/hqdefault.jpg",
+      "site_titles": [
+        "How I Teach Correct Rein Contact"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F3Fk4W_A5IM",
+      "youtube_title": "Riding behind the bit .mov",
+      "channel": "Audrey Cordery",
+      "youtube_url": "https://www.youtube.com/watch?v=F3Fk4W_A5IM",
+      "embed_url": "https://www.youtube.com/embed/F3Fk4W_A5IM",
+      "thumbnail": "https://i.ytimg.com/vi/F3Fk4W_A5IM/hqdefault.jpg",
+      "site_titles": [
+        "Riding behind the bit .mov"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xbdsEt5b_fE",
+      "youtube_title": "Horse CHOMPING On The BIT and How To Fix It - Horse Training Problems",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=xbdsEt5b_fE",
+      "embed_url": "https://www.youtube.com/embed/xbdsEt5b_fE",
+      "thumbnail": "https://i.ytimg.com/vi/xbdsEt5b_fE/hqdefault.jpg",
+      "site_titles": [
+        "Horse CHOMPING On The BIT and How To Fix It - Horse Training Problems"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "5EwBSwhItcc",
+      "youtube_title": "WHAT DO YOU DO WHEN YOUR HORSE GETS HEAVY ON THE FOREHAND? - Dressage Mastery TV Episode 223",
+      "channel": "YourRidingSuccess",
+      "youtube_url": "https://www.youtube.com/watch?v=5EwBSwhItcc",
+      "embed_url": "https://www.youtube.com/embed/5EwBSwhItcc",
+      "thumbnail": "https://i.ytimg.com/vi/5EwBSwhItcc/hqdefault.jpg",
+      "site_titles": [
+        "WHAT DO YOU DO WHEN YOUR HORSE GETS HEAVY ON THE FOREHAND? - Dressage Mastery TV Episode 223"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "BA0wzjKt0Ko",
+      "youtube_title": "5 Favorite Tips to Stop Your Horse Pulling or Leaning on the Rein",
+      "channel": "Long Ride Home",
+      "youtube_url": "https://www.youtube.com/watch?v=BA0wzjKt0Ko",
+      "embed_url": "https://www.youtube.com/embed/BA0wzjKt0Ko",
+      "thumbnail": "https://i.ytimg.com/vi/BA0wzjKt0Ko/hqdefault.jpg",
+      "site_titles": [
+        "5 Favorite Tips to Stop Your Horse Pulling or Leaning on the Rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "b05wkPkDNFU",
+      "youtube_title": "Asking the horse to flex at the poll with direct flexion to chew the reins out of the hands",
+      "channel": "Kristin Hermann",
+      "youtube_url": "https://www.youtube.com/watch?v=b05wkPkDNFU",
+      "embed_url": "https://www.youtube.com/embed/b05wkPkDNFU",
+      "thumbnail": "https://i.ytimg.com/vi/b05wkPkDNFU/hqdefault.jpg",
+      "site_titles": [
+        "Asking the horse to flex at the poll with direct flexion to chew the reins out of the hands"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "da7o0cfJ8O0",
+      "youtube_title": "Collection. What is it? Why do it? How to do it?",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=da7o0cfJ8O0",
+      "embed_url": "https://www.youtube.com/embed/da7o0cfJ8O0",
+      "thumbnail": "https://i.ytimg.com/vi/da7o0cfJ8O0/hqdefault.jpg",
+      "site_titles": [
+        "Collection. What is it? Why do it? How to do it?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8GBN6_Zby58",
+      "youtube_title": "Charlotte Dujardin :Taking the Trot from Ugly to Awesome in a Dressage Horse",
+      "channel": "DressageHub",
+      "youtube_url": "https://www.youtube.com/watch?v=8GBN6_Zby58",
+      "embed_url": "https://www.youtube.com/embed/8GBN6_Zby58",
+      "thumbnail": "https://i.ytimg.com/vi/8GBN6_Zby58/hqdefault.jpg",
+      "site_titles": [
+        "Charlotte Dujardin :Taking the Trot from Ugly to Awesome in a Dressage Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "4yjlO2XteK0",
+      "youtube_title": "How To Correct Your Horse’s Bad Head Position - Supple Giving To The Bit!",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=4yjlO2XteK0",
+      "embed_url": "https://www.youtube.com/embed/4yjlO2XteK0",
+      "thumbnail": "https://i.ytimg.com/vi/4yjlO2XteK0/hqdefault.jpg",
+      "site_titles": [
+        "How To Correct Your Horse’s Bad Head Position - Supple Giving To The Bit!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "p3G6CGbEaLk",
+      "youtube_title": "Get Your Horse Round in One, Two, Three",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=p3G6CGbEaLk",
+      "embed_url": "https://www.youtube.com/embed/p3G6CGbEaLk",
+      "thumbnail": "https://i.ytimg.com/vi/p3G6CGbEaLk/hqdefault.jpg",
+      "site_titles": [
+        "Get Your Horse Round in One, Two, Three"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "tsOR5M94FoY",
+      "youtube_title": "How to Ride the Medium Trot/ Trot Lengthening",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=tsOR5M94FoY",
+      "embed_url": "https://www.youtube.com/embed/tsOR5M94FoY",
+      "thumbnail": "https://i.ytimg.com/vi/tsOR5M94FoY/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride the Medium Trot/ Trot Lengthening"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "42wzYnzTifM",
+      "youtube_title": "How preparation, balance, and clear aids create the best walk to canter transition #horse #canter",
+      "channel": "Laura Ashley Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=42wzYnzTifM",
+      "embed_url": "https://www.youtube.com/embed/42wzYnzTifM",
+      "thumbnail": "https://i.ytimg.com/vi/42wzYnzTifM/hqdefault.jpg",
+      "site_titles": [
+        "How preparation, balance, and clear aids create the best walk to canter transition"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3wVzWlZjmOY",
+      "youtube_title": "Path the developing a Western Pleasure Trot - Collection using the bridge a squeeze method explained",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=3wVzWlZjmOY",
+      "embed_url": "https://www.youtube.com/embed/3wVzWlZjmOY",
+      "thumbnail": "https://i.ytimg.com/vi/3wVzWlZjmOY/hqdefault.jpg",
+      "site_titles": [
+        "Path the developing a Western Pleasure Trot - Collection using the bridge a squeeze method explained"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "F6epL3brHNE",
+      "youtube_title": "Fixing a HARD Mouthed Horse",
+      "channel": "Ryan Rose",
+      "youtube_url": "https://www.youtube.com/watch?v=F6epL3brHNE",
+      "embed_url": "https://www.youtube.com/embed/F6epL3brHNE",
+      "thumbnail": "https://i.ytimg.com/vi/F6epL3brHNE/hqdefault.jpg",
+      "site_titles": [
+        "Fixing a HARD Mouthed Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "3LanqBk1yKo",
+      "youtube_title": "Dressage Tutorial - Introducing Collection",
+      "channel": "Carr & Day & Martin",
+      "youtube_url": "https://www.youtube.com/watch?v=3LanqBk1yKo",
+      "embed_url": "https://www.youtube.com/embed/3LanqBk1yKo",
+      "thumbnail": "https://i.ytimg.com/vi/3LanqBk1yKo/hqdefault.jpg",
+      "site_titles": [
+        "Dressage Tutorial - Introducing Collection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QJBUN3-bGx0",
+      "youtube_title": "The Counter Canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=QJBUN3-bGx0",
+      "embed_url": "https://www.youtube.com/embed/QJBUN3-bGx0",
+      "thumbnail": "https://i.ytimg.com/vi/QJBUN3-bGx0/hqdefault.jpg",
+      "site_titles": [
+        "The Counter Canter"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lfmNgJ5SWK8",
+      "youtube_title": "HOW TO GET YOUR HORSE TO WANT TO PUT THEIR HEAD DOWN",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=lfmNgJ5SWK8",
+      "embed_url": "https://www.youtube.com/embed/lfmNgJ5SWK8",
+      "thumbnail": "https://i.ytimg.com/vi/lfmNgJ5SWK8/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO GET YOUR HORSE TO WANT TO PUT THEIR HEAD DOWN"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "UuuWYS8g6Ns",
+      "youtube_title": "Lateral Flexion of the Head and Neck - Ground Work Exercise for Your Horse",
+      "channel": "Cornerstone Equine Academy - Horse Education",
+      "youtube_url": "https://www.youtube.com/watch?v=UuuWYS8g6Ns",
+      "embed_url": "https://www.youtube.com/embed/UuuWYS8g6Ns",
+      "thumbnail": "https://i.ytimg.com/vi/UuuWYS8g6Ns/hqdefault.jpg",
+      "site_titles": [
+        "Lateral Flexion of the Head and Neck - Ground Work Exercise for Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "9M03W7LV41Y",
+      "youtube_title": "How to Ride a Half-Halt",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=9M03W7LV41Y",
+      "embed_url": "https://www.youtube.com/embed/9M03W7LV41Y",
+      "thumbnail": "https://i.ytimg.com/vi/9M03W7LV41Y/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Half-Halt"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "ksVuB7a4FH0",
+      "youtube_title": "How to keep softness without blocking impulsion | Collective Equestrian | Alex Harrison",
+      "channel": "Collective Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=ksVuB7a4FH0",
+      "embed_url": "https://www.youtube.com/embed/ksVuB7a4FH0",
+      "thumbnail": "https://i.ytimg.com/vi/ksVuB7a4FH0/hqdefault.jpg",
+      "site_titles": [
+        "How to keep softness without blocking impulsion | Collective Equestrian | Alex Harrison"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Cms-aJ_-JR8",
+      "youtube_title": "HOW TO ESTABLISH MORE COLLECTION AT THE WALK, TROT & CANTER",
+      "channel": "WICKS Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=Cms-aJ_-JR8",
+      "embed_url": "https://www.youtube.com/embed/Cms-aJ_-JR8",
+      "thumbnail": "https://i.ytimg.com/vi/Cms-aJ_-JR8/hqdefault.jpg",
+      "site_titles": [
+        "HOW TO ESTABLISH MORE COLLECTION AT THE WALK, TROT & CANTER"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "n4H6ZYd68uE",
+      "youtube_title": "Five Exercises to do Before You Canter",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=n4H6ZYd68uE",
+      "embed_url": "https://www.youtube.com/embed/n4H6ZYd68uE",
+      "thumbnail": "https://i.ytimg.com/vi/n4H6ZYd68uE/hqdefault.jpg",
+      "site_titles": [
+        "Five Exercises to do Before You Canter"
       ],
       "sections": [
         "qa"
