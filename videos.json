@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2717,
+  "count": 2728,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -45889,6 +45889,182 @@
       "thumbnail": "https://i.ytimg.com/vi/YnnYAnzmR6o/hqdefault.jpg",
       "site_titles": [
         "Ground work, lunge, sidepass, ground pole, rollback, backing, disengage hindquarters, whoa"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6tfwQJLjGWw",
+      "youtube_title": "Transferring Groundwork to Riding (Feel) When On Your Horse's Back",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=6tfwQJLjGWw",
+      "embed_url": "https://www.youtube.com/embed/6tfwQJLjGWw",
+      "thumbnail": "https://i.ytimg.com/vi/6tfwQJLjGWw/hqdefault.jpg",
+      "site_titles": [
+        "Transferring Groundwork to Riding (Feel) When On Your Horse's Back"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "f7rmm0BU2uQ",
+      "youtube_title": "Get the Correct Body Position - Horse Training",
+      "channel": "Panic-Free Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=f7rmm0BU2uQ",
+      "embed_url": "https://www.youtube.com/embed/f7rmm0BU2uQ",
+      "thumbnail": "https://i.ytimg.com/vi/f7rmm0BU2uQ/hqdefault.jpg",
+      "site_titles": [
+        "Get the Correct Body Position - Horse Training"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "YV_0rUYXEHg",
+      "youtube_title": "How To Draw A Horse to You Using Your Posture",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=YV_0rUYXEHg",
+      "embed_url": "https://www.youtube.com/embed/YV_0rUYXEHg",
+      "thumbnail": "https://i.ytimg.com/vi/YV_0rUYXEHg/hqdefault.jpg",
+      "site_titles": [
+        "How To Draw A Horse to You Using Your Posture"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "2U7eQ1VpJxA",
+      "youtube_title": "Basic groundwork for success and respect - Flexing, moving forequarters and hindquarters",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=2U7eQ1VpJxA",
+      "embed_url": "https://www.youtube.com/embed/2U7eQ1VpJxA",
+      "thumbnail": "https://i.ytimg.com/vi/2U7eQ1VpJxA/hqdefault.jpg",
+      "site_titles": [
+        "Basic groundwork for success and respect - Flexing, moving forequarters and hindquarters"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "gDAMpc267xc",
+      "youtube_title": "How to catch a horse that doesn't want to be caught - HORSEMANSHIP",
+      "channel": "Smith Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=gDAMpc267xc",
+      "embed_url": "https://www.youtube.com/embed/gDAMpc267xc",
+      "thumbnail": "https://i.ytimg.com/vi/gDAMpc267xc/hqdefault.jpg",
+      "site_titles": [
+        "How to catch a horse that doesn't want to be caught - HORSEMANSHIP"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "LdxPKl2b68g",
+      "youtube_title": "Leadership Training with horses - body language & energy",
+      "channel": "enhancement08",
+      "youtube_url": "https://www.youtube.com/watch?v=LdxPKl2b68g",
+      "embed_url": "https://www.youtube.com/embed/LdxPKl2b68g",
+      "thumbnail": "https://i.ytimg.com/vi/LdxPKl2b68g/hqdefault.jpg",
+      "site_titles": [
+        "Leadership Training with horses - body language & energy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Kni8wRZ9lN4",
+      "youtube_title": "Some Horse Liberty Work Tips On Body Position And Intention",
+      "channel": "Stable Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Kni8wRZ9lN4",
+      "embed_url": "https://www.youtube.com/embed/Kni8wRZ9lN4",
+      "thumbnail": "https://i.ytimg.com/vi/Kni8wRZ9lN4/hqdefault.jpg",
+      "site_titles": [
+        "Some Horse Liberty Work Tips On Body Position And Intention"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "k1iMPE0P6PY",
+      "youtube_title": "Eye contact for clear communication (with horses)",
+      "channel": "ReachOutToHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=k1iMPE0P6PY",
+      "embed_url": "https://www.youtube.com/embed/k1iMPE0P6PY",
+      "thumbnail": "https://i.ytimg.com/vi/k1iMPE0P6PY/hqdefault.jpg",
+      "site_titles": [
+        "Eye contact for clear communication (with horses)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Eq3oGff7OgE",
+      "youtube_title": "The Riding Positions For Communicating To Your Horse Through Body Language",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=Eq3oGff7OgE",
+      "embed_url": "https://www.youtube.com/embed/Eq3oGff7OgE",
+      "thumbnail": "https://i.ytimg.com/vi/Eq3oGff7OgE/hqdefault.jpg",
+      "site_titles": [
+        "The Riding Positions For Communicating To Your Horse Through Body Language"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "xEj5S0yGZgs",
+      "youtube_title": "Maintain Great Riding Posture without *too much* Tension",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=xEj5S0yGZgs",
+      "embed_url": "https://www.youtube.com/embed/xEj5S0yGZgs",
+      "thumbnail": "https://i.ytimg.com/vi/xEj5S0yGZgs/hqdefault.jpg",
+      "site_titles": [
+        "Maintain Great Riding Posture without *too much* Tension"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dQ72OpgGZ_M",
+      "youtube_title": "Groundwork Lesson - Moving the horse's body zones",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=dQ72OpgGZ_M",
+      "embed_url": "https://www.youtube.com/embed/dQ72OpgGZ_M",
+      "thumbnail": "https://i.ytimg.com/vi/dQ72OpgGZ_M/hqdefault.jpg",
+      "site_titles": [
+        "Groundwork Lesson - Moving the horse's body zones"
       ],
       "sections": [
         "qa"
