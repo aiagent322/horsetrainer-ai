@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2911,
+  "count": 2924,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -48993,6 +48993,214 @@
       "thumbnail": "https://i.ytimg.com/vi/MKN6j4HlUoI/hqdefault.jpg",
       "site_titles": [
         "Have you used this bit? (2024)"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "wtDPFrj-jNc",
+      "youtube_title": "SW 101:  Practice Like a \"World Champion\" - Tyler Pearson",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=wtDPFrj-jNc",
+      "embed_url": "https://www.youtube.com/embed/wtDPFrj-jNc",
+      "thumbnail": "https://i.ytimg.com/vi/wtDPFrj-jNc/hqdefault.jpg",
+      "site_titles": [
+        "SW 101: Practice Like a \"World Champion\" - Tyler Pearson"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "jyb6lKHu4DY",
+      "youtube_title": "Steer Wrestling 101:  Maximizing Your Strength",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=jyb6lKHu4DY",
+      "embed_url": "https://www.youtube.com/embed/jyb6lKHu4DY",
+      "thumbnail": "https://i.ytimg.com/vi/jyb6lKHu4DY/hqdefault.jpg",
+      "site_titles": [
+        "Steer Wrestling 101: Maximizing Your Strength"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lk8tlL1mzkI",
+      "youtube_title": "Learn how to Steer Wrestle from PRCA Wilderness Circuit Finals Champion Wyatt Smith",
+      "channel": "rodeotraining",
+      "youtube_url": "https://www.youtube.com/watch?v=lk8tlL1mzkI",
+      "embed_url": "https://www.youtube.com/embed/lk8tlL1mzkI",
+      "thumbnail": "https://i.ytimg.com/vi/lk8tlL1mzkI/hqdefault.jpg",
+      "site_titles": [
+        "Learn how to Steer Wrestle from PRCA Wilderness Circuit Finals Champion Wyatt Smith"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "77ci5yutQPg",
+      "youtube_title": "NRS Steer Wrestling Clinic with Rope Myers",
+      "channel": "NRS World - National Roper's Supply",
+      "youtube_url": "https://www.youtube.com/watch?v=77ci5yutQPg",
+      "embed_url": "https://www.youtube.com/embed/77ci5yutQPg",
+      "thumbnail": "https://i.ytimg.com/vi/77ci5yutQPg/hqdefault.jpg",
+      "site_titles": [
+        "NRS Steer Wrestling Clinic with Rope Myers"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "H2xX32A7Rd8",
+      "youtube_title": "Horse training for steer wrestling/Roping",
+      "channel": "Competitive Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=H2xX32A7Rd8",
+      "embed_url": "https://www.youtube.com/embed/H2xX32A7Rd8",
+      "thumbnail": "https://i.ytimg.com/vi/H2xX32A7Rd8/hqdefault.jpg",
+      "site_titles": [
+        "Horse training for steer wrestling/Roping"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dk7PaxYRD44",
+      "youtube_title": "Steer Wrestling 101 Jumping Dummy: Part 1",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=dk7PaxYRD44",
+      "embed_url": "https://www.youtube.com/embed/dk7PaxYRD44",
+      "thumbnail": "https://i.ytimg.com/vi/dk7PaxYRD44/hqdefault.jpg",
+      "site_titles": [
+        "Steer Wrestling 101 Jumping Dummy: Part 1"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "6U4h5zQTTfE",
+      "youtube_title": "Steer Wrestling 101: Placing the Head",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=6U4h5zQTTfE",
+      "embed_url": "https://www.youtube.com/embed/6U4h5zQTTfE",
+      "thumbnail": "https://i.ytimg.com/vi/6U4h5zQTTfE/hqdefault.jpg",
+      "site_titles": [
+        "Steer Wrestling 101: Placing the Head"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "-Xp6nmvvO8U",
+      "youtube_title": "Starting Your Bulldogging Horse with a Dummy",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=-Xp6nmvvO8U",
+      "embed_url": "https://www.youtube.com/embed/-Xp6nmvvO8U",
+      "thumbnail": "https://i.ytimg.com/vi/-Xp6nmvvO8U/hqdefault.jpg",
+      "site_titles": [
+        "Starting Your Bulldogging Horse with a Dummy"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "HB753zi9MyM",
+      "youtube_title": "Steer Wrestling 101: Riding into the Box",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=HB753zi9MyM",
+      "embed_url": "https://www.youtube.com/embed/HB753zi9MyM",
+      "thumbnail": "https://i.ytimg.com/vi/HB753zi9MyM/hqdefault.jpg",
+      "site_titles": [
+        "Steer Wrestling 101: Riding into the Box"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "rK1f0119qkc",
+      "youtube_title": "10 year old steer wrestling/hazing horse",
+      "channel": "Tyler Schau",
+      "youtube_url": "https://www.youtube.com/watch?v=rK1f0119qkc",
+      "embed_url": "https://www.youtube.com/embed/rK1f0119qkc",
+      "thumbnail": "https://i.ytimg.com/vi/rK1f0119qkc/hqdefault.jpg",
+      "site_titles": [
+        "10 year old steer wrestling/hazing horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "_ljViWaLJh0",
+      "youtube_title": "Steer Wrestling 101: Going to the Nose",
+      "channel": "Steer Wrestling 101",
+      "youtube_url": "https://www.youtube.com/watch?v=_ljViWaLJh0",
+      "embed_url": "https://www.youtube.com/embed/_ljViWaLJh0",
+      "thumbnail": "https://i.ytimg.com/vi/_ljViWaLJh0/hqdefault.jpg",
+      "site_titles": [
+        "Steer Wrestling 101: Going to the Nose"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "WngniYbvq5M",
+      "youtube_title": "Steerwresting and Hazing in the First Person",
+      "channel": "Chance Butterfield",
+      "youtube_url": "https://www.youtube.com/watch?v=WngniYbvq5M",
+      "embed_url": "https://www.youtube.com/embed/WngniYbvq5M",
+      "thumbnail": "https://i.ytimg.com/vi/WngniYbvq5M/hqdefault.jpg",
+      "site_titles": [
+        "Steerwresting and Hazing in the First Person"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "KzPRSjP3bGA",
+      "youtube_title": "2 time AQHA Steer Wrestling Horse of the Year Cadillac Retiring",
+      "channel": "PRCA PRORODEO",
+      "youtube_url": "https://www.youtube.com/watch?v=KzPRSjP3bGA",
+      "embed_url": "https://www.youtube.com/embed/KzPRSjP3bGA",
+      "thumbnail": "https://i.ytimg.com/vi/KzPRSjP3bGA/hqdefault.jpg",
+      "site_titles": [
+        "2 time AQHA Steer Wrestling Horse of the Year Cadillac Retiring"
       ],
       "sections": [
         "qa"
