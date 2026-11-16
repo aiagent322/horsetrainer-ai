@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 907,
+  "count": 928,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -208,9 +208,6 @@
         "qa/natural-horsemanship/what-does-it-look-like-when-a-rider-has-exceptional-feel/index.html",
         "qa/natural-horsemanship/what-does-timing-mean-in-natural-horsemanship/index.html",
         "qa/natural-horsemanship/what-is-timing-in-natural-horsemanship-and-why-is-it-the-most-important-skill/index.html",
-        "qa/neck-reining/how-do-you-develop-a-soft-feel-through-the-neck-rein-rather-than-a-mechanical-on/index.html",
-        "qa/neck-reining/how-does-collection-relate-to-neck-reining-and-why-do-more-collected-horses-typi/index.html",
-        "qa/neck-reining/what-is-the-difference-between-a-horse-that-neck-reins-from-the-rein-contact-and/index.html",
         "qa/reining/how-do-i-improve-my-timing-in-reining/index.html",
         "qa/reining/index.html",
         "qa/reining/why-does-a-finished-reining-horse-react-so-quickly/index.html",
@@ -467,20 +464,7 @@
         "qa/collection/is-a-slack-rein-and-gentle-contact-good/index.html",
         "qa/horsemanship/how-do-you-train-a-horse-to-neck-rein/index.html",
         "qa/horsemanship/what-are-the-keys-to-teaching-a-horse-how-to-neck-rein/index.html",
-        "qa/neck-reining/how-do-you-correct-a-horse-that-is-slow-to-respond-to-the-neck-rein/index.html",
-        "qa/neck-reining/how-do-you-fix-a-horse-that-over-bends-or-ducks-its-nose-to-the-inside-when-neck/index.html",
-        "qa/neck-reining/how-do-you-introduce-neck-reining-while-still-riding-two-handed/index.html",
-        "qa/neck-reining/how-do-you-train-a-horse-to-neck-rein/index.html",
-        "qa/neck-reining/how-does-speed-affect-neck-rein-response-and-how-do-you-maintain-lightness-at-hi/index.html",
-        "qa/neck-reining/how-does-the-riders-hand-position-affect-neck-rein-response-and-what-is-the-corr/index.html",
-        "qa/neck-reining/how-long-does-it-typically-take-to-develop-a-fully-confirmed-neck-reining-horse/index.html",
-        "qa/neck-reining/index.html",
-        "qa/neck-reining/what-are-the-keys-to-teaching-a-horse-how-to-neck-rein/index.html",
-        "qa/neck-reining/what-are-the-most-common-neck-reining-mistakes-and-how-do-you-avoid-them/index.html",
-        "qa/neck-reining/what-does-a-fully-finished-neck-reining-horse-look-like-and-feel-like-to-ride/index.html",
-        "qa/neck-reining/what-is-neck-reining-and-how-does-it-differ-from-direct-reining/index.html",
-        "qa/neck-reining/when-and-why-would-you-go-back-to-two-handed-riding-on-a-neck-reining-horse/index.html",
-        "qa/neck-reining/why-does-the-quality-of-a-horses-neck-rein-often-fall-apart-at-the-lope-and-how/index.html"
+        "qa/neck-reining/index.html"
       ]
     },
     {
@@ -823,7 +807,6 @@
       "reference_count": 15,
       "pages": [
         "qa/horsemanship/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
-        "qa/neck-reining/how-does-body-position-and-weight-aid-the-neck-reining-horse/index.html",
         "qa/speed/how-do-you-stay-centered-when-at-a-fast-gallop-in-a-large-circle/index.html",
         "qa/speed/what-is-the-correct-body-position-for-a-rider-during-a-fast-barrel-run/index.html",
         "qa/training-principles/explain-what-centered-riding-is-and-what-are-the-keys-to-execution/index.html",
@@ -17156,6 +17139,342 @@
       "thumbnail": "https://i.ytimg.com/vi/0Rsmypo8eIE/hqdefault.jpg",
       "site_titles": [
         "Trevor Carter's Lead Change Exercise"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dx5fSHVu9ew",
+      "youtube_title": "Beginning Neck reining exercises - Using leg cues, a shanked hackamore and a single rein",
+      "channel": "LoneStarWoman Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=dx5fSHVu9ew",
+      "embed_url": "https://www.youtube.com/embed/dx5fSHVu9ew",
+      "thumbnail": "https://i.ytimg.com/vi/dx5fSHVu9ew/hqdefault.jpg",
+      "site_titles": [
+        "Beginning Neck reining exercises - Using leg cues, a shanked hackamore and a single rein"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "FpnWdEHJb20",
+      "youtube_title": "The Secret to a Perfect Neck Rein — It’s Simpler Than You Think",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=FpnWdEHJb20",
+      "embed_url": "https://www.youtube.com/embed/FpnWdEHJb20",
+      "thumbnail": "https://i.ytimg.com/vi/FpnWdEHJb20/hqdefault.jpg",
+      "site_titles": [
+        "The Secret to a Perfect Neck Rein — It’s Simpler Than You Think"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "QNvhn1c2OZU",
+      "youtube_title": "The Essentials For Creating a Soft Horse",
+      "channel": "Cowboy Campus University by Keith Stewart",
+      "youtube_url": "https://www.youtube.com/watch?v=QNvhn1c2OZU",
+      "embed_url": "https://www.youtube.com/embed/QNvhn1c2OZU",
+      "thumbnail": "https://i.ytimg.com/vi/QNvhn1c2OZU/hqdefault.jpg",
+      "site_titles": [
+        "The Essentials For Creating a Soft Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "CZMu0TKq8cM",
+      "youtube_title": "Mastering Neck Reining: Unlocking Shoulder Control for Your Horse",
+      "channel": "Luke Reinbold Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=CZMu0TKq8cM",
+      "embed_url": "https://www.youtube.com/embed/CZMu0TKq8cM",
+      "thumbnail": "https://i.ytimg.com/vi/CZMu0TKq8cM/hqdefault.jpg",
+      "site_titles": [
+        "Mastering Neck Reining: Unlocking Shoulder Control for Your Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Q26JS2-4kH0",
+      "youtube_title": "Elevate Your Riding: Transitioning from Two-Handed to One-Handed",
+      "channel": "Tim Anderson Ranch and Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=Q26JS2-4kH0",
+      "embed_url": "https://www.youtube.com/embed/Q26JS2-4kH0",
+      "thumbnail": "https://i.ytimg.com/vi/Q26JS2-4kH0/hqdefault.jpg",
+      "site_titles": [
+        "Elevate Your Riding: Transitioning from Two-Handed to One-Handed"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "dR8H75pbDts",
+      "youtube_title": "Clinton Anderson: Reined Cow Horses Introduction - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=dR8H75pbDts",
+      "embed_url": "https://www.youtube.com/embed/dR8H75pbDts",
+      "thumbnail": "https://i.ytimg.com/vi/dR8H75pbDts/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Reined Cow Horses Introduction - Downunder Horsemanship"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "q6Lux6oEs4g",
+      "youtube_title": "D/C  TEACH YOUR HORSE TO TURN ON THE HAUNCHES",
+      "channel": "Dennis Cappel Horse Training & Shoeing",
+      "youtube_url": "https://www.youtube.com/watch?v=q6Lux6oEs4g",
+      "embed_url": "https://www.youtube.com/embed/q6Lux6oEs4g",
+      "thumbnail": "https://i.ytimg.com/vi/q6Lux6oEs4g/hqdefault.jpg",
+      "site_titles": [
+        "D/C TEACH YOUR HORSE TO TURN ON THE HAUNCHES"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "049HQQBxAkU",
+      "youtube_title": "How To Teach A Horse To Neck-Rein in 4 Minutes!",
+      "channel": "Horse Perfect",
+      "youtube_url": "https://www.youtube.com/watch?v=049HQQBxAkU",
+      "embed_url": "https://www.youtube.com/embed/049HQQBxAkU",
+      "thumbnail": "https://i.ytimg.com/vi/049HQQBxAkU/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach A Horse To Neck-Rein in 4 Minutes!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "hVEeIhgetfI",
+      "youtube_title": "Body Position for Western Horseback Riding",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=hVEeIhgetfI",
+      "embed_url": "https://www.youtube.com/embed/hVEeIhgetfI",
+      "thumbnail": "https://i.ytimg.com/vi/hVEeIhgetfI/hqdefault.jpg",
+      "site_titles": [
+        "Body Position for Western Horseback Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "XTI8hSmg7dI",
+      "youtube_title": "Horse Training Methods to Improve Stops, Turns, Neck-Reining & Collection",
+      "channel": "Larry Trocha Horse Training",
+      "youtube_url": "https://www.youtube.com/watch?v=XTI8hSmg7dI",
+      "embed_url": "https://www.youtube.com/embed/XTI8hSmg7dI",
+      "thumbnail": "https://i.ytimg.com/vi/XTI8hSmg7dI/hqdefault.jpg",
+      "site_titles": [
+        "Horse Training Methods to Improve Stops, Turns, Neck-Reining & Collection"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "c2tapfUDR1Q",
+      "youtube_title": "Teaching a Horse to Neck Rein in 10 RIDES or Less – My Method!",
+      "channel": "Rock Solid Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=c2tapfUDR1Q",
+      "embed_url": "https://www.youtube.com/embed/c2tapfUDR1Q",
+      "thumbnail": "https://i.ytimg.com/vi/c2tapfUDR1Q/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Horse to Neck Rein in 10 RIDES or Less – My Method!"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "SesOkVxfQpw",
+      "youtube_title": "How To Teach a Horse To Neck Rein Preview",
+      "channel": "B1 Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=SesOkVxfQpw",
+      "embed_url": "https://www.youtube.com/embed/SesOkVxfQpw",
+      "thumbnail": "https://i.ytimg.com/vi/SesOkVxfQpw/hqdefault.jpg",
+      "site_titles": [
+        "How To Teach a Horse To Neck Rein Preview"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "8jHditbPrwE",
+      "youtube_title": "A Judges Perspective: 2016 AQHA Senior Ranch Riding",
+      "channel": "Official AQHA",
+      "youtube_url": "https://www.youtube.com/watch?v=8jHditbPrwE",
+      "embed_url": "https://www.youtube.com/embed/8jHditbPrwE",
+      "thumbnail": "https://i.ytimg.com/vi/8jHditbPrwE/hqdefault.jpg",
+      "site_titles": [
+        "A Judges Perspective: 2016 AQHA Senior Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "0-sdSeyHIoI",
+      "youtube_title": "Mistakes people make neck reining on the trail: Episode 14-The Trail to the World Show",
+      "channel": "Stacy Westfall",
+      "youtube_url": "https://www.youtube.com/watch?v=0-sdSeyHIoI",
+      "embed_url": "https://www.youtube.com/embed/0-sdSeyHIoI",
+      "thumbnail": "https://i.ytimg.com/vi/0-sdSeyHIoI/hqdefault.jpg",
+      "site_titles": [
+        "Mistakes people make neck reining on the trail: Episode 14-The Trail to the World Show"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "cUQ6nR3Hzno",
+      "youtube_title": "One Handed Riding In The Bridle | The Next Step For A Snaffle Bitted Horse",
+      "channel": "Bucking K Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=cUQ6nR3Hzno",
+      "embed_url": "https://www.youtube.com/embed/cUQ6nR3Hzno",
+      "thumbnail": "https://i.ytimg.com/vi/cUQ6nR3Hzno/hqdefault.jpg",
+      "site_titles": [
+        "One Handed Riding In The Bridle | The Next Step For A Snaffle Bitted Horse"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GuwKrB4NM8M",
+      "youtube_title": "Teaching neck reining",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=GuwKrB4NM8M",
+      "embed_url": "https://www.youtube.com/embed/GuwKrB4NM8M",
+      "thumbnail": "https://i.ytimg.com/vi/GuwKrB4NM8M/hqdefault.jpg",
+      "site_titles": [
+        "Teaching neck reining"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "GgiwlIja5fE",
+      "youtube_title": "How neck-reining starts! Teach your horse to STEER easily",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=GgiwlIja5fE",
+      "embed_url": "https://www.youtube.com/embed/GgiwlIja5fE",
+      "thumbnail": "https://i.ytimg.com/vi/GgiwlIja5fE/hqdefault.jpg",
+      "site_titles": [
+        "How neck-reining starts! Teach your horse to STEER easily"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "1-aj06epXOg",
+      "youtube_title": "Neck vs Direct Reining - Barbara Williams",
+      "channel": "Virtual Horse Help",
+      "youtube_url": "https://www.youtube.com/watch?v=1-aj06epXOg",
+      "embed_url": "https://www.youtube.com/embed/1-aj06epXOg",
+      "thumbnail": "https://i.ytimg.com/vi/1-aj06epXOg/hqdefault.jpg",
+      "site_titles": [
+        "Neck vs Direct Reining - Barbara Williams"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "I1PBzuU32OI",
+      "youtube_title": "When To Ride With Two Hands Versus One Hand With Warwick Schiller",
+      "channel": "Weaver Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=I1PBzuU32OI",
+      "embed_url": "https://www.youtube.com/embed/I1PBzuU32OI",
+      "thumbnail": "https://i.ytimg.com/vi/I1PBzuU32OI/hqdefault.jpg",
+      "site_titles": [
+        "When To Ride With Two Hands Versus One Hand With Warwick Schiller"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "osnA_Bmkp34",
+      "youtube_title": "Horse training in the Two Rein, Vaquero Style",
+      "channel": "JohnnyFloresPerformanceHorses",
+      "youtube_url": "https://www.youtube.com/watch?v=osnA_Bmkp34",
+      "embed_url": "https://www.youtube.com/embed/osnA_Bmkp34",
+      "thumbnail": "https://i.ytimg.com/vi/osnA_Bmkp34/hqdefault.jpg",
+      "site_titles": [
+        "Horse training in the Two Rein, Vaquero Style"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "zOUjUB8e1qM",
+      "youtube_title": "Tighten the Cinch Correctly & Neck Reining Tips",
+      "channel": "Julie Goodnight",
+      "youtube_url": "https://www.youtube.com/watch?v=zOUjUB8e1qM",
+      "embed_url": "https://www.youtube.com/embed/zOUjUB8e1qM",
+      "thumbnail": "https://i.ytimg.com/vi/zOUjUB8e1qM/hqdefault.jpg",
+      "site_titles": [
+        "Tighten the Cinch Correctly & Neck Reining Tips"
       ],
       "sections": [
         "qa"
