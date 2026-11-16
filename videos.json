@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2648,
+  "count": 2654,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -44785,6 +44785,102 @@
       "thumbnail": "https://i.ytimg.com/vi/ouaLsX8S1WE/hqdefault.jpg",
       "site_titles": [
         "Morgan Horses in Ranch Riding"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "DCQ25g_LdKs",
+      "youtube_title": "What's it take to correctly bend your horse?",
+      "channel": "Amelia Newcomb Dressage",
+      "youtube_url": "https://www.youtube.com/watch?v=DCQ25g_LdKs",
+      "embed_url": "https://www.youtube.com/embed/DCQ25g_LdKs",
+      "thumbnail": "https://i.ytimg.com/vi/DCQ25g_LdKs/hqdefault.jpg",
+      "site_titles": [
+        "What's it take to correctly bend your horse?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r6lUBcr-tsQ",
+      "youtube_title": "Build a Topline",
+      "channel": "Skip Slusher Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=r6lUBcr-tsQ",
+      "embed_url": "https://www.youtube.com/embed/r6lUBcr-tsQ",
+      "thumbnail": "https://i.ytimg.com/vi/r6lUBcr-tsQ/hqdefault.jpg",
+      "site_titles": [
+        "Build a Topline"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "K63Mxl4R68E",
+      "youtube_title": "How to Slow Down a Fast Trot",
+      "channel": "HorseClass",
+      "youtube_url": "https://www.youtube.com/watch?v=K63Mxl4R68E",
+      "embed_url": "https://www.youtube.com/embed/K63Mxl4R68E",
+      "thumbnail": "https://i.ytimg.com/vi/K63Mxl4R68E/hqdefault.jpg",
+      "site_titles": [
+        "How to Slow Down a Fast Trot"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "r0m2q4bKqbU",
+      "youtube_title": "Cavaletti Training for Horses with Erika Jansson, Dressage Trainer",
+      "channel": "M. J. Wickham",
+      "youtube_url": "https://www.youtube.com/watch?v=r0m2q4bKqbU",
+      "embed_url": "https://www.youtube.com/embed/r0m2q4bKqbU",
+      "thumbnail": "https://i.ytimg.com/vi/r0m2q4bKqbU/hqdefault.jpg",
+      "site_titles": [
+        "Cavaletti Training for Horses with Erika Jansson, Dressage Trainer"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "lM2EAptq8K0",
+      "youtube_title": "What is Hunt Seat?",
+      "channel": "Lindsay Rinehart - Trotwood Farm",
+      "youtube_url": "https://www.youtube.com/watch?v=lM2EAptq8K0",
+      "embed_url": "https://www.youtube.com/embed/lM2EAptq8K0",
+      "thumbnail": "https://i.ytimg.com/vi/lM2EAptq8K0/hqdefault.jpg",
+      "site_titles": [
+        "What is Hunt Seat?"
+      ],
+      "sections": [
+        "qa"
+      ],
+      "reference_count": 0,
+      "pages": []
+    },
+    {
+      "id": "Ixz-HdxmrxE",
+      "youtube_title": "English Tack and Equipment",
+      "channel": "Equestrian Neightion",
+      "youtube_url": "https://www.youtube.com/watch?v=Ixz-HdxmrxE",
+      "embed_url": "https://www.youtube.com/embed/Ixz-HdxmrxE",
+      "thumbnail": "https://i.ytimg.com/vi/Ixz-HdxmrxE/hqdefault.jpg",
+      "site_titles": [
+        "English Tack and Equipment"
       ],
       "sections": [
         "qa"
