@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3025,
+  "count": 3035,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50580,6 +50580,136 @@
       "thumbnail": "https://i.ytimg.com/vi/JauNAqBvKOo/hqdefault.jpg",
       "site_titles": [
         "How to Teach Your Horse to Soften to Leg and Hand Aids"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QkpQiYhZQ9Y",
+      "youtube_title": "This Simple Trick Makes Horses Want to Go Forward",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QkpQiYhZQ9Y",
+      "embed_url": "https://www.youtube.com/embed/QkpQiYhZQ9Y",
+      "thumbnail": "https://i.ytimg.com/vi/QkpQiYhZQ9Y/hqdefault.jpg",
+      "site_titles": [
+        "This Simple Trick Makes Horses Want to Go Forward"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QBucBmI1RA8",
+      "youtube_title": "How to Ride a Lazy Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QBucBmI1RA8",
+      "embed_url": "https://www.youtube.com/embed/QBucBmI1RA8",
+      "thumbnail": "https://i.ytimg.com/vi/QBucBmI1RA8/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Lazy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "TU1-5NLM6W8",
+      "youtube_title": "How to Put Energy in the Lazy Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TU1-5NLM6W8",
+      "embed_url": "https://www.youtube.com/embed/TU1-5NLM6W8",
+      "thumbnail": "https://i.ytimg.com/vi/TU1-5NLM6W8/hqdefault.jpg",
+      "site_titles": [
+        "How to Put Energy in the Lazy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "K77MlObTK0s",
+      "youtube_title": "How to put a bridle with a bit on a horse that is ear shy or ...",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=K77MlObTK0s",
+      "embed_url": "https://www.youtube.com/embed/K77MlObTK0s",
+      "thumbnail": "https://i.ytimg.com/vi/K77MlObTK0s/hqdefault.jpg",
+      "site_titles": [
+        "How to Bridle a Horse That Is Ear Shy"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "dUzBmpWtIt4",
+      "youtube_title": "How to Bridle Your Horse Gently",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dUzBmpWtIt4",
+      "embed_url": "https://www.youtube.com/embed/dUzBmpWtIt4",
+      "thumbnail": "https://i.ytimg.com/vi/dUzBmpWtIt4/hqdefault.jpg",
+      "site_titles": [
+        "How to Bridle Your Horse Gently"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "2Y0z_iJXd48",
+      "youtube_title": "Does your horse hate having their ears touched?",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2Y0z_iJXd48",
+      "embed_url": "https://www.youtube.com/embed/2Y0z_iJXd48",
+      "thumbnail": "https://i.ytimg.com/vi/2Y0z_iJXd48/hqdefault.jpg",
+      "site_titles": [
+        "Does Your Horse Hate Having Their Ears Touched?"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "gwvAjIBd5D0",
+      "youtube_title": "Ground Tying your Horse Part 1: Craig Cameron Ride Smart Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gwvAjIBd5D0",
+      "embed_url": "https://www.youtube.com/embed/gwvAjIBd5D0",
+      "thumbnail": "https://i.ytimg.com/vi/gwvAjIBd5D0/hqdefault.jpg",
+      "site_titles": [
+        "Craig Cameron: Ground Tying Your Horse, Part 1"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "jPdxLFn-p7c",
+      "youtube_title": "Prevent Setting Back and Ground Tie Anywhere: The 5 Steps to Perfect Tying",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=jPdxLFn-p7c",
+      "embed_url": "https://www.youtube.com/embed/jPdxLFn-p7c",
+      "thumbnail": "https://i.ytimg.com/vi/jPdxLFn-p7c/hqdefault.jpg",
+      "site_titles": [
+        "5 Steps to Perfect Tying: Prevent Setting Back and Ground Tie Anywhere"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "AH6Io5rguDM",
+      "youtube_title": "Ken McNabb: How to Teach Your Horse to Pick Up the Correct Lead at a Lope or Canter",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=AH6Io5rguDM",
+      "embed_url": "https://www.youtube.com/embed/AH6Io5rguDM",
+      "thumbnail": "https://i.ytimg.com/vi/AH6Io5rguDM/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Teach Your Horse to Pick Up the Correct Lead"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_yCdTqiKV98",
+      "youtube_title": "Ken McNabb: A Lesson on Leads (featuring DeeDee)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_yCdTqiKV98",
+      "embed_url": "https://www.youtube.com/embed/_yCdTqiKV98",
+      "thumbnail": "https://i.ytimg.com/vi/_yCdTqiKV98/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: A Lesson on Leads"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
