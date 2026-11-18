@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2975,
+  "count": 2985,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49930,6 +49930,136 @@
       "thumbnail": "https://i.ytimg.com/vi/rQoaA6W752g/hqdefault.jpg",
       "site_titles": [
         "Steve Halfpenny: How to Help a Heavy Horse Become Light"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "lcqLG-O74Zo",
+      "youtube_title": "Fundamentals of Horsemanship -- Establishing boundaries",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lcqLG-O74Zo",
+      "embed_url": "https://www.youtube.com/embed/lcqLG-O74Zo",
+      "thumbnail": "https://i.ytimg.com/vi/lcqLG-O74Zo/hqdefault.jpg",
+      "site_titles": [
+        "Fundamentals of Horsemanship: Establishing Boundaries"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ASrh7C90Yks",
+      "youtube_title": "Teaching your horse to lead without crowding you",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ASrh7C90Yks",
+      "embed_url": "https://www.youtube.com/embed/ASrh7C90Yks",
+      "thumbnail": "https://i.ytimg.com/vi/ASrh7C90Yks/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Horse to Lead Without Crowding You"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "soKY7men6Yg",
+      "youtube_title": "How to Keep Your Horse Out of your Space",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=soKY7men6Yg",
+      "embed_url": "https://www.youtube.com/embed/soKY7men6Yg",
+      "thumbnail": "https://i.ytimg.com/vi/soKY7men6Yg/hqdefault.jpg",
+      "site_titles": [
+        "How to Keep Your Horse Out of Your Space"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "HBM41HS0moo",
+      "youtube_title": "Teaching Ground Manners To Your Horse Part 1",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HBM41HS0moo",
+      "embed_url": "https://www.youtube.com/embed/HBM41HS0moo",
+      "thumbnail": "https://i.ytimg.com/vi/HBM41HS0moo/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Ground Manners to Your Horse, Part 1"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_VxbuL7r_vE",
+      "youtube_title": "This Horse PLOWS Through Pressure...",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_VxbuL7r_vE",
+      "embed_url": "https://www.youtube.com/embed/_VxbuL7r_vE",
+      "thumbnail": "https://i.ytimg.com/vi/_VxbuL7r_vE/hqdefault.jpg",
+      "site_titles": [
+        "Ryan Rose: This Horse Plows Through Pressure"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "qSPxlm2vrL0",
+      "youtube_title": "The Real Reason Horses Rush Backward",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qSPxlm2vrL0",
+      "embed_url": "https://www.youtube.com/embed/qSPxlm2vrL0",
+      "thumbnail": "https://i.ytimg.com/vi/qSPxlm2vrL0/hqdefault.jpg",
+      "site_titles": [
+        "The Real Reason Horses Rush Backward"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Pb92R7UzDo0",
+      "youtube_title": "Horsemanship Lesson - Using the right amount of pressure on the buttons on ground and saddle",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Pb92R7UzDo0",
+      "embed_url": "https://www.youtube.com/embed/Pb92R7UzDo0",
+      "thumbnail": "https://i.ytimg.com/vi/Pb92R7UzDo0/hqdefault.jpg",
+      "site_titles": [
+        "Using the Right Amount of Pressure on the Buttons, Ground and Saddle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "xBYAn3GdF1I",
+      "youtube_title": "Teach Flawless Walk-Canter Transitions",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xBYAn3GdF1I",
+      "embed_url": "https://www.youtube.com/embed/xBYAn3GdF1I",
+      "thumbnail": "https://i.ytimg.com/vi/xBYAn3GdF1I/hqdefault.jpg",
+      "site_titles": [
+        "Teach Flawless Walk-Canter Transitions"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "GYNi1-YFibk",
+      "youtube_title": "Clint Weaver Horsemanship Softness at a Lope Part One",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GYNi1-YFibk",
+      "embed_url": "https://www.youtube.com/embed/GYNi1-YFibk",
+      "thumbnail": "https://i.ytimg.com/vi/GYNi1-YFibk/hqdefault.jpg",
+      "site_titles": [
+        "Clint Weaver: Softness at a Lope, Part One"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "XHG-6JKzYis",
+      "youtube_title": "Approaching Horses in a Herd - Rick Gore Horsemanship - www.thinklikeahorse.org",
+      "channel": "Think Like A Horse",
+      "youtube_url": "https://www.youtube.com/watch?v=XHG-6JKzYis",
+      "embed_url": "https://www.youtube.com/embed/XHG-6JKzYis",
+      "thumbnail": "https://i.ytimg.com/vi/XHG-6JKzYis/hqdefault.jpg",
+      "site_titles": [
+        "Rick Gore: Approaching Horses in a Herd"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
