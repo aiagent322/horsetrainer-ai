@@ -1196,6 +1196,7 @@
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-horses-learn/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-build-an-active-willing-sidepass/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-build-trust-with-an-anxious-horse/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-catch-a-horse-that-is-shy-about-being-caught/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-control-each-part-of-my-horses-body-when-riding/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-deal-with-excess-energy-in-my-horse/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-desensitize-my-horse-to-spooky-objects/</loc></url>
@@ -1209,13 +1210,17 @@
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-help-an-anxious-horse-load-with-confidence/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-help-an-anxious-horse-that-spooks-and-bolts/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-help-an-anxious-young-horse-relax/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-hold-the-reins-and-use-my-legs-to-neck-rein/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-improve-my-feel-when-riding-and-backing-a-horse/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-introduce-a-colt-to-the-saddle/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-introduce-a-horse-to-working-cattle-for-the-first-time/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-keep-my-horse-out-of-my-personal-space/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-load-a-nervous-horse-on-a-trailer/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-load-my-horse-in-a-trailer-by-myself/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-lunge-a-horse-in-a-round-pen/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-lunge-a-more-difficult-horse-for-respect/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-manage-fear-when-riding/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-neck-rein-a-western-horse-correctly/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-read-my-horses-body-language-to-know-if-training-is-going-well/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-refine-fast-to-slow-circle-transitions/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-ride-my-horse-with-light-hands/</loc></url>
@@ -1234,6 +1239,7 @@
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-teach-my-horse-to-side-pass/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-teach-my-horse-to-stop-off-my-seat/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-teach-my-horse-to-yield-its-hindquarters/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-tie-my-horse-safely/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-i-work-with-a-horse-that-is-buddy-sour/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-my-emotions-and-body-position-affect-my-riding/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/how-do-you-approach-a-horse-safely-and-why-does-proper-approach-matter/</loc></url>
@@ -1261,6 +1267,8 @@
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-are-the-tips-for-teaching-a-horse-to-tie/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-can-a-horse-herd-teach-me-about-horse-behavior/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-can-i-do-with-ground-work-to-improve-hindquarter-use/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/what-do-i-do-about-a-horse-that-pulls-back-when-tied/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/what-do-i-do-with-a-horse-that-doesnt-want-to-be-caught/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-do-i-do-with-a-horse-that-plows-through-pressure/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-do-you-do-when-a-horse-resists-the-bit-by-trying-to-spit-it-out-or-refusing/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-do-you-think-about-tethering-hard-to-catch-horses-and-explain-why-it-is/</loc></url>
@@ -1273,7 +1281,9 @@
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-is-the-difference-between-desensitizing-and-flooding/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-is-the-difference-between-stand-and-halt/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-is-the-purpose-of-teaching-a-horse-to-yield-to-pressure/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/what-principles-help-catch-a-hard-to-catch-horse/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/what-role-does-body-language-play-in-effective-ground-training/</loc></url>
+  <url><loc>https://horsetrainer.ai/qa/horsemanship/when-and-how-do-i-start-neck-reining/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/why-are-less-people-turning-their-good-horses-out-to-pasture-anymore/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/why-can-circles-be-stressful/</loc></url>
   <url><loc>https://horsetrainer.ai/qa/horsemanship/why-do-horse-trainers-have-a-tendency-to-tell-new-students-they-are-a-natural/</loc></url>

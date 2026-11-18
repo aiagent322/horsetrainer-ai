@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3005,
+  "count": 3015,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50320,6 +50320,136 @@
       "thumbnail": "https://i.ytimg.com/vi/3JXvgYvWeBQ/hqdefault.jpg",
       "site_titles": [
         "Five Beginner Riding Mistakes (and How to Fix Them)"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ZIaO4HSr9YU",
+      "youtube_title": "3 ways to catch shy horses without using treats",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ZIaO4HSr9YU",
+      "embed_url": "https://www.youtube.com/embed/ZIaO4HSr9YU",
+      "thumbnail": "https://i.ytimg.com/vi/ZIaO4HSr9YU/hqdefault.jpg",
+      "site_titles": [
+        "3 Ways to Catch Shy Horses Without Using Treats"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "laUW4TlAo5E",
+      "youtube_title": "This Horse Doesn't Want To Be Caught!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=laUW4TlAo5E",
+      "embed_url": "https://www.youtube.com/embed/laUW4TlAo5E",
+      "thumbnail": "https://i.ytimg.com/vi/laUW4TlAo5E/hqdefault.jpg",
+      "site_titles": [
+        "This Horse Doesn't Want To Be Caught"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "vyqhgNva1FU",
+      "youtube_title": "Steve Rother - How To Catch Your Hard To Catch Horse - HorseTeacher.com - Steve Rother Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vyqhgNva1FU",
+      "embed_url": "https://www.youtube.com/embed/vyqhgNva1FU",
+      "thumbnail": "https://i.ytimg.com/vi/vyqhgNva1FU/hqdefault.jpg",
+      "site_titles": [
+        "Steve Rother: How to Catch Your Hard-to-Catch Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "yZqQ9t3jyNA",
+      "youtube_title": "How to neck rein a western horse correctly",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yZqQ9t3jyNA",
+      "embed_url": "https://www.youtube.com/embed/yZqQ9t3jyNA",
+      "thumbnail": "https://i.ytimg.com/vi/yZqQ9t3jyNA/hqdefault.jpg",
+      "site_titles": [
+        "How to Neck Rein a Western Horse Correctly"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "tyAO7fleuIQ",
+      "youtube_title": "How to neck rein a horse and use your legs to aid in turning",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tyAO7fleuIQ",
+      "embed_url": "https://www.youtube.com/embed/tyAO7fleuIQ",
+      "thumbnail": "https://i.ytimg.com/vi/tyAO7fleuIQ/hqdefault.jpg",
+      "site_titles": [
+        "Marie Hoffman: Neck Reining and Using Your Legs to Turn"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "lxfHh2D1bqM",
+      "youtube_title": "Neck Reining - How to start",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lxfHh2D1bqM",
+      "embed_url": "https://www.youtube.com/embed/lxfHh2D1bqM",
+      "thumbnail": "https://i.ytimg.com/vi/lxfHh2D1bqM/hqdefault.jpg",
+      "site_titles": [
+        "Neck Reining: How to Start"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "R88rurTmFGs",
+      "youtube_title": "Some tips if you have a horse that \"Pulls Back\" when tied up.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=R88rurTmFGs",
+      "embed_url": "https://www.youtube.com/embed/R88rurTmFGs",
+      "thumbnail": "https://i.ytimg.com/vi/R88rurTmFGs/hqdefault.jpg",
+      "site_titles": [
+        "Tips for a Horse That Pulls Back When Tied Up"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "8eA8faO22oY",
+      "youtube_title": "Tying Your Horse Safely - Knots, Techniques, Safety Set Up",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8eA8faO22oY",
+      "embed_url": "https://www.youtube.com/embed/8eA8faO22oY",
+      "thumbnail": "https://i.ytimg.com/vi/8eA8faO22oY/hqdefault.jpg",
+      "site_titles": [
+        "Tying Your Horse Safely: Knots, Techniques and Safety Setup"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "fQvYbVL7tcE",
+      "youtube_title": "How to Lunge a Horse In a Round Pen",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fQvYbVL7tcE",
+      "embed_url": "https://www.youtube.com/embed/fQvYbVL7tcE",
+      "thumbnail": "https://i.ytimg.com/vi/fQvYbVL7tcE/hqdefault.jpg",
+      "site_titles": [
+        "How to Lunge a Horse in a Round Pen"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "09LBdHQl6iU",
+      "youtube_title": "Lunging Lesson - Lunging for respect with a more difficult horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=09LBdHQl6iU",
+      "embed_url": "https://www.youtube.com/embed/09LBdHQl6iU",
+      "thumbnail": "https://i.ytimg.com/vi/09LBdHQl6iU/hqdefault.jpg",
+      "site_titles": [
+        "Lunging for Respect with a More Difficult Horse"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
