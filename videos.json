@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3125,
+  "count": 3135,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51880,6 +51880,136 @@
       "thumbnail": "https://i.ytimg.com/vi/5WjgjWY8pN4/hqdefault.jpg",
       "site_titles": [
         "Leading Your Horse with Confidence"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_lnVp4ImI4U",
+      "youtube_title": "Horse Training- How to let your horse know they’re right.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_lnVp4ImI4U",
+      "embed_url": "https://www.youtube.com/embed/_lnVp4ImI4U",
+      "thumbnail": "https://i.ytimg.com/vi/_lnVp4ImI4U/hqdefault.jpg",
+      "site_titles": [
+        "How to Let Your Horse Know They Are Right"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "39vpnXl4EI4",
+      "youtube_title": "Training With Feel - How To Have Better Feel",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=39vpnXl4EI4",
+      "embed_url": "https://www.youtube.com/embed/39vpnXl4EI4",
+      "thumbnail": "https://i.ytimg.com/vi/39vpnXl4EI4/hqdefault.jpg",
+      "site_titles": [
+        "Training With Feel: How to Have Better Feel"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "hD4om-389CU",
+      "youtube_title": "Timing of Release",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hD4om-389CU",
+      "embed_url": "https://www.youtube.com/embed/hD4om-389CU",
+      "thumbnail": "https://i.ytimg.com/vi/hD4om-389CU/hqdefault.jpg",
+      "site_titles": [
+        "Timing of Release"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "0zzJBMQAPgU",
+      "youtube_title": "Timing is everything!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0zzJBMQAPgU",
+      "embed_url": "https://www.youtube.com/embed/0zzJBMQAPgU",
+      "thumbnail": "https://i.ytimg.com/vi/0zzJBMQAPgU/hqdefault.jpg",
+      "site_titles": [
+        "Timing Is Everything"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "pdG6f7G6xbQ",
+      "youtube_title": "Reading Horse Behavior with Dale Rudin",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=pdG6f7G6xbQ",
+      "embed_url": "https://www.youtube.com/embed/pdG6f7G6xbQ",
+      "thumbnail": "https://i.ytimg.com/vi/pdG6f7G6xbQ/hqdefault.jpg",
+      "site_titles": [
+        "Dale Rudin: Reading Horse Behavior"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "WR3NwtQs7kM",
+      "youtube_title": "Horses Saying \"Yes\" and \"No\" - How to Read Your Horse’s Emotions",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WR3NwtQs7kM",
+      "embed_url": "https://www.youtube.com/embed/WR3NwtQs7kM",
+      "thumbnail": "https://i.ytimg.com/vi/WR3NwtQs7kM/hqdefault.jpg",
+      "site_titles": [
+        "Horses Saying Yes and No: How to Read Your Horse Emotions"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "nCuT9nIdYPk",
+      "youtube_title": "Reading and Respecting Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nCuT9nIdYPk",
+      "embed_url": "https://www.youtube.com/embed/nCuT9nIdYPk",
+      "thumbnail": "https://i.ytimg.com/vi/nCuT9nIdYPk/hqdefault.jpg",
+      "site_titles": [
+        "Reading and Respecting Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_yEyaqeIyZQ",
+      "youtube_title": "How to Earn Trust & Respect From Your Horse with basic ground work techniques.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_yEyaqeIyZQ",
+      "embed_url": "https://www.youtube.com/embed/_yEyaqeIyZQ",
+      "thumbnail": "https://i.ytimg.com/vi/_yEyaqeIyZQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Earn Trust and Respect From Your Horse with Basic Groundwork"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "X7gZtT55_lA",
+      "youtube_title": "4 Easy Exercises to Gain Respect with Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=X7gZtT55_lA",
+      "embed_url": "https://www.youtube.com/embed/X7gZtT55_lA",
+      "thumbnail": "https://i.ytimg.com/vi/X7gZtT55_lA/hqdefault.jpg",
+      "site_titles": [
+        "4 Easy Exercises to Gain Respect with Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "odXUr2uYgCg",
+      "youtube_title": "Working with Horses: Don't Be Scared, Be Safe (Episode 150) - Herm Gailey: A Lifetime with Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=odXUr2uYgCg",
+      "embed_url": "https://www.youtube.com/embed/odXUr2uYgCg",
+      "thumbnail": "https://i.ytimg.com/vi/odXUr2uYgCg/hqdefault.jpg",
+      "site_titles": [
+        "Herm Gailey: Working with Horses, Do Not Be Scared, Be Safe"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
