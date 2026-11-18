@@ -1,15 +1,15 @@
 # HorseTrainer.ai — Cloudflare Pages Redirects
 
-# Trainer category shorthands
-/trainers/colt-starters/         /find-a-trainer/colt-starters/         301
-/trainers/problem-horse/         /find-a-trainer/problem-horse-specialists/ 301
-/trainers/reining/               /find-a-trainer/reining-trainers/       301
-/trainers/barrel-racing/         /find-a-trainer/barrel-racing-trainers/ 301
-/trainers/dressage/              /find-a-trainer/                       301
-/trainers/online/                /find-a-trainer/online-trainers/        301
 
-# Common misspellings / alternate URLs
-/horse-trainer/                  /find-a-trainer/                        301
+# Trainer directory retired — education site; data archived in git tag directory-final-2026-11-18
+/find-a-trainer                  /qa/ 301
+/find-a-trainer/*                /qa/ 301
+/trainers                        /qa/ 301
+/trainers/*                      /qa/ 301
+/list-your-training            /qa/ 301
+/list-your-training/*          /qa/ 301
+/horse-trainer/                  /qa/ 301
+
 /horse-training/                 /                                        301
 /training/                       /                                        301
 /barrel/                         /barrel-racing/                         301
@@ -20,8 +20,6 @@
 /reining                         /reining/                               301
 /dressage                        /dressage/                              301
 /mustangs/                       /mustang/                               301
-
-# Video library pages retired by the 2026-11-16 reining rebuild
 /videos/library/versatility-ranch-horse/   /videos/library/ranch-riding/   301
 /videos/watch/perfecting-your-circle-stage-1-preparing-your-horses-mind/   /videos/library/reining/   301
 /videos/library/training-principles-psychology/   /videos/library/training-principles/   301
@@ -111,8 +109,6 @@
 /videos/watch/ken-mcnabb-how-to-teach-your-horse-to-hobble/ /videos/library/trail/ 301
 /videos/watch/new-colt-learns-to-cross-bridge-part-1/ /videos/library/trail/ 301
 /videos/watch/riding-uphill-and-downhill/ /videos/library/trail/ 301
-
-# Duplicate /qa/horsemanship/ copies of pages that belong to other categories (retired 2026-11-18)
 /qa/horsemanship/bitless-bridles-how-does-it-work/ /qa/bit-progression/bitless-bridles-how-does-it-work/ 301
 /qa/horsemanship/can-a-horse-be-retrained/ /qa/starting-young-horses/can-a-horse-be-retrained/ 301
 /qa/horsemanship/can-the-horse-carry-my-weight-how-do-i-figure-that-out/ /qa/choosing-a-trainer/can-the-horse-carry-my-weight-how-do-i-figure-that-out/ 301

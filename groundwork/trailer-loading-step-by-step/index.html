@@ -32,13 +32,13 @@
 <nav class="nav"><div class="container"><div class="nav-inner">
   <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
   <div class="nav-links">
-    <a href="/find-a-trainer/" class="nav-link">Find a Trainer</a>
+    <a href="/guides/" class="nav-link">Guides</a>
     <a href="/groundwork/" class="nav-link active">Groundwork</a>
     <a href="/problem-horse/" class="nav-link">Problem Horse</a>
     <a href="/colt-starting/" class="nav-link">Colt Starting</a>
   </div>
   <div style="display:flex;align-items:center;gap:.75rem;">
-    <button class="btn btn-primary btn-sm nav-cta" data-open-intake>Get My Plan</button>
+    
     <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button>
   </div>
 </div></div></nav>
@@ -121,14 +121,7 @@
     <li><strong>Never rush</strong> — every time you force the issue, you set back the training by days</li>
   </ul>
 
-  <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:1.5rem;margin-top:2rem;">
-    <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.5rem;">Still Struggling After Multiple Sessions?</h3>
-    <p style="font-size:.9rem;color:var(--muted);margin-bottom:1rem;">If your horse has trauma around loading or is dangerously resistant, a groundwork specialist can get this resolved in a few focused sessions.</p>
-    <div style="display:flex;flex-wrap:wrap;gap:.75rem;">
-      <a href="/find-a-trainer/" class="btn btn-primary">Find a Groundwork Trainer →</a>
-      <button class="btn btn-outline" data-open-intake>Get My Assessment</button>
-    </div>
-  </div>
+
 </div>
 
 <aside class="sidebar">
@@ -152,11 +145,7 @@
       <a href="/groundwork/" class="sidebar-link">All Groundwork Topics →</a>
     </div>
   </div>
-  <div class="sidebar-card">
-    <div class="sidebar-title">Get a Custom Plan</div>
-    <p style="font-size:.82rem;color:var(--muted);margin-bottom:1rem;line-height:1.5;">Tell us about your horse and get a tailored loading approach.</p>
-    <button class="btn btn-primary btn-full btn-sm" data-open-intake>Start Assessment →</button>
-  </div>
+
 </aside>
 </div>
 </div></section>
@@ -173,21 +162,7 @@
   <a href="/groundwork/" style="font-size:.875rem;color:var(--muted);">← All Groundwork Topics</a>
 </div></div></footer>
 
-<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true"><div class="modal" id="intake-modal">
-  <button class="modal-close" id="intake-close" aria-label="Close">✕</button>
-  <div class="intake-progress"><div class="intake-progress-bar"><div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div></div><div class="intake-step-label" id="step-label">Step 1 of 7</div></div>
-  <div id="intake-body">
-    <div class="intake-step active" id="step-1"><div class="intake-q">Discipline?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="discipline" data-opt="groundwork"><span class="opt-icon">🔄</span>Groundwork</button><button class="opt-btn" data-field="discipline" data-opt="problem_horse"><span class="opt-icon">⚠️</span>Problem Horse</button><button class="opt-btn" data-field="discipline" data-opt="trail"><span class="opt-icon">🌲</span>Trail</button><button class="opt-btn" data-field="discipline" data-opt="mustang"><span class="opt-icon">🦄</span>Mustang</button><button class="opt-btn" data-field="discipline" data-opt="colt_starting"><span class="opt-icon">🐴</span>Colt Starting</button><button class="opt-btn" data-field="discipline" data-opt="reining"><span class="opt-icon">🏆</span>Reining</button></div></div>
-    <div class="intake-step" id="step-2"><div class="intake-q">Horse age?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="horse_age" data-opt="2_3">2–3 years</button><button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years</button><button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years</button><button class="opt-btn" data-field="horse_age" data-opt="unknown">Unknown</button></div></div>
-    <div class="intake-step" id="step-3"><div class="intake-q">Situation?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Specific behavior problem</button><button class="opt-btn" data-field="training_situation" data-opt="general">General groundwork</button></div></div>
-    <div class="intake-step" id="step-4"><div class="intake-q">Problems?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="problems" data-opt="wont_load" data-multi="true">🚐 Won't Load</button><button class="opt-btn" data-field="problems" data-opt="spooky" data-multi="true">👻 Spooky</button><button class="opt-btn" data-field="problems" data-opt="barn_sour" data-multi="true">🏚️ Barn Sour</button><button class="opt-btn" data-field="problems" data-opt="none" data-multi="false">✅ None</button></div></div>
-    <div class="intake-step" id="step-5"><div class="intake-q">Danger rating?</div><input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="2"><div class="danger-labels"><span>1</span><span>5</span></div><div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);">2/5</div></div>
-    <div class="intake-step" id="step-6"><div class="intake-q">Your experience?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="rider_level" data-opt="beginner">Beginner</button><button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate</button><button class="opt-btn" data-field="rider_level" data-opt="advanced">Experienced</button></div></div>
-    <div class="intake-step" id="step-7"><div class="intake-q">Location?</div><div class="form-row"><div class="form-group" style="margin:0;"><label class="form-label">State</label><select data-bind="state"><option value="">Select...</option><option>AZ</option><option>TX</option><option>CA</option><option>CO</option><option>NM</option><option>Other</option></select></div><div class="form-group" style="margin:0;"><label class="form-label">ZIP</label><input type="text" data-bind="zip" placeholder="85001"></div></div></div>
-  </div>
-  <div id="ai-result" class="hidden"><div id="ai-loading" class="ai-loading hidden"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Analyzing...</div><div id="ai-content" class="hidden"></div></div>
-  <div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div>
-</div></div>
-<script src="/js/app.js"></script>
+
+<script src="/js/site.js"></script>
 <script>document.querySelectorAll('.vid-facade').forEach(function(f){f.addEventListener('click',function(){var id=f.dataset.vid,t=f.dataset.title||'';var ifr=document.createElement('iframe');ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';ifr.title=t;ifr.allowFullscreen=true;ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0;';f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';});f.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')f.click();});});</script>
 </body></html>

@@ -16,7 +16,7 @@ def pick(rel):
         slug = parts[1][:-5] if parts[1].endswith('.html') else parts[1]
         return f'og-famous-{slug}' if have(f'og-famous-{slug}') else 'og-famous-trainers'
     if top in SECTIONS: return f'og-{top}'
-    if top == 'find-a-trainer': return 'og-find-a-trainer'
+    if top == 'find-a-trainer': return 'og-default'
     if top == 'training' or rel == 'training-guide.html': return 'og-training'
     return 'og-default'
 STRIP = re.compile(r'[ \t]*<meta\s+(?:property="og:image[^"]*"|name="twitter:(?:image|card)")[^>]*>\n?')

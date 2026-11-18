@@ -32,13 +32,13 @@
 <nav class="nav"><div class="container"><div class="nav-inner">
   <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
   <div class="nav-links">
-    <a href="/find-a-trainer/" class="nav-link">Find a Trainer</a>
+    <a href="/guides/" class="nav-link">Guides</a>
     <a href="/groundwork/" class="nav-link">Groundwork</a>
     <a href="/problem-horse/" class="nav-link active">Problem Horse</a>
     <a href="/colt-starting/" class="nav-link">Colt Starting</a>
   </div>
   <div style="display:flex;align-items:center;gap:.75rem;">
-    <button class="btn btn-primary btn-sm nav-cta" data-open-intake>Get My Plan</button>
+    
     <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button>
   </div>
 </div></div></nav>
@@ -53,7 +53,7 @@
   <a href="/" class="nav-link">🏠 Home</a>
   <a href="/problem-horse/" class="nav-link active">⚠️ Problem Horse</a>
   <a href="/groundwork/" class="nav-link">🔄 Groundwork</a>
-  <a href="/find-a-trainer/" class="nav-link">🤠 Find a Trainer</a>
+  <a href="/guides/" class="nav-link">📖 Guides</a>
 </div>
 
 <section class="page-header">
@@ -144,14 +144,7 @@
     <li><strong>Don't only ride away from the barn</strong> — vary your start and end points so the horse can't predict when the "barn pull" will start</li>
   </ul>
 
-  <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:1.5rem;margin-top:2rem;">
-    <h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.5rem;">Is Your Situation Mild, Moderate, or Severe?</h3>
-    <p style="font-size:.9rem;color:var(--muted);margin-bottom:1rem;">Tell us about your horse and get a risk level assessment and trainer recommendation in 60 seconds.</p>
-    <div style="display:flex;flex-wrap:wrap;gap:.75rem;">
-      <button class="btn btn-primary" data-open-intake>Get My Assessment →</button>
-      <a href="/find-a-trainer/problem-horse-specialists/" class="btn btn-outline">Find a Specialist</a>
-    </div>
-  </div>
+
 
 <h2>Watch &amp; Learn</h2>
 <div class="vid-grid-4" style="margin:1.5rem 0 2rem;">
@@ -160,10 +153,7 @@
 <div class="vid-card"><div class="vid-facade" data-vid="Opz30a9H9cU" data-title="I Guarantee This Will Fix ALL Barn and Buddy Sour Horses" role="button" tabindex="0" aria-label="Play: I Guarantee This Will Fix ALL Barn and Buddy Sour Horses"><img src="https://i.ytimg.com/vi/Opz30a9H9cU/hqdefault.jpg" alt="I Guarantee This Will Fix ALL Barn and Buddy Sour Horses" loading="lazy" width="480" height="270"><div class="vid-play-btn-2" aria-hidden="true">▶</div></div><div class="vid-info"><div class="vid-title-sm">I Guarantee This Will Fix ALL Barn and Buddy Sour Horses</div><div class="vid-ch">Colton Woods Horsemanship</div></div></div>
 <div class="vid-card"><div class="vid-facade" data-vid="7c_VvVcBsA8" data-title="Helping a Barn Sour or Buddy Sour Horse Become Calm" role="button" tabindex="0" aria-label="Play: Helping a Barn Sour or Buddy Sour Horse Become Calm"><img src="https://i.ytimg.com/vi/7c_VvVcBsA8/hqdefault.jpg" alt="Helping a Barn Sour or Buddy Sour Horse Become Calm" loading="lazy" width="480" height="270"><div class="vid-play-btn-2" aria-hidden="true">▶</div></div><div class="vid-info"><div class="vid-title-sm">Helping a Barn Sour or Buddy Sour Horse Become Calm</div><div class="vid-ch">Horsemanship Training</div></div></div>
 </div>
-<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:1.5rem;margin-top:2rem;display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;">
-<div><h3 style="font-size:1.1rem;color:var(--cream);margin-bottom:.25rem;">Need Expert Help?</h3><p style="font-size:.9rem;color:var(--muted);">Get a personalized plan or find a problem horse specialist near you.</p></div>
-<div style="display:flex;flex-wrap:wrap;gap:.75rem;"><button class="btn btn-primary" data-open-intake data-discipline="problem_horse">Get My Plan →</button><a href="/find-a-trainer/problem-horse-specialists/" class="btn btn-outline">Find a Specialist</a></div>
-</div>
+
 </div>
 
 <aside class="sidebar">
@@ -189,11 +179,7 @@
       <a href="/problem-horse/" class="sidebar-link">All Problem Horse Topics →</a>
     </div>
   </div>
-  <div class="sidebar-card">
-    <div class="sidebar-title">Get a Custom Plan</div>
-    <p style="font-size:.82rem;color:var(--muted);margin-bottom:1rem;line-height:1.5;">Tell us about your horse's barn sour issue and get a personalized training approach.</p>
-    <button class="btn btn-primary btn-full btn-sm" data-open-intake>Start Assessment →</button>
-  </div>
+
 </aside>
 </div>
 </div></section>
@@ -219,26 +205,12 @@
   <a href="/problem-horse/" style="font-size:.875rem;color:var(--muted);">← All Problem Horse Topics</a>
 </div></div></footer>
 
-<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true"><div class="modal" id="intake-modal">
-  <button class="modal-close" id="intake-close" aria-label="Close">✕</button>
-  <div class="intake-progress"><div class="intake-progress-bar"><div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div></div><div class="intake-step-label" id="step-label">Step 1 of 7</div></div>
-  <div id="intake-body">
-    <div class="intake-step active" id="step-1"><div class="intake-q">Discipline?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="discipline" data-opt="problem_horse"><span class="opt-icon">⚠️</span>Problem Horse</button><button class="opt-btn" data-field="discipline" data-opt="trail"><span class="opt-icon">🌲</span>Trail</button><button class="opt-btn" data-field="discipline" data-opt="groundwork"><span class="opt-icon">🔄</span>Groundwork</button><button class="opt-btn" data-field="discipline" data-opt="reining"><span class="opt-icon">🏆</span>Reining</button><button class="opt-btn" data-field="discipline" data-opt="barrel_racing"><span class="opt-icon">🏁</span>Barrel Racing</button><button class="opt-btn" data-field="discipline" data-opt="dressage"><span class="opt-icon">🎖</span>Dressage</button></div></div>
-    <div class="intake-step" id="step-2"><div class="intake-q">Horse age?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years</button><button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years</button><button class="opt-btn" data-field="horse_age" data-opt="13_plus">13+ years</button><button class="opt-btn" data-field="horse_age" data-opt="unknown">Unknown</button></div></div>
-    <div class="intake-step" id="step-3"><div class="intake-q">Situation?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Horse has a behavior problem</button><button class="opt-btn" data-field="training_situation" data-opt="trail_safe">Trail safe / confidence building</button><button class="opt-btn" data-field="training_situation" data-opt="general">General training</button></div></div>
-    <div class="intake-step" id="step-4"><div class="intake-q">Problems?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="problems" data-opt="barn_sour" data-multi="true">🏚️ Barn Sour</button><button class="opt-btn" data-field="problems" data-opt="spooky" data-multi="true">👻 Spooky</button><button class="opt-btn" data-field="problems" data-opt="bolting" data-multi="true">💨 Bolting</button><button class="opt-btn" data-field="problems" data-opt="rearing" data-multi="true">⬆️ Rearing</button><button class="opt-btn" data-field="problems" data-opt="none" data-multi="false">✅ None</button></div></div>
-    <div class="intake-step" id="step-5"><div class="intake-q">Danger rating?</div><input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="2"><div class="danger-labels"><span>1 — Safe</span><span>5 — Dangerous</span></div><div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);">2/5</div></div>
-    <div class="intake-step" id="step-6"><div class="intake-q">Your experience?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="rider_level" data-opt="beginner">Beginner</button><button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate</button><button class="opt-btn" data-field="rider_level" data-opt="advanced">Experienced</button></div></div>
-    <div class="intake-step" id="step-7"><div class="intake-q">Location?</div><div class="form-row"><div class="form-group" style="margin:0;"><label class="form-label">State</label><select data-bind="state"><option value="">Select...</option><option>AZ</option><option>TX</option><option>CA</option><option>CO</option><option>NM</option><option>Other</option></select></div><div class="form-group" style="margin:0;"><label class="form-label">ZIP</label><input type="text" data-bind="zip" placeholder="85001"></div></div></div>
-  </div>
-  <div id="ai-result" class="hidden"><div id="ai-loading" class="ai-loading hidden"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Analyzing...</div><div id="ai-content" class="hidden"></div></div>
-  <div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div>
-</div></div>
+
 <script>
 document.querySelectorAll('.vid-facade').forEach(function(f){
   f.addEventListener('click',function(){var id=f.dataset.vid,t=f.dataset.title||'';var ifr=document.createElement('iframe');ifr.src='https://www.youtube.com/embed/'+id+'?autoplay=1&rel=0';ifr.title=t;ifr.allowFullscreen=true;ifr.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';ifr.style.cssText='position:absolute;top:0;left:0;width:100%;height:100%;border:0;';f.innerHTML='';f.appendChild(ifr);f.style.cursor='default';});
   f.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' ')f.click();});
 });
 </script>
-<script src="/js/app.js"></script>
+<script src="/js/site.js"></script>
 </body></html>

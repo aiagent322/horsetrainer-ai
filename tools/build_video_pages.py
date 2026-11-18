@@ -113,7 +113,7 @@ def shell():
     foot = ('<footer class="footer"><div class="container"><div class="footer-bottom"><div class="footer-copy">'
             '© 2026 HorseTrainer.ai — A Bridle &amp; Bit Magazine property.</div>'
             '<a href="/videos/library/" style="font-size:.875rem;color:var(--muted);">← Back to the Video Library</a></div></div></footer>\n'
-            '<script src="/js/app.js"></script>\n')
+            '<script src="/js/site.js"></script>\n')
     return nav, foot
 
 CSS = json.load(open('data/qa_videos.json'))['meta']['css'] if os.path.exists('data/qa_videos.json') else ''

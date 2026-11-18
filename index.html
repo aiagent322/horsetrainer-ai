@@ -359,68 +359,6 @@ img { max-width:100%; height:auto; display:block; }
 }
 
 /* ═══════════════════════════════════════
-   INTAKE MODAL
-   ═══════════════════════════════════════ */
-.modal-overlay {
-  position:fixed; inset:0; background:rgba(0,0,0,0.5);
-  display:flex; align-items:flex-end; justify-content:center;
-  z-index:1000; opacity:0; pointer-events:none;
-  transition:opacity 0.25s ease;
-}
-.modal-overlay.open { opacity:1; pointer-events:auto; }
-@media(min-width:640px) { .modal-overlay { align-items:center; } }
-.modal {
-  background:#fff; border-radius:16px 16px 0 0; width:100%; max-width:540px;
-  padding:24px 20px 32px; position:relative; max-height:90vh; overflow-y:auto;
-  transform:translateY(40px); transition:transform 0.3s ease;
-}
-.modal-overlay.open .modal { transform:translateY(0); }
-@media(min-width:640px) { .modal { border-radius:12px; } }
-.modal-close {
-  position:absolute; top:14px; right:14px;
-  background:var(--bg-alt); border:none; border-radius:50%;
-  width:32px; height:32px; cursor:pointer; font-size:1rem;
-  display:flex; align-items:center; justify-content:center; color:var(--text-mid);
-  transition:background var(--transition);
-}
-.modal-close:hover { background:var(--border); }
-.intake-progress { height:4px; background:var(--border); border-radius:2px; margin-bottom:6px; }
-.intake-progress-fill { height:100%; background:var(--gold); border-radius:2px; transition:width 0.3s ease; }
-.intake-step-label { font-size:0.75rem; color:var(--text-light); margin-bottom:16px; }
-.intake-step { display:none; }
-.intake-step.active { display:block; }
-.intake-title { font-size:1.15rem; font-weight:700; color:var(--primary); margin-bottom:6px; }
-.intake-desc { font-size:0.88rem; color:var(--text-mid); margin-bottom:16px; }
-.option-grid { display:grid; gap:8px; grid-template-columns:repeat(2,1fr); }
-.option-btn {
-  padding:10px 8px; border:1.5px solid var(--border); border-radius:var(--radius);
-  background:#fff; font-size:0.83rem; font-weight:500; color:var(--text-mid);
-  cursor:pointer; text-align:center; transition:all var(--transition); min-height:44px;
-}
-.option-btn:hover { border-color:var(--secondary); color:var(--secondary); }
-.option-btn.selected { border-color:var(--primary); background:var(--primary); color:#fff; }
-.intake-input {
-  width:100%; padding:10px 14px; border:1.5px solid var(--border); border-radius:var(--radius);
-  font-size:0.95rem; margin-bottom:8px; transition:border-color var(--transition);
-}
-.intake-input:focus { border-color:var(--secondary); outline:none; }
-.intake-nav { display:flex; justify-content:space-between; align-items:center; margin-top:20px; }
-.intake-nav-back {
-  background:none; border:none; font-size:0.88rem; color:var(--text-light);
-  cursor:pointer; padding:8px; min-height:44px;
-}
-.intake-nav-back:hover { color:var(--text); }
-.danger-slider { width:100%; margin:8px 0; accent-color:var(--gold); }
-.ai-loading { text-align:center; padding:24px; }
-.ai-loading .spinner { margin:0 auto 12px; }
-.ai-result-content {
-  background:var(--bg-alt); border-radius:var(--radius);
-  padding:16px; font-size:0.9rem; line-height:1.65; color:var(--text);
-  max-height:300px; overflow-y:auto;
-}
-.hidden { display:none !important; }
-
-/* ═══════════════════════════════════════
    MISC
    ═══════════════════════════════════════ */
 .fade-up { opacity:0; transform:translateY(16px); transition:opacity 0.5s ease,transform 0.5s ease; }
@@ -841,9 +779,7 @@ img { max-width:100%; height:auto; display:block; }
     </div>
     <div class="footer-bottom">
       <span>© 2025 HorseTrainer.AI · All rights reserved</span>
-      <div style="display:flex;gap:16px;">
       </div>
-    </div>
   </div>
   <p style="font-size:12px;font-weight:400;color:rgba(255,255,255,.55);letter-spacing:.04em;max-width:800px;margin:8px auto 0;line-height:1.6;">Legal Disclaimer: HorseTrainer.ai is an independent informational platform operated by Bridle &amp; Bit Magazine. We do not represent, employ, or endorse any trainer listed in this directory. Trainer profiles are provided for informational purposes only. Always conduct your own due diligence before engaging any trainer.</p>
 </footer>

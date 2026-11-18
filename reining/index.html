@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Reining Training Guide — Maneuvers, Tips &amp; Trainers</title>
-  <meta name="description" content="Complete reining training guide. Learn the sliding stop, lead changes, spins, rollbacks, and circles. Find a reining trainer near you.">
+  <meta name="description" content="Complete reining training guide. Learn the sliding stop, lead changes, spins, rollbacks, and circles. Browse reining Q&amp;As, guides and videos.">
   <link rel="canonical" href="https://horsetrainer.ai/reining/">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Reining Training Guide",
-    "description": "Complete guide to reining horse training — maneuvers, progression, trainer directory.",
+    "description": "Complete guide to reining horse training — maneuvers and training progression.",
     "url": "https://horsetrainer.ai/reining/"
   }
   </script>
@@ -31,14 +31,14 @@
     <div class="nav-inner">
       <a href="/" class="nav-logo">Horse<span>Trainer</span>.ai</a>
       <div class="nav-links">
-        <a href="/find-a-trainer/" class="nav-link">Find a Trainer</a>
+        <a href="/guides/" class="nav-link">Guides</a>
         <a href="/videos/" class="nav-link">Videos</a>
         <a href="/groundwork/" class="nav-link">Groundwork</a>
         <a href="/problem-horse/" class="nav-link">Problem Horse</a>
         <a href="/colt-starting/" class="nav-link">Colt Starting</a>
       </div>
       <div style="display:flex;align-items:center;gap:0.75rem;">
-        <a href="/find-a-trainer/reining-trainers/" class="btn btn-primary btn-sm nav-cta">Find a Reining Trainer</a>
+        
         <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Open menu"><span></span><span></span><span></span></button>
       </div>
     </div>
@@ -55,7 +55,7 @@
 <div class="nav-drawer" id="nav-drawer">
   <a href="/" class="nav-link">🏠 Home</a>
   <a href="/reining/" class="nav-link active">🏆 Reining</a>
-  <a href="/find-a-trainer/reining-trainers/" class="nav-link">🤠 Reining Trainers</a>
+  <a href="/guides/" class="nav-link">📖 Guides</a>
   <a href="/colt-starting/" class="nav-link">🐴 Colt Starting</a>
   <a href="/problem-horse/" class="nav-link">⚠️ Problem Horse</a>
 </div>
@@ -164,14 +164,7 @@
         </div>
 
         <!-- CTA -->
-        <div style="margin-top:2.5rem;padding:2rem;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-xl);">
-          <h3 style="margin-bottom:0.5rem;font-size:1.25rem;color:var(--cream);">Not Sure Where to Start?</h3>
-          <p style="font-size:0.9rem;color:var(--muted);margin-bottom:1.25rem;">Tell us about your horse, your experience level, and your reining goal. Get a personalized training pathway in 60 seconds.</p>
-          <div style="display:flex;flex-wrap:wrap;gap:1rem;">
-            <button class="btn btn-primary" data-open-intake data-discipline="reining">🐎 Get My Training Plan</button>
-            <a href="/find-a-trainer/reining-trainers/" class="btn btn-outline">Find a Reining Trainer →</a>
-          </div>
-        </div>
+
       </div>
 
       <!-- Sidebar -->
@@ -183,11 +176,7 @@
           <p style="font-size:0.8rem;color:var(--muted);line-height:1.5;">Early reining training is accessible to intermediate riders. High-speed maneuvers and spinning require professional guidance.</p>
         </div>
 
-        <div class="sidebar-card">
-          <div class="sidebar-title">Find a Reining Trainer</div>
-          <p style="font-size:0.82rem;color:var(--muted);margin-bottom:1rem;line-height:1.5;">Use our match-maker to find NRHA-affiliated reining trainers near you.</p>
-          <a href="/find-a-trainer/reining-trainers/" class="btn btn-primary btn-full btn-sm">Find Reining Trainers →</a>
-        </div>
+
 
         <div class="sidebar-card">
           <div class="sidebar-title">Related Disciplines</div>
@@ -228,25 +217,9 @@
   </div>
 </footer>
 
-<div class="modal-overlay" id="intake-overlay" role="dialog" aria-modal="true">
-  <div class="modal" id="intake-modal">
-    <button class="modal-close" id="intake-close" aria-label="Close">✕</button>
-    <div class="intake-progress"><div class="intake-progress-bar"><div class="intake-progress-fill" id="progress-fill" style="width:14.28%"></div></div><div class="intake-step-label" id="step-label">Step 1 of 7</div></div>
-    <div id="intake-body">
-      <div class="intake-step active" id="step-1"><div class="intake-q">Your discipline?</div><div class="option-grid cols-3"><button class="opt-btn selected" data-field="discipline" data-opt="reining"><span class="opt-icon">🏆</span>Reining</button><button class="opt-btn" data-field="discipline" data-opt="cutting"><span class="opt-icon">🐄</span>Cutting</button><button class="opt-btn" data-field="discipline" data-opt="working_cow"><span class="opt-icon">🤠</span>Working Cow</button><button class="opt-btn" data-field="discipline" data-opt="colt_starting"><span class="opt-icon">🐴</span>Colt Starting</button><button class="opt-btn" data-field="discipline" data-opt="barrel_racing"><span class="opt-icon">🏁</span>Barrel Racing</button><button class="opt-btn" data-field="discipline" data-opt="ranch"><span class="opt-icon">🌵</span>Ranch</button></div></div>
-      <div class="intake-step" id="step-2"><div class="intake-q">Horse age?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="horse_age" data-opt="2_3">2–3 years</button><button class="opt-btn" data-field="horse_age" data-opt="4_6">4–6 years</button><button class="opt-btn" data-field="horse_age" data-opt="7_12">7–12 years</button><button class="opt-btn" data-field="horse_age" data-opt="13_plus">13+ years</button></div></div>
-      <div class="intake-step" id="step-3"><div class="intake-q">Training situation?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="training_situation" data-opt="starting_young">Starting a young reining prospect</button><button class="opt-btn" data-field="training_situation" data-opt="improving_competition">Improving for NRHA competition</button><button class="opt-btn" data-field="training_situation" data-opt="behavior_problem">Horse has a problem</button><button class="opt-btn" data-field="training_situation" data-opt="general">General training</button></div></div>
-      <div class="intake-step" id="step-4"><div class="intake-q">Any problems?</div><div class="option-grid cols-3"><button class="opt-btn" data-field="problems" data-opt="bucking" data-multi="true">🤸 Bucking</button><button class="opt-btn" data-field="problems" data-opt="bolting" data-multi="true">💨 Bolting</button><button class="opt-btn" data-field="problems" data-opt="no_stop" data-multi="true">🛑 No Stop</button><button class="opt-btn" data-field="problems" data-opt="none" data-multi="false">✅ None</button></div></div>
-      <div class="intake-step" id="step-5"><div class="intake-q">Danger rating?</div><input type="range" class="danger-slider" id="danger-slider" min="1" max="5" value="2"><div class="danger-labels"><span>1 — Safe</span><span>5 — Dangerous</span></div><div id="danger-value" style="text-align:center;margin-top:1rem;font-weight:600;color:var(--gold);">2/5 — Mild</div></div>
-      <div class="intake-step" id="step-6"><div class="intake-q">Your experience?</div><div class="option-grid cols-1"><button class="opt-btn" data-field="rider_level" data-opt="intermediate">Intermediate</button><button class="opt-btn" data-field="rider_level" data-opt="advanced">Advanced amateur</button><button class="opt-btn" data-field="rider_level" data-opt="professional">Professional</button></div></div>
-      <div class="intake-step" id="step-7"><div class="intake-q">Location?</div><div class="form-row"><div class="form-group" style="margin:0;"><label class="form-label">State</label><select data-bind="state"><option value="">Select...</option><option>AZ</option><option>TX</option><option>CA</option><option>CO</option><option>NM</option><option>Other</option></select></div><div class="form-group" style="margin:0;"><label class="form-label">ZIP</label><input type="text" data-bind="zip" placeholder="85001"></div></div></div>
-    </div>
-    <div id="ai-result" class="hidden"><div id="ai-loading" class="ai-loading hidden"><div class="ai-loading-dots"><span></span><span></span><span></span></div>Analyzing...</div><div id="ai-content" class="hidden"></div></div>
-    <div class="intake-nav"><button class="intake-nav-back" id="intake-back" style="visibility:hidden;">← Back</button><button class="btn btn-primary" id="intake-next">Next →</button></div>
-  </div>
-</div>
 
-<script src="/js/app.js?v=10b7efa"></script>
+
+<script src="/js/site.js"></script>
 <style>
 .nav-drawer{top:var(--guide-header-height,60px);visibility:hidden}.nav-drawer.open{visibility:visible}.page-layout{grid-template-columns:minmax(0,1fr)}@media(min-width:900px){.nav-drawer{top:60px;visibility:visible}.nav-drawer.open{visibility:visible}.page-layout{grid-template-columns:1fr 300px}}
 </style>
