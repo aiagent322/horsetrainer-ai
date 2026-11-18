@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3095,
+  "count": 3105,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51490,6 +51490,136 @@
       "thumbnail": "https://i.ytimg.com/vi/flKX_M2aLCY/hqdefault.jpg",
       "site_titles": [
         "Pat Parelli: Hard to Catch"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "kOngz1rrLDc",
+      "youtube_title": "Horse Avoids Being Bridled By Tossing His Head - Q&A",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=kOngz1rrLDc",
+      "embed_url": "https://www.youtube.com/embed/kOngz1rrLDc",
+      "thumbnail": "https://i.ytimg.com/vi/kOngz1rrLDc/hqdefault.jpg",
+      "site_titles": [
+        "Jeff Davis: Horse Avoids Being Bridled by Tossing His Head"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ayy3Vr5DA1k",
+      "youtube_title": "How to Teach a Bridle Horse to Take the Bit",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ayy3Vr5DA1k",
+      "embed_url": "https://www.youtube.com/embed/ayy3Vr5DA1k",
+      "thumbnail": "https://i.ytimg.com/vi/ayy3Vr5DA1k/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Bridle Horse to Take the Bit"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "fRESZrO8FDQ",
+      "youtube_title": "4 Steps to bridle a difficult horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fRESZrO8FDQ",
+      "embed_url": "https://www.youtube.com/embed/fRESZrO8FDQ",
+      "thumbnail": "https://i.ytimg.com/vi/fRESZrO8FDQ/hqdefault.jpg",
+      "site_titles": [
+        "4 Steps to Bridle a Difficult Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "jFNsoaQ7_PU",
+      "youtube_title": "How To Bridle A Difficult Horse: Training Without Force or Fear",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=jFNsoaQ7_PU",
+      "embed_url": "https://www.youtube.com/embed/jFNsoaQ7_PU",
+      "thumbnail": "https://i.ytimg.com/vi/jFNsoaQ7_PU/hqdefault.jpg",
+      "site_titles": [
+        "How to Bridle a Difficult Horse: Training Without Force or Fear"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "7cNlKdcsoko",
+      "youtube_title": "Teaching The Back Up Under Saddle",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7cNlKdcsoko",
+      "embed_url": "https://www.youtube.com/embed/7cNlKdcsoko",
+      "thumbnail": "https://i.ytimg.com/vi/7cNlKdcsoko/hqdefault.jpg",
+      "site_titles": [
+        "Teaching the Back Up Under Saddle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QySYPjZtHng",
+      "youtube_title": "Terry Myers - Backing Up Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QySYPjZtHng",
+      "embed_url": "https://www.youtube.com/embed/QySYPjZtHng",
+      "thumbnail": "https://i.ytimg.com/vi/QySYPjZtHng/hqdefault.jpg",
+      "site_titles": [
+        "Terry Myers: Backing Up Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "u809tH0xuyg",
+      "youtube_title": "Backing up under saddle - Asking for the low back up with the horse's head tucked in",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=u809tH0xuyg",
+      "embed_url": "https://www.youtube.com/embed/u809tH0xuyg",
+      "thumbnail": "https://i.ytimg.com/vi/u809tH0xuyg/hqdefault.jpg",
+      "site_titles": [
+        "Backing Up Under Saddle: Asking for the Low Back Up"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "9qSqVPaWfXM",
+      "youtube_title": "Michael Bragdell: Teaching Rein Back In-Hand",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9qSqVPaWfXM",
+      "embed_url": "https://www.youtube.com/embed/9qSqVPaWfXM",
+      "thumbnail": "https://i.ytimg.com/vi/9qSqVPaWfXM/hqdefault.jpg",
+      "site_titles": [
+        "Michael Bragdell: Teaching Rein Back In-Hand"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "w7i8Oi8078Y",
+      "youtube_title": "How To Fix The Horse Who Ignores Your Leg",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=w7i8Oi8078Y",
+      "embed_url": "https://www.youtube.com/embed/w7i8Oi8078Y",
+      "thumbnail": "https://i.ytimg.com/vi/w7i8Oi8078Y/hqdefault.jpg",
+      "site_titles": [
+        "How to Fix the Horse Who Ignores Your Leg"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "5Ugd4Ni2F1c",
+      "youtube_title": "How teach a horse to respond to your leg pressure, move off your leg, become more responsive",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5Ugd4Ni2F1c",
+      "embed_url": "https://www.youtube.com/embed/5Ugd4Ni2F1c",
+      "thumbnail": "https://i.ytimg.com/vi/5Ugd4Ni2F1c/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Respond to Your Leg Pressure"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
