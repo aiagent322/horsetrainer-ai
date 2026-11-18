@@ -2,9 +2,9 @@
   "site": "horsetrainer-ai",
   "source": "aiagent322/horsetrainer-ai",
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
-  "generated_at": "2026-07-11T22:53:58+00:00",
+  "generated_at": "2026-11-18T22:26:28+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3151,
+  "count": 3170,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -52221,6 +52221,253 @@
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "U0ieoHoYOQw",
+      "youtube_title": "4-Barrel Drill with Ashley Schafer for Forward and Fluid Barrel Turns",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=U0ieoHoYOQw",
+      "embed_url": "https://www.youtube.com/embed/U0ieoHoYOQw",
+      "thumbnail": "https://i.ytimg.com/vi/U0ieoHoYOQw/hqdefault.jpg",
+      "site_titles": [
+        "4-Barrel Drill with Ashley Schafer for Forward and Fluid Barrel Turns"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "0LM_zPTvK6E",
+      "youtube_title": "Ashley Schafer Common Mistakes",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=0LM_zPTvK6E",
+      "embed_url": "https://www.youtube.com/embed/0LM_zPTvK6E",
+      "thumbnail": "https://i.ytimg.com/vi/0LM_zPTvK6E/hqdefault.jpg",
+      "site_titles": [
+        "Ashley Schafer Common Mistakes"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "pOW-uB3gpgQ",
+      "youtube_title": "Barrel Horse Training: Teaching Your Horse to get Deeper into the Turn with Ashley Schafer",
+      "channel": "Between The Reins",
+      "youtube_url": "https://www.youtube.com/watch?v=pOW-uB3gpgQ",
+      "embed_url": "https://www.youtube.com/embed/pOW-uB3gpgQ",
+      "thumbnail": "https://i.ytimg.com/vi/pOW-uB3gpgQ/hqdefault.jpg",
+      "site_titles": [
+        "Barrel Horse Training: Teaching Your Horse to get Deeper into the Turn with Ashley Schafer"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "o47taOPpnZs",
+      "youtube_title": "Barrel Racing Bits - A Few Favourites | we can hustle",
+      "channel": "We Can Hustle",
+      "youtube_url": "https://www.youtube.com/watch?v=o47taOPpnZs",
+      "embed_url": "https://www.youtube.com/embed/o47taOPpnZs",
+      "thumbnail": "https://i.ytimg.com/vi/o47taOPpnZs/hqdefault.jpg",
+      "site_titles": [
+        "Barrel Racing Bits - A Few Favourites | we can hustle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "TppX45t_OTY",
+      "youtube_title": "Barrel Racing Tips - How to Stop Hitting/Knocking Barrels",
+      "channel": "We Can Hustle",
+      "youtube_url": "https://www.youtube.com/watch?v=TppX45t_OTY",
+      "embed_url": "https://www.youtube.com/embed/TppX45t_OTY",
+      "thumbnail": "https://i.ytimg.com/vi/TppX45t_OTY/hqdefault.jpg",
+      "site_titles": [
+        "Barrel Racing Tips - How to Stop Hitting/Knocking Barrels"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "WmgaLaZS8EU",
+      "youtube_title": "Fixing a Barrel Horse That Drops A Shoulder",
+      "channel": "Chelsey Kinsella",
+      "youtube_url": "https://www.youtube.com/watch?v=WmgaLaZS8EU",
+      "embed_url": "https://www.youtube.com/embed/WmgaLaZS8EU",
+      "thumbnail": "https://i.ytimg.com/vi/WmgaLaZS8EU/hqdefault.jpg",
+      "site_titles": [
+        "Fixing a Barrel Horse That Drops A Shoulder"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "UqeZvp3LiC0",
+      "youtube_title": "Horse Riding Hunters & Show Jumpers",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=UqeZvp3LiC0",
+      "embed_url": "https://www.youtube.com/embed/UqeZvp3LiC0",
+      "thumbnail": "https://i.ytimg.com/vi/UqeZvp3LiC0/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Hunters & Show Jumpers"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "8zjIgsKXirI",
+      "youtube_title": "How To Be A Better Barrel Racer!",
+      "channel": "Sadie Miller",
+      "youtube_url": "https://www.youtube.com/watch?v=8zjIgsKXirI",
+      "embed_url": "https://www.youtube.com/embed/8zjIgsKXirI",
+      "thumbnail": "https://i.ytimg.com/vi/8zjIgsKXirI/hqdefault.jpg",
+      "site_titles": [
+        "How To Be A Better Barrel Racer!"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "frYtW0c3Zu0",
+      "youtube_title": "Fix A Four Beat Canter - How to Improve Your Canter",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=frYtW0c3Zu0",
+      "embed_url": "https://www.youtube.com/embed/frYtW0c3Zu0",
+      "thumbnail": "https://i.ytimg.com/vi/frYtW0c3Zu0/hqdefault.jpg",
+      "site_titles": [
+        "How to improve the canter."
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "0SCPUaS-SEE",
+      "youtube_title": "How To Pick Cattle For Your Cutting Horse with Jesse Lennox",
+      "channel": "CHTO, Cutting Horse Training Online",
+      "youtube_url": "https://www.youtube.com/watch?v=0SCPUaS-SEE",
+      "embed_url": "https://www.youtube.com/embed/0SCPUaS-SEE",
+      "thumbnail": "https://i.ytimg.com/vi/0SCPUaS-SEE/hqdefault.jpg",
+      "site_titles": [
+        "How To Pick Cattle For Your Cutting Horse with Jesse Lennox"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "2hjLHHuBfDc",
+      "youtube_title": "How to ride Travers/ Quarters-In.",
+      "channel": "Kirstin Kelly Equestrian",
+      "youtube_url": "https://www.youtube.com/watch?v=2hjLHHuBfDc",
+      "embed_url": "https://www.youtube.com/embed/2hjLHHuBfDc",
+      "thumbnail": "https://i.ytimg.com/vi/2hjLHHuBfDc/hqdefault.jpg",
+      "site_titles": [
+        "How to ride Travers/ Quarters-In."
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "nDxk4F5Pl2Q",
+      "youtube_title": "Ivy Hurst Fixing a Shouldering Horse",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=nDxk4F5Pl2Q",
+      "embed_url": "https://www.youtube.com/embed/nDxk4F5Pl2Q",
+      "thumbnail": "https://i.ytimg.com/vi/nDxk4F5Pl2Q/hqdefault.jpg",
+      "site_titles": [
+        "Ivy Hurst Fixing a Shouldering Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "IOJfAF5MLYY",
+      "youtube_title": "Jolene Montgomery - Approaching The First Barrel",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=IOJfAF5MLYY",
+      "embed_url": "https://www.youtube.com/embed/IOJfAF5MLYY",
+      "thumbnail": "https://i.ytimg.com/vi/IOJfAF5MLYY/hqdefault.jpg",
+      "site_titles": [
+        "Jolene Montgomery - Approaching The First Barrel"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "0oeHd2mPOqI",
+      "youtube_title": "Jordan Briggs - Bits",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=0oeHd2mPOqI",
+      "embed_url": "https://www.youtube.com/embed/0oeHd2mPOqI",
+      "thumbnail": "https://i.ytimg.com/vi/0oeHd2mPOqI/hqdefault.jpg",
+      "site_titles": [
+        "Jordan Briggs - Bits"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "NlI3874mfYU",
+      "youtube_title": "Shoes for your Barrel Horse",
+      "channel": "Honda Rebel Diaries With Jo",
+      "youtube_url": "https://www.youtube.com/watch?v=NlI3874mfYU",
+      "embed_url": "https://www.youtube.com/embed/NlI3874mfYU",
+      "thumbnail": "https://i.ytimg.com/vi/NlI3874mfYU/hqdefault.jpg",
+      "site_titles": [
+        "Shoes for your Barrel Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "P69_RMJzFhU",
+      "youtube_title": "Tana Renick - Using Spurs",
+      "channel": "BarrelHorseNews",
+      "youtube_url": "https://www.youtube.com/watch?v=P69_RMJzFhU",
+      "embed_url": "https://www.youtube.com/embed/P69_RMJzFhU",
+      "thumbnail": "https://i.ytimg.com/vi/P69_RMJzFhU/hqdefault.jpg",
+      "site_titles": [
+        "Tana Renick - Using Spurs"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "6KIvMZXXxh4",
+      "youtube_title": "Tips on helping the barrel horse with Alley Issues",
+      "channel": "Honda Rebel Diaries With Jo",
+      "youtube_url": "https://www.youtube.com/watch?v=6KIvMZXXxh4",
+      "embed_url": "https://www.youtube.com/embed/6KIvMZXXxh4",
+      "thumbnail": "https://i.ytimg.com/vi/6KIvMZXXxh4/hqdefault.jpg",
+      "site_titles": [
+        "Tips on helping the barrel horse with Alley Issues"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "DiB5yYNrUjI",
+      "youtube_title": "What Types of Breeds Are Used for Barrel Racing?",
+      "channel": "Equestrian Life",
+      "youtube_url": "https://www.youtube.com/watch?v=DiB5yYNrUjI",
+      "embed_url": "https://www.youtube.com/embed/DiB5yYNrUjI",
+      "thumbnail": "https://i.ytimg.com/vi/DiB5yYNrUjI/hqdefault.jpg",
+      "site_titles": [
+        "What Types of Breeds Are Used for Barrel Racing?"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
+    },
+    {
+      "id": "ISW-O8S9RJ0",
+      "youtube_title": "Whips & Spurs for Barrel Racing | My Opinions + Tips",
+      "channel": "Running Ivy Equine",
+      "youtube_url": "https://www.youtube.com/watch?v=ISW-O8S9RJ0",
+      "embed_url": "https://www.youtube.com/embed/ISW-O8S9RJ0",
+      "thumbnail": "https://i.ytimg.com/vi/ISW-O8S9RJ0/hqdefault.jpg",
+      "site_titles": [
+        "Whips & Spurs for Barrel Racing | My Opinions + Tips"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube oEmbed, 2026-11-18"
     }
   ]
 }
