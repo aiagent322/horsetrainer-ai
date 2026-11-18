@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3105,
+  "count": 3115,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51620,6 +51620,136 @@
       "thumbnail": "https://i.ytimg.com/vi/5Ugd4Ni2F1c/hqdefault.jpg",
       "site_titles": [
         "How to Teach a Horse to Respond to Your Leg Pressure"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "D7Z00U9pIy0",
+      "youtube_title": "How to Stop a Bolting Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=D7Z00U9pIy0",
+      "embed_url": "https://www.youtube.com/embed/D7Z00U9pIy0",
+      "thumbnail": "https://i.ytimg.com/vi/D7Z00U9pIy0/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop a Bolting Horse: 2 Ways"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "wuGBPnPlfB4",
+      "youtube_title": "How To Stop A Horse from Bolting - Part 1",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wuGBPnPlfB4",
+      "embed_url": "https://www.youtube.com/embed/wuGBPnPlfB4",
+      "thumbnail": "https://i.ytimg.com/vi/wuGBPnPlfB4/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop a Horse from Bolting, Part 1"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "nZYHpX2q1uY",
+      "youtube_title": "Practice the One Rein Stop - Making sure you know what to do if the horse bolts",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nZYHpX2q1uY",
+      "embed_url": "https://www.youtube.com/embed/nZYHpX2q1uY",
+      "thumbnail": "https://i.ytimg.com/vi/nZYHpX2q1uY/hqdefault.jpg",
+      "site_titles": [
+        "Practice the One Rein Stop: What to Do if the Horse Bolts"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "6ikyu4Yqjf0",
+      "youtube_title": "YOUNG HORSE TRAINING || FIRST TIME WITH SADDLE ON || HOW TO INTRODUCE A SADDLE TO A YOUNG HORSE",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6ikyu4Yqjf0",
+      "embed_url": "https://www.youtube.com/embed/6ikyu4Yqjf0",
+      "thumbnail": "https://i.ytimg.com/vi/6ikyu4Yqjf0/hqdefault.jpg",
+      "site_titles": [
+        "How to Introduce a Saddle to a Young Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MdJJhxNGY6E",
+      "youtube_title": "Four Great Exercises To Help A Young Horse Accept The Saddle.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MdJJhxNGY6E",
+      "embed_url": "https://www.youtube.com/embed/MdJJhxNGY6E",
+      "thumbnail": "https://i.ytimg.com/vi/MdJJhxNGY6E/hqdefault.jpg",
+      "site_titles": [
+        "Four Great Exercises to Help a Young Horse Accept the Saddle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "X0GG49my3Qk",
+      "youtube_title": "Horses that Bite - How to Fix Anything With Horses presented by Elite Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=X0GG49my3Qk",
+      "embed_url": "https://www.youtube.com/embed/X0GG49my3Qk",
+      "thumbnail": "https://i.ytimg.com/vi/X0GG49my3Qk/hqdefault.jpg",
+      "site_titles": [
+        "Horses That Bite: How to Fix Anything With Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "YCMrzcZNpdQ",
+      "youtube_title": "Horse Training : How to Stop a Horse From Biting & Ear-Pinning",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=YCMrzcZNpdQ",
+      "embed_url": "https://www.youtube.com/embed/YCMrzcZNpdQ",
+      "thumbnail": "https://i.ytimg.com/vi/YCMrzcZNpdQ/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop a Horse From Biting and Ear-Pinning"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "2d0Rr7UcZQ8",
+      "youtube_title": "How To Calm Your Horse On The Trail In 2 Steps",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2d0Rr7UcZQ8",
+      "embed_url": "https://www.youtube.com/embed/2d0Rr7UcZQ8",
+      "thumbnail": "https://i.ytimg.com/vi/2d0Rr7UcZQ8/hqdefault.jpg",
+      "site_titles": [
+        "How to Calm Your Horse on the Trail in 2 Steps"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "70gqsLRsctw",
+      "youtube_title": "First exercise to teach your horse to lead or ride out CALMLY",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=70gqsLRsctw",
+      "embed_url": "https://www.youtube.com/embed/70gqsLRsctw",
+      "thumbnail": "https://i.ytimg.com/vi/70gqsLRsctw/hqdefault.jpg",
+      "site_titles": [
+        "First Exercise to Teach Your Horse to Lead or Ride Out Calmly"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "teXjQTb5p_A",
+      "youtube_title": "Motivating a Lazy Horse: Ken McNabb Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=teXjQTb5p_A",
+      "embed_url": "https://www.youtube.com/embed/teXjQTb5p_A",
+      "thumbnail": "https://i.ytimg.com/vi/teXjQTb5p_A/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Motivating a Lazy Horse"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
