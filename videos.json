@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3165,
+  "count": 3166,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -52400,6 +52400,19 @@
       "thumbnail": "https://i.ytimg.com/vi/B5KeqtLZoUA/hqdefault.jpg",
       "site_titles": [
         "Horse Safe-Handling"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "fYtcbqXSW6w",
+      "youtube_title": "George Morris: Teaching and Training the American Way",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fYtcbqXSW6w",
+      "embed_url": "https://www.youtube.com/embed/fYtcbqXSW6w",
+      "thumbnail": "https://i.ytimg.com/vi/fYtcbqXSW6w/hqdefault.jpg",
+      "site_titles": [
+        "George Morris: Teaching and Training the American Way"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
