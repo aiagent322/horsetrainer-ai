@@ -75,10 +75,9 @@ n = 0
 def make(name, *a, **k):
     global n; card(out(name), *a, **k); n += 1
 
-make('og-default', 'Horse Training, Explained', 'Guides, expert Q&A and trainers from HorseTrainer.ai')
-make('og-home', 'Find a Horse Trainer', 'Training guides, 3,500+ expert Q&A answers and trainer profiles', kicker='HorseTrainer.ai')
+make('og-default', 'Horse Training, Explained', 'Guides, expert Q&A and videos from HorseTrainer.ai')
+make('og-home', 'Horse Training Q&A, Guides and Videos', '3,812 answers, 251 step-by-step guides and 3,185 videos', kicker='HorseTrainer.ai')
 make('og-qa', 'Horse Training Q&A', 'Expert answers across 60+ disciplines and topics', kicker='Questions & Answers')
-make('og-find-a-trainer', 'Find a Horse Trainer', 'Match with trainers by discipline and training need', kicker='Trainer Match')
 make('og-training', 'Horse Training Guides', 'Gaits, collection, safety, speed, competition and more', kicker='Training Guides')
 make('og-famous-trainers', 'Famous Horse Trainers', 'Biographies of the horsemen and horsewomen who shaped training', brown=True, kicker='Published Biographies')
 SECTIONS = {'groundwork': ('Groundwork', 'Lunging, yielding, sacking out, leading and foundation work'),
