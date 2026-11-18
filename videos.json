@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3065,
+  "count": 3075,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51100,6 +51100,136 @@
       "thumbnail": "https://i.ytimg.com/vi/Rn84SH7iYX8/hqdefault.jpg",
       "site_titles": [
         "Riding a Horse on a Circle: Step by Step Aids"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "nL6cI1IAmFM",
+      "youtube_title": "MAKE A HORSE STAND STILL AT THE MOUNTING BLOCK",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nL6cI1IAmFM",
+      "embed_url": "https://www.youtube.com/embed/nL6cI1IAmFM",
+      "thumbnail": "https://i.ytimg.com/vi/nL6cI1IAmFM/hqdefault.jpg",
+      "site_titles": [
+        "Make a Horse Stand Still at the Mounting Block"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QudSrwndn7c",
+      "youtube_title": "How To Train Your Horse To Stand Still For Mounting - Horse Training - Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QudSrwndn7c",
+      "embed_url": "https://www.youtube.com/embed/QudSrwndn7c",
+      "thumbnail": "https://i.ytimg.com/vi/QudSrwndn7c/hqdefault.jpg",
+      "site_titles": [
+        "Larry Trocha: How to Train Your Horse to Stand Still for Mounting"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "DPfaQTXLmf4",
+      "youtube_title": "The Importance of the Mounting Block and How to Get Your Horse to Stand at it!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DPfaQTXLmf4",
+      "embed_url": "https://www.youtube.com/embed/DPfaQTXLmf4",
+      "thumbnail": "https://i.ytimg.com/vi/DPfaQTXLmf4/hqdefault.jpg",
+      "site_titles": [
+        "The Importance of the Mounting Block and How to Get Your Horse to Stand at It"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "M8YcVgaxBxY",
+      "youtube_title": "Teaching this horse to want to stand at the mounting block",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=M8YcVgaxBxY",
+      "embed_url": "https://www.youtube.com/embed/M8YcVgaxBxY",
+      "thumbnail": "https://i.ytimg.com/vi/M8YcVgaxBxY/hqdefault.jpg",
+      "site_titles": [
+        "Teaching This Horse to Want to Stand at the Mounting Block"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "mG7PHJXsg9Y",
+      "youtube_title": "Why Some Horses Are More Herd-Bound Than Others",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mG7PHJXsg9Y",
+      "embed_url": "https://www.youtube.com/embed/mG7PHJXsg9Y",
+      "thumbnail": "https://i.ytimg.com/vi/mG7PHJXsg9Y/hqdefault.jpg",
+      "site_titles": [
+        "Why Some Horses Are More Herd-Bound Than Others"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MagvOKkvrW4",
+      "youtube_title": "How To Teach A Horse To Side Pass",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MagvOKkvrW4",
+      "embed_url": "https://www.youtube.com/embed/MagvOKkvrW4",
+      "thumbnail": "https://i.ytimg.com/vi/MagvOKkvrW4/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Side Pass"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "SOBzwVNtlkw",
+      "youtube_title": "HOW TO SIDEPASS A HORSE(SIDEPASSING FOR RESPECT)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SOBzwVNtlkw",
+      "embed_url": "https://www.youtube.com/embed/SOBzwVNtlkw",
+      "thumbnail": "https://i.ytimg.com/vi/SOBzwVNtlkw/hqdefault.jpg",
+      "site_titles": [
+        "How to Sidepass a Horse: Sidepassing for Respect"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "-unw-JcxCdw",
+      "youtube_title": "Steps to a Sidepass",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-unw-JcxCdw",
+      "embed_url": "https://www.youtube.com/embed/-unw-JcxCdw",
+      "thumbnail": "https://i.ytimg.com/vi/-unw-JcxCdw/hqdefault.jpg",
+      "site_titles": [
+        "Mike Major: Steps to a Sidepass"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "9TSk-adIkUY",
+      "youtube_title": "Horse Spooks? Here's What To Do",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9TSk-adIkUY",
+      "embed_url": "https://www.youtube.com/embed/9TSk-adIkUY",
+      "thumbnail": "https://i.ytimg.com/vi/9TSk-adIkUY/hqdefault.jpg",
+      "site_titles": [
+        "Larry Trocha: Horse Spooks? Here is What To Do"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "onlcEXkWb48",
+      "youtube_title": "How Do You Desensitize A Spooky Horse?",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=onlcEXkWb48",
+      "embed_url": "https://www.youtube.com/embed/onlcEXkWb48",
+      "thumbnail": "https://i.ytimg.com/vi/onlcEXkWb48/hqdefault.jpg",
+      "site_titles": [
+        "Craig Cameron: How Do You Desensitize a Spooky Horse"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
