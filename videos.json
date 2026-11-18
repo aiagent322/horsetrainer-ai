@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2965,
+  "count": 2975,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49803,6 +49803,136 @@
       ],
       "pages": [],
       "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "hSN5H-K0GEo",
+      "youtube_title": "How to Yield the Hindquarters - Basic Horsemanship Training",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hSN5H-K0GEo",
+      "embed_url": "https://www.youtube.com/embed/hSN5H-K0GEo",
+      "thumbnail": "https://i.ytimg.com/vi/hSN5H-K0GEo/hqdefault.jpg",
+      "site_titles": [
+        "How to Yield the Hindquarters"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "9WPx7bV7FI0",
+      "youtube_title": "Getting Your Horse To Stand Still",
+      "channel": "Horse Help 365",
+      "youtube_url": "https://www.youtube.com/watch?v=9WPx7bV7FI0",
+      "embed_url": "https://www.youtube.com/embed/9WPx7bV7FI0",
+      "thumbnail": "https://i.ytimg.com/vi/9WPx7bV7FI0/hqdefault.jpg",
+      "site_titles": [
+        "Michael Gascon: Getting Your Horse To Stand Still"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "VyJ59pENj1s",
+      "youtube_title": "How to Teach Your Horse to Stand Still and Relaxed Once You've Mounted",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VyJ59pENj1s",
+      "embed_url": "https://www.youtube.com/embed/VyJ59pENj1s",
+      "thumbnail": "https://i.ytimg.com/vi/VyJ59pENj1s/hqdefault.jpg",
+      "site_titles": [
+        "Teach Your Horse to Stand Still and Relaxed Once Mounted"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ij4pAdZGPuk",
+      "youtube_title": "How to teach a horse to stand still at the Mounting Block",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ij4pAdZGPuk",
+      "embed_url": "https://www.youtube.com/embed/ij4pAdZGPuk",
+      "thumbnail": "https://i.ytimg.com/vi/ij4pAdZGPuk/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Stand Still at the Mounting Block"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "6TqQioYWARY",
+      "youtube_title": "Teaching Your Horse to Stand Still While You Get On",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6TqQioYWARY",
+      "embed_url": "https://www.youtube.com/embed/6TqQioYWARY",
+      "thumbnail": "https://i.ytimg.com/vi/6TqQioYWARY/hqdefault.jpg",
+      "site_titles": [
+        "Teaching Your Horse to Stand Still While You Get On"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "qr2867fKA50",
+      "youtube_title": "How to Build Trust in Anxious Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qr2867fKA50",
+      "embed_url": "https://www.youtube.com/embed/qr2867fKA50",
+      "thumbnail": "https://i.ytimg.com/vi/qr2867fKA50/hqdefault.jpg",
+      "site_titles": [
+        "Mark Langley: How to Build Trust in Anxious Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "yVA7ZZ16j7M",
+      "youtube_title": "Equestrian Masterclass Learn Horsemanship w Richard Winters on Lateral Flexion",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yVA7ZZ16j7M",
+      "embed_url": "https://www.youtube.com/embed/yVA7ZZ16j7M",
+      "thumbnail": "https://i.ytimg.com/vi/yVA7ZZ16j7M/hqdefault.jpg",
+      "site_titles": [
+        "Richard Winters: Lateral Flexion"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "5TLmdaeaJnk",
+      "youtube_title": "Starting Vertical Flexion with Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5TLmdaeaJnk",
+      "embed_url": "https://www.youtube.com/embed/5TLmdaeaJnk",
+      "thumbnail": "https://i.ytimg.com/vi/5TLmdaeaJnk/hqdefault.jpg",
+      "site_titles": [
+        "Starting Vertical Flexion with Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "EtLfUUaGH5Q",
+      "youtube_title": "HOW TO AVOID BRACE OR BTV WHEN YOU TAKE CONTACT",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EtLfUUaGH5Q",
+      "embed_url": "https://www.youtube.com/embed/EtLfUUaGH5Q",
+      "thumbnail": "https://i.ytimg.com/vi/EtLfUUaGH5Q/hqdefault.jpg",
+      "site_titles": [
+        "How to Avoid Brace or BTV When You Take Contact"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "rQoaA6W752g",
+      "youtube_title": "How to Help a heavy horse become light",
+      "channel": "Steve Halfpenny",
+      "youtube_url": "https://www.youtube.com/watch?v=rQoaA6W752g",
+      "embed_url": "https://www.youtube.com/embed/rQoaA6W752g",
+      "thumbnail": "https://i.ytimg.com/vi/rQoaA6W752g/hqdefault.jpg",
+      "site_titles": [
+        "Steve Halfpenny: How to Help a Heavy Horse Become Light"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     }
   ]
 }
