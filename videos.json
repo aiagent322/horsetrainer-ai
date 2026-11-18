@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2985,
+  "count": 2995,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50060,6 +50060,136 @@
       "thumbnail": "https://i.ytimg.com/vi/XHG-6JKzYis/hqdefault.jpg",
       "site_titles": [
         "Rick Gore: Approaching Horses in a Herd"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "n8RmJInijUk",
+      "youtube_title": "DESENSITIZING YOUR HORSE to SPOOKY OBJECTS",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=n8RmJInijUk",
+      "embed_url": "https://www.youtube.com/embed/n8RmJInijUk",
+      "thumbnail": "https://i.ytimg.com/vi/n8RmJInijUk/hqdefault.jpg",
+      "site_titles": [
+        "Desensitizing Your Horse to Spooky Objects"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ZE9hFqO9wEU",
+      "youtube_title": "Putting The Cart Before The Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ZE9hFqO9wEU",
+      "embed_url": "https://www.youtube.com/embed/ZE9hFqO9wEU",
+      "thumbnail": "https://i.ytimg.com/vi/ZE9hFqO9wEU/hqdefault.jpg",
+      "site_titles": [
+        "Putting the Cart Before the Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MO-9yYCoVZg",
+      "youtube_title": "Loading a Nervous Horse on a Trailer, with Don Jessop",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MO-9yYCoVZg",
+      "embed_url": "https://www.youtube.com/embed/MO-9yYCoVZg",
+      "thumbnail": "https://i.ytimg.com/vi/MO-9yYCoVZg/hqdefault.jpg",
+      "site_titles": [
+        "Don Jessop: Loading a Nervous Horse on a Trailer"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "7aUevPu69SE",
+      "youtube_title": "Trailer loading: Help an anxious horse to load with confidence",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7aUevPu69SE",
+      "embed_url": "https://www.youtube.com/embed/7aUevPu69SE",
+      "thumbnail": "https://i.ytimg.com/vi/7aUevPu69SE/hqdefault.jpg",
+      "site_titles": [
+        "Trailer Loading: Help an Anxious Horse Load with Confidence"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "9k0V5h5ebHU",
+      "youtube_title": "Monique Potts: Loading a Horse by Yourself",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9k0V5h5ebHU",
+      "embed_url": "https://www.youtube.com/embed/9k0V5h5ebHU",
+      "thumbnail": "https://i.ytimg.com/vi/9k0V5h5ebHU/hqdefault.jpg",
+      "site_titles": [
+        "Monique Potts: Loading a Horse by Yourself"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "pj0cepXvo2M",
+      "youtube_title": "Teaching a Horse to Stop Off Your Seat",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=pj0cepXvo2M",
+      "embed_url": "https://www.youtube.com/embed/pj0cepXvo2M",
+      "thumbnail": "https://i.ytimg.com/vi/pj0cepXvo2M/hqdefault.jpg",
+      "site_titles": [
+        "Teaching a Horse to Stop Off Your Seat"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "lt8hazftM_w",
+      "youtube_title": "Teach Your Horse to Back on the Word \"Whoa\" (Episode 107) - Herm Gailey",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lt8hazftM_w",
+      "embed_url": "https://www.youtube.com/embed/lt8hazftM_w",
+      "thumbnail": "https://i.ytimg.com/vi/lt8hazftM_w/hqdefault.jpg",
+      "site_titles": [
+        "Herm Gailey: Teach Your Horse to Back on the Word Whoa"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "qXNbejEBNk8",
+      "youtube_title": "AZHT: Teach a Horse to Stop at the \"Whoa\"",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qXNbejEBNk8",
+      "embed_url": "https://www.youtube.com/embed/qXNbejEBNk8",
+      "thumbnail": "https://i.ytimg.com/vi/qXNbejEBNk8/hqdefault.jpg",
+      "site_titles": [
+        "AZHT: Teach a Horse to Stop at the Whoa"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "lHxaPTZ-fUs",
+      "youtube_title": "Managing Riding Fear... The Foundation that Builds Confidence",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lHxaPTZ-fUs",
+      "embed_url": "https://www.youtube.com/embed/lHxaPTZ-fUs",
+      "thumbnail": "https://i.ytimg.com/vi/lHxaPTZ-fUs/hqdefault.jpg",
+      "site_titles": [
+        "Managing Riding Fear: The Foundation That Builds Confidence"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "89Nn2EBesXc",
+      "youtube_title": "Anxiety Overhaul: How to Create a Calm, Safe Partner in the Saddle",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=89Nn2EBesXc",
+      "embed_url": "https://www.youtube.com/embed/89Nn2EBesXc",
+      "thumbnail": "https://i.ytimg.com/vi/89Nn2EBesXc/hqdefault.jpg",
+      "site_titles": [
+        "Ryan Rose: Anxiety Overhaul, a Calm, Safe Partner in the Saddle"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
