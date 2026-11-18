@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3085,
+  "count": 3095,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51360,6 +51360,136 @@
       "thumbnail": "https://i.ytimg.com/vi/aVYlI9v66hw/hqdefault.jpg",
       "site_titles": [
         "How to Ride a Bucking Horse: Keep the Horse in Forward Motion"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "0YUAArukMFc",
+      "youtube_title": "HOW TO TEACH A HORSE TO LUNGE",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0YUAArukMFc",
+      "embed_url": "https://www.youtube.com/embed/0YUAArukMFc",
+      "thumbnail": "https://i.ytimg.com/vi/0YUAArukMFc/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Lunge"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "qCU_ofAEUz0",
+      "youtube_title": "The STEPS to TEACH any HORSE how to LUNGE // MAKE LUNGING EASY w/ preparation steps",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qCU_ofAEUz0",
+      "embed_url": "https://www.youtube.com/embed/qCU_ofAEUz0",
+      "thumbnail": "https://i.ytimg.com/vi/qCU_ofAEUz0/hqdefault.jpg",
+      "site_titles": [
+        "The Steps to Teach Any Horse How to Lunge"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "OU1izeHGH1E",
+      "youtube_title": "Lunging for Beginning Horse Owners",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=OU1izeHGH1E",
+      "embed_url": "https://www.youtube.com/embed/OU1izeHGH1E",
+      "thumbnail": "https://i.ytimg.com/vi/OU1izeHGH1E/hqdefault.jpg",
+      "site_titles": [
+        "Lunging for Beginning Horse Owners"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "b8kqdSfh2Eg",
+      "youtube_title": "Training the Pushy Horse: DO's and DON'TS",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=b8kqdSfh2Eg",
+      "embed_url": "https://www.youtube.com/embed/b8kqdSfh2Eg",
+      "thumbnail": "https://i.ytimg.com/vi/b8kqdSfh2Eg/hqdefault.jpg",
+      "site_titles": [
+        "Training the Pushy Horse: Dos and Donts"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "z28vVzcewfg",
+      "youtube_title": "Buddy, Step Aside! (Episode 159) - Herm Gailey: A Lifetime with Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=z28vVzcewfg",
+      "embed_url": "https://www.youtube.com/embed/z28vVzcewfg",
+      "thumbnail": "https://i.ytimg.com/vi/z28vVzcewfg/hqdefault.jpg",
+      "site_titles": [
+        "Herm Gailey: Buddy, Step Aside! (Episode 159)"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "JCjU49XoTtY",
+      "youtube_title": "Lunging a Pushy Horse with Lisa Gentile",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JCjU49XoTtY",
+      "embed_url": "https://www.youtube.com/embed/JCjU49XoTtY",
+      "thumbnail": "https://i.ytimg.com/vi/JCjU49XoTtY/hqdefault.jpg",
+      "site_titles": [
+        "Lisa Gentile: Lunging a Pushy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "C0t8BY0vNdw",
+      "youtube_title": "Why Won’t He Pick Up A Right Lead?",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=C0t8BY0vNdw",
+      "embed_url": "https://www.youtube.com/embed/C0t8BY0vNdw",
+      "thumbnail": "https://i.ytimg.com/vi/C0t8BY0vNdw/hqdefault.jpg",
+      "site_titles": [
+        "Why Will He Not Pick Up a Right Lead"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "6lXtTLr1-1U",
+      "youtube_title": "HOW TO CANTER ON THE CORRECT LEAD",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6lXtTLr1-1U",
+      "embed_url": "https://www.youtube.com/embed/6lXtTLr1-1U",
+      "thumbnail": "https://i.ytimg.com/vi/6lXtTLr1-1U/hqdefault.jpg",
+      "site_titles": [
+        "How to Canter on the Correct Lead"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "10ytC3lVYxc",
+      "youtube_title": "How to Catch a Horse in the Pasture",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=10ytC3lVYxc",
+      "embed_url": "https://www.youtube.com/embed/10ytC3lVYxc",
+      "thumbnail": "https://i.ytimg.com/vi/10ytC3lVYxc/hqdefault.jpg",
+      "site_titles": [
+        "How to Catch a Horse in the Pasture"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "flKX_M2aLCY",
+      "youtube_title": "Pat Parelli: Hard to Catch",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=flKX_M2aLCY",
+      "embed_url": "https://www.youtube.com/embed/flKX_M2aLCY",
+      "thumbnail": "https://i.ytimg.com/vi/flKX_M2aLCY/hqdefault.jpg",
+      "site_titles": [
+        "Pat Parelli: Hard to Catch"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
