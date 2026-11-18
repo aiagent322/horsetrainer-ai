@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2955,
+  "count": 2965,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49670,6 +49670,136 @@
       "thumbnail": "https://i.ytimg.com/vi/WepCHteIPZU/hqdefault.jpg",
       "site_titles": [
         "Denny Emerson: The Independent Seat"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "BANshLvc55g",
+      "youtube_title": "Ken McNabb: How to Ride Your Horse with Light Hands | Learn Shoulder, Ribcage & Hindquarter Control",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=BANshLvc55g",
+      "embed_url": "https://www.youtube.com/embed/BANshLvc55g",
+      "thumbnail": "https://i.ytimg.com/vi/BANshLvc55g/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: How to Ride Your Horse with Light Hands"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "Ias2rs7F2SA",
+      "youtube_title": "Ken McNabb Horse Training Tips/ Rider Control: Building a Horse with Body Awareness and Balance",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=Ias2rs7F2SA",
+      "embed_url": "https://www.youtube.com/embed/Ias2rs7F2SA",
+      "thumbnail": "https://i.ytimg.com/vi/Ias2rs7F2SA/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Rider Control, Body Awareness and Balance"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "H7al0OODztc",
+      "youtube_title": "Ken McNabb: Controlling Rider Emotions & Developing Correct Body Position",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=H7al0OODztc",
+      "embed_url": "https://www.youtube.com/embed/H7al0OODztc",
+      "thumbnail": "https://i.ytimg.com/vi/H7al0OODztc/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Controlling Rider Emotions and Body Position"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "aASS-342kdo",
+      "youtube_title": "Ken McNabb: Ground Work | Preparing Your Horse to Ride",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=aASS-342kdo",
+      "embed_url": "https://www.youtube.com/embed/aASS-342kdo",
+      "thumbnail": "https://i.ytimg.com/vi/aASS-342kdo/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Ground Work, Preparing Your Horse to Ride"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "dPtYNS1kQz0",
+      "youtube_title": "Horsemanship Goals- Ken McNabb- Horseman's Moments",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=dPtYNS1kQz0",
+      "embed_url": "https://www.youtube.com/embed/dPtYNS1kQz0",
+      "thumbnail": "https://i.ytimg.com/vi/dPtYNS1kQz0/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Horsemanship Goals"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "9ZyfUBlg8yo",
+      "youtube_title": "Horses Are Prey Animals - The Philosophy Behind the Downunder Horsemanship Method",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=9ZyfUBlg8yo",
+      "embed_url": "https://www.youtube.com/embed/9ZyfUBlg8yo",
+      "thumbnail": "https://i.ytimg.com/vi/9ZyfUBlg8yo/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Horses Are Prey Animals"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "GlcPZsrk-NU",
+      "youtube_title": "Stop Looking Down When You Ride — Here's Why It's Hurting You | Reining Tips with Matt Mills",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=GlcPZsrk-NU",
+      "embed_url": "https://www.youtube.com/embed/GlcPZsrk-NU",
+      "thumbnail": "https://i.ytimg.com/vi/GlcPZsrk-NU/hqdefault.jpg",
+      "site_titles": [
+        "Matt Mills: Stop Looking Down When You Ride"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "_AqvNrE6lVM",
+      "youtube_title": "Creating Relaxation with an Anxious Dressage Prospect",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=_AqvNrE6lVM",
+      "embed_url": "https://www.youtube.com/embed/_AqvNrE6lVM",
+      "thumbnail": "https://i.ytimg.com/vi/_AqvNrE6lVM/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: Creating Relaxation with an Anxious Dressage Prospect"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "hZ0fZyRTVvg",
+      "youtube_title": "Kimes Ranch Training Tips with Matt Mills",
+      "channel": "Kimes Ranch",
+      "youtube_url": "https://www.youtube.com/watch?v=hZ0fZyRTVvg",
+      "embed_url": "https://www.youtube.com/embed/hZ0fZyRTVvg",
+      "thumbnail": "https://i.ytimg.com/vi/hZ0fZyRTVvg/hqdefault.jpg",
+      "site_titles": [
+        "Matt Mills: Fast Circles to Small, Slow Circles"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "rWAqWtM-kiY",
+      "youtube_title": "Dealing with Excess Energy in a Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rWAqWtM-kiY",
+      "embed_url": "https://www.youtube.com/embed/rWAqWtM-kiY",
+      "thumbnail": "https://i.ytimg.com/vi/rWAqWtM-kiY/hqdefault.jpg",
+      "site_titles": [
+        "Dealing with Excess Energy in a Horse"
       ],
       "pages": [],
       "metadata_source": "YouTube watch-page metadata, 2026-11-18"
