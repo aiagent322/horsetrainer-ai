@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3166,
+  "count": 3151,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49675,19 +49675,6 @@
       "metadata_source": "YouTube watch-page metadata, 2026-11-18"
     },
     {
-      "id": "BANshLvc55g",
-      "youtube_title": "Ken McNabb: How to Ride Your Horse with Light Hands | Learn Shoulder, Ribcage & Hindquarter Control",
-      "channel": "Ken McNabb",
-      "youtube_url": "https://www.youtube.com/watch?v=BANshLvc55g",
-      "embed_url": "https://www.youtube.com/embed/BANshLvc55g",
-      "thumbnail": "https://i.ytimg.com/vi/BANshLvc55g/hqdefault.jpg",
-      "site_titles": [
-        "Ken McNabb: How to Ride Your Horse with Light Hands"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
-    },
-    {
       "id": "Ias2rs7F2SA",
       "youtube_title": "Ken McNabb Horse Training Tips/ Rider Control: Building a Horse with Body Awareness and Balance",
       "channel": "Ken McNabb",
@@ -49696,32 +49683,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Ias2rs7F2SA/hqdefault.jpg",
       "site_titles": [
         "Ken McNabb: Rider Control, Body Awareness and Balance"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
-    },
-    {
-      "id": "H7al0OODztc",
-      "youtube_title": "Ken McNabb: Controlling Rider Emotions & Developing Correct Body Position",
-      "channel": "Ken McNabb",
-      "youtube_url": "https://www.youtube.com/watch?v=H7al0OODztc",
-      "embed_url": "https://www.youtube.com/embed/H7al0OODztc",
-      "thumbnail": "https://i.ytimg.com/vi/H7al0OODztc/hqdefault.jpg",
-      "site_titles": [
-        "Ken McNabb: Controlling Rider Emotions and Body Position"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
-    },
-    {
-      "id": "aASS-342kdo",
-      "youtube_title": "Ken McNabb: Ground Work | Preparing Your Horse to Ride",
-      "channel": "Ken McNabb",
-      "youtube_url": "https://www.youtube.com/watch?v=aASS-342kdo",
-      "embed_url": "https://www.youtube.com/embed/aASS-342kdo",
-      "thumbnail": "https://i.ytimg.com/vi/aASS-342kdo/hqdefault.jpg",
-      "site_titles": [
-        "Ken McNabb: Ground Work, Preparing Your Horse to Ride"
       ],
       "pages": [],
       "metadata_source": "YouTube watch-page metadata, 2026-11-18"
@@ -49909,19 +49870,6 @@
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     },
     {
-      "id": "EtLfUUaGH5Q",
-      "youtube_title": "HOW TO AVOID BRACE OR BTV WHEN YOU TAKE CONTACT",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=EtLfUUaGH5Q",
-      "embed_url": "https://www.youtube.com/embed/EtLfUUaGH5Q",
-      "thumbnail": "https://i.ytimg.com/vi/EtLfUUaGH5Q/hqdefault.jpg",
-      "site_titles": [
-        "How to Avoid Brace or BTV When You Take Contact"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
       "id": "rQoaA6W752g",
       "youtube_title": "How to Help a heavy horse become light",
       "channel": "Steve Halfpenny",
@@ -49956,19 +49904,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ASrh7C90Yks/hqdefault.jpg",
       "site_titles": [
         "Teaching Your Horse to Lead Without Crowding You"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "soKY7men6Yg",
-      "youtube_title": "How to Keep Your Horse Out of your Space",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=soKY7men6Yg",
-      "embed_url": "https://www.youtube.com/embed/soKY7men6Yg",
-      "thumbnail": "https://i.ytimg.com/vi/soKY7men6Yg/hqdefault.jpg",
-      "site_titles": [
-        "How to Keep Your Horse Out of Your Space"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
@@ -50190,19 +50125,6 @@
       "thumbnail": "https://i.ytimg.com/vi/89Nn2EBesXc/hqdefault.jpg",
       "site_titles": [
         "Ryan Rose: Anxiety Overhaul, a Calm, Safe Partner in the Saddle"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "cGXEMjzzjjQ",
-      "youtube_title": "IS YOUR HORSE BARN SOUR? Do This...",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=cGXEMjzzjjQ",
-      "embed_url": "https://www.youtube.com/embed/cGXEMjzzjjQ",
-      "thumbnail": "https://i.ytimg.com/vi/cGXEMjzzjjQ/hqdefault.jpg",
-      "site_titles": [
-        "Dennis Cappel: Is Your Horse Barn Sour?"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
@@ -50689,32 +50611,6 @@
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     },
     {
-      "id": "AH6Io5rguDM",
-      "youtube_title": "Ken McNabb: How to Teach Your Horse to Pick Up the Correct Lead at a Lope or Canter",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=AH6Io5rguDM",
-      "embed_url": "https://www.youtube.com/embed/AH6Io5rguDM",
-      "thumbnail": "https://i.ytimg.com/vi/AH6Io5rguDM/hqdefault.jpg",
-      "site_titles": [
-        "Ken McNabb: Teach Your Horse to Pick Up the Correct Lead"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "_yCdTqiKV98",
-      "youtube_title": "Ken McNabb: A Lesson on Leads (featuring DeeDee)",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=_yCdTqiKV98",
-      "embed_url": "https://www.youtube.com/embed/_yCdTqiKV98",
-      "thumbnail": "https://i.ytimg.com/vi/_yCdTqiKV98/hqdefault.jpg",
-      "site_titles": [
-        "Ken McNabb: A Lesson on Leads"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
       "id": "ZGuzmGRDePg",
       "youtube_title": "Picking up Feet-teaching an unhandled horse how to accept hoof handling and restraint",
       "channel": null,
@@ -51118,19 +51014,6 @@
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     },
     {
-      "id": "QudSrwndn7c",
-      "youtube_title": "How To Train Your Horse To Stand Still For Mounting - Horse Training - Horsemanship",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=QudSrwndn7c",
-      "embed_url": "https://www.youtube.com/embed/QudSrwndn7c",
-      "thumbnail": "https://i.ytimg.com/vi/QudSrwndn7c/hqdefault.jpg",
-      "site_titles": [
-        "Larry Trocha: How to Train Your Horse to Stand Still for Mounting"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
       "id": "DPfaQTXLmf4",
       "youtube_title": "The Importance of the Mounting Block and How to Get Your Horse to Stand at it!",
       "channel": null,
@@ -51482,19 +51365,6 @@
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     },
     {
-      "id": "flKX_M2aLCY",
-      "youtube_title": "Pat Parelli: Hard to Catch",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=flKX_M2aLCY",
-      "embed_url": "https://www.youtube.com/embed/flKX_M2aLCY",
-      "thumbnail": "https://i.ytimg.com/vi/flKX_M2aLCY/hqdefault.jpg",
-      "site_titles": [
-        "Pat Parelli: Hard to Catch"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
       "id": "kOngz1rrLDc",
       "youtube_title": "Horse Avoids Being Bridled By Tossing His Head - Q&A",
       "channel": null,
@@ -51529,19 +51399,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fRESZrO8FDQ/hqdefault.jpg",
       "site_titles": [
         "4 Steps to Bridle a Difficult Horse"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "jFNsoaQ7_PU",
-      "youtube_title": "How To Bridle A Difficult Horse: Training Without Force or Fear",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=jFNsoaQ7_PU",
-      "embed_url": "https://www.youtube.com/embed/jFNsoaQ7_PU",
-      "thumbnail": "https://i.ytimg.com/vi/jFNsoaQ7_PU/hqdefault.jpg",
-      "site_titles": [
-        "How to Bridle a Difficult Horse: Training Without Force or Fear"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
@@ -51594,19 +51451,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9qSqVPaWfXM/hqdefault.jpg",
       "site_titles": [
         "Michael Bragdell: Teaching Rein Back In-Hand"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "w7i8Oi8078Y",
-      "youtube_title": "How To Fix The Horse Who Ignores Your Leg",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=w7i8Oi8078Y",
-      "embed_url": "https://www.youtube.com/embed/w7i8Oi8078Y",
-      "thumbnail": "https://i.ytimg.com/vi/w7i8Oi8078Y/hqdefault.jpg",
-      "site_titles": [
-        "How to Fix the Horse Who Ignores Your Leg"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
@@ -52080,19 +51924,6 @@
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
     },
     {
-      "id": "pYbu45GMVp8",
-      "youtube_title": "Pat Parelli: Be Assertive, Not Aggressive in Horse Training",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=pYbu45GMVp8",
-      "embed_url": "https://www.youtube.com/embed/pYbu45GMVp8",
-      "thumbnail": "https://i.ytimg.com/vi/pYbu45GMVp8/hqdefault.jpg",
-      "site_titles": [
-        "Pat Parelli: Be Assertive, Not Aggressive in Horse Training"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
       "id": "hFR1zUuKjKw",
       "youtube_title": "How to Safely Approach a Horse: The 45-Degree Rule",
       "channel": null,
@@ -52127,19 +51958,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3WClPW0YIm4/hqdefault.jpg",
       "site_titles": [
         "13 Things Riders Do That Confuse Their Horses"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "td_k_8Smt9U",
-      "youtube_title": "Horse Riding Signals",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=td_k_8Smt9U",
-      "embed_url": "https://www.youtube.com/embed/td_k_8Smt9U",
-      "thumbnail": "https://i.ytimg.com/vi/td_k_8Smt9U/hqdefault.jpg",
-      "site_titles": [
-        "Horse Riding Signals"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
@@ -52335,19 +52153,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MyNgp6b_e68/hqdefault.jpg",
       "site_titles": [
         "Fight, Flight, Freeze: It Is More Subtle Than You Think"
-      ],
-      "pages": [],
-      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
-    },
-    {
-      "id": "VEuq-nxRDzU",
-      "youtube_title": "EP# 21 - How to deal with shying and spooking",
-      "channel": null,
-      "youtube_url": "https://www.youtube.com/watch?v=VEuq-nxRDzU",
-      "embed_url": "https://www.youtube.com/embed/VEuq-nxRDzU",
-      "thumbnail": "https://i.ytimg.com/vi/VEuq-nxRDzU/hqdefault.jpg",
-      "site_titles": [
-        "How to Deal with Shying and Spooking"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
