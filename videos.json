@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3135,
+  "count": 3145,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -52010,6 +52010,136 @@
       "thumbnail": "https://i.ytimg.com/vi/odXUr2uYgCg/hqdefault.jpg",
       "site_titles": [
         "Herm Gailey: Working with Horses, Do Not Be Scared, Be Safe"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "JolKDyeoHbQ",
+      "youtube_title": "Horse Whisperer 1 - Understanding Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JolKDyeoHbQ",
+      "embed_url": "https://www.youtube.com/embed/JolKDyeoHbQ",
+      "thumbnail": "https://i.ytimg.com/vi/JolKDyeoHbQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse Whisperer 1: Understanding Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "CmAxUM9YEQU",
+      "youtube_title": "Why Horses graze - Herd Behavior-Herd Dynamics - Rick Gore Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=CmAxUM9YEQU",
+      "embed_url": "https://www.youtube.com/embed/CmAxUM9YEQU",
+      "thumbnail": "https://i.ytimg.com/vi/CmAxUM9YEQU/hqdefault.jpg",
+      "site_titles": [
+        "Why Horses Graze: Herd Behavior and Herd Dynamics"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "wYGXGsXqlhw",
+      "youtube_title": "Understanding Horse Behavior: Dominance & Herd Dynamics",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wYGXGsXqlhw",
+      "embed_url": "https://www.youtube.com/embed/wYGXGsXqlhw",
+      "thumbnail": "https://i.ytimg.com/vi/wYGXGsXqlhw/hqdefault.jpg",
+      "site_titles": [
+        "Understanding Horse Behavior: Dominance and Herd Dynamics"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "1DlPR1NXIxE",
+      "youtube_title": "How To Become A Leader For Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1DlPR1NXIxE",
+      "embed_url": "https://www.youtube.com/embed/1DlPR1NXIxE",
+      "thumbnail": "https://i.ytimg.com/vi/1DlPR1NXIxE/hqdefault.jpg",
+      "site_titles": [
+        "How to Become a Leader for Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "FM3tuCrKnXY",
+      "youtube_title": "How To Lead Your Horse And Not Have Your Horse Lead You",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FM3tuCrKnXY",
+      "embed_url": "https://www.youtube.com/embed/FM3tuCrKnXY",
+      "thumbnail": "https://i.ytimg.com/vi/FM3tuCrKnXY/hqdefault.jpg",
+      "site_titles": [
+        "How to Lead Your Horse and Not Have Your Horse Lead You"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "pYbu45GMVp8",
+      "youtube_title": "Pat Parelli: Be Assertive, Not Aggressive in Horse Training",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=pYbu45GMVp8",
+      "embed_url": "https://www.youtube.com/embed/pYbu45GMVp8",
+      "thumbnail": "https://i.ytimg.com/vi/pYbu45GMVp8/hqdefault.jpg",
+      "site_titles": [
+        "Pat Parelli: Be Assertive, Not Aggressive in Horse Training"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "hFR1zUuKjKw",
+      "youtube_title": "How to Safely Approach a Horse: The 45-Degree Rule",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hFR1zUuKjKw",
+      "embed_url": "https://www.youtube.com/embed/hFR1zUuKjKw",
+      "thumbnail": "https://i.ytimg.com/vi/hFR1zUuKjKw/hqdefault.jpg",
+      "site_titles": [
+        "How to Safely Approach a Horse: The 45-Degree Rule"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "CDcv32tgWO4",
+      "youtube_title": "How to Approach & Halter Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=CDcv32tgWO4",
+      "embed_url": "https://www.youtube.com/embed/CDcv32tgWO4",
+      "thumbnail": "https://i.ytimg.com/vi/CDcv32tgWO4/hqdefault.jpg",
+      "site_titles": [
+        "How to Approach and Halter Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "3WClPW0YIm4",
+      "youtube_title": "13 Things Riders Do That Confuse Their Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3WClPW0YIm4",
+      "embed_url": "https://www.youtube.com/embed/3WClPW0YIm4",
+      "thumbnail": "https://i.ytimg.com/vi/3WClPW0YIm4/hqdefault.jpg",
+      "site_titles": [
+        "13 Things Riders Do That Confuse Their Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "td_k_8Smt9U",
+      "youtube_title": "Horse Riding Signals",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=td_k_8Smt9U",
+      "embed_url": "https://www.youtube.com/embed/td_k_8Smt9U",
+      "thumbnail": "https://i.ytimg.com/vi/td_k_8Smt9U/hqdefault.jpg",
+      "site_titles": [
+        "Horse Riding Signals"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
