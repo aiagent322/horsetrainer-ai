@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2995,
+  "count": 3005,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50190,6 +50190,136 @@
       "thumbnail": "https://i.ytimg.com/vi/89Nn2EBesXc/hqdefault.jpg",
       "site_titles": [
         "Ryan Rose: Anxiety Overhaul, a Calm, Safe Partner in the Saddle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "cGXEMjzzjjQ",
+      "youtube_title": "IS YOUR HORSE BARN SOUR? Do This...",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=cGXEMjzzjjQ",
+      "embed_url": "https://www.youtube.com/embed/cGXEMjzzjjQ",
+      "thumbnail": "https://i.ytimg.com/vi/cGXEMjzzjjQ/hqdefault.jpg",
+      "site_titles": [
+        "Dennis Cappel: Is Your Horse Barn Sour?"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "l--7ANbSz7s",
+      "youtube_title": "Easy 10-minute Exercise to Help Herd Sour Horses with Separation Anxiety",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=l--7ANbSz7s",
+      "embed_url": "https://www.youtube.com/embed/l--7ANbSz7s",
+      "thumbnail": "https://i.ytimg.com/vi/l--7ANbSz7s/hqdefault.jpg",
+      "site_titles": [
+        "Easy 10-Minute Exercise for Herd-Sour Horses with Separation Anxiety"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "VBHHLTUBkXQ",
+      "youtube_title": "Horse with Severe Separation Anxiety",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VBHHLTUBkXQ",
+      "embed_url": "https://www.youtube.com/embed/VBHHLTUBkXQ",
+      "thumbnail": "https://i.ytimg.com/vi/VBHHLTUBkXQ/hqdefault.jpg",
+      "site_titles": [
+        "Ryan Rose: Horse with Severe Separation Anxiety"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Q3sPasima7g",
+      "youtube_title": "Side pass",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Q3sPasima7g",
+      "embed_url": "https://www.youtube.com/embed/Q3sPasima7g",
+      "thumbnail": "https://i.ytimg.com/vi/Q3sPasima7g/hqdefault.jpg",
+      "site_titles": [
+        "Bob Mayhew: Side Pass"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "zeA7ijSC69c",
+      "youtube_title": "Fix your Horse's Sidepass (Speeding it Up)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=zeA7ijSC69c",
+      "embed_url": "https://www.youtube.com/embed/zeA7ijSC69c",
+      "thumbnail": "https://i.ytimg.com/vi/zeA7ijSC69c/hqdefault.jpg",
+      "site_titles": [
+        "Fix Your Horse's Sidepass (Speeding It Up)"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ckag6JU2WEw",
+      "youtube_title": "A System for the Sidepass - Episode 12 (Herm Gailey: A Lifetime with Horses)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ckag6JU2WEw",
+      "embed_url": "https://www.youtube.com/embed/ckag6JU2WEw",
+      "thumbnail": "https://i.ytimg.com/vi/ckag6JU2WEw/hqdefault.jpg",
+      "site_titles": [
+        "Herm Gailey: A System for the Sidepass"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_XM0mPxi2tI",
+      "youtube_title": "How to Teach Leg-Yield - Easy First Steps",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_XM0mPxi2tI",
+      "embed_url": "https://www.youtube.com/embed/_XM0mPxi2tI",
+      "thumbnail": "https://i.ytimg.com/vi/_XM0mPxi2tI/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Leg-Yield: Easy First Steps"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "WY27alwx41c",
+      "youtube_title": "First Saddle on Colt",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WY27alwx41c",
+      "embed_url": "https://www.youtube.com/embed/WY27alwx41c",
+      "thumbnail": "https://i.ytimg.com/vi/WY27alwx41c/hqdefault.jpg",
+      "site_titles": [
+        "First Saddle on Colt"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QN2G_3mDOjI",
+      "youtube_title": "Improving Your Seat",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QN2G_3mDOjI",
+      "embed_url": "https://www.youtube.com/embed/QN2G_3mDOjI",
+      "thumbnail": "https://i.ytimg.com/vi/QN2G_3mDOjI/hqdefault.jpg",
+      "site_titles": [
+        "Improving Your Seat"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "3JXvgYvWeBQ",
+      "youtube_title": "Five Beginner Riding Mistakes (and How to Fix Them)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3JXvgYvWeBQ",
+      "embed_url": "https://www.youtube.com/embed/3JXvgYvWeBQ",
+      "thumbnail": "https://i.ytimg.com/vi/3JXvgYvWeBQ/hqdefault.jpg",
+      "site_titles": [
+        "Five Beginner Riding Mistakes (and How to Fix Them)"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
