@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3115,
+  "count": 3125,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51750,6 +51750,136 @@
       "thumbnail": "https://i.ytimg.com/vi/teXjQTb5p_A/hqdefault.jpg",
       "site_titles": [
         "Ken McNabb: Motivating a Lazy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "1Ddh7oCqfK4",
+      "youtube_title": "How to stop a horse from rearing",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1Ddh7oCqfK4",
+      "embed_url": "https://www.youtube.com/embed/1Ddh7oCqfK4",
+      "thumbnail": "https://i.ytimg.com/vi/1Ddh7oCqfK4/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop a Horse from Rearing"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "6NSgBaGoPS4",
+      "youtube_title": "What to do with a Horse that Rears Up? Bill Oliver Q&A on what to do when your horse rears.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6NSgBaGoPS4",
+      "embed_url": "https://www.youtube.com/embed/6NSgBaGoPS4",
+      "thumbnail": "https://i.ytimg.com/vi/6NSgBaGoPS4/hqdefault.jpg",
+      "site_titles": [
+        "Bill Oliver: What to Do with a Horse That Rears Up"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "R9_W0-blZrw",
+      "youtube_title": "Rearing to Go: What to Do When Horses Rear",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=R9_W0-blZrw",
+      "embed_url": "https://www.youtube.com/embed/R9_W0-blZrw",
+      "thumbnail": "https://i.ytimg.com/vi/R9_W0-blZrw/hqdefault.jpg",
+      "site_titles": [
+        "Rearing to Go: What to Do When Horses Rear"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Q34Zbi_2QwY",
+      "youtube_title": "How to Train a Horse Not to Kick",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Q34Zbi_2QwY",
+      "embed_url": "https://www.youtube.com/embed/Q34Zbi_2QwY",
+      "thumbnail": "https://i.ytimg.com/vi/Q34Zbi_2QwY/hqdefault.jpg",
+      "site_titles": [
+        "How to Train a Horse Not to Kick"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "hM2UYt1Cgzc",
+      "youtube_title": "What to do if Your Horse Starts Kicking",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hM2UYt1Cgzc",
+      "embed_url": "https://www.youtube.com/embed/hM2UYt1Cgzc",
+      "thumbnail": "https://i.ytimg.com/vi/hM2UYt1Cgzc/hqdefault.jpg",
+      "site_titles": [
+        "What to Do if Your Horse Starts Kicking"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MTdHsYLnimU",
+      "youtube_title": "Ken McNabb: Bathing Bonanza",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MTdHsYLnimU",
+      "embed_url": "https://www.youtube.com/embed/MTdHsYLnimU",
+      "thumbnail": "https://i.ytimg.com/vi/MTdHsYLnimU/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: Bathing Bonanza"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "q6LLgHN4ur8",
+      "youtube_title": "How to Fly Spray Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=q6LLgHN4ur8",
+      "embed_url": "https://www.youtube.com/embed/q6LLgHN4ur8",
+      "thumbnail": "https://i.ytimg.com/vi/q6LLgHN4ur8/hqdefault.jpg",
+      "site_titles": [
+        "Krista Eichler: How to Fly Spray Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "cf30QZ6pCes",
+      "youtube_title": "He’s so SCARED to get a BATH!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=cf30QZ6pCes",
+      "embed_url": "https://www.youtube.com/embed/cf30QZ6pCes",
+      "thumbnail": "https://i.ytimg.com/vi/cf30QZ6pCes/hqdefault.jpg",
+      "site_titles": [
+        "A Scared Horse Gets a Bath: 3 Steps to Being Hosed Off"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "2yatpCxgUuc",
+      "youtube_title": "How To Teach A Horse To Lead And Not Pull Back",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2yatpCxgUuc",
+      "embed_url": "https://www.youtube.com/embed/2yatpCxgUuc",
+      "thumbnail": "https://i.ytimg.com/vi/2yatpCxgUuc/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Lead and Not Pull Back"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "5WjgjWY8pN4",
+      "youtube_title": "Leading Your Horse with Confidence",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5WjgjWY8pN4",
+      "embed_url": "https://www.youtube.com/embed/5WjgjWY8pN4",
+      "thumbnail": "https://i.ytimg.com/vi/5WjgjWY8pN4/hqdefault.jpg",
+      "site_titles": [
+        "Leading Your Horse with Confidence"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
