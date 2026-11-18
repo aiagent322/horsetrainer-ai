@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3055,
+  "count": 3065,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50970,6 +50970,136 @@
       "thumbnail": "https://i.ytimg.com/vi/n22PSnT_iZo/hqdefault.jpg",
       "site_titles": [
         "Jake Telford: Slow It Down"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "UsIEj-CE6Hk",
+      "youtube_title": "Hate Backing Your Horse Off the Trailer? Try This…",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=UsIEj-CE6Hk",
+      "embed_url": "https://www.youtube.com/embed/UsIEj-CE6Hk",
+      "thumbnail": "https://i.ytimg.com/vi/UsIEj-CE6Hk/hqdefault.jpg",
+      "site_titles": [
+        "Hate Backing Your Horse Off the Trailer? Try This"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "8ayYxgBQ4-I",
+      "youtube_title": "How to teach a horse to back out of the trailer! Super fast and easy!!!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8ayYxgBQ4-I",
+      "embed_url": "https://www.youtube.com/embed/8ayYxgBQ4-I",
+      "thumbnail": "https://i.ytimg.com/vi/8ayYxgBQ4-I/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach a Horse to Back Out of the Trailer"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "rt2Qog-CrwA",
+      "youtube_title": "Backing Out Of A Trailer Versus Walking Out",
+      "channel": "Horse Help 365",
+      "youtube_url": "https://www.youtube.com/watch?v=rt2Qog-CrwA",
+      "embed_url": "https://www.youtube.com/embed/rt2Qog-CrwA",
+      "thumbnail": "https://i.ytimg.com/vi/rt2Qog-CrwA/hqdefault.jpg",
+      "site_titles": [
+        "Michael Gascon: Backing Out Of A Trailer Versus Walking Out"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Fjp-2rvobFE",
+      "youtube_title": "Handling the Weanling",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Fjp-2rvobFE",
+      "embed_url": "https://www.youtube.com/embed/Fjp-2rvobFE",
+      "thumbnail": "https://i.ytimg.com/vi/Fjp-2rvobFE/hqdefault.jpg",
+      "site_titles": [
+        "Handling the Weanling"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "StKHRlIB4Hg",
+      "youtube_title": "An Essential Step to Halter Training Success with Foals",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=StKHRlIB4Hg",
+      "embed_url": "https://www.youtube.com/embed/StKHRlIB4Hg",
+      "thumbnail": "https://i.ytimg.com/vi/StKHRlIB4Hg/hqdefault.jpg",
+      "site_titles": [
+        "An Essential Step to Halter Training Success with Foals"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "k7hoZ5pk-Fo",
+      "youtube_title": "The Principles of Training: Handling Unweaned Thoroughbred Foals Part 1",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=k7hoZ5pk-Fo",
+      "embed_url": "https://www.youtube.com/embed/k7hoZ5pk-Fo",
+      "thumbnail": "https://i.ytimg.com/vi/k7hoZ5pk-Fo/hqdefault.jpg",
+      "site_titles": [
+        "Handling Unweaned Thoroughbred Foals, Part 1"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "SpBzDI3DY5g",
+      "youtube_title": "How To Execute a Turn On The Haunches",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SpBzDI3DY5g",
+      "embed_url": "https://www.youtube.com/embed/SpBzDI3DY5g",
+      "thumbnail": "https://i.ytimg.com/vi/SpBzDI3DY5g/hqdefault.jpg",
+      "site_titles": [
+        "How To Execute a Turn On The Haunches"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "yJ_8CkSrCUA",
+      "youtube_title": "Turning on the forehand and turning on the haunches",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yJ_8CkSrCUA",
+      "embed_url": "https://www.youtube.com/embed/yJ_8CkSrCUA",
+      "thumbnail": "https://i.ytimg.com/vi/yJ_8CkSrCUA/hqdefault.jpg",
+      "site_titles": [
+        "Turning on the Forehand and Turning on the Haunches"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "K4F4-b4ulsw",
+      "youtube_title": "How to ride Circles , Bend and Flexion with Kirstin Kelly Equestrian",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=K4F4-b4ulsw",
+      "embed_url": "https://www.youtube.com/embed/K4F4-b4ulsw",
+      "thumbnail": "https://i.ytimg.com/vi/K4F4-b4ulsw/hqdefault.jpg",
+      "site_titles": [
+        "Kirstin Kelly: How to Ride Circles, Bend and Flexion"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Rn84SH7iYX8",
+      "youtube_title": "Riding A Horse On A Circle - Step By Step Aids",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Rn84SH7iYX8",
+      "embed_url": "https://www.youtube.com/embed/Rn84SH7iYX8",
+      "thumbnail": "https://i.ytimg.com/vi/Rn84SH7iYX8/hqdefault.jpg",
+      "site_titles": [
+        "Riding a Horse on a Circle: Step by Step Aids"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
