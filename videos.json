@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3145,
+  "count": 3155,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -52140,6 +52140,136 @@
       "thumbnail": "https://i.ytimg.com/vi/td_k_8Smt9U/hqdefault.jpg",
       "site_titles": [
         "Horse Riding Signals"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ogUoSFtf-f8",
+      "youtube_title": "How to Read Your Horse's Mood in 30 Seconds",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ogUoSFtf-f8",
+      "embed_url": "https://www.youtube.com/embed/ogUoSFtf-f8",
+      "thumbnail": "https://i.ytimg.com/vi/ogUoSFtf-f8/hqdefault.jpg",
+      "site_titles": [
+        "How to Read Your Horse's Mood in 30 Seconds"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "RsBc5LnQUF8",
+      "youtube_title": "What Your Horse's Ears Are Telling You?",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=RsBc5LnQUF8",
+      "embed_url": "https://www.youtube.com/embed/RsBc5LnQUF8",
+      "thumbnail": "https://i.ytimg.com/vi/RsBc5LnQUF8/hqdefault.jpg",
+      "site_titles": [
+        "What Your Horse's Ears Are Telling You"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "x633DMqdRcs",
+      "youtube_title": "Watch this! Safety first! This is the number one reason I teach people about horses! #horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=x633DMqdRcs",
+      "embed_url": "https://www.youtube.com/embed/x633DMqdRcs",
+      "thumbnail": "https://i.ytimg.com/vi/x633DMqdRcs/hqdefault.jpg",
+      "site_titles": [
+        "Safety First: Horse Body Language to Learn"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "JC1sA1dcP3s",
+      "youtube_title": "How To Overcome Fear in Horse Riding",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JC1sA1dcP3s",
+      "embed_url": "https://www.youtube.com/embed/JC1sA1dcP3s",
+      "thumbnail": "https://i.ytimg.com/vi/JC1sA1dcP3s/hqdefault.jpg",
+      "site_titles": [
+        "How to Overcome Fear in Horse Riding"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "J8UwurFKey8",
+      "youtube_title": "How To Overcome Fear Of Riding",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=J8UwurFKey8",
+      "embed_url": "https://www.youtube.com/embed/J8UwurFKey8",
+      "thumbnail": "https://i.ytimg.com/vi/J8UwurFKey8/hqdefault.jpg",
+      "site_titles": [
+        "How to Overcome Fear of Riding"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "b7vAw5pWNFg",
+      "youtube_title": "How to deal with FEAR",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=b7vAw5pWNFg",
+      "embed_url": "https://www.youtube.com/embed/b7vAw5pWNFg",
+      "thumbnail": "https://i.ytimg.com/vi/b7vAw5pWNFg/hqdefault.jpg",
+      "site_titles": [
+        "How to Deal with Fear"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "laVaOS3aF54",
+      "youtube_title": "Build Unshakable Confidence In Handling and Riding Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=laVaOS3aF54",
+      "embed_url": "https://www.youtube.com/embed/laVaOS3aF54",
+      "thumbnail": "https://i.ytimg.com/vi/laVaOS3aF54/hqdefault.jpg",
+      "site_titles": [
+        "Build Unshakable Confidence in Handling and Riding Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "QeOatpPeawU",
+      "youtube_title": "How to claim personal space without offending the horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QeOatpPeawU",
+      "embed_url": "https://www.youtube.com/embed/QeOatpPeawU",
+      "thumbnail": "https://i.ytimg.com/vi/QeOatpPeawU/hqdefault.jpg",
+      "site_titles": [
+        "How to Claim Personal Space Without Offending the Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "dJH7zXCgRRc",
+      "youtube_title": "Building trust with a timid horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dJH7zXCgRRc",
+      "embed_url": "https://www.youtube.com/embed/dJH7zXCgRRc",
+      "thumbnail": "https://i.ytimg.com/vi/dJH7zXCgRRc/hqdefault.jpg",
+      "site_titles": [
+        "Building Trust with a Timid Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Yx30y3Em5fU",
+      "youtube_title": "5 Ideas to Building Trust through Natural Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Yx30y3Em5fU",
+      "embed_url": "https://www.youtube.com/embed/Yx30y3Em5fU",
+      "thumbnail": "https://i.ytimg.com/vi/Yx30y3Em5fU/hqdefault.jpg",
+      "site_titles": [
+        "5 Ideas to Building Trust through Natural Horsemanship"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
