@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3015,
+  "count": 3025,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50450,6 +50450,136 @@
       "thumbnail": "https://i.ytimg.com/vi/09LBdHQl6iU/hqdefault.jpg",
       "site_titles": [
         "Lunging for Respect with a More Difficult Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "rnGNxSIztNo",
+      "youtube_title": "How To Stop Rearing and Bucking",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rnGNxSIztNo",
+      "embed_url": "https://www.youtube.com/embed/rnGNxSIztNo",
+      "thumbnail": "https://i.ytimg.com/vi/rnGNxSIztNo/hqdefault.jpg",
+      "site_titles": [
+        "How to Stop Rearing and Bucking"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "t4E2pbmT8W4",
+      "youtube_title": "How to stay on a bucking horse? (How to not fall off!)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=t4E2pbmT8W4",
+      "embed_url": "https://www.youtube.com/embed/t4E2pbmT8W4",
+      "thumbnail": "https://i.ytimg.com/vi/t4E2pbmT8W4/hqdefault.jpg",
+      "site_titles": [
+        "How to Stay on a Bucking Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "NiC0HYKcxb0",
+      "youtube_title": "Untracking the Hindquarters: Done with Bucking Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NiC0HYKcxb0",
+      "embed_url": "https://www.youtube.com/embed/NiC0HYKcxb0",
+      "thumbnail": "https://i.ytimg.com/vi/NiC0HYKcxb0/hqdefault.jpg",
+      "site_titles": [
+        "Untracking the Hindquarters: Done with Bucking Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "vnAxIJg44CI",
+      "youtube_title": "HORSES THAT BITE: How to Deal With a Horse That Bites",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vnAxIJg44CI",
+      "embed_url": "https://www.youtube.com/embed/vnAxIJg44CI",
+      "thumbnail": "https://i.ytimg.com/vi/vnAxIJg44CI/hqdefault.jpg",
+      "site_titles": [
+        "Horses That Bite: How to Deal With a Horse That Bites"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "gVNJ66FeooM",
+      "youtube_title": "How to Train Your Horse to Cross Water",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gVNJ66FeooM",
+      "embed_url": "https://www.youtube.com/embed/gVNJ66FeooM",
+      "thumbnail": "https://i.ytimg.com/vi/gVNJ66FeooM/hqdefault.jpg",
+      "site_titles": [
+        "How to Train Your Horse to Cross Water"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "tpF-om11FTc",
+      "youtube_title": "How To: Crossing Water and Puddles on the Ground with Your Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tpF-om11FTc",
+      "embed_url": "https://www.youtube.com/embed/tpF-om11FTc",
+      "thumbnail": "https://i.ytimg.com/vi/tpF-om11FTc/hqdefault.jpg",
+      "site_titles": [
+        "Ashley Anderson: Crossing Water and Puddles on the Ground"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "X0vTblULKHU",
+      "youtube_title": "Trouble Free Trail Riding with Guy Robertson Horsemanship",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=X0vTblULKHU",
+      "embed_url": "https://www.youtube.com/embed/X0vTblULKHU",
+      "thumbnail": "https://i.ytimg.com/vi/X0vTblULKHU/hqdefault.jpg",
+      "site_titles": [
+        "Guy Robertson: Trouble Free Trail Riding"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "obAytWms2Z4",
+      "youtube_title": "Working With a Bit-Shy Horse - Q&A",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=obAytWms2Z4",
+      "embed_url": "https://www.youtube.com/embed/obAytWms2Z4",
+      "thumbnail": "https://i.ytimg.com/vi/obAytWms2Z4/hqdefault.jpg",
+      "site_titles": [
+        "Jeff Davis: Working With a Bit-Shy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Jyp4i1bnpWU",
+      "youtube_title": "Soft Steady Rein Contact (positive horse training)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Jyp4i1bnpWU",
+      "embed_url": "https://www.youtube.com/embed/Jyp4i1bnpWU",
+      "thumbnail": "https://i.ytimg.com/vi/Jyp4i1bnpWU/hqdefault.jpg",
+      "site_titles": [
+        "Soft, Steady Rein Contact"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "JauNAqBvKOo",
+      "youtube_title": "HOW to Teach Your Horse to Soften to Leg & Hand Aids",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JauNAqBvKOo",
+      "embed_url": "https://www.youtube.com/embed/JauNAqBvKOo",
+      "thumbnail": "https://i.ytimg.com/vi/JauNAqBvKOo/hqdefault.jpg",
+      "site_titles": [
+        "How to Teach Your Horse to Soften to Leg and Hand Aids"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
