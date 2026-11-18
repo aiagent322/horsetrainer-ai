@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3075,
+  "count": 3085,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -51230,6 +51230,136 @@
       "thumbnail": "https://i.ytimg.com/vi/onlcEXkWb48/hqdefault.jpg",
       "site_titles": [
         "Craig Cameron: How Do You Desensitize a Spooky Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "j1WMJHKDaM0",
+      "youtube_title": "Helping your horse to stand / tie / ground tie quietly",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=j1WMJHKDaM0",
+      "embed_url": "https://www.youtube.com/embed/j1WMJHKDaM0",
+      "thumbnail": "https://i.ytimg.com/vi/j1WMJHKDaM0/hqdefault.jpg",
+      "site_titles": [
+        "Helping Your Horse to Stand, Tie and Ground Tie Quietly"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "unpxl0BFT8g",
+      "youtube_title": "Teach a Horse to Ground Tie",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=unpxl0BFT8g",
+      "embed_url": "https://www.youtube.com/embed/unpxl0BFT8g",
+      "thumbnail": "https://i.ytimg.com/vi/unpxl0BFT8g/hqdefault.jpg",
+      "site_titles": [
+        "Teach a Horse to Ground Tie"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "OtC_Huri1r8",
+      "youtube_title": "From Two Lines to Liberty: Teaching a True Ground Tie",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=OtC_Huri1r8",
+      "embed_url": "https://www.youtube.com/embed/OtC_Huri1r8",
+      "thumbnail": "https://i.ytimg.com/vi/OtC_Huri1r8/hqdefault.jpg",
+      "site_titles": [
+        "From Two Lines to Liberty: Teaching a True Ground Tie"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "wrTQRQkL_Hc",
+      "youtube_title": "How To Ground Tie a Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wrTQRQkL_Hc",
+      "embed_url": "https://www.youtube.com/embed/wrTQRQkL_Hc",
+      "thumbnail": "https://i.ytimg.com/vi/wrTQRQkL_Hc/hqdefault.jpg",
+      "site_titles": [
+        "How to Ground Tie a Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "PUAtyCwoAG0",
+      "youtube_title": "Fixing Horses Who Pull Back",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=PUAtyCwoAG0",
+      "embed_url": "https://www.youtube.com/embed/PUAtyCwoAG0",
+      "thumbnail": "https://i.ytimg.com/vi/PUAtyCwoAG0/hqdefault.jpg",
+      "site_titles": [
+        "Fixing Horses Who Pull Back"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "HKXVWOCMTOc",
+      "youtube_title": "How To Use a Blocker Tie Ring",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HKXVWOCMTOc",
+      "embed_url": "https://www.youtube.com/embed/HKXVWOCMTOc",
+      "thumbnail": "https://i.ytimg.com/vi/HKXVWOCMTOc/hqdefault.jpg",
+      "site_titles": [
+        "How to Use a Blocker Tie Ring"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "A9AE1839Ht0",
+      "youtube_title": "Approaching An Obstacle",
+      "channel": "Horse Help 365",
+      "youtube_url": "https://www.youtube.com/watch?v=A9AE1839Ht0",
+      "embed_url": "https://www.youtube.com/embed/A9AE1839Ht0",
+      "thumbnail": "https://i.ytimg.com/vi/A9AE1839Ht0/hqdefault.jpg",
+      "site_titles": [
+        "Approaching an Obstacle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MFBV1XeWLOc",
+      "youtube_title": "*NEW COLT* Learns to Cross Bridge (PART 1)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MFBV1XeWLOc",
+      "embed_url": "https://www.youtube.com/embed/MFBV1XeWLOc",
+      "thumbnail": "https://i.ytimg.com/vi/MFBV1XeWLOc/hqdefault.jpg",
+      "site_titles": [
+        "New Colt Learns to Cross a Bridge, Part 1"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "nmnOlTYCzhQ",
+      "youtube_title": "What To Do When Your Horse Rears or Bucks -Gaited Horse Training",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nmnOlTYCzhQ",
+      "embed_url": "https://www.youtube.com/embed/nmnOlTYCzhQ",
+      "thumbnail": "https://i.ytimg.com/vi/nmnOlTYCzhQ/hqdefault.jpg",
+      "site_titles": [
+        "What to Do When Your Horse Rears or Bucks"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "aVYlI9v66hw",
+      "youtube_title": "How to Ride a Bucking Horse & Tips - Keep the Horse in Forward Motion!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=aVYlI9v66hw",
+      "embed_url": "https://www.youtube.com/embed/aVYlI9v66hw",
+      "thumbnail": "https://i.ytimg.com/vi/aVYlI9v66hw/hqdefault.jpg",
+      "site_titles": [
+        "How to Ride a Bucking Horse: Keep the Horse in Forward Motion"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
