@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3045,
+  "count": 3055,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50840,6 +50840,136 @@
       "thumbnail": "https://i.ytimg.com/vi/BQ2ODxmB2xg/hqdefault.jpg",
       "site_titles": [
         "Teaching a Horse to Open a Gate"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "hD3MJUF7hXE",
+      "youtube_title": "One Rein Stop A Horse",
+      "channel": "Horse Help 365",
+      "youtube_url": "https://www.youtube.com/watch?v=hD3MJUF7hXE",
+      "embed_url": "https://www.youtube.com/embed/hD3MJUF7hXE",
+      "thumbnail": "https://i.ytimg.com/vi/hD3MJUF7hXE/hqdefault.jpg",
+      "site_titles": [
+        "One Rein Stop a Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "cQ2h8fCXNOs",
+      "youtube_title": "A safer way to stop horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=cQ2h8fCXNOs",
+      "embed_url": "https://www.youtube.com/embed/cQ2h8fCXNOs",
+      "thumbnail": "https://i.ytimg.com/vi/cQ2h8fCXNOs/hqdefault.jpg",
+      "site_titles": [
+        "A Safer Way to Stop Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "99sQ9FGEh0M",
+      "youtube_title": "The one rein stop, or the pocket stop.",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=99sQ9FGEh0M",
+      "embed_url": "https://www.youtube.com/embed/99sQ9FGEh0M",
+      "thumbnail": "https://i.ytimg.com/vi/99sQ9FGEh0M/hqdefault.jpg",
+      "site_titles": [
+        "The One Rein Stop, or the Pocket Stop"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "LZGNkUVi_3g",
+      "youtube_title": "HOW TO SLOW A FAST HORSE DOWN",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LZGNkUVi_3g",
+      "embed_url": "https://www.youtube.com/embed/LZGNkUVi_3g",
+      "thumbnail": "https://i.ytimg.com/vi/LZGNkUVi_3g/hqdefault.jpg",
+      "site_titles": [
+        "How to Slow a Fast Horse Down"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "O5AYGyUpanU",
+      "youtube_title": "Gaining Control of a Horse that Rushes",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=O5AYGyUpanU",
+      "embed_url": "https://www.youtube.com/embed/O5AYGyUpanU",
+      "thumbnail": "https://i.ytimg.com/vi/O5AYGyUpanU/hqdefault.jpg",
+      "site_titles": [
+        "Brenda Imus: Gaining Control of a Horse That Rushes"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "5LSJGajIeEA",
+      "youtube_title": "Why Horses Become Cinchy — And How to Fix It?",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5LSJGajIeEA",
+      "embed_url": "https://www.youtube.com/embed/5LSJGajIeEA",
+      "thumbnail": "https://i.ytimg.com/vi/5LSJGajIeEA/hqdefault.jpg",
+      "site_titles": [
+        "Why Horses Become Cinchy and How to Fix It"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "F4QY4JPXeHA",
+      "youtube_title": "How to Help a Cinchy Horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=F4QY4JPXeHA",
+      "embed_url": "https://www.youtube.com/embed/F4QY4JPXeHA",
+      "thumbnail": "https://i.ytimg.com/vi/F4QY4JPXeHA/hqdefault.jpg",
+      "site_titles": [
+        "How to Help a Cinchy Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "HYAmXfYzH_Q",
+      "youtube_title": "The Horsemanship Minute - Helping a cinchy horse with one latigo strap",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HYAmXfYzH_Q",
+      "embed_url": "https://www.youtube.com/embed/HYAmXfYzH_Q",
+      "thumbnail": "https://i.ytimg.com/vi/HYAmXfYzH_Q/hqdefault.jpg",
+      "site_titles": [
+        "The Horsemanship Minute: Helping a Cinchy Horse with One Latigo Strap"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "A4IoVoj5-ug",
+      "youtube_title": "Training Tip: Teach Your Hot Horse to Lope Slowly",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=A4IoVoj5-ug",
+      "embed_url": "https://www.youtube.com/embed/A4IoVoj5-ug",
+      "thumbnail": "https://i.ytimg.com/vi/A4IoVoj5-ug/hqdefault.jpg",
+      "site_titles": [
+        "Training Tip: Teach Your Hot Horse to Lope Slowly"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "n22PSnT_iZo",
+      "youtube_title": "Slow It Down",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=n22PSnT_iZo",
+      "embed_url": "https://www.youtube.com/embed/n22PSnT_iZo",
+      "thumbnail": "https://i.ytimg.com/vi/n22PSnT_iZo/hqdefault.jpg",
+      "site_titles": [
+        "Jake Telford: Slow It Down"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
