@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 2945,
+  "count": 2955,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -49543,6 +49543,136 @@
       ],
       "reference_count": 0,
       "pages": []
+    },
+    {
+      "id": "_yVMvYq_r3U",
+      "youtube_title": "Balance in the Saddle: The Foundation of Every Maneuver. | Tip of the week",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=_yVMvYq_r3U",
+      "embed_url": "https://www.youtube.com/embed/_yVMvYq_r3U",
+      "thumbnail": "https://i.ytimg.com/vi/_yVMvYq_r3U/hqdefault.jpg",
+      "site_titles": [
+        "Matt Mills: Balance in the Saddle"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "HwC6WKMwhMs",
+      "youtube_title": "First Day of the Clinic: Going Back to Basics with a Simple Exercise to Get Your Horse’s Attention 🐴🎯",
+      "channel": "Matt Mills",
+      "youtube_url": "https://www.youtube.com/watch?v=HwC6WKMwhMs",
+      "embed_url": "https://www.youtube.com/embed/HwC6WKMwhMs",
+      "thumbnail": "https://i.ytimg.com/vi/HwC6WKMwhMs/hqdefault.jpg",
+      "site_titles": [
+        "Matt Mills: A Simple Exercise to Get Your Horse's Attention"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "Q5TNASEdi3c",
+      "youtube_title": "The Principles of Training Season 1 Episode 1: \"Make the Wrong Thing Hard and the Right Thing Easy\"",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=Q5TNASEdi3c",
+      "embed_url": "https://www.youtube.com/embed/Q5TNASEdi3c",
+      "thumbnail": "https://i.ytimg.com/vi/Q5TNASEdi3c/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: Make the Wrong Thing Hard and the Right Thing Easy"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "t09AJvY8ndQ",
+      "youtube_title": "The basics of having a horse pick you up from the mounting block",
+      "channel": "WarwickSchiller",
+      "youtube_url": "https://www.youtube.com/watch?v=t09AJvY8ndQ",
+      "embed_url": "https://www.youtube.com/embed/t09AJvY8ndQ",
+      "thumbnail": "https://i.ytimg.com/vi/t09AJvY8ndQ/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: Having a Horse Pick You Up from the Mounting Block"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "Jrfgh1E7f_U",
+      "youtube_title": "5 ways to dramatically IMPROVE your RIDING",
+      "channel": "Zacharias Horsemanship",
+      "youtube_url": "https://www.youtube.com/watch?v=Jrfgh1E7f_U",
+      "embed_url": "https://www.youtube.com/embed/Jrfgh1E7f_U",
+      "thumbnail": "https://i.ytimg.com/vi/Jrfgh1E7f_U/hqdefault.jpg",
+      "site_titles": [
+        "Zacharias Horsemanship: 5 Ways to Improve Your Riding"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "UT3NEq3Plgw",
+      "youtube_title": "How to Teach an Untouched Colt a Lesson in Release",
+      "channel": "Ken McNabb",
+      "youtube_url": "https://www.youtube.com/watch?v=UT3NEq3Plgw",
+      "embed_url": "https://www.youtube.com/embed/UT3NEq3Plgw",
+      "thumbnail": "https://i.ytimg.com/vi/UT3NEq3Plgw/hqdefault.jpg",
+      "site_titles": [
+        "Ken McNabb: A Lesson in Release"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "SPCUfaMq4oM",
+      "youtube_title": "Clinton Anderson: Training a Rescue Horse, Part 10 - Downunder Horsemanship",
+      "channel": "DUHorseman",
+      "youtube_url": "https://www.youtube.com/watch?v=SPCUfaMq4oM",
+      "embed_url": "https://www.youtube.com/embed/SPCUfaMq4oM",
+      "thumbnail": "https://i.ytimg.com/vi/SPCUfaMq4oM/hqdefault.jpg",
+      "site_titles": [
+        "Clinton Anderson: Training a Rescue Horse, Part 10"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "prKQx_EAizc",
+      "youtube_title": "Applying and Releasing Pressure With Feel",
+      "channel": "Ross Jacobs",
+      "youtube_url": "https://www.youtube.com/watch?v=prKQx_EAizc",
+      "embed_url": "https://www.youtube.com/embed/prKQx_EAizc",
+      "thumbnail": "https://i.ytimg.com/vi/prKQx_EAizc/hqdefault.jpg",
+      "site_titles": [
+        "Ross Jacobs: Applying and Releasing Pressure With Feel"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "1Uw-9_MfNQY",
+      "youtube_title": "Teaching My Mom How To Refine Her Horsemanship",
+      "channel": "Carson James",
+      "youtube_url": "https://www.youtube.com/watch?v=1Uw-9_MfNQY",
+      "embed_url": "https://www.youtube.com/embed/1Uw-9_MfNQY",
+      "thumbnail": "https://i.ytimg.com/vi/1Uw-9_MfNQY/hqdefault.jpg",
+      "site_titles": [
+        "Carson James: Refining Your Feel"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
+    },
+    {
+      "id": "WepCHteIPZU",
+      "youtube_title": "The Independent Seat",
+      "channel": "Bernie Traurig",
+      "youtube_url": "https://www.youtube.com/watch?v=WepCHteIPZU",
+      "embed_url": "https://www.youtube.com/embed/WepCHteIPZU",
+      "thumbnail": "https://i.ytimg.com/vi/WepCHteIPZU/hqdefault.jpg",
+      "site_titles": [
+        "Denny Emerson: The Independent Seat"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube watch-page metadata, 2026-11-18"
     }
   ]
 }
