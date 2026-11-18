@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3155,
+  "count": 3165,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -52270,6 +52270,136 @@
       "thumbnail": "https://i.ytimg.com/vi/Yx30y3Em5fU/hqdefault.jpg",
       "site_titles": [
         "5 Ideas to Building Trust through Natural Horsemanship"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "tnS1K4cPnK0",
+      "youtube_title": "Basic Body Language with Horses",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tnS1K4cPnK0",
+      "embed_url": "https://www.youtube.com/embed/tnS1K4cPnK0",
+      "thumbnail": "https://i.ytimg.com/vi/tnS1K4cPnK0/hqdefault.jpg",
+      "site_titles": [
+        "Basic Body Language with Horses"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "SMHevyRKUxs",
+      "youtube_title": "Is your horse nervous when leading? - How energy affects your horse",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=SMHevyRKUxs",
+      "embed_url": "https://www.youtube.com/embed/SMHevyRKUxs",
+      "thumbnail": "https://i.ytimg.com/vi/SMHevyRKUxs/hqdefault.jpg",
+      "site_titles": [
+        "Is Your Horse Nervous When Leading? How Energy Affects Your Horse"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "-cxJcgaWFyI",
+      "youtube_title": "8 Habits That Make Your Horse Love You (or Hate You)",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-cxJcgaWFyI",
+      "embed_url": "https://www.youtube.com/embed/-cxJcgaWFyI",
+      "thumbnail": "https://i.ytimg.com/vi/-cxJcgaWFyI/hqdefault.jpg",
+      "site_titles": [
+        "8 Habits That Make Your Horse Love You or Hate You"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "hhEtiGe80qA",
+      "youtube_title": "Crack the Code: Getting Your Horse to Understand You Better",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hhEtiGe80qA",
+      "embed_url": "https://www.youtube.com/embed/hhEtiGe80qA",
+      "thumbnail": "https://i.ytimg.com/vi/hhEtiGe80qA/hqdefault.jpg",
+      "site_titles": [
+        "Crack the Code: Getting Your Horse to Understand You Better"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "MyNgp6b_e68",
+      "youtube_title": "Fight, Flight, Freeze - It's More Subtle than you think",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MyNgp6b_e68",
+      "embed_url": "https://www.youtube.com/embed/MyNgp6b_e68",
+      "thumbnail": "https://i.ytimg.com/vi/MyNgp6b_e68/hqdefault.jpg",
+      "site_titles": [
+        "Fight, Flight, Freeze: It Is More Subtle Than You Think"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "VEuq-nxRDzU",
+      "youtube_title": "EP# 21 - How to deal with shying and spooking",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VEuq-nxRDzU",
+      "embed_url": "https://www.youtube.com/embed/VEuq-nxRDzU",
+      "thumbnail": "https://i.ytimg.com/vi/VEuq-nxRDzU/hqdefault.jpg",
+      "site_titles": [
+        "How to Deal with Shying and Spooking"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "-7iQ9Sws6II",
+      "youtube_title": "Fear in Horses: part 2 - recognizing fear/thresholds/trigger stacking",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-7iQ9Sws6II",
+      "embed_url": "https://www.youtube.com/embed/-7iQ9Sws6II",
+      "thumbnail": "https://i.ytimg.com/vi/-7iQ9Sws6II/hqdefault.jpg",
+      "site_titles": [
+        "Fear in Horses Part 2: Recognizing Fear, Thresholds and Trigger Stacking"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "M6BaAvDgAuQ",
+      "youtube_title": "Horse Vision",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=M6BaAvDgAuQ",
+      "embed_url": "https://www.youtube.com/embed/M6BaAvDgAuQ",
+      "thumbnail": "https://i.ytimg.com/vi/M6BaAvDgAuQ/hqdefault.jpg",
+      "site_titles": [
+        "Horse Vision"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "EsQfouN-A7o",
+      "youtube_title": "Equine calming signals",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EsQfouN-A7o",
+      "embed_url": "https://www.youtube.com/embed/EsQfouN-A7o",
+      "thumbnail": "https://i.ytimg.com/vi/EsQfouN-A7o/hqdefault.jpg",
+      "site_titles": [
+        "Equine Calming Signals"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "B5KeqtLZoUA",
+      "youtube_title": "Horse safe-handling",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=B5KeqtLZoUA",
+      "embed_url": "https://www.youtube.com/embed/B5KeqtLZoUA",
+      "thumbnail": "https://i.ytimg.com/vi/B5KeqtLZoUA/hqdefault.jpg",
+      "site_titles": [
+        "Horse Safe-Handling"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
