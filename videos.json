@@ -4,7 +4,7 @@
   "description": "YouTube videos embedded across the HorseTrainer.ai site. youtube_title/channel are the live values pulled from YouTube oEmbed; site_titles are the labels the site uses on its facade elements.",
   "generated_at": "2026-07-11T22:53:58+00:00",
   "title_source": "YouTube oEmbed (https://www.youtube.com/oembed)",
-  "count": 3035,
+  "count": 3045,
   "videos": [
     {
       "id": "oWU8YgIrNiY",
@@ -50710,6 +50710,136 @@
       "thumbnail": "https://i.ytimg.com/vi/_yCdTqiKV98/hqdefault.jpg",
       "site_titles": [
         "Ken McNabb: A Lesson on Leads"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ZGuzmGRDePg",
+      "youtube_title": "Picking up Feet-teaching an unhandled horse how to accept hoof handling and restraint",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ZGuzmGRDePg",
+      "embed_url": "https://www.youtube.com/embed/ZGuzmGRDePg",
+      "thumbnail": "https://i.ytimg.com/vi/ZGuzmGRDePg/hqdefault.jpg",
+      "site_titles": [
+        "Teaching an Unhandled Horse to Accept Hoof Handling"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "Fr0KnQXLmPg",
+      "youtube_title": "Teach your Horse to Pick up Feet Softly and Happily",
+      "channel": "Marlis Amato",
+      "youtube_url": "https://www.youtube.com/watch?v=Fr0KnQXLmPg",
+      "embed_url": "https://www.youtube.com/embed/Fr0KnQXLmPg",
+      "thumbnail": "https://i.ytimg.com/vi/Fr0KnQXLmPg/hqdefault.jpg",
+      "site_titles": [
+        "Marlis Amato: Teach Your Horse to Pick Up Feet Softly and Happily"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "LSel5qLsly4",
+      "youtube_title": "How to train your horse to pick up hind feet calmly and positively",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LSel5qLsly4",
+      "embed_url": "https://www.youtube.com/embed/LSel5qLsly4",
+      "thumbnail": "https://i.ytimg.com/vi/LSel5qLsly4/hqdefault.jpg",
+      "site_titles": [
+        "How to Train Your Horse to Pick Up Hind Feet Calmly and Positively"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "ru61nVw-GsE",
+      "youtube_title": "Stop horse from PAWING!",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ru61nVw-GsE",
+      "embed_url": "https://www.youtube.com/embed/ru61nVw-GsE",
+      "thumbnail": "https://i.ytimg.com/vi/ru61nVw-GsE/hqdefault.jpg",
+      "site_titles": [
+        "Stop Horse from Pawing"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "6YctSDzRy40",
+      "youtube_title": "A Horse that Paws",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6YctSDzRy40",
+      "embed_url": "https://www.youtube.com/embed/6YctSDzRy40",
+      "thumbnail": "https://i.ytimg.com/vi/6YctSDzRy40/hqdefault.jpg",
+      "site_titles": [
+        "Craig Cameron: A Horse That Paws"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "r-J0tjmN3Zc",
+      "youtube_title": "Tips For Training Horses In A Round Pen",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=r-J0tjmN3Zc",
+      "embed_url": "https://www.youtube.com/embed/r-J0tjmN3Zc",
+      "thumbnail": "https://i.ytimg.com/vi/r-J0tjmN3Zc/hqdefault.jpg",
+      "site_titles": [
+        "Tips for Training Horses in a Round Pen"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "_4NGDhg76Oo",
+      "youtube_title": "A Round Pen Lesson with a Young Horse and Handler (Episode 101) - Herm Gailey",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_4NGDhg76Oo",
+      "embed_url": "https://www.youtube.com/embed/_4NGDhg76Oo",
+      "thumbnail": "https://i.ytimg.com/vi/_4NGDhg76Oo/hqdefault.jpg",
+      "site_titles": [
+        "Herm Gailey: A Round Pen Lesson with a Young Horse and Handler"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "vfnhoQWF-a8",
+      "youtube_title": "Training Tip: Respect in the Round Pen, ALWAYS",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vfnhoQWF-a8",
+      "embed_url": "https://www.youtube.com/embed/vfnhoQWF-a8",
+      "thumbnail": "https://i.ytimg.com/vi/vfnhoQWF-a8/hqdefault.jpg",
+      "site_titles": [
+        "Training Tip: Respect in the Round Pen, Always"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "TmXK-OLX0iE",
+      "youtube_title": "Opening a Gate on Horseback with Mozaun McKibben",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TmXK-OLX0iE",
+      "embed_url": "https://www.youtube.com/embed/TmXK-OLX0iE",
+      "thumbnail": "https://i.ytimg.com/vi/TmXK-OLX0iE/hqdefault.jpg",
+      "site_titles": [
+        "Mozaun McKibben: Opening a Gate on Horseback"
+      ],
+      "pages": [],
+      "metadata_source": "YouTube search-listing metadata, 2026-11-18"
+    },
+    {
+      "id": "BQ2ODxmB2xg",
+      "youtube_title": "Teaching a horse to open a gate",
+      "channel": null,
+      "youtube_url": "https://www.youtube.com/watch?v=BQ2ODxmB2xg",
+      "embed_url": "https://www.youtube.com/embed/BQ2ODxmB2xg",
+      "thumbnail": "https://i.ytimg.com/vi/BQ2ODxmB2xg/hqdefault.jpg",
+      "site_titles": [
+        "Warwick Schiller: Teaching a Horse to Open a Gate"
       ],
       "pages": [],
       "metadata_source": "YouTube search-listing metadata, 2026-11-18"
